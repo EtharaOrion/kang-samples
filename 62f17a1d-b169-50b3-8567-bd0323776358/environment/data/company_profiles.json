@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "LOW",
+    "cik": "0000060667",
+    "companyName": "LOWES COMPANIES INC",
+    "sic": "5211",
+    "sicDescription": "Retail-Lumber & Other Building Materials Dealers",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NC",
+    "fiscalYearEnd": "0131",
+    "city": "MOORESVILLE",
+    "stateOrCountry": "NC"
+  },
+  {
+    "symbol": "HD",
+    "cik": "0000354950",
+    "companyName": "HOME DEPOT, INC.",
+    "sic": "5211",
+    "sicDescription": "Retail-Lumber & Other Building Materials Dealers",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "ATLANTA",
+    "stateOrCountry": "GA"
+  },
+  {
+    "symbol": "SHW",
+    "cik": "0000089800",
+    "companyName": "SHERWIN WILLIAMS CO",
+    "sic": "5200",
+    "sicDescription": "Retail-Building Materials, Hardware, Garden Supply",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "OH",
+    "fiscalYearEnd": "1231",
+    "city": "CLEVELAND",
+    "stateOrCountry": "OH"
+  },
+  {
+    "symbol": "TSCO",
+    "cik": "0000916365",
+    "companyName": "TRACTOR SUPPLY CO /DE/",
+    "sic": "5200",
+    "sicDescription": "Retail-Building Materials, Hardware, Garden Supply",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1228",
+    "city": "BRENTWOOD",
+    "stateOrCountry": "TN"
+  }
+]

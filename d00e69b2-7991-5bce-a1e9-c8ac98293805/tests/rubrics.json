@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process creates a recursive corpus inventory that distinguishes filings, releases, structured financial data, company-profile material, and optional peer data, while recording missing or unavailable expected periods.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-listing or manifest-reconciliation steps for coverage across the major source folders and explicit notes about absent periods or documents."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The assignment is explicitly decomposed into linked workstreams for U.S. demand economics, China demand quality, the China transaction, and consolidated margin and EPS quality.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question tree for distinct workstreams and an indication that their conclusions feed a consolidated decision."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process states testable alternative interpretations and identifies observations that would weaken each preliminary interpretation before synthesis.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect hypothesis tables, question plans, or pre-analysis notes for alternatives such as transaction-led versus ticket-led growth and recurring versus structural earnings improvement, together with potential falsifiers."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "Company-specific analytical claims are formed only after the relevant source contents and surrounding context have been directly inspected.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of source-opening, contextual search, extraction, and interpretation steps; look for direct reads of relevant tables, notes, or MD&A before claim formation."
+    },
+    {
+      "id": "c6",
+      "concern": "no_fabrication_process_signals",
+      "text": "The evidence record visibly distinguishes reported facts, management explanations, and analyst interpretations as different evidentiary categories.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect claim ledgers, extraction tables, analytical notes, or final-answer labels for separate fields or wording that prevents management commentary and analyst inference from being presented as reported fact."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "For each material preliminary interpretation, the process actively records the strongest contrary evidence rather than collecting only confirming observations.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect contradiction matrices or challenge notes for opposition involving traffic versus profitability, China volume versus ticket or promotion, deal rationale versus loss of control, and operating recovery versus accounting effects."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "When transaction values, timing, or accounting presentations cannot be reconciled from available disclosures, the process leaves the discrepancy explicitly unresolved rather than inventing a balancing explanation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect ambiguity and discrepancy notes concerning enterprise value, stake implications, closing consideration, closing dates, and balance-sheet dates for clearly preserved uncertainty."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Every analyst-derived quantitative result is visibly traceable to labeled inputs, units, comparison basis, and a stated calculation method.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect derived-figure tables or calculation steps for formulas behind basis-point changes, EPS comparisons, ownership-value implications, standalone-quarter derivations, or partial bridges."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process compares overlapping figures across source types and retains any non-tie-outs for investigation instead of silently normalizing them.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reconciliation tables or discrepancy logs comparing releases, filings, and structured financial series for the same periods and metrics."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The synthesis explicitly connects demand composition, operating costs, China competitive conditions, transaction structure, and reported earnings presentation into a unified causal interpretation.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final answer for reasoning links among the workstreams, rather than four isolated summaries or an unintegrated list of facts."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process resolves the competing interpretations into a clear dominant position while preserving stated qualifications and unresolved uncertainties.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the lead thesis, integrated conclusion, or decision memo for an explicit choice about the dominant interpretation of recovery quality, China pressure, transaction purpose, and earnings durability without requiring any particular conclusion."
+    }
+  ]
+}

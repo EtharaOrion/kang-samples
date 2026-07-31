@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Top-Line Growth Durability and Net Retention
+Cloudflare must show that revenue growth is not decelerating and that expansion within the installed base remains healthy — the core question of whether the growth story is durable at scale.
+[a] Establish the growth trajectory: revenue increased by $498.3 million (or 30%) for FY2025, then re-accelerated to a $160.7 million (34%) year-over-year gain in Q1 2026, and test whether this reflects genuine re-acceleration versus noise.
+[b] Interrogate the dollar-based net retention rate — reported at 120% for the December 2025 quarter and 118% for the March 2026 quarter versus 111% a year earlier — and weigh whether expansion is re-strengthening or whether retention remains structurally below the company's historical highs.
+[c] Decompose growth into new-customer additions (paying customers up 40% in FY2025) versus expansion of existing customers, and assess how much of the durability rests on land-and-expand versus new logos.
+Source: sec_filings/10-k/net_2025_10-k.txt, sec_filings/10-q/net_2026q1_10-q.txt, financials/income_statement/net_income_statement.json, press_releases/
+
+2. Operating-Leverage Inflection: GAAP Losses vs Non-GAAP and Free-Cash-Flow Profitability
+The central tension of the topic: whether Cloudflare is actually inflecting toward profitability, given that GAAP operating losses have widened in absolute terms even as non-GAAP margins and free cash flow have turned positive.
+[a] Confront the counter-evidence that GAAP loss from operations widened from roughly $(155) million in FY2024 to $(207) million in FY2025 (and quarterly from $(53) million to $(62) million), with GAAP operating margin at (10)% versus (9)% — i.e., absolute GAAP losses are growing, not shrinking.
+[b] Reconcile this against the operating-cash and non-GAAP picture — positive and rising operating cash flow as a share of revenue, positive non-GAAP operating margin, and positive free cash flow — and identify stock-based compensation as the principal non-cash bridge between the GAAP loss and the cash/non-GAAP profitability the company emphasizes.
+[c] Examine gross margin compression (75% vs 77% for FY2025; 71% vs 76% in Q1 2026) driven by network, bandwidth, co-location, and GPU investment, and judge whether it undercuts the operating-leverage thesis at the gross-profit line.
+Source: sec_filings/10-k/net_2025_10-k.txt, sec_filings/10-q/net_2026q1_10-q.txt, financials/income_statement/net_income_statement.json, financials/cash_flow/net_cash_flow.json, press_releases/
+
+3. Enterprise Mix and RPO Backlog Quality
+Durable, high-quality growth depends on moving up-market into large enterprise accounts and building contracted backlog that de-risks future revenue.
+[a] Track the large-customer cohort (paying customers with more than $100,000 in annualized revenue) growing to 4,298 as of December 2025 and 4,416 as of March 2026, up from 3,527 a year earlier, and assess how enterprise penetration is shifting the revenue mix.
+[b] Evaluate remaining performance obligations — roughly $2,495 million at year-end 2025 and rising further as of March 2026, with 64% expected to convert to revenue within twelve months — as a forward-visibility and durability signal.
+[c] Weigh the risk that a usage- and consumption-oriented model, plus reliance on continued expansion, makes backlog and net retention sensitive to macro or budget pressure, and test whether backlog growth is keeping pace with revenue.
+Source: sec_filings/10-k/net_2025_10-k.txt, sec_filings/10-q/net_2026q1_10-q.txt, financials/balance_sheet/net_balance_sheet.json
+
+4. AI Developer Platform Monetization and Competitive Moat
+Cloudflare positions Workers, Workers AI, and serverless GPU inference as the next growth engine, but this platform is both the durability upside and a direct pressure on margins and hyperscaler competition.
+[a] Characterize the AI/developer-platform strategy — Workers AI running models on serverless GPUs across the global network, positioned against hyperscalers with broader, bundled offerings and the ability to compete at zero or negative margins.
+[b] Connect the GPU and network build-out explicitly cited as a driver of gross-margin compression to the AI monetization opportunity, framing the near-term margin cost against the potential long-term expansion and retention upside.
+[c] Assess whether the developer platform is a genuine competitive moat that supports durable expansion, or an unmonetized option still overshadowed by the core network-services revenue base.
+[d] Synthesize across all four themes into an explicit position: reconcile re-accelerating growth and positive free cash flow against widening GAAP losses and compressing gross margins, and state clearly whether Cloudflare is genuinely inflecting toward durable, profitable growth or funding an AI growth bet at the expense of near-term operating leverage.
+Source: sec_filings/10-k/net_2025_10-k.txt, sec_filings/10-q/net_2026q1_10-q.txt, financials/income_statement/net_income_statement.json, press_releases/, company_profiles.json

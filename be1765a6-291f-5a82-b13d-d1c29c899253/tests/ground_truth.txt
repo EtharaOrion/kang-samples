@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Consumption-Revenue Growth Durability and Net Revenue Retention
+Snowflake recognizes revenue only as customers actually consume compute, storage, and data transfer, so growth durability hinges on expansion within the installed base rather than contracted subscriptions; the analyst must judge whether that expansion engine is still intact or fading.
+[a] Track the net revenue retention rate trajectory and its direction — 125% as of January 31, 2026 versus 126% a year earlier in the 10-K, against 126% reported as of April 30, 2026 in the Q1 10-Q — and decide whether the dip has reversed or is noise.
+[b] Engage the structural recognition risk that Snowflake recognizes revenue on consumption rather than ratably, giving it no visibility into timing and exposing revenue to customers consuming more slowly than expected (macro conditions, holidays, or efficiency gains from new software/hardware).
+[c] Assess expansion breadth and concentration — the count of customers with trailing-12-month product revenue greater than $1 million rising from 576 to 733, those customers at roughly 68% of product revenue, total customers of 13,328, and existing customers under capacity arrangements at approximately 97% of revenue.
+Source: sec_filings/10-k/snow_2026_10-k.txt, sec_filings/10-q/snow_2026q1_10-q.txt, financials/income_statement/snow_income_statement.json
+
+2. Bookings and RPO Quality Versus Recognized Revenue
+Remaining performance obligations represent contracted-but-not-yet-consumed revenue, but under a consumption model RPO is a noisier leading indicator than for subscription peers, and its sequential swings must be separated from real demand signal.
+[a] Reconcile the RPO of $9.8 billion at fiscal year-end (January 31, 2026) with approximately $9.2 billion as of April 30, 2026, distinguishing Snowflake's disclosed fourth-quarter bookings seasonality from genuine backlog erosion.
+[b] Weigh RPO's value as a forward indicator given that consumption timing is at customer discretion — contracted amounts may be consumed slowly, rolled over, or extend beyond the original term — so RPO conversion to revenue is inherently uncertain.
+[c] Examine billing and arrangement mix — capacity contracts billed annually in advance shifting toward quarterly/monthly billing, and on-demand arrangements at only about 1% to 3% of revenue — for what it implies about revenue visibility and cash timing.
+Source: sec_filings/10-k/snow_2026_10-k.txt, sec_filings/10-q/snow_2026q1_10-q.txt
+
+3. Margin Path — Gross Margin, GAAP Loss Versus Non-GAAP, and Stock-Based Comp Dilution
+Snowflake pairs a healthy product gross margin and positive non-GAAP free cash flow with persistent, large GAAP operating losses, and the analyst must decide whether the profitability gap is closing or being masked by stock-based compensation and cash payroll-tax outflows.
+[a] Evaluate product gross margin of 72% versus total gross margin of 67% and its sustainability against rising GPU/AI-inference cloud costs and management's caution about margin-compressive new product features.
+[b] Contrast the persistent GAAP operating losses in the income statement (widening operating loss dollars alongside revenue growth) and net losses of $1.3 billion with the company's positive non-GAAP free cash flow, and interrogate the accumulated deficit of $9.5 billion.
+[c] Quantify the stock-based-compensation and dilution drag — SBC increases embedded across R&D and sales-and-marketing, hundreds of millions in cash payroll-tax outflows on employee equity settlements, and a steadily rising diluted share count — and reconcile why free cash flow can look strong while GAAP losses persist.
+Source: sec_filings/10-k/snow_2026_10-k.txt, financials/income_statement/snow_income_statement.json, financials/cash_flow/snow_cash_flow.json
+
+4. Competitive and AI Durability — A Position on Growth-and-Margin Sustainability
+The final judgment is whether AI/Cortex adoption can sustain consumption growth against hyperscalers who are simultaneously Snowflake's cloud suppliers and competitors, requiring the opposing signals to be reconciled into one clear stance.
+[a] Assess AI/Cortex product velocity as a consumption catalyst — general availability of capabilities like Snowflake Intelligence, Snowflake Cortex Agents, and related Cortex AI features — and whether it meaningfully drives incremental platform consumption.
+[b] Weigh the structural competitive risk that Snowflake's disclosed competitors include AWS, Azure, and GCP, which are also the public-cloud providers it depends on and whose pricing pressures its gross margins.
+[c] SYNTHESIS: take an explicit position on whether consumption-revenue growth is durable and the margin path is credible, reconciling the bullish signals (net revenue retention back to 126%, $1M+ customer expansion, RPO recovery net of seasonality) against the bearish drag (persistent GAAP losses, SBC dilution, supplier-competitor margin pressure) rather than listing them in parallel.
+Source: sec_filings/10-k/snow_2026_10-k.txt, sec_filings/10-q/snow_2026q1_10-q.txt, financials/income_statement/snow_income_statement.json, company_profiles.json

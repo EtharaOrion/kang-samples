@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion"
+description = "Develop a grounded view on whether Salesforce's restructuring-led operating-margin expansion is durable enough to offset decelerating organic revenue growth as the Informatica acquisition and Agentforce/Data 360 reshape the top line."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "CRM"]
+
+[metadata]
+uuid = "6c07a94c-66ff-5d09-b43b-8f81f732c4f8"
+difficulty_explanation = "The analyst must disentangle reported revenue growth from acquisition contribution (Informatica) to expose the true organic deceleration, then judge whether margin gains driven by successive restructuring programs can persist. It requires reconciling conflicting signals — expanding operating margin and heavy buybacks against softening cash-flow growth and added leverage — into a single defensible position rather than listing them in parallel. The AI re-acceleration narrative (Agentforce, Data 360) must be weighed skeptically against risk-factor cautions and a still-small ARR base."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

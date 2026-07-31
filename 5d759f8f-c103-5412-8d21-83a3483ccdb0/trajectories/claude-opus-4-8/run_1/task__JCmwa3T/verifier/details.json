@@ -1,0 +1,473 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Traffic vs. Price/Mix in Comparable Sales",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent explicitly decomposes FY2025 comps as -1.7%, with transactions down 2.9% and average check up 1.2%, then contrasts Q1 2026 comps of +0.5% with transactions up 0.6% and concludes that the inflection was traffic-led. The transaction and average-check evidence used for this analysis appears in the flagged claims.",
+        "b": "The agent separates menu-price contribution from check mix, argues that Q1 2026 trade-down offset menu pricing, and tests sustainability against management's about-flat FY2026 comp guidance. Its claimed Q1 2026 menu-price contribution is specifically flagged as unsupported or misstated, so the move is tainted.",
+        "c": "The agent only says that digital represents roughly 37%-39% of sales and frames delivery mix as a margin headwind. It does not identify the increase from 36.7% in 2025 to 38.6% in Q1 2026 or evaluate that increase as a traffic or mix driver."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Restaurant-Level Margin Durability Under Cost Inflation",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent provides the required 2025 bridge: food, beverage and packaging improved to 29.6% from 29.8%, while labor rose to 25.1% from 24.7% because of lower sales volumes and wage inflation. Its additional attribution to lower dairy and avocado costs was flagged as unsupported, tainting the move.",
+        "b": "The agent shows Q1 2026 labor at 26.1% versus 25.0%, a 1.1-point increase, alongside renewed food-cost pressure, and explicitly identifies lower per-unit sales volume and fixed-cost deleverage as recurring drivers.",
+        "c": "The agent weighs tariffs plus beef and freight inflation against a diminishing menu-price offset and concludes that margins are not durable. However, its tariff quantification and Q1 2026 menu-price figure were flagged as unsupported or incorrect, so this move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Maturing Unit Growth and AUV Dilution",
+      "moves_hit": [
+        "b"
+      ],
+      "moves_missed": [
+        "a",
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives 334 openings in 2025, including 257 Chipotlanes, 350-370 planned openings in 2026, a current count above 4,000, and the 7,000-unit goal. It does not provide the required indication that about 80% of 2026 openings are expected to have Chipotlanes, so the full pipeline-and-mix move is incomplete.",
+        "b": "The agent states that average restaurant sales fell from $3.213 million to $3.104 million, explains that new restaurants take around 36 months to ramp, and connects the growing immature-unit pool to fixed-cost leverage and AUV dilution. The AUV series and portions of the ramp-related support appear among the flagged claims, so the move is tainted.",
+        "c": "The agent does not compare 2025 capital expenditures of $666.3 million with approximately $834.1 million planned for 2026 or assess those rising capital requirements against incremental returns."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and Demand Risks to the Durability Thesis",
+      "moves_hit": [
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses consumer-spending weakness, competitive value offerings, and general brand or execution risk, but it does not surface the full required risk-factor set, particularly competition from outside the restaurant industry and food-safety exposure.",
+        "b": "The agent does not note that G&A declined to 5.5% of revenue from 6.2% or assess whether that corporate-cost leverage can cushion restaurant-level margin pressure.",
+        "c": "The agent benchmarks Chipotle against Sweetgreen, Wingstop, and Shake Shack and uses their revenue and operating-margin trajectories to conclude that the weakness reflects both industry demand pressure and company-specific erosion. Multiple peer-growth, margin, business-model, and one-time-item claims used in this comparison were flagged, so the move is tainted.",
+        "d": "The reconciliation section explicitly weighs the positive Q1 2026 transaction inflection and long unit runway against weak 2025 traffic, AUV and margin deleverage, inflation, and macro demand risk, then takes a clear position that traffic and margins are not durable as the base matures. Several central facts used in that synthesis\u2014including transaction, AUV, unit-growth, peer, and operating-performance claims\u2014appear in the flagged claims, so the synthesis is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Peers: Wingstop (WING), Shake Shack (SHAK), Sweetgreen (SG).",
+      "cited_file": null,
+      "issue": "The passages identify only SHAK; they do not establish Wingstop/WING or Sweetgreen/SG as peers.",
+      "evidence_check": "Checked all supplied passages for Wingstop, WING, Sweetgreen, and SG; only SHAK appears."
+    },
+    {
+      "claim": "record unit openings",
+      "cited_file": null,
+      "issue": "The supplied evidence contains no opening count or statement that openings were a record.",
+      "evidence_check": "No local match or supporting passage was supplied for this claim."
+    },
+    {
+      "claim": "+5.4% FY2025 revenue",
+      "cited_file": null,
+      "issue": "The passages are cash-flow records for SHAK and WING and do not report Chipotle's FY2025 revenue growth.",
+      "evidence_check": "Searched the supplied passages for Chipotle revenue and 5.4%; neither appears."
+    },
+    {
+      "claim": "FY2025 diluted EPS that still grew to $1.14",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain FY2025 diluted EPS of $1.14 or the associated growth comparison.",
+      "evidence_check": "Searched the supplied SHAK and WING cash-flow passages for EPS and $1.14; no match."
+    },
+    {
+      "claim": "Traffic went through a genuine recession in 2025",
+      "cited_file": null,
+      "issue": "The supplied passages contain no Chipotle traffic or transaction data supporting this characterization.",
+      "evidence_check": "Checked the supplied SHAK and WING cash-flow records for traffic or transactions; none are reported."
+    },
+    {
+      "claim": "9%-a-year unit growth",
+      "cited_file": null,
+      "issue": "The passages report 61 Q2 openings and selected restaurant totals but do not state or establish 9% annual unit growth.",
+      "evidence_check": "Searched the passages for 9% and an annual unit-growth calculation; no supporting figure appears."
+    },
+    {
+      "claim": "AUV, which rolled over in 2025 for the first time in the data.",
+      "cited_file": null,
+      "issue": "The supplied passages contain no Chipotle AUV series or evidence that 2025 was the first rollover.",
+      "evidence_check": "Checked the SHAK and WING cash-flow passages for AUV or average restaurant sales; no match."
+    },
+    {
+      "claim": "The FY2025 EPS \"growth\" was manufactured by ~$2.4B of buybacks and a lower tax rate",
+      "cited_file": null,
+      "issue": "Neither Chipotle's $2.4 billion buybacks nor its tax rate appears in the supplied passages.",
+      "evidence_check": "Searched the supplied cash-flow passages for $2.4B, Chipotle repurchases, and tax rates; no match."
+    },
+    {
+      "claim": "operating income rose only ~1%.",
+      "cited_file": null,
+      "issue": "The passages do not provide the two annual operating-income values needed for the approximately 1% comparison.",
+      "evidence_check": "Checked the supplied Chipotle passages for FY2025 and FY2024 operating income; those comparison values are absent."
+    },
+    {
+      "claim": "That mask slipped in Q1 2026, when diluted EPS fell 17.9% year over year.",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain Chipotle Q1 2026 EPS or a 17.9% decline.",
+      "evidence_check": "Searched the SHAK/WING cash-flow and SG income-statement passages for Chipotle EPS and 17.9%; no match."
+    },
+    {
+      "claim": "the much-touted \"return to positive transactions\" in Q1 2026 is real but razor-thin (+0.6%)",
+      "cited_file": null,
+      "issue": "The supplied passages contain no Chipotle transaction metric or +0.6% figure.",
+      "evidence_check": "Searched all supplied passages for Chipotle transactions and +0.6%; no match."
+    },
+    {
+      "claim": "average check turned negative",
+      "cited_file": null,
+      "issue": "The supplied evidence contains no average-check data.",
+      "evidence_check": "No local match was supplied for average check or a negative value."
+    },
+    {
+      "claim": "Q3 2024:  +6.0% comp",
+      "cited_file": null,
+      "issue": "The passages are unrelated SHAK and WING cash-flow records and do not contain Chipotle's Q3 2024 comp.",
+      "evidence_check": "Searched the supplied passages for 6.0% comparable restaurant sales; no match."
+    },
+    {
+      "claim": "Q4 2024:  +5.4% comp",
+      "cited_file": "cmg_2025_10-k",
+      "issue": "The supplied passages do not come from the cited Chipotle 10-K and do not contain the Q4 2024 comp value.",
+      "evidence_check": "Searched the supplied SHAK/WING cash-flow passages for 5.4% comp; no match."
+    },
+    {
+      "claim": "FY2024 comp +7.4%",
+      "cited_file": "cmg_2025_10-k",
+      "issue": "The supplied passages do not contain Chipotle's FY2024 comparable-sales figure.",
+      "evidence_check": "Searched the supplied SHAK/WING cash-flow passages for 7.4% and comparable sales; no match."
+    },
+    {
+      "claim": "average check stayed positive on price.",
+      "cited_file": "cmg_2025-07-23_8-k.txt; cmg_2025-10-29_8-k.txt; cmg_2026-02-03_8-k.txt",
+      "issue": "No passages were supplied for this asserted multiquarter pricing attribution.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "+0.9% (Q1 2026)",
+      "cited_file": "cmg_2026q1_10-q.txt",
+      "issue": "The passage mentions 0.9% inflation, not a 0.9% menu-price figure; the claimed metric is not identified in the supplied evidence.",
+      "evidence_check": "Searched the supplied Q1 2026 10-Q passages for a 0.9% menu-price entry; only 0.9% inflation appears."
+    },
+    {
+      "claim": "a +0.9% menu-price benefit",
+      "cited_file": "cmg_2026q1_10-q.txt",
+      "issue": "The passage states a 0.3% benefit from menu-price increases, not 0.9%.",
+      "evidence_check": "The FBP discussion reports 0.9% inflation and a 0.3% menu-price benefit."
+    },
+    {
+      "claim": "thanks to menu pricing and lower dairy/avocado costs",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The supplied FY2025 passage attributes the improvement to menu pricing and cost-of-sales efficiencies, not lower dairy or avocado costs.",
+      "evidence_check": "Searched the cited FY2025 passages for dairy and avocado; neither appears in the stated FY2025 attribution."
+    },
+    {
+      "claim": "Tariffs are now a distinct, quantified cost item (0.2-0.3% of FBP in 2025",
+      "cited_file": "cmg_2025_10-k.txt; cmg_2025-10-29_8-k.txt",
+      "issue": "The supplied passages are unrelated peer cash-flow records and contain no Chipotle tariff quantification.",
+      "evidence_check": "Searched for tariffs, 0.2%, and 0.3% in the supplied passages; no supporting match."
+    },
+    {
+      "claim": "Average restaurant sales (trailing-12-month, units open >=12 months)",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages are Sweetgreen income-statement records and do not contain this Chipotle definition.",
+      "evidence_check": "Searched for average restaurant sales, trailing 12 months, and 12 full months; no match."
+    },
+    {
+      "claim": "rolled over in 2025 for the first time in the data",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages contain no Chipotle AUV history from which a first-ever rollover could be established.",
+      "evidence_check": "Checked the supplied peer cash-flow records for a Chipotle average-sales series; none appears."
+    },
+    {
+      "claim": "has fallen every single quarter since the peak",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "No quarterly series or identified peak is present in the supplied evidence.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "Q4 2024: $3,213k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages are unrelated peer cash-flow records and do not contain $3,213k of Chipotle average restaurant sales.",
+      "evidence_check": "Searched the supplied passages for 3,213; no match."
+    },
+    {
+      "claim": "Q1 2025: $3,186k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages do not contain this Chipotle average-restaurant-sales value.",
+      "evidence_check": "Searched the supplied passages for 3,186; no match."
+    },
+    {
+      "claim": "Q2 2025: $3,142k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages do not contain this Chipotle average-restaurant-sales value.",
+      "evidence_check": "Searched the supplied passages for 3,142; no match."
+    },
+    {
+      "claim": "Q3 2025: $3,132k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages do not contain this Chipotle average-restaurant-sales value.",
+      "evidence_check": "Searched the supplied passages for 3,132; no match."
+    },
+    {
+      "claim": "Q4 2025: $3,104k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages do not contain this Chipotle average-restaurant-sales value.",
+      "evidence_check": "Searched the supplied passages for 3,104; no match."
+    },
+    {
+      "claim": "Q1 2026: $3,094k",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages do not contain this Chipotle average-restaurant-sales value.",
+      "evidence_check": "Searched the supplied peer records for 3,094; no match."
+    },
+    {
+      "claim": "a reaffirmed long-term goal of 7,000 restaurants",
+      "cited_file": "cmg_2026-04-29_8-k.txt",
+      "issue": "The supplied passages mention the 7,000-unit goal only in older 2025 releases, not in the cited April 2026 filing or as a reaffirmation there.",
+      "evidence_check": "Checked the supplied April 2026 evidence for 7,000; no match."
+    },
+    {
+      "claim": "immature units (2024 + 2025 vintages) ADDED ~$809M",
+      "cited_file": "cmg_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the relevant $327.0 million and $481.8 million vintage contributions or the approximately $809 million total.",
+      "evidence_check": "Searched the supplied passages for 809, 327.0, and 481.8; no supporting match."
+    },
+    {
+      "claim": "occupancy and other operating cost lines cite \"expenses associated with new restaurants\" as an explicit headwind",
+      "cited_file": "cmg_2025_10-k.txt; cmg_2026q1_10-q.txt",
+      "issue": "The supplied passages discuss general new-restaurant startup risks but do not show the claimed occupancy and other-operating-cost line-item citations.",
+      "evidence_check": "Searched the supplied passages for those cost-line discussions and the quoted phrase; no match in the cited line items."
+    },
+    {
+      "claim": "the ramp language was quietly loosened from \"up to 36 months\" (FY2023/FY2024 10-Ks) to \"around 36 months\" (FY2025 10-K)",
+      "cited_file": "cmg_2023_10-k.txt; cmg_2024_10-k.txt; cmg_2025_10-k.txt",
+      "issue": "The supplied passages are unrelated SHAK cash-flow records and contain neither version of the quoted wording.",
+      "evidence_check": "Searched for \"up to 36 months\" and \"around 36 months\"; neither appears."
+    },
+    {
+      "claim": "the 7,000-unit TAM was re-worded from \"North America\" (FY2024 10-K) to \"the U.S. and Canada\" (FY2025 10-K)",
+      "cited_file": "cmg_2024_10-k.txt; cmg_2025_10-k.txt",
+      "issue": "The supplied passages contain neither quoted geographic formulation and do not establish a wording change.",
+      "evidence_check": "Searched for 7,000, North America, U.S., and Canada in the supplied passages; no match."
+    },
+    {
+      "claim": "incremental international pushed to lower-risk partner-operated units.",
+      "cited_file": "cmg_2025_10-k.txt",
+      "issue": "No supplied passage states that incremental international development was shifted to partner-operated units or characterizes them as lower risk.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "it did not stop AUV from falling in all five quarters shown",
+      "cited_file": "cmg_2026-02-03_8-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "No five-quarter AUV series appears in the supplied evidence for this claim.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "SG's Q1 2026 net income of +$125.8M is a one-time non-operating gain",
+      "cited_file": "sg_income_statement.json",
+      "issue": "The data show $125.809 million of net income despite a $34.346 million operating loss, but they do not identify the difference as a one-time gain.",
+      "evidence_check": "Checked the supplied SG fields for a gain description or one-time classification; none is present."
+    },
+    {
+      "claim": "operating income was -$34.3M.",
+      "cited_file": "sg_income_statement.json",
+      "issue": "No passage was supplied for this claim despite the specific amount.",
+      "evidence_check": "The evidence section reports no local match for -$34.3M."
+    },
+    {
+      "claim": "Wingstop (WING) and Shake Shack (SHAK) are GROWING through the same window",
+      "cited_file": "wing_income_statement.json; shak_income_statement.json",
+      "issue": "The supplied passages are only SHAK cash-flow records and do not provide the WING and SHAK revenue series needed for the comparison.",
+      "evidence_check": "Checked the passages for both companies' revenue growth; no revenue comparison is present."
+    },
+    {
+      "claim": "WING: revenue +7-17% YoY across 2025-Q1'26",
+      "cited_file": "wing_income_statement.json",
+      "issue": "The passages do not provide all corresponding prior-year revenue values needed to establish the claimed 7%-17% range across the entire period.",
+      "evidence_check": "Reviewed the supplied WING entries; selected current-period revenues appear, but the complete year-over-year comparison set is absent."
+    },
+    {
+      "claim": "an asset-light franchise model with minimal capex",
+      "cited_file": "wing_income_statement.json; wing_cash_flow.json",
+      "issue": "No supplied passage describes Wingstop's business model as asset-light or franchise-based, or characterizes capex as minimal.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "WING's Q1 2025 +$92.3M NI is a one-time securitization gain",
+      "cited_file": "wing_income_statement.json",
+      "issue": "The data show approximately $92.3 million of net income but do not identify a securitization gain or classify it as one-time.",
+      "evidence_check": "Searched the supplied WING passage for securitization or a gain description; no match."
+    },
+    {
+      "claim": "SHAK: revenue +14-16% YoY",
+      "cited_file": "shak_income_statement.json",
+      "issue": "The supplied passages do not provide a complete set of matching prior-year revenues establishing a 14%-16% range across the referenced period.",
+      "evidence_check": "Reviewed the SHAK entries and searched for stated year-over-year percentages; no explicit 14%-16% series is supplied."
+    },
+    {
+      "claim": "Q2 2025 6.3% vs 3.4%",
+      "cited_file": "shak_income_statement.json",
+      "issue": "The supplied passages allow the 6.3% current-period margin to be calculated but do not contain the 3.4% comparison value or its underlying matching quarter data.",
+      "evidence_check": "Found Q2 2025 revenue and operating income, but no Q2 2024 values establishing 3.4%."
+    },
+    {
+      "claim": "higher menu prices \"may lead consumers to reduce their spending... or switch to competitors' value or lower-priced meals\"",
+      "cited_file": "cmg_2025_10-k.txt",
+      "issue": "The attributed quotation is absent from the supplied passages.",
+      "evidence_check": "The evidence section reports no local match for the quoted language."
+    },
+    {
+      "claim": "digital runs ~37-39% of sales.",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the approximately 37%-39% digital-sales range.",
+      "evidence_check": "Searched the passages for digital sales and percentages in this range; no supporting match."
+    },
+    {
+      "claim": "new, below-average units added ~$809M",
+      "cited_file": "cmg_2025_10-k.txt",
+      "issue": "The supplied passage is unreadable encoded material and contains neither the $809 million figure nor evidence that the units were below average.",
+      "evidence_check": "Searched the supplied passage for 809 and the claimed vintage contributions; no match."
+    },
+    {
+      "claim": "operating income rose only ~1.0% ($1,935.8M vs $1,916.3M)",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The supplied passages do not contain the two cited annual operating-income values.",
+      "evidence_check": "Searched the supplied passages for 1,935.8 and 1,916.3; no match."
+    },
+    {
+      "claim": "despite ~316 more net restaurants",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The supplied passages do not contain the year-end restaurant counts or a 316-unit net increase.",
+      "evidence_check": "Searched the supplied passages for 316 and matching restaurant totals; no match."
+    },
+    {
+      "claim": "diluted share count 1,342.6M vs 1,376.6M",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The supplied evidence contains no match for either diluted-share-count value.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "a modestly lower tax rate",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "No tax-rate comparison was supplied for this claim.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "Adding 316 restaurants for ~$19M of incremental operating income",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The passage's $19.1 million figure is incremental gift-card breakage revenue, not incremental annual operating income, and no 316-unit comparison appears.",
+      "evidence_check": "Checked the passage around $19.1 million; it explicitly refers to gift-card breakage revenue."
+    },
+    {
+      "claim": "~$0 incremental restaurant-level profit",
+      "cited_file": "cmg_2026-02-03_8-k.txt",
+      "issue": "The supplied passages do not contain the annual restaurant-level profit comparison needed to support approximately zero incremental profit.",
+      "evidence_check": "Reviewed the supplied highlights and statements; the relevant $3,026.2 million and $3,017.7 million values are absent."
+    },
+    {
+      "claim": "new brand/digital leadership",
+      "cited_file": "cmg_2026-04-27_8-k.txt",
+      "issue": "No evidence passage was supplied for this claim.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "average check negative",
+      "cited_file": "cmg_2026-04-29_8-k.txt",
+      "issue": "No passage was supplied containing a negative average-check metric.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "~9%/yr unit growth toward 7,000",
+      "cited_file": "cmg_2025_10-k.txt; cmg_2026-04-29_8-k.txt",
+      "issue": "The passages mention a 7,000-unit goal but do not provide or state approximately 9% annual unit growth.",
+      "evidence_check": "Searched for 9% and an annual unit-growth calculation; no supporting match."
+    },
+    {
+      "claim": "first decline ever, -3.4%",
+      "cited_file": "cmg_2025_10-k.txt",
+      "issue": "The passage establishes a 3.4% decline from 2024 to 2025 but does not establish that it was the first decline ever.",
+      "evidence_check": "Reviewed the supplied table; it contains only the 2025 and 2024 average-sales values."
+    },
+    {
+      "claim": "WING, SHAK growing",
+      "cited_file": "wing_income_statement.json; shak_income_statement.json",
+      "issue": "The supplied passages are SHAK cash-flow records and do not contain revenue or earnings growth data for both WING and SHAK.",
+      "evidence_check": "Checked the supplied passages for both companies' income-statement growth comparisons; they are absent."
+    }
+  ],
+  "synthesis_found": "A traffic bounce that is accompanied by falling margins and negative check is an inflection in the least valuable variable.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/shak_cash_flow.json",
+    "financials/cash_flow/wing_cash_flow.json",
+    "financials/income_statement/sg_income_statement.json",
+    "financials/income_statement/shak_income_statement.json",
+    "financials/income_statement/wing_income_statement.json",
+    "press_releases/cmg_2025-07-23_8-k.txt",
+    "press_releases/cmg_2025-09-15_8-k.txt",
+    "press_releases/cmg_2025-10-29_8-k.txt",
+    "press_releases/cmg_2025-12-08_8-k.txt",
+    "press_releases/cmg_2026-01-12_8-k.txt",
+    "press_releases/cmg_2026-02-03_8-k.txt",
+    "press_releases/cmg_2026-04-27_8-k.txt",
+    "press_releases/cmg_2026-04-29_8-k.txt",
+    "sec_filings/10-k/cmg_2023_10-k.txt",
+    "sec_filings/10-k/cmg_2024_10-k.txt",
+    "sec_filings/10-k/cmg_2025_10-k.txt",
+    "sec_filings/10-q/cmg_2025q2_10-q.txt",
+    "sec_filings/10-q/cmg_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 167,
+  "grounding_claims_no_match": 17,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

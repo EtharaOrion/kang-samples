@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process creates an explicit corpus inventory that identifies each material source\u2019s document type, covered period, units, and analytical role before substantive analysis begins.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early trajectory steps for a table, structured notes, or equivalent inventory covering DAL filings, releases, financial JSON files, company profiles, and available peer files."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "The process verifies source structure and presentation conventions before extracting metrics, including whether observations are quarterly, year-to-date, annual, GAAP, adjusted, or operational.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for source-opening or schema-inspection steps that examine date labels, table headings, JSON keys, units, nulls, and measure definitions before related calculations or interpretations appear."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into linked workstreams for revenue mix, loyalty economics, cash-funded deleveraging, and margin durability rather than treating them as unrelated topics.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, a decision tree, or an evidence matrix for distinct workstreams connected through a stated causal or investment question."
+    },
+    {
+      "id": "c4",
+      "concern": "grounding_before_claim",
+      "text": "The evidence-gathering process substantively explores the available source families needed for the analysis rather than relying on one filing or one standardized data series.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect tool calls and research notes for meaningful use of annual and quarterly filings, releases, DAL income-statement, balance-sheet, and cash-flow data, earlier-period materials, and peer income or cash-flow data where comparison is attempted."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "The process extracts evidence in its definitional context rather than relying on isolated keyword matches or decontextualized figures.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for trajectory steps that read surrounding paragraphs, table headers, footnotes, guidance assumptions, or non-GAAP reconciliations before interpreting premium, loyalty, debt, cash-flow, capacity, or margin measures."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "The process explicitly pairs favorable propositions with material adverse evidence, definitional limitations, or risk disclosures.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect for a counter-evidence ledger, paired pro/con notes, or repeated steps in which a positive proposition is immediately tested against a contradictory fact or limitation."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process investigates at least one plausible alternative explanation that could materially weaken the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for focused testing of issues such as easy comparison bases, operational recovery, temporary capacity constraints, fuel or refinery effects, weak absolute margins, partner concentration, or non-recurring balance-sheet movement."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "The quantitative process preserves provenance by distinguishing company-reported measures from analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation notes or tables for reported-versus-derived labels, raw inputs, formulas, units, periods, rounding, and separate treatment of management-defined and independently calculated measures."
+    },
+    {
+      "id": "c9",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process handles cross-source or cross-definition conflicts transparently, preserving unresolved differences when period, unit, presentation, or reconciliation checks do not explain them.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a contradiction log, reconciliation attempts, mismatch notes, or explicit statements that a definition or difference remains unresolved instead of silently forcing figures to agree."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process integrates revenue quality, loyalty economics, cash generation, leverage, capacity, and margins into a causal analytical narrative rather than presenting disconnected summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis drafts or the final answer for reasoning that traces how revenue mix may affect cash generation, how cash may affect leverage, and how operating discipline may affect earnings durability."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The synthesis explicitly resolves at least one material conflict between favorable and adverse evidence by explaining which evidence carries greater analytical weight and why.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a passage that weighs opposing observations, states how the adverse evidence limits the inference, and identifies circumstances under which the balance of evidence would change."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in an explicit directional position on earnings durability rather than stopping at a neutral catalogue of facts.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening or closing synthesis for a clear affirmative, negative, or qualified directional stance, with visible confidence or conditionality and a stated reversal risk."
+    }
+  ]
+}

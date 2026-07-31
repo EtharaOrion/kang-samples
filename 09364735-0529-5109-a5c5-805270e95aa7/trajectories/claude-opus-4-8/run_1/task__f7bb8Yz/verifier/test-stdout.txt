@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Net-Flow Durability and Organic Base-Fee Growth', 'Fee-Rate Mix and the Index-vs-Private-Markets Divergence', 'The Private-Markets Buildout and Acquisition Integration', 'Revenue Quality, Technology, and the Investment Verdict']
+Cited files: 20

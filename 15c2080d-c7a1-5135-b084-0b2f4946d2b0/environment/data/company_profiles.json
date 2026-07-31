@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "KKR",
+    "cik": "0001404912",
+    "companyName": "KKR & Co. Inc.",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "BX",
+    "cik": "0001393818",
+    "companyName": "Blackstone Inc.",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "ARES",
+    "cik": "0001176948",
+    "companyName": "Ares Management Corp",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "LOS ANGELES",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "CG",
+    "cik": "0001527166",
+    "companyName": "Carlyle Group Inc.",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "Nasdaq",
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "WASHINGTON",
+    "stateOrCountry": "DC"
+  }
+]

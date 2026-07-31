@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "AXP",
+    "cik": "0000004962",
+    "companyName": "AMERICAN EXPRESS CO",
+    "sic": "6199",
+    "sicDescription": "Finance Services",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NY",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "V",
+    "cik": "0001403161",
+    "companyName": "VISA INC.",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0930",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "MA",
+    "cik": "0001141391",
+    "companyName": "Mastercard Inc",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "PURCHASE",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "COF",
+    "cik": "0000927628",
+    "companyName": "CAPITAL ONE FINANCIAL CORP",
+    "sic": "6021",
+    "sicDescription": "National Commercial Banks",
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "MCLEAN",
+    "stateOrCountry": "VA"
+  }
+]

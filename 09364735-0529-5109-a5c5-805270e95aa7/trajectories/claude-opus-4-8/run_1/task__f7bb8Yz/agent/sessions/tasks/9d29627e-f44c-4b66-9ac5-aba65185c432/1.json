@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "subject": "Write BLK analysis to answer.txt",
+  "description": "Synthesize net flows, fee-rate mix, private-markets buildout, revenue quality into a positioned analysis grounded in /app/data files.",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,5 @@
+Score: 2/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Traffic-vs-Ticket Decomposition of the Comparable-Sales Swing', 'Digital and Omnichannel Contribution to the Recovery']
+Themes missed: ['Operating-Margin Normalization Drivers: Gross Margin, Shrink, Markdowns, and SG&A Leverage', 'Competitive Positioning and a Clear Verdict on Recovery-to-Normalization']
+Cited files: 13

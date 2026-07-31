@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process produces a corpus inventory that classifies available files by company, document type, reporting period, and publication or cutoff status before substantive analysis begins.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early trajectory steps for directory enumeration and an inventory, chronology, or source map covering structured financials, annual filings, quarterly filings, press releases, and company profiles."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "The process establishes metric definitions, period conventions, and document dates through inspection of file contents rather than inferring them from filenames.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-opening and schema-inspection steps preceding interpretation for checks of period labels, units, filing or release dates, operating-statistics definitions, and company mappings."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the durability question into linked analytical tests covering capacity, unit revenue, traffic or load factor, revenue mix, costs, margins, geographic variation, and peer context.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, an issue tree, or a claim worksheet for distinct but connected tests that trace how capacity could affect unit economics and operating profitability."
+    },
+    {
+      "id": "c4",
+      "concern": "counter_evidence_engagement",
+      "text": "The process states plausible competing hypotheses before settling on an interpretation of the evidence.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early reasoning for alternatives such as temporary capacity absorption, mix-supported resilience, a short-lived recovery, or costs overwhelming revenue stabilization."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a period-aligned UAL evidence set that separates the multi-year annual progression from the same-quarter 2025-to-2026 comparison.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction tables or working notes for 2023\u20132025 annual observations and a distinct first-quarter 2025 versus first-quarter 2026 block, with metric periods and units retained."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process develops peer comparisons on matched or explicitly qualified periods rather than treating differently presented company data as directly interchangeable.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect work using AAL, DAL, and LUV financial files for period matching, accounting-presentation checks, or explicit limitations attached to peer margin and revenue comparisons."
+    },
+    {
+      "id": "c7",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process visibly distinguishes disclosed figures from analyst-derived calculations and records how derived metrics were computed.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables or analysis notes for reported-versus-derived labels and reproducible formulas for measures such as growth, load factor, PRASM, TRASM, CASM, revenue share, or operating margin."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process performs explicit comparability checks before using numerical observations in a bridge or trend inference.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect quantitative steps for checks of units, rounding, period alignment, metric definitions, special items, and any discrepancy between reconstructed and disclosed measures; unresolved differences should be flagged rather than silently normalized."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively tests its emerging interpretation against a coherent counter-case capable of changing or limiting the conclusion.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the trajectory for a two-sided evidence matrix, an adverse-case analysis, or targeted tests of geographic concentration, load-factor weakness, mix scale, labor or other cost pressure, peer performance, and industry oversupply."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process synthesizes the evidence into a causal account connecting capacity deployment to traffic, pricing or yield, unit revenue, revenue mix, unit cost, and operating margin.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect late-stage reasoning and the final answer for a causal bridge that reconciles the longer annual pattern with the latest quarterly inflection instead of presenting metrics as disconnected observations."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The process reaches an explicit position on whether unit revenue and margin durability can persist as capacity expands, regardless of whether that position is positive, negative, or conditional.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening or conclusion of the synthesis for a direct stance rather than an unresolved list of favorable and unfavorable facts."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves material uncertainty by identifying unresolved ambiguities and limiting confidence where the available history or metric comparability is insufficient.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes and the final answer for explicit treatment of the short duration of the latest inflection, seasonality, missing peer operating statistics, definition differences, or other evidence gaps without smoothing them into certainty."
+    }
+  ]
+}

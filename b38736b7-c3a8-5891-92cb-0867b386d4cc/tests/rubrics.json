@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory verifies the temporal identity of materially used documents from their contents rather than inferring periods or dates from filenames.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reads of filing covers, statement headings, period definitions, and publication dates, plus source-ledger entries recording the verified reporting period and cutoff status."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory conducts broad reconnaissance across the available annual filings, interim filings, primary-company structured financials, company communications, and peer-data families.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the directory inventory, source ledger, and tool-read history for meaningful examination of each source family rather than reliance on only one document type."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process normalizes fiscal periods so annual, quarterly, and year-to-date observations are compared only on compatible bases without double-counting overlapping disclosures.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a period grid, chronology, comparison table, or calculation notes that identify fiscal coverage and valid comparison periods."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the durability question into separately testable propositions rather than treating membership growth, retention, margins, and expansion as one undifferentiated issue.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question tree for distinct propositions, anticipated evidence, and intended tests covering fee quality, member quality, economic transmission, and expansion constraints."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "Material analytical claims are preceded by substantive inspection of the relevant source content, including surrounding disclosure context when isolated search hits could be misleading.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of source searches, section reads, JSON-field inspection, and subsequent analytical notes; look for context reads in accounting policies, MD&A, business descriptions, or risk factors before reliance."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process cross-checks repeated financial or operating disclosures across filings, structured data, or company communications and records unresolved discrepancies rather than silently harmonizing them.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reconciliation notes, comparison tables, or comments documenting agreement, differing definitions, unit issues, or period mismatches between source types."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The trajectory actively pairs favorable indicators with the strongest source-grounded adverse evidence that could weaken the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a two-sided evidence matrix or analytical notes juxtaposing positive and adverse observations on fee growth, renewals, margins, expansion, concentration, competition, or cannibalization."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process distinguishes adverse developments already visible in reported results from risks that remain contingent or qualitatively disclosed.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect counterargument notes for explicit classification of measured deterioration, timing or mix effects, and prospective risk disclosures."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Quantitative inferences are made reproducible by recording the relevant inputs, period basis, units, and formula while preserving the distinction between reported values and derived measures.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables, scripts, or worksheets for labeled reported and derived figures, visible formulas, aligned periods, and basis-point or ratio computations."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves material uncertainty explicitly instead of replacing unavailable or noncomparable information with unsupported estimates.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect an ambiguity log, caveat notes, or explicit non-calculations for items such as pure organic sign-up growth, channel-cohort retention, cannibalization, warehouse economics, or noncomparable peer periods."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The synthesis resolves opposing evidence through causal or temporal reasoning rather than merely listing favorable and adverse observations side by side.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analytical sections for explanations of how pricing normalization, member growth, renewal movement, accounting timing, margin drivers, and expansion risks jointly affect the interpretation."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in a clear directional position on membership-growth durability and fee/margin economics, while identifying what future evidence could reverse or weaken that position.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening thesis and closing synthesis for an explicit strengthening, durable-but-normalizing, or eroding stance and named disconfirming indicators."
+    }
+  ]
+}

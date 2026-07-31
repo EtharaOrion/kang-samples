@@ -1,0 +1,381 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Organic Growth and Capital Return as the Offset \u2014 and the Balance-Sheet Trade-off",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent establishes organic growth with $519.4 billion of 2025 core net new assets, 42% growth, a 5.1% organic rate, $11.90 trillion of year-end client assets, and $157.5 billion of Q1 2026 NNA excluding the deconversion. It omits the reported $140.0 billion Q1 figure including the deconversion and the March client-asset decline to $11.77 trillion, but the core analytical move is present.",
+        "b": "The agent identifies rapid margin-loan growth as an asset-side engine and explicitly connects it to renewed short-term and repo borrowing, explaining that higher-cost wholesale funding may re-enter the mix to support lending growth. This captures the risk that lending can outpace low-cost sweep funding.",
+        "c": "The agent explicitly reconciles aggressive buybacks, dividend increases, and preferred redemption with balance-sheet growth and constrained leverage capacity, then takes the position that simultaneous growth and capital return are sustainable only modestly and that returns cap reinvestment. Its supporting adjusted-leverage trajectory and some assertions about added capital and debt were flagged, and it does not provide the rubric's full GAAP leverage-ratio sequence."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "End of Cash Sorting and the Sweep Deposit Turn",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent clearly establishes the cash-sorting arc, describing clients moving cash toward higher-yielding products and a subsequent turn to positive sweep-cash growth. However, several supporting claims about the historical deposit trajectory, the timing of the inflection, and the supposedly steady rise in transactional sweep cash were flagged, and it omits the rubric's specific $36.6 billion full-year 2025 increase.",
+        "b": "The agent mentions the $6.7 billion BDA transfer onto Schwab's balance sheet and its role in funding paydown, but it does not identify the September 2025 IDA amendment or Schwab's newly broadened discretion to retrieve balances from the TD Depository Institutions.",
+        "c": "The agent reports the March 2026 transactional sweep-cash endpoint of $461.5 billion but does not calculate the $7.8 billion increase from year-end 2025 or compare that quarterly pace with the roughly $9 billion average quarterly gain during 2025."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Net Interest Margin Recovery: Mechanics, Not Magic",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports FY2025 net interest revenue of $11.75 billion, up 28% from $9.144 billion, and explains that lower wholesale-funding usage and rates more than offset lower floating-asset yields; it also reports Q1 2026 NII of $3.144 billion and NIM of 2.88%. The decomposition is incomplete on lending growth, and some rate comparisons and refinancing assertions used to support it were flagged.",
+        "b": "The agent does not compare FY2025's 28% NII growth with Q1 2026's 16% year-over-year growth or explicitly infer from that deceleration that the easiest funding-unwind gains are being exhausted.",
+        "c": "Although the agent notes that lower floating-rate asset yields are an offset, it does not present the 10-K's asymmetric rate-cut risk that asset yields and BDA fee revenue may fall faster than funding costs.",
+        "d": "The agent performs a peer comparison, but it uses IBKR's Q3 2025-to-Q1 2026 sequential decline and argues for Schwab-specific self-help. It does not make the rubric's like-for-like year-over-year comparison showing IBKR and Morgan Stanley growing at rates similar to Schwab."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    },
+    {
+      "label": "Paydown of High-Cost Supplemental Funding as the Reversal Engine \u2014 and Its Limits",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent lays out the paydown from $49.9 billion at year-end 2024 to $5.1 billion at year-end 2025, including the 90% annual reduction, and states that FHLB borrowings reached zero by March 2026. The zero-FHLB assertion was flagged, and the answer does not provide the remaining $2.4 billion brokered-CD balance and 3.77% rate.",
+        "b": "The agent identifies securities principal and interest runoff, the $6.7 billion BDA transfer, and recovering client cash as internal sources used to pay down supplemental funding. This conveys that the unwind was funded from balance-sheet liquidity rather than a dilutive external equity raise.",
+        "c": "The agent explicitly reconciles the successful paydown with its finite nature, arguing that the deposit-displacement trade is finished and that future NII must depend on asset and loan growth, potentially requiring renewed wholesale funding. Some support for the asserted structural floor and the magnitude of the resulting NII rebound was flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "net interest margin (NIM) climbed from 2.03% to 2.88%",
+      "cited_file": "sec_filings/10-q/schw_2025q2_10-q.txt; sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied passages contain 2.88% and 2.53%, but not the claimed 2.03% starting value.",
+      "evidence_check": "Searched the claim passages for 2.03%; no occurrence was provided."
+    },
+    {
+      "claim": "displacing ~$74B of high-cost (~4-5.5%) supplemental funding with returning sweep deposits (~0.2-0.7%)",
+      "cited_file": null,
+      "issue": "The passages do not establish a roughly $74B displacement or directly connect that amount to returning sweep deposits.",
+      "evidence_check": "Searched for $74B, the claimed displacement, and the stated funding-rate comparison; the retrieved passages were unrelated or lacked those facts."
+    },
+    {
+      "claim": "FHLB borrowings to $0 by Q1 2026",
+      "cited_file": "press_releases/schw_2026-04-16_8-k.txt",
+      "issue": "The supplied passages for this claim do not show a zero FHLB balance.",
+      "evidence_check": "Searched the provided excerpts for an FHLB balance of zero at March 31, 2026; no such value appeared."
+    },
+    {
+      "claim": "the bank's deposit base, which remains BELOW its 2024 level",
+      "cited_file": null,
+      "issue": "The passages contain general balance-sheet fields but no bank-deposit figures with which to make the claimed comparison.",
+      "evidence_check": "Searched the supplied balance-sheet excerpts for bank deposits and a current-versus-2024 comparison; neither was present."
+    },
+    {
+      "claim": "The cash-sorting episode peaked in May 2023",
+      "cited_file": "sec_filings/10-k/schw_2024_10-k.txt",
+      "issue": "The supplied passages mention a May 2023 IDA agreement but do not state that cash sorting peaked in May 2023.",
+      "evidence_check": "Searched for language identifying May 2023 as the peak of cash sorting; no such statement appeared."
+    },
+    {
+      "claim": "bank deposits down relentlessly: $366.7B (YE2022) to $290.0B (YE2023) to $259.1B (YE2024) to $255.7B (YE2025)",
+      "cited_file": "sec_filings/10-k/schw_2025_10-k.txt; sec_filings/10-k/schw_2023_10-k.txt",
+      "issue": "None of the four claimed deposit balances appears in the supplied passages.",
+      "evidence_check": "Searched the excerpts for 366.7, 290.0, 259.1, and 255.7 in connection with bank deposits; no matches were provided."
+    },
+    {
+      "claim": "The inflection to inflows first appeared in Q3 2024",
+      "cited_file": "sec_filings/10-q/schw_2024q3_10-q.txt",
+      "issue": "The passages supplied for this claim identify the filing period but do not show inflows or establish that Q3 2024 was the first inflection.",
+      "evidence_check": "Searched the excerpts for an increase in sweep cash and language establishing the first inflow inflection; neither appeared."
+    },
+    {
+      "claim": "by Q1 2025 the company described \"normalized cash behavior... following further deceleration in the pace of clients' reallocation of cash from sweep products to higher-yielding investment solutions\"",
+      "cited_file": "sec_filings/10-q/schw_2025q1_10-q.txt",
+      "issue": "The attributed quotation is absent from the supplied passages.",
+      "evidence_check": "Searched the excerpts for \u201cnormalized cash behavior\u201d and the quoted follow-on wording; no match was found."
+    },
+    {
+      "claim": "transactional sweep cash... rose steadily to $461.5B by March 2026",
+      "cited_file": "press_releases/schw_2026-04-16_8-k.txt",
+      "issue": "The endpoint is present, but the monthly series did not rise steadily; it declined in several months.",
+      "evidence_check": "Reviewed the supplied series: 412.1 fell to 407.5 and 406.7, 428.8 fell to 427.5, and 453.7 fell to 433.3 before reaching 461.5."
+    },
+    {
+      "claim": "They stood at $253.0B at 3/31/26",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied passages do not show a $253.0B bank-deposit balance.",
+      "evidence_check": "Searched the excerpts for 253.0 and a March 31, 2026 bank-deposit line; no match appeared."
+    },
+    {
+      "claim": "$253.0B at 3/31/26 \u2014 below $255.7B at YE2025",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "Neither comparison value appears in the supplied passages for this claim.",
+      "evidence_check": "Searched for 253.0 and 255.7 in the excerpts; no matches were provided."
+    },
+    {
+      "claim": "$253.0B at 3/31/26 \u2014 below... $259.1B at YE2024",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied passages do not contain the claimed $253.0B or $259.1B deposit figures.",
+      "evidence_check": "Searched the excerpts for both comparison values; neither appeared."
+    },
+    {
+      "claim": "bank deposits... actually fell QoQ",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "No local supporting passage was retrieved for the quarter-over-quarter bank-deposit comparison.",
+      "evidence_check": "The evidence section explicitly reports no local match, and provides no beginning and ending deposit balances."
+    },
+    {
+      "claim": "client cash as a share of total assets was... up only seasonally",
+      "cited_file": "press_releases/schw_2026-04-16_8-k.txt",
+      "issue": "The source says the change reflected seasonality, organic growth, and client asset-allocation decisions, not seasonality alone.",
+      "evidence_check": "Compared the claim with the supplied Q1 commentary, which lists three contributing factors."
+    },
+    {
+      "claim": "the cash re-formed at a new, lower cash-to-assets plateau and increasingly in the broker-dealer, not the bank",
+      "cited_file": null,
+      "issue": "No passages were supplied to establish a new plateau or the claimed increasing broker-dealer-versus-bank composition.",
+      "evidence_check": "The evidence section reports no local match for the composition and plateau assertions."
+    },
+    {
+      "claim": "the recovering cash is partly a broker-dealer payable rather than a bank deposit",
+      "cited_file": null,
+      "issue": "No claim-specific passage was supplied tying the recovering cash to broker-dealer payables rather than bank deposits.",
+      "evidence_check": "The evidence section reports no local match for this asserted composition."
+    },
+    {
+      "claim": "rates were FALLING through 2025",
+      "cited_file": null,
+      "issue": "The supplied passages are balance-sheet and cash-flow records and contain no interest-rate history for 2025.",
+      "evidence_check": "Searched the excerpts for Federal Reserve actions or market-rate changes during 2025; none appeared."
+    },
+    {
+      "claim": "quarterly 2.03% (Q2 2024, trough) to 2.53% to 2.65% to 2.86% to 2.90% (Q4 2025 peak) to 2.88% (Q1 2026)",
+      "cited_file": "sec_filings/10-q/schw_2025q2_10-q.txt; sec_filings/10-q/schw_2025q3_10-q.txt; press_releases/schw_2026-01-21_8-k.txt; press_releases/schw_2026-04-16_8-k.txt",
+      "issue": "The supplied passages for this claim show 2.53% and 2.88%, but omit 2.03%, 2.65%, 2.86%, and 2.90%.",
+      "evidence_check": "Searched all provided claim excerpts for the complete quarterly sequence; only the Q1 2025 and Q1 2026 values appeared."
+    },
+    {
+      "claim": "FHLB and other short-term borrowings at ~3.85%-5.6%",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt; sec_filings/10-q/schw_2025q1_10-q.txt",
+      "issue": "The supplied passages for this claim do not display the claimed FHLB and other-short-term-borrowing rate range.",
+      "evidence_check": "Searched the excerpts for 3.85%, 5.6%, and the corresponding borrowing rows; they were not present."
+    },
+    {
+      "claim": "Retiring 5% funding and re-funding with 0.2% deposits",
+      "cited_file": null,
+      "issue": "The passages do not document a specific refinancing transaction from 5% funding into 0.2% deposits.",
+      "evidence_check": "Searched for an explicit retirement/refunding linkage and those two rates; no supporting passage appeared."
+    },
+    {
+      "claim": "2025 was a rate-CUT year",
+      "cited_file": null,
+      "issue": "The supplied balance-sheet and cash-flow passages contain no rate-cut information.",
+      "evidence_check": "Searched the excerpts for Federal Reserve cuts or changes in policy rates during 2025; no match was found."
+    },
+    {
+      "claim": "Schwab's rose over the same span.",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain Schwab NII values for Q3 2025 and Q1 2026 to support the comparison with Interactive Brokers.",
+      "evidence_check": "Searched the claim passages for Schwab's two endpoint NII figures; they were absent."
+    },
+    {
+      "claim": "NIM ROLLED OVER from 2.90% to 2.88% between Q4 2025 and Q1 2026",
+      "cited_file": null,
+      "issue": "The supplied passages are balance-sheet data and contain neither NIM value.",
+      "evidence_check": "Searched the excerpts for 2.90%, 2.88%, and NIM; no matches were present."
+    },
+    {
+      "claim": "\"Bank supplemental funding\"... stood at roughly $79.6B at YE2023",
+      "cited_file": null,
+      "issue": "The claimed $79.6B supplemental-funding balance is absent from the supplied passages.",
+      "evidence_check": "Searched the balance-sheet and cash-flow excerpts for 79.6 and supplemental funding; no match appeared."
+    },
+    {
+      "claim": "FHLB borrowings then hit $0 outstanding at 3/31/26",
+      "cited_file": "press_releases/schw_2026-04-16_8-k.txt; sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied passages for this claim do not show a March 31, 2026 FHLB balance of zero.",
+      "evidence_check": "Searched all excerpts under the claim for a zero FHLB outstanding balance; none was displayed."
+    },
+    {
+      "claim": "Management sequenced it explicitly and even subordinated buybacks to it",
+      "cited_file": "sec_filings/10-q/schw_2025q2_10-q.txt",
+      "issue": "The supplied passages do not contain management's alleged sequencing or any statement subordinating buybacks to funding paydown.",
+      "evidence_check": "Searched the excerpts for capital returns, buybacks, supplemental funding, and repayment priority; no supporting statement appeared."
+    },
+    {
+      "claim": "\"In evaluating returns of excess capital to stockholders, we will consider the amount of bank supplemental funding outstanding, and may choose to utilize the liquidity we would otherwise use for capital returns to repay outstanding bank supplemental funding balances\"",
+      "cited_file": "sec_filings/10-q/schw_2025q2_10-q.txt",
+      "issue": "The attributed quotation was not found in the supplied passages.",
+      "evidence_check": "The evidence section explicitly reports no local match for the quotation."
+    },
+    {
+      "claim": "By Q1 2026 the balance was normalized (\"within a range generally consistent with our diversified funding strategy\")",
+      "cited_file": "sec_filings/10-k/schw_2025_10-k.txt",
+      "issue": "The quoted language is present for the $5.1B balance at December 31, 2025, not specifically for Q1 2026.",
+      "evidence_check": "Reviewed the supplied passages; each dates the statement to year-end 2025."
+    },
+    {
+      "claim": "the phrase \"bank supplemental funding\" was DROPPED entirely from the Q1 2026 10-Q",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied snippets cannot establish that a phrase is absent from the entire filing.",
+      "evidence_check": "Reviewed the provided beginning, index, and overview snippets; they do not constitute a full-file absence check."
+    },
+    {
+      "claim": "the sentence linking capital return to paydown [was dropped from the Q1 2026 10-Q]",
+      "cited_file": "sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied snippets cannot verify the asserted removal of a sentence from the entire filing.",
+      "evidence_check": "The excerpts cover only selected portions and provide no full-text comparison with the prior filing."
+    },
+    {
+      "claim": "the balance is ~$5B and falling toward its structural floor",
+      "cited_file": null,
+      "issue": "The claim passages do not show a roughly $5B balance or establish a structural floor.",
+      "evidence_check": "Searched the supplied excerpts for $5B/$5.1B and structural-floor language; no such support appeared."
+    },
+    {
+      "claim": "The engine... produced a 46% NII rebound",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the claimed 46% NII rebound or both NII endpoints needed to calculate it.",
+      "evidence_check": "Searched the excerpts for 46% in connection with NII and for the relevant endpoint values; no support was provided."
+    },
+    {
+      "claim": "4.7M new accounts in FY2025",
+      "cited_file": "sec_filings/10-k/schw_2025_10-k.txt; press_releases/schw_2026-01-21_8-k.txt",
+      "issue": "The supplied passages do not contain a 4.7M full-year new-account figure.",
+      "evidence_check": "Searched the excerpts for 4.7 million and an annual new-account total; no match appeared."
+    },
+    {
+      "claim": "Diluted share count fell from 1,834M (Q1 2024) to 1,752M (Q1 2026)",
+      "cited_file": "financials/income_statement/schw_income_statement.json",
+      "issue": "The Q1 2024 diluted weighted-average share count shown in the passage is 1,831M, not 1,834M.",
+      "evidence_check": "Compared the claim with the Q1 2024 record: weightedAverageShsOutDil is 1,831,000,000."
+    },
+    {
+      "claim": "[The adjusted Tier 1 leverage ratio] climbed to 7.1%-7.3% through 2025",
+      "cited_file": "sec_filings/10-q/schw_2025q3_10-q.txt; sec_filings/10-q/schw_2026q1_10-q.txt",
+      "issue": "The supplied passages do not show a 7.3% adjusted Tier 1 leverage ratio or a climb through 2025.",
+      "evidence_check": "Searched the excerpts for 7.3%; the visible adjusted ratios are 7.1% and 6.8%."
+    },
+    {
+      "claim": "[Schwab] added senior debt",
+      "cited_file": null,
+      "issue": "The supplied passages do not describe any senior-debt issuance or increase.",
+      "evidence_check": "Searched the excerpts for senior notes, debt issuance, or an increase in long-term debt; no supporting fact appeared."
+    },
+    {
+      "claim": "it returned ~$10B+ of capital",
+      "cited_file": "financials/balance_sheet/schw_balance_sheet.json",
+      "issue": "The balance-sheet passages do not report capital returns or a $10B-plus amount.",
+      "evidence_check": "Searched the supplied balance-sheet records for capital-return, repurchase, dividend, or $10B figures; none appeared."
+    },
+    {
+      "claim": "a still-large $(10.8B) AOCI hole",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain a $10.8B AOCI balance.",
+      "evidence_check": "Searched the excerpts for 10.8 and an AOCI balance; the only nearby figure is an $11.017B AOCI adjustment."
+    },
+    {
+      "claim": "returning, near-zero-cost cash was used to retire ~$74B of 5% supplemental funding",
+      "cited_file": null,
+      "issue": "The passages do not establish a roughly $74B retirement, a 5% rate on that entire amount, or a causal use of returning cash.",
+      "evidence_check": "Searched for $74B, 5%, and an explicit funding-retirement linkage; no supporting passage appeared."
+    },
+    {
+      "claim": "the swap... drove NIM from 2.03% to a 2.90% peak",
+      "cited_file": null,
+      "issue": "The supplied passages show 2.90% but not 2.03%, and do not establish that a funding swap caused the change.",
+      "evidence_check": "Searched the excerpts for 2.03% and an explicit causal description of the swap; neither appeared."
+    },
+    {
+      "claim": "the swap... drove... NII up 46%",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain a 46% NII increase or establish that a funding swap caused it.",
+      "evidence_check": "Searched the excerpts for a 46% NII change and explicit swap causation; no match was found."
+    },
+    {
+      "claim": "this was... roughly 90-100% complete",
+      "cited_file": null,
+      "issue": "No 90-100% completion measure or event is identified in the supplied passages.",
+      "evidence_check": "Searched the excerpts for 90%, 100%, and completion language; no supporting statement appeared."
+    },
+    {
+      "claim": "the recovering client cash is increasingly a broker-dealer payable and off-balance-sheet BDA",
+      "cited_file": null,
+      "issue": "The passages define BDA and note historical BDA declines, but do not support an increasing allocation to off-balance-sheet BDA.",
+      "evidence_check": "Reviewed the supplied BDA passages; they report BDA balances down 23% in 2023 and contain no evidence of an increasing BDA share."
+    }
+  ],
+  "synthesis_found": "Two facts that look contradictory \u2014 \"supplemental funding eliminated\" and \"wholesale borrowing growing\" \u2014 resolve cleanly: the DEPOSIT-DISPLACEMENT paydown (the P&L engine) is finished and non-repeatable, while NEW borrowing is asset-driven at the margin.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/schw_balance_sheet.json",
+    "financials/cash_flow/schw_cash_flow.json",
+    "financials/income_statement/ibkr_income_statement.json",
+    "financials/income_statement/schw_income_statement.json",
+    "press_releases/schw_2026-01-21_8-k.txt",
+    "press_releases/schw_2026-04-16_8-k.txt",
+    "press_releases/schw_2026-04-22_8-k.txt",
+    "press_releases/schw_2026-05-21_8-k.txt",
+    "press_releases/schw_2026-06-29_8-k.txt",
+    "sec_filings/10-k/schw_2023_10-k.txt",
+    "sec_filings/10-k/schw_2024_10-k.txt",
+    "sec_filings/10-k/schw_2025_10-k.txt",
+    "sec_filings/10-q/schw_2024q2_10-q.txt",
+    "sec_filings/10-q/schw_2024q3_10-q.txt",
+    "sec_filings/10-q/schw_2025q1_10-q.txt",
+    "sec_filings/10-q/schw_2025q2_10-q.txt",
+    "sec_filings/10-q/schw_2025q3_10-q.txt",
+    "sec_filings/10-q/schw_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 134,
+  "grounding_claims_no_match": 9,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

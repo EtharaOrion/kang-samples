@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Usage-Based Revenue Durability and Optimization Risk
+Datadog's usage-based model drives expansion but also exposes it to customers dialing back consumption; the analyst must show both the mechanics and the optimization risk.
+[a] Establish the growth-and-retention baseline — Q1 2026 revenue of $1,006 million (up 32%) and a trailing 12-month dollar-based net retention rate of about 120% as of June 30, 2025, up from the mid-110%'s a year earlier
+[b] Explain the usage-based mechanics — usage priced primarily per host and per volume of data indexed, with incremental usage above committed contractual amounts billed as consumed
+[c] Weigh the optimization risk the 10-K flags — cloud-native and more recently larger AI-native cohorts rapidly increase usage and then optimize (or fail to renew), which can produce revenue volatility and pressure net retention
+Source: press_releases/ddog_2026-05-07_8-k.txt, sec_filings/10-q/ddog_2025q2_10-q.txt, sec_filings/10-k/ddog_2025_10-k.txt, financials/income_statement/ddog_income_statement.json
+
+2. Customer Concentration in the AI-Native Cohort
+Growth quality hinges on whether it is broad-based or leaning on a few large AI customers; the analyst must surface the concentration.
+[a] Anchor the large-customer base — about 4,550 customers with ARR of $100,000 or more as of March 31, 2026 (up 21% from about 3,770), representing roughly 89% of ARR
+[b] Highlight the concentration risk the 10-K discloses — the AI-native cohort includes Datadog's largest customer and represented approximately seven percentage points of year-over-year revenue growth for the quarter ended December 31, 2025
+[c] Frame the renewal risk that these large customers may optimize usage or renew on terms less favorable to Datadog, making a concentrated growth driver a durability question
+Source: press_releases/ddog_2026-05-07_8-k.txt, sec_filings/10-q/ddog_2025q2_10-q.txt, sec_filings/10-k/ddog_2025_10-k.txt
+
+3. Platform Breadth Versus Point-Solution Competition
+Datadog's durability case rests on being a consolidating platform rather than a point tool; the analyst must weigh that breadth against named competitors.
+[a] Establish the platform breadth — a single agent and over 1,000 integrations spanning infrastructure monitoring, APM, log management, and expansion into cloud security, software delivery and service management
+[b] Identify the named competitive set — for APM, Cisco Systems, New Relic and Dynatrace — plus home-grown and open-source technologies, noting many competitors have greater financial and brand resources
+[c] Weigh the platform's ambition — Datadog's estimate of a roughly $187 billion 2029 market opportunity across observability, security, application development and analytics — against the risk that bundled or lower-cost competing products erode demand
+Source: sec_filings/10-k/ddog_2025_10-k.txt, press_releases/ddog_2026-05-07_8-k.txt
+
+4. Margin Profile and the Growth-Durability Verdict
+Reported profitability depends heavily on which margin you use; a defensible conclusion must reconcile the growth/retention strength against thin GAAP margins and competitive pressure.
+[a] Contrast Q1 2026 GAAP operating income of $7 million (1% margin) with non-GAAP operating income of $223 million (22% margin), and note free cash flow of $289 million
+[b] Note the forward trajectory — Q2 2026 revenue guidance of $1.07–$1.08 billion and full-year 2026 revenue guidance of $4.30–$4.34 billion — as the growth-durability test
+[c] Take an explicit position on whether usage-based growth is durable, reconciling strong ~120% net retention and cash generation against optimization risk, AI-native concentration, thin GAAP profitability, and platform competition
+Source: press_releases/ddog_2026-05-07_8-k.txt, sec_filings/10-k/ddog_2025_10-k.txt, financials/cash_flow/ddog_cash_flow.json, financials/income_statement/ddog_income_statement.json

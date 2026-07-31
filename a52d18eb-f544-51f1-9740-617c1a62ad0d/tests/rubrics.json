@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory surveys the analytically relevant corpus classes rather than relying on a narrow subset of source types.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "File-inventory, directory-listing, open, or parse steps should span current and historical filings, result announcements, Domino's financial JSON, peer financial JSON, and entity-mapping data; any access or parsing failures may appear in the reconnaissance notes."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "Substantive analytical claims are formed only after the underlying source contents have been opened or parsed, rather than inferred from filenames or assumed document contents.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "The recorded sequence should show source-reading or structured-data inspection before the first analytical use of each material source, including checks of internal dates and reporting periods where timing matters."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into distinct, testable inquiries covering sales momentum, unit-growth durability, channel quality, and translation into financial results.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Planning notes or a question-to-evidence matrix should show separate hypotheses or research questions for comparable sales, openings and closures, ordering and loyalty channels, and profit or cash-flow translation."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory establishes a comparison framework that prevents unlike operating metrics, geographies, currencies, or reporting periods from being treated as equivalent.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Early definitions or calculation plans should distinguish same-store sales from retail sales and company revenue, gross openings from net additions, domestic from international results, and quarterly from year-to-date or annual values."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "Material evidence is extracted with enough source context to preserve what the item measures and how it may legitimately be used.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Evidence notes, tables, or intermediate records should retain the file, fiscal period, geography, metric definition, currency convention, and nearby qualifications for important figures or statements."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory triangulates major operating claims across relevant source types instead of treating one filing, announcement, or structured dataset as sufficient by itself.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Search and extraction steps should compare annual and quarterly disclosures with relevant result announcements or financial JSON, with cross-check notes for comparable sales, store counts, revenue, profitability, or cash flow."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "For each major emerging thesis, the process deliberately seeks the strongest available disconfirming evidence.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Two-sided tables, targeted searches, or challenge notes should test favorable interpretations against such issues as prior-year bases, international weakening, closures, cannibalization, franchise constraints, channel economics, or weak financial translation."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The trajectory formulates a coherent contrary interpretation and uses it to challenge the provisional thesis rather than relegating contrary facts to isolated caveats.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a provisional bear or opposing case that connects adverse observations into an alternative explanation and is revisited during synthesis."
+    },
+    {
+      "id": "c9",
+      "concern": "no_fabrication_process_signals",
+      "text": "The analytical record explicitly preserves unresolved uncertainty instead of silently normalizing conflicts or filling disclosure gaps with unsupported assumptions.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Reconciliation notes or the completed analysis should identify unresolved period, definition, currency, scope, or source differences and should plainly mark missing information such as undisclosed channel margins or incomplete franchisee economics."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Every analyst-derived figure used in the reasoning is visibly identifiable as a calculation with a reproducible formula and stated inputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Calculation tables, code, or working notes should show inputs and formulas for items such as net-addition shares, compounded comparable sales, growth rates, margins, cash conversion, or free cash flow, while keeping reported figures distinguishable from derived values."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process integrates the principal operating and financial strands into a causal explanation rather than presenting them as disconnected summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "The synthesis notes or completed analysis should visibly connect demand drivers and channel mix to store expansion, franchise economics, revenue mechanics, profitability, and cash generation while explaining the weight assigned to opposing observations."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The completed synthesis takes one clear, calibrated position on durability rather than ending as a neutral catalogue of positives and negatives.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "A thesis sentence or conclusion should select a definite stance such as durable, conditionally durable, or fragile, or an equivalent formulation, and identify why that stance emerged from the preceding analysis."
+    }
+  ]
+}

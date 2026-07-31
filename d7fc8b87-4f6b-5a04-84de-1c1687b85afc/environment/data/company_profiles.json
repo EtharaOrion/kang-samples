@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "ABNB",
+    "cik": "0001559720",
+    "companyName": "Airbnb, Inc.",
+    "sic": "7340",
+    "sicDescription": "Services-To Dwellings & Other Buildings",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "BKNG",
+    "cik": "0001075531",
+    "companyName": "Booking Holdings Inc.",
+    "sic": "4700",
+    "sicDescription": "Transportation Services",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "NORWALK",
+    "stateOrCountry": "CT"
+  },
+  {
+    "symbol": "EXPE",
+    "cik": "0001324424",
+    "companyName": "Expedia Group, Inc.",
+    "sic": "4700",
+    "sicDescription": "Transportation Services",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SEATTLE",
+    "stateOrCountry": "WA"
+  },
+  {
+    "symbol": "MAR",
+    "cik": "0001048286",
+    "companyName": "MARRIOTT INTERNATIONAL INC /MD/",
+    "sic": "7011",
+    "sicDescription": "Hotels & Motels",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "BETHESDA",
+    "stateOrCountry": "MD"
+  }
+]

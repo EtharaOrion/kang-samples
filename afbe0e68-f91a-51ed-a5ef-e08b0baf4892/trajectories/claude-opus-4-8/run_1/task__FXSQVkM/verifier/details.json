@@ -1,0 +1,628 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Premium-Spend Durability and the Card-Fee Engine",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b",
+        "d"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports 2025 billed business of about $1.670 trillion, but does not provide the required 86.6 million proprietary cards, explicit 8%/7% annual growth rates, or 9% transaction growth.",
+        "b": "The answer identifies younger consumers and International Card Services as growth sources, but omits the required 2025 segment comparison of U.S. Consumer +8%, International +14%, and Commercial +3%, as well as Goods & Services exceeding 70% of billed business.",
+        "c": "The agent explicitly frames net card fees as a recurring, less-cyclical engine, cites 18% growth, and links that growth to fee-paying products and refreshed Platinum cards. The supporting fee-growth figures, product-refresh quotations, and stability characterization are flagged as unsupported.",
+        "d": "The answer acknowledges that a recession would hurt earnings, but it does not specifically present management's warning about premium discretionary spending declining in downturns or the approximately 41% small-business/corporate exposure tied to the business-investment climate."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    },
+    {
+      "label": "Credit-Cost Normalization and Reserve Discipline",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses consumer delinquency and write-off rates around the requested levels, but does not provide the required separate U.S. Small Business comparison of roughly 1.7% delinquency and 2.8% write-offs.",
+        "b": "The answer explicitly reconciles the best-in-class credit narrative with write-offs moving off pandemic lows and delinquency trends, concluding that the pattern represents normalization rather than deterioration. The claimed best-in-class wording and several monthly or multi-period delinquency and write-off series are flagged as unsupported.",
+        "c": "The agent argues that the premium customer base caps credit damage and connects disciplined reserving and stable credit to continued balance growth, including an 8% Card-balances reference. Its supporting best-in-class characterization and several reserve and portfolio-growth claims are flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and Regulatory Pressure on the Revenue Model",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses interchange regulation, merchant surcharging, and an EU cobrand matter, but does not address the proposed November 2025 Visa/Mastercard settlement with its interchange reductions, caps, and expanded steering rights. It also largely characterizes regulation as glancing off AXP rather than fully assessing the specified threat to discount revenue and premium-card acceptance.",
+        "b": "The answer does not quantify cobrand concentration at approximately 26% of billed business and 36% of Card Member loans, does not discuss Delta's roughly 13% share and 2029 agreement, and omits the Amazon and Lowe's portfolios held for sale.",
+        "c": "The agent explicitly identifies BNPL, agentic commerce, and other new payment mechanisms as potential competitive risks, satisfying the required disruptive-competition analysis. The claim that BNPL and agentic-commerce competition were flagged in the cited filings is itself flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Earnings Power, Capital Return, and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives 2025 net income of $10.833 billion and EPS of $15.38 versus $10.129 billion and $14.01 in 2024, notes the prior-year $0.66 Accertify gain, and reports 10% revenue growth. The $10.8 billion net-income claim is included among the flagged unsupported claims.",
+        "b": "Although the agent mentions rewards costs generally and cites a 2.5% stress capital buffer, it does not state that rewards, services, and business-development expenses grew faster than revenue because of the premium-product mix, nor does it provide the effective 7.0% CET1 minimum.",
+        "c": "The agent explicitly compares the income-statement JSON with filed Q1 2026 revenue, net income, EPS, and NII figures and explains how it treats an alleged top-line discrepancy, thereby attempting independent corroboration rather than relying solely on MD&A. The claimed filing-to-JSON reconciliation and revenue discrepancy are flagged as unsupported.",
+        "d": "The unified conclusion explicitly reconciles premium fee growth and high-quality credit with recession sensitivity, credit-cost normalization, and regulatory or competitive pressure, then reaches a constructive bullish verdict that durability outweighs those risks. Several central factual supports for that synthesis\u2014including the $10 billion fee annuity growing 18%, best-in-class credit framing, interchange exemption, and related operating metrics\u2014are flagged as unsupported."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "roughly a quarter of revenue is now credit-sensitive net interest income",
+      "cited_file": "null",
+      "issue": "No revenue or net-interest-income figures appear in the claim-specific passages.",
+      "evidence_check": "No local match was returned, so the asserted proportion cannot be verified from the authoritative passages for this claim."
+    },
+    {
+      "claim": "AXP's own filings report Q1'26 \"total revenues net of interest expense\" of $18,907M, +11% YoY",
+      "cited_file": "axp_2026q1_10-q; axp_2026-04-23_8-k.txt",
+      "issue": "The claim-specific passages contain cash-flow data only and do not show $18,907M or 11%.",
+      "evidence_check": "Searched the supplied passages for 18,907, the revenue caption, and 11%; none appears."
+    },
+    {
+      "claim": "Net income ($2,971M), diluted EPS ($4.28), NII ($4,692M) and share count all reconcile exactly between the JSON and the filings",
+      "cited_file": "null",
+      "issue": "The JSON values are present, but no filing values are included to establish an exact reconciliation.",
+      "evidence_check": "Found the figures in axp_income_statement.json only; no filing comparison appears in the claim-specific passages."
+    },
+    {
+      "claim": "Net card fees grew from $5,195M (2021) to $9,993M (2025)",
+      "cited_file": "axp_2025_10-k.txt; axp_2024_10-k.txt",
+      "issue": "Neither net-card-fee comparison value appears in the passages.",
+      "evidence_check": "The returned passages are cash-flow and quarterly income-statement excerpts; 5,195 and 9,993 are absent."
+    },
+    {
+      "claim": "a near doubling in four years",
+      "cited_file": "axp_2025_10-k.txt; axp_2024_10-k.txt",
+      "issue": "The underlying beginning and ending values are absent from the claim-specific evidence.",
+      "evidence_check": "No local match was found and no numerical basis for the comparison was supplied."
+    },
+    {
+      "claim": "growth of +20%/+16%/+18% in 2023/2024/2025",
+      "cited_file": "axp_2025_10-k.txt; axp_2024_10-k.txt",
+      "issue": "The cited annual growth rates do not appear in the passages.",
+      "evidence_check": "Searched the supplied cash-flow and quarterly income-statement excerpts; the 20%/16%/18% sequence is absent."
+    },
+    {
+      "claim": "net card fees ran $2,060M (Q2'24) -> $2,170M -> $2,333M -> $2,480M -> $2,551M -> $2,752M (Q1'26)",
+      "cited_file": "axp_2024q2_10-q; axp_2025q3_10-q; axp_2026q1_10-q",
+      "issue": "None of the stated AXP net-card-fee series is present in the passages.",
+      "evidence_check": "The passages contain unrelated AXP cash-flow and MA/V income-statement excerpts; the six-value sequence is absent."
+    },
+    {
+      "claim": "up ~34% cumulatively in seven quarters",
+      "cited_file": "axp_2024q2_10-q; axp_2025q3_10-q; axp_2026q1_10-q",
+      "issue": "The start and end net-card-fee figures needed for the cumulative calculation are absent.",
+      "evidence_check": "Only unrelated income-statement excerpts were returned; no seven-quarter fee series appears."
+    },
+    {
+      "claim": "card fees are annual membership fees \"deferred and recognized on a straight-line basis over the twelve-month card membership period ... and are therefore more stable in relation to short term business or economic shifts\"",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "No local match was found for the quoted accounting-policy and stability language."
+    },
+    {
+      "claim": "repeated verbatim in the 2023 and 2024 10-Ks",
+      "cited_file": "null",
+      "issue": "No text from either annual report is provided to establish verbatim repetition.",
+      "evidence_check": "The passages are unrelated cash-flow records and do not contain the alleged repeated wording."
+    },
+    {
+      "claim": "+27% over two years",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The relevant $92 and $117 comparison values are not shown in this claim's passages.",
+      "evidence_check": "The passage begins after the average-fee table values, so the 27% calculation cannot be checked here."
+    },
+    {
+      "claim": "continued $101 (Q2'24) -> $127 (Q1'26)",
+      "cited_file": "axp_2026-04-23_8-k.txt",
+      "issue": "The passage confirms $127 for Q1'26 but does not contain the $101 Q2'24 comparison value.",
+      "evidence_check": "Found average fee per card of $127 for Q1'26; searched for $101 and found none."
+    },
+    {
+      "claim": "in Q3'25 AXP \"launched our refreshed U.S. Consumer and Business Platinum Cards\"",
+      "cited_file": "axp_2025q3_10-q",
+      "issue": "The attributed launch statement is absent from the claim-specific passages.",
+      "evidence_check": "Only unrelated cash-flow records were returned; the quoted launch language does not appear."
+    },
+    {
+      "claim": "\"increased the annual card fee ... recognized over the annual card membership period\"",
+      "cited_file": "axp_2025q3_10-q",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "No local match was found for the quoted fee-increase and recognition language."
+    },
+    {
+      "claim": "by Q1'26 it cited \"strong engagement on our refreshed U.S. Platinum products\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "The passages contain unrelated MA/V data and an AXP financial table, but not the quoted statement."
+    },
+    {
+      "claim": "\"an acceleration in U.S. Platinum spend\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "The supplied 2025 10-K excerpts mention new Platinum benefits, not an acceleration in U.S. Platinum spend."
+    },
+    {
+      "claim": "fee increases apply \"at renewal anniversaries\"",
+      "cited_file": "null",
+      "issue": "The quoted timing assertion is unsupported.",
+      "evidence_check": "No local match was found for \"at renewal anniversaries.\""
+    },
+    {
+      "claim": "Billed business grew +5%/+6% in 2024 but +9% (Q3'25) and +10% (Q1'26)",
+      "cited_file": "axp_2026-04-23_8-k.txt; axp_2025_10-k.txt",
+      "issue": "The stated growth-rate sequence is absent from the passages.",
+      "evidence_check": "The returned excerpts are cash-flow records and do not show the 5%/6%/9%/10% billed-business comparisons."
+    },
+    {
+      "claim": "\"our largest and fastest-growing cohort\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "No local match was found for the quoted cohort description."
+    },
+    {
+      "claim": "International Card Services is the volume standout at +20% in Q1'26",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The +20% ICS volume figure does not appear in this claim's passages.",
+      "evidence_check": "The passages contain unrelated AXP, MA, and V income-statement data, with no Q1'26 ICS volume table."
+    },
+    {
+      "claim": "full-year 13.0M (2024, a record) -> 12.5M (2025)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The new-card-acquisition values and the assertion that 2024 was a record are absent.",
+      "evidence_check": "The returned excerpts concern deposits and ICS segment results; 13.0M and 12.5M new cards do not appear."
+    },
+    {
+      "claim": "\"an increase in merchant surcharging on American Express cards ... an adverse customer experience\"",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "The supplied filing excerpts do not contain merchant-surcharging or adverse-customer-experience language."
+    },
+    {
+      "claim": "total provisions for credit losses went from a -$1,419M net benefit (2021, COVID release) to +$2,182M (2022) -> $4,923M (2023) -> $5,185M (2024) -> $5,256M (2025)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The passages confirm 2023-2025 only; the 2021 and 2022 values are absent.",
+      "evidence_check": "Found $4,923M, $5,185M, and $5,256M; did not find -$1,419M or $2,182M."
+    },
+    {
+      "claim": "the card-loan net write-off rate (principal only) climbed off pandemic lows of 0.9% (2022) to 1.8% (2023) to 2.2% (2024-2025)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The 2023-2025 card-loan rates are present, but the claimed 0.9% 2022 starting point is not.",
+      "evidence_check": "Found 1.8% for 2023 and 2.2% for 2024-2025 in Table 7; no 0.9% 2022 card-loan rate appears."
+    },
+    {
+      "claim": "Delinquency \u2014 the leading indicator \u2014 has been flat for three years",
+      "cited_file": "axp_2025_10-k.txt; axp_2026q1_10-q",
+      "issue": "The three-year flat series is not present, and one supplied passage says delinquency rose in 2023 versus 2022.",
+      "evidence_check": "No 2023-2025 flat delinquency table is included; the 2023 10-K excerpt states higher delinquency rates than 2022."
+    },
+    {
+      "claim": "30+ days past due held at 1.3% (consumer + small business) across 2023, 2024, and 2025 and every quarter Q2'24-Q1'26",
+      "cited_file": "axp_2025_10-k.txt; axp_2026q1_10-q",
+      "issue": "The annual and quarterly 1.3% series is absent from the claim-specific passages.",
+      "evidence_check": "The returned passages are cash-flow and income-statement records and contain no delinquency metrics."
+    },
+    {
+      "claim": "Write-off rates sat in a tight 1.9%-2.1% (principal only) band across all six quarters",
+      "cited_file": "axp_2024q2_10-q through axp_2026q1_10-q",
+      "issue": "The passage displays only five consolidated quarters, Q1'25 through Q1'26, not all six claimed quarters.",
+      "evidence_check": "Found consolidated principal-only rates of 2.0%, 2.1%, 1.9%, 2.0%, and 2.1%; the sixth quarter is not supplied."
+    },
+    {
+      "claim": "U.S. consumer 30-day past due fell 1.3% (Mar) -> 1.2% (Apr) -> 1.1% (May 2026)",
+      "cited_file": "axp_2026-05-15_8-k.txt; axp_2026-06-15_8-k.txt",
+      "issue": "The monthly delinquency series does not appear in this claim's passages.",
+      "evidence_check": "Only AXP cash-flow and income-statement JSON excerpts were returned; no March-May delinquency table appears."
+    },
+    {
+      "claim": "Q1'26 was a reserve-RELEASE quarter",
+      "cited_file": "axp_2026-04-23_8-k.txt; axp_2026q1_10-q",
+      "issue": "The provided excerpt does not show opening reserves, ending reserves, or a reserve release.",
+      "evidence_check": "The AXP passage ends in the income statement before the reserve rollforward; the other passages concern MA and V."
+    },
+    {
+      "claim": "a modest release of $(26)M on the combined \"Card balances\" basis",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The $(26)M release and combined reserve rollforward are absent.",
+      "evidence_check": "The passages contain unrelated MA/V data and an AXP income-statement excerpt, but no $(26)M figure."
+    },
+    {
+      "claim": "AXP's CECL reserving uses a ~three-year \"reasonable and supportable\" period reverting to long-term average loss rates",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The approximately three-year period is supported, but the claimed reversion to long-term average loss rates is not shown.",
+      "evidence_check": "Found the approximately three-year R&S period; searched the supplied passages for reversion to long-term averages and found none."
+    },
+    {
+      "claim": "with third-party macro scenarios keyed to unemployment and real GDP",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The passages mention unemployment and GDP generally but do not state that these are third-party macro scenarios.",
+      "evidence_check": "Found broad credit-risk references to unemployment and GDP; no independent-third-party scenario statement appears in this claim's passages."
+    },
+    {
+      "claim": "versus ~$230M (2024) and ~$160M (2023)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The 2024 and 2023 sensitivity amounts are absent.",
+      "evidence_check": "Searched the supplied filing excerpts for $230M and $160M macro sensitivity values; neither appears."
+    },
+    {
+      "claim": "$13.8B of pretax income",
+      "cited_file": "null",
+      "issue": "The passage's $13.8B figure refers to ICS loans, not company pretax income.",
+      "evidence_check": "Found $13.8B only as 2022 ICS total loans; no $13.8B pretax-income figure appears."
+    },
+    {
+      "claim": "Q2'25/Q3'25 explicitly cited \"deterioration in the macroeconomic outlook used in our reserve models\" as a build driver",
+      "cited_file": "axp_2025q2_10-q",
+      "issue": "The attributed quarterly filing statement is absent.",
+      "evidence_check": "The passages contain unrelated cash-flow and income-statement data and do not include the quoted reserve-model language."
+    },
+    {
+      "claim": "Q1'26 combined card loans and receivables into a single \"Card balances\" line",
+      "cited_file": "axp_2026q1_10-q; axp_2026-04-23_8-k.txt",
+      "issue": "The supplied excerpt uses the phrase \"Card balances\" but does not establish that loans and receivables were combined.",
+      "evidence_check": "Found \"Interest on Card balances and Other loans\"; no presentation-change explanation appears in this claim's passages."
+    },
+    {
+      "claim": "the headline reserve ratio drops from ~4.1% (loans-only, Q2'24-Q3'25) to 2.8% of Card balances",
+      "cited_file": "axp_2026q1_10-q; axp_2026-04-23_8-k.txt",
+      "issue": "Neither the historical 4.1% loans-only ratio nor the 2.8% comparison appears in the passages.",
+      "evidence_check": "The returned excerpts are unrelated cash-flow/income-statement data and do not contain the reserve-ratio series."
+    },
+    {
+      "claim": "provisions of $5.3B are now a larger annual cost than net card fees were until recently",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The passages do not show annual provisions or historical net card fees needed for this comparison.",
+      "evidence_check": "The visible $5.3B figure refers to share repurchases, not credit-loss provisions."
+    },
+    {
+      "claim": "the loan book, which grew from $88.6B (2021) to $151.8B (2025)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "Neither loan-book endpoint appears in the passages.",
+      "evidence_check": "Searched the supplied 10-K excerpts for $88.6B and $151.8B; neither is present."
+    },
+    {
+      "claim": "write-offs are \"best-in-class\" by AXP's repeated framing",
+      "cited_file": "axp_2023_10-k.txt; axp_2026q1_10-q",
+      "issue": "The attributed \"best-in-class\" characterization is absent.",
+      "evidence_check": "Only cash-flow records were returned; no best-in-class wording appears."
+    },
+    {
+      "claim": "As a three-party (closed-loop) network, AXP earns discount revenue and card fees",
+      "cited_file": "null",
+      "issue": "The closed-loop/three-party characterization and revenue-model statement are absent from the passages.",
+      "evidence_check": "The returned passages consist solely of cash-flow records and do not discuss network structure or revenue sources."
+    },
+    {
+      "claim": "it is \"subject to exemptions related to certain of these regulations\" governing \"interchange fees paid to card issuers in payment networks such as Visa and Mastercard [and] network routing practices\"",
+      "cited_file": "axp_2024_10-k.txt; axp_2025_10-k.txt",
+      "issue": "The quoted exemption and routing language is not contained in this claim's passages.",
+      "evidence_check": "The supplied excerpts are from the 2023 10-K and discuss interchange regulation, but not the quoted exemption/routing statement."
+    },
+    {
+      "claim": "The interchange-cap and routing regime (the substance of Durbin / the Credit Card Competition Act, though those terms are not named in the filings) targets the four-party model \u2014 Visa, Mastercard, and their issuers, which now includes Capital One \u2014 not AXP's closed loop.",
+      "cited_file": "null",
+      "issue": "The regulatory targeting, four-party-model distinction, Capital One reference, and AXP exemption are all absent.",
+      "evidence_check": "The passages are cash-flow records and contain none of the asserted regulatory or network-model facts."
+    },
+    {
+      "claim": "CFPB $8 late-fee rule: proposed",
+      "cited_file": "axp_2023_10-k.txt",
+      "issue": "The proposed $8 late-fee rule is absent from the passages.",
+      "evidence_check": "The supplied 2023 10-K excerpts discuss business performance and other matters, not the CFPB late-fee proposal."
+    },
+    {
+      "claim": "dropped entirely from the 2025 10-K (vacated)",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The excerpts cannot establish either omission from the entire filing or that the rule was vacated.",
+      "evidence_check": "Only isolated portions of the 2025 10-K are provided; no vacatur statement appears."
+    },
+    {
+      "claim": "Merchant antitrust (Oliver/Moskowitz, E.D.N.Y.): after an August 2025 trial the jury found for AXP on all claims except a $12.5M Illinois consumer-law claim",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The case names, trial result, and $12.5M award are absent.",
+      "evidence_check": "The passages contain only cash-flow records and no legal-proceedings text."
+    },
+    {
+      "claim": "AXP is settling, with estimated loss in excess of accruals capped near $420M-$450M",
+      "cited_file": "axp_2026q1_10-q; axp_2024q3_10-q",
+      "issue": "The settlement and loss-range figures are absent.",
+      "evidence_check": "The supplied passages contain cash-flow records only; $420M-$450M does not appear."
+    },
+    {
+      "claim": "$10.8B of net income",
+      "cited_file": "null",
+      "issue": "No $10.8B net-income figure appears in the passages.",
+      "evidence_check": "The only 10.8 figure found is a percentage net-interest yield, not net income."
+    },
+    {
+      "claim": "EU KLM cobrand interchange case: the CJEU ruled April 16, 2026",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The legal case, court, and ruling date are absent.",
+      "evidence_check": "The passages contain financial JSON records only and no KLM or CJEU discussion."
+    },
+    {
+      "claim": "cobrand payments are capped only where they have \"an equivalent object or effect to an interchange fee ... a matter for case-by-case assessment\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The attributed legal quotation is absent.",
+      "evidence_check": "No local match was found for the quoted interchange-fee test."
+    },
+    {
+      "claim": "the March 2025 Advocate General opinion",
+      "cited_file": "null",
+      "issue": "No Advocate General opinion or March 2025 event appears in the passages.",
+      "evidence_check": "The returned passages contain only financial records."
+    },
+    {
+      "claim": "AXP became a Category III firm in Q3'24",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The Category III designation and timing are absent.",
+      "evidence_check": "The passages contain cash-flow records only and no regulatory-category discussion."
+    },
+    {
+      "claim": "\"anticipate[s] becoming a Category II firm in the second quarter of 2026\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The attributed regulatory-category forecast is absent.",
+      "evidence_check": "The supplied AXP and COF financial JSON passages do not contain the quotation."
+    },
+    {
+      "claim": "the March 2026 Basel III NPRs are scored \"from modest reduction in risk-weighted assets to broadly neutral\"",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The Basel III proposals and attributed impact assessment are absent.",
+      "evidence_check": "The claim-specific passages contain financial JSON records only."
+    },
+    {
+      "claim": "the 2023/2024 filings said \"owned by Discover.\"",
+      "cited_file": "null",
+      "issue": "The alleged wording from the 2023 and 2024 filings is absent from this claim's passages.",
+      "evidence_check": "The supplied cash-flow and income-statement excerpts do not contain \"owned by Discover.\""
+    },
+    {
+      "claim": "\"competition may also intensify as participants in the payments industry merge ... which may create advantages in competing with our products and services\"",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "No local match was found for the quoted merger-competition language."
+    },
+    {
+      "claim": "Capital One now owns a scaled U.S. network",
+      "cited_file": "null",
+      "issue": "The ownership and scale characterization are absent from the passages.",
+      "evidence_check": "The returned AXP statistical tables contain no Capital One or network-ownership information."
+    },
+    {
+      "claim": "through Q1'26 AXP's billed business ACCELERATED to +10% and card fees held +18%",
+      "cited_file": "axp_2026q1_10-q; axp_2026-04-23_8-k.txt",
+      "issue": "Neither the +10% billed-business rate nor +18% card-fee rate appears in this claim's passages.",
+      "evidence_check": "The returned passages are cash-flow records and do not contain the cited operating metrics."
+    },
+    {
+      "claim": "the share count stepping 383M -> 505M -> 622M",
+      "cited_file": "cof_income_statement.json",
+      "issue": "The passage shows share counts near 383M only; 505M and 622M are absent.",
+      "evidence_check": "Found 383.0M-383.1M weighted-average shares in the excerpt; no 505M or 622M values appear."
+    },
+    {
+      "claim": "it absorbed Discover and its day-2 CECL reserve build",
+      "cited_file": "cof_income_statement.json",
+      "issue": "The Discover acquisition and day-two CECL reserve build are absent.",
+      "evidence_check": "The passages discuss AXP's competitors and unrelated risks, not COF acquisition accounting."
+    },
+    {
+      "claim": "an acquirer taking a $4.3B loss to close a deal",
+      "cited_file": "cof_income_statement.json",
+      "issue": "The $4.3B loss and deal-closing context are absent.",
+      "evidence_check": "The supplied passages are unrelated filing material and do not contain the asserted acquisition loss."
+    },
+    {
+      "claim": "New/agentic-commerce and BNPL competition are flagged",
+      "cited_file": "axp_2025q3_10-q; axp_2025_10-k.txt",
+      "issue": "Neither agentic-commerce nor BNPL competition appears in the claim-specific evidence.",
+      "evidence_check": "No local match was found for either competitive category."
+    },
+    {
+      "claim": "Q2'25 net income printed -4% YoY against a gain-inflated Q2'24",
+      "cited_file": "axp_2025q2_10-q",
+      "issue": "The Q2'25 and Q2'24 net-income comparison and -4% rate are absent.",
+      "evidence_check": "The passages contain unrelated cash-flow and old income-statement excerpts; no Q2'25 YoY comparison appears."
+    },
+    {
+      "claim": "Revenue growth has been ACCELERATING into 2026: +7%/+8% in 2024 to +11% in both Q3'25 and Q1'26",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The stated quarterly growth-rate sequence is absent.",
+      "evidence_check": "The passages contain cash-flow records and unrelated historical income-statement data, not the 7%/8%/11%/11% sequence."
+    },
+    {
+      "claim": "Visa earned $6,021M and Mastercard ~$3,882M of net income in the March-2026 quarter at ~50%+ margins",
+      "cited_file": "v_income_statement.json; ma_income_statement.json",
+      "issue": "The claim-specific passages do not contain Visa or Mastercard March-2026 results.",
+      "evidence_check": "Only AXP cash-flow/income-statement and COF income-statement excerpts were supplied for this combined claim."
+    },
+    {
+      "claim": "AXP returned $5.3B (2023), $7.9B (2024), and $7.6B (2025) of capital",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The passage confirms $7.6B for 2025 but not total capital returns of $5.3B and $7.9B for 2023 and 2024.",
+      "evidence_check": "Found 2023-2025 repurchase costs and the 2025 total return; the claimed 2023 and 2024 total-return figures are absent."
+    },
+    {
+      "claim": "CET1 held steady at 10.5% inside the 10-11% target range",
+      "cited_file": "axp_2025_10-k.txt; axp_2026q1_10-q",
+      "issue": "Neither the 10.5% CET1 figure nor the 10-11% target range appears in the passages.",
+      "evidence_check": "The returned passages are cash-flow records only."
+    },
+    {
+      "claim": "with a portion earmarked for shareholders",
+      "cited_file": "axp_2026-05-04_8-k.txt",
+      "issue": "No supporting passage was returned for this claim.",
+      "evidence_check": "No local match was found for the shareholder-earmark statement in the claim-specific evidence."
+    },
+    {
+      "claim": "even as net income rose",
+      "cited_file": "axp_cash_flow.json",
+      "issue": "The cited cash-flow passages contain no net-income figures or trend.",
+      "evidence_check": "No local match was found and axp_cash_flow.json excerpts do not report net income."
+    },
+    {
+      "claim": "deposit growth (+8%)",
+      "cited_file": "axp_2026-04-23_8-k.txt",
+      "issue": "The customer-deposit line and its 8% change are not visible in the supplied passages.",
+      "evidence_check": "The excerpt begins after the customer-deposit values; other displayed 8% figures relate to card balances."
+    },
+    {
+      "claim": "NII is $4,692M of $18,907M revenue (~25%)",
+      "cited_file": "null",
+      "issue": "The passages show $4,692M NII but not the $18,907M revenue denominator.",
+      "evidence_check": "Found netInterestIncome of $4.692B in JSON; searched the supplied passages for $18.907B and found none."
+    },
+    {
+      "claim": "the loan book has grown to $151.8B",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The $151.8B loan-book value is absent.",
+      "evidence_check": "No local match was found for $151.8B."
+    },
+    {
+      "claim": "provisions have risen to $5.3B",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The visible $5.3B figure refers to share repurchases, not credit-loss provisions.",
+      "evidence_check": "No provision figure of $5.3B appears in the claim-specific passages."
+    },
+    {
+      "claim": "a contractual $10B card-fee annuity growing +18%",
+      "cited_file": "null",
+      "issue": "The $10B card-fee amount, contractual/annuity characterization, and 18% growth rate are absent.",
+      "evidence_check": "The passages contain cash-flow records only and no card-fee data."
+    },
+    {
+      "claim": "\"more stable in relation to short-term ... economic shifts\"",
+      "cited_file": "axp_2025_10-k.txt",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "No local match was found for the stability language."
+    },
+    {
+      "claim": "a closed-loop model exempt from the interchange regulation gutting peers",
+      "cited_file": "axp_2024_10-k.txt; axp_2025_10-k.txt",
+      "issue": "The closed-loop exemption and impact on peers are absent.",
+      "evidence_check": "No local match was found for this regulatory characterization."
+    },
+    {
+      "claim": "a 34-36% ROE machine",
+      "cited_file": "axp_2025_10-k.txt; axp_2026-04-23_8-k",
+      "issue": "The claim-specific passages do not contain AXP ROE figures.",
+      "evidence_check": "The returned excerpts are unrelated income-statement data for AXP, COF, and MA without an AXP ROE table."
+    },
+    {
+      "claim": "returning ~75% of earnings",
+      "cited_file": "null",
+      "issue": "No capital-return amount or earnings denominator is provided to support the 75% ratio.",
+      "evidence_check": "The passages show ROE/ROCE components only and contain no payout calculation."
+    },
+    {
+      "claim": "the ~$4.3B integration loss",
+      "cited_file": "cof_income_statement.json; axp_2025_10-k.txt",
+      "issue": "The integration-loss amount and context are absent.",
+      "evidence_check": "The passages are unrelated encoded filing material and AXP 10-K excerpts; no $4.3B integration loss appears."
+    },
+    {
+      "claim": "income_statement.json's AXP \"revenue\" ($10,517M) conflicts with the filed $18,907M",
+      "cited_file": "axp_income_statement.json; axp_2026q1_10-q",
+      "issue": "Neither $10,517M nor $18,907M appears in the claim-specific passages, so the asserted conflict cannot be checked.",
+      "evidence_check": "The returned passages contain AXP cash-flow records only."
+    },
+    {
+      "claim": "The Q1'26 reserve-ratio break (4.1% loans-only -> 2.8% Card balances) is a definitional change",
+      "cited_file": "axp_2026q1_10-q",
+      "issue": "The 4.1% and 2.8% ratios and the presentation-change explanation are absent.",
+      "evidence_check": "The supplied excerpts contain unrelated income-statement records and no reserve-ratio disclosure."
+    },
+    {
+      "claim": "No numeric management guidance exists anywhere in the data",
+      "cited_file": "null",
+      "issue": "The global absence of numeric guidance is not established by any passages.",
+      "evidence_check": "No local match was found, and no comprehensive search result or guidance inventory is supplied."
+    },
+    {
+      "claim": "Cash-flow data is Q1-only for every company",
+      "cited_file": "null",
+      "issue": "No evidence about every company's cash-flow file is supplied.",
+      "evidence_check": "No local match was found and the passages do not survey all companies."
+    },
+    {
+      "claim": "V/MA are gross",
+      "cited_file": "null",
+      "issue": "The accounting-classification assertion is not stated in the passages.",
+      "evidence_check": "The MA excerpts report revenue and expenses but do not label the revenue presentation as gross or contrast it with other companies."
+    }
+  ],
+  "synthesis_found": "These are not in tension once you see the fee engine correctly \u2014 not as the whole company, but as the shock absorber and the differentiator.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/axp_cash_flow.json",
+    "financials/income_statement/axp_income_statement.json",
+    "financials/income_statement/cof_income_statement.json",
+    "financials/income_statement/ma_income_statement.json",
+    "financials/income_statement/v_income_statement.json",
+    "press_releases/axp_2026-04-23_8-k.txt",
+    "press_releases/axp_2026-05-04_8-k.txt",
+    "press_releases/axp_2026-05-15_8-k.txt",
+    "press_releases/axp_2026-06-15_8-k.txt",
+    "press_releases/axp_2026-06-17_8-k.txt",
+    "press_releases/axp_2026-06-25_8-k.txt",
+    "sec_filings/10-k/axp_2023_10-k.txt",
+    "sec_filings/10-k/axp_2024_10-k.txt",
+    "sec_filings/10-k/axp_2025_10-k.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 149,
+  "grounding_claims_no_match": 17,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

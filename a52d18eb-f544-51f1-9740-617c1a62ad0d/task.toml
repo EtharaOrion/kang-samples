@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability"
+description = "Assess whether Domino's same-store-sales recovery and unit growth are durable and self-sustaining, reconciling reaccelerating U.S. comps against decelerating international comps, fortressing and master-franchise unit economics, aggregator-channel mix, and the franchise-plus-supply-chain profit engine versus QSR competitors."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DPZ"]
+
+[metadata]
+uuid = "a52d18eb-f544-51f1-9740-617c1a62ad0d"
+difficulty_explanation = "The task requires separating a reaccelerating U.S. comp from a decelerating international comp across the 10-K, the latest 10-Q, and press releases, while accounting for hard prior-year rollovers rather than reading a single blended same-store-sales figure. It further demands linking two distinct growth levers — same-store sales and net store growth — to franchise royalty, advertising, and supply-chain revenue, and weighing fortressing cannibalization, master-franchise (DPC Dash) dependency, and margin-dilutive aggregator volume. A strong answer must take a defensible position on durability and reconcile these opposing signals against peer financials rather than restating management's framing."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

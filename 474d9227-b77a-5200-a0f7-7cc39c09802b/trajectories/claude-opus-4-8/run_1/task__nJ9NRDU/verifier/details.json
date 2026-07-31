@@ -1,0 +1,449 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Credit Normalization and the Trajectory of Charge-Offs and Delinquencies",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent distinguishes the 3.30% consolidated 2025 charge-off rate from materially higher card charge-off rates and explicitly says the acquired portfolio reduced the card rate by 35 bps, making part of the improvement a mix effect rather than pure healing.",
+        "b": "The agent treats delinquency as a forward credit indicator and reconciles acquisition mix with purported same-book declines, concluding that both mix improvement and genuine normalization are present. This move is tainted because the cited domestic-card delinquency values were actually total-card values and the assertion that monthly observations covered an identical combined portfolio was unsupported.",
+        "c": "The agent provides a multi-year path through Q1 2026, but it does not explicitly identify first-quarter card charge-off peaks as seasonal or warn against interpreting that seasonality as a trend break."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "CECL Purchase-Accounting Distortion and the Allowance \"Double Count\"",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent identifies the approximately $8.8 billion initial non-PCD allowance as the principal acquisition-related provision distortion and characterizes it as an accounting entry rather than deteriorating credit economics. It does not state the full-year $20.7 billion provision, and the quoted support for the $8.8 billion ASC 326 treatment was flagged.",
+        "b": "The agent states that the allowance rose to $23.4 billion and coverage to 5.16%, then interprets the increase as acquisition and portfolio-composition driven rather than solely a bearish credit signal. The explanation relies partly on flagged claims about the day-two CECL mechanics and an unsupported domestic-card coverage comparison.",
+        "c": "Although the agent argues generally for normalizing the initial allowance out of run-rate earnings, it does not trace the distortion to Domestic Card's 2025 segment income of $858 million or provide an equivalent segment-level profitability analysis."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Discover Integration Execution: Costs, Goodwill, and Synergy Realization",
+      "moves_hit": [
+        "b"
+      ],
+      "moves_missed": [
+        "a",
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses integration expenses and operating efficiency, but it does not quantify the required roughly $1.8 billion cumulative burden or clearly reconcile that cumulative amount with the rise in non-interest expense and a normalized core cost base. Its stated $1.1 billion 2025 integration expense was also flagged as unsupported.",
+        "b": "The agent quantifies $13.4 billion of transaction goodwill and approximately $28.5 billion of total goodwill, discusses acquired intangibles, and links synergy shortfalls to future impairment risk. The supporting synergy-impairment quotation and filing-wide claim that synergies were never quantified were flagged.",
+        "c": "The answer weighs network upside against goodwill, regulatory, and competitive risks, but it does not substantively address the specified integration-execution risks of management-attention diversion, employee attrition, costs exceeding expectations, and benefits taking longer than expected."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capital, Funding, and Franchise Value: Reconciling the Bull and Bear Case",
+      "moves_hit": [
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b",
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent identifies the approximately $106.9 billion of acquired deposits and evaluates funding durability through lower deposit costs and growing brokered deposits, but it never states or analyzes the required 7.84% 2025 net interest margin.",
+        "b": "The agent references American Express and Synchrony, evaluates the issuer-plus-network model as a potential moat, and tests that view against Visa/Mastercard competition, merchant acceptance, and network parity risk. This move is tainted because its strongest market-position claims\u2014such as being the largest qualifying issuer and American Express being the only comparable scaled model\u2014were flagged as unsupported.",
+        "c": "The agent compares CET1 capital with a regulatory requirement and explicitly argues that the buffer can absorb the reserve build and integration burden while permitting repurchases and a dividend increase. The 9.0% requirement, $16 billion authorization, dividend increase, CET1 capital amount, and excess-capital calculation were among the flagged supporting claims.",
+        "d": "The agent provides an explicit synthesis rather than merely listing opposing facts: it reconciles credit and CECL concerns, integration and goodwill risks, funding and capital strength, and network upside into a clearly constructive underwriting conclusion. The synthesis is tainted because it relies materially on flagged claims concerning integration costs, capital capacity, buybacks, and other supporting facts."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "The Discover acquisition produced a $(4.3)B quarterly net loss.",
+      "cited_file": null,
+      "issue": "The retrieved passages mention the acquisition but do not show a $(4.3) billion quarterly net loss.",
+      "evidence_check": "Searched the claim-specific passages for 4.3, 4,277, 4,340, and quarterly net loss; none appears in the provided excerpts."
+    },
+    {
+      "claim": "The Discover acquisition produced an $(8.58) EPS print.",
+      "cited_file": null,
+      "issue": "The claim-specific passages contain only American Express EPS data and do not support Capital One's $(8.58) EPS.",
+      "evidence_check": "Searched the supplied passages for 8.58 and Capital One/Discover EPS; no match was provided."
+    },
+    {
+      "claim": "The Discover acquisition produced a ~$14/share cut to tangible book value.",
+      "cited_file": null,
+      "issue": "Neither the approximately $14 decline nor the relevant tangible-book-value comparison appears in the passages.",
+      "evidence_check": "Searched the supplied passages for $14 and tangible book value; no supporting values were found."
+    },
+    {
+      "claim": "CET1 was 14.4% against a 9.0% requirement.",
+      "cited_file": null,
+      "issue": "The 14.4% CET1 ratio appears, but the claim-specific passages do not contain a 9.0% requirement.",
+      "evidence_check": "Found 14.4% in the Q1 2026 capital table; searched for 9.0% as the applicable requirement and found no such value in these passages."
+    },
+    {
+      "claim": "Capital One was funding a $16B buyback.",
+      "cited_file": null,
+      "issue": "The passages do not mention a $16 billion Capital One buyback authorization or funding activity.",
+      "evidence_check": "Searched the supplied passages for 16 billion and buyback/repurchase; no supporting disclosure was found."
+    },
+    {
+      "claim": "Capital One raised its dividend by one-third.",
+      "cited_file": null,
+      "issue": "The passages do not provide the old and new dividend amounts needed to support the one-third increase.",
+      "evidence_check": "Searched the claim-specific excerpts for dividend values or a 33% increase; none appears."
+    },
+    {
+      "claim": "The domestic card net charge-off rate was 2.53% in 2022.",
+      "cited_file": "cof_2024_10-k.txt",
+      "issue": "The evidence identifies 2.53% as the total Credit Card rate, not the Domestic Card rate; Domestic Card was 2.47%.",
+      "evidence_check": "Table 25 shows Domestic credit card at 2.47% and Total credit card at 2.53% for 2022."
+    },
+    {
+      "claim": "The domestic card net charge-off rate was 4.57% in 2023.",
+      "cited_file": "cof_2024_10-k.txt",
+      "issue": "The evidence identifies 4.57% as the total Credit Card rate, not the Domestic Card rate; Domestic Card was 4.56%.",
+      "evidence_check": "Table 25 shows Domestic credit card at 4.56% and Total credit card at 4.57% for 2023."
+    },
+    {
+      "claim": "The domestic card net charge-off rate was 5.88% in 2024.",
+      "cited_file": "cof_2024_10-k.txt",
+      "issue": "The evidence identifies 5.88% as the total Credit Card business rate, while the portfolio table reports Domestic Card at 5.91%.",
+      "evidence_check": "Table 25 shows Domestic credit card at 5.91% and Total credit card at 5.88% for 2024."
+    },
+    {
+      "claim": "The auto net charge-off rate was 1.06% in 2022.",
+      "cited_file": "cof_2024_10-k.txt, cof_2025_10-k.txt",
+      "issue": "The supplied passages are unrelated balance-sheet and cash-flow data and do not contain the asserted auto rate.",
+      "evidence_check": "Searched the claim-specific passages for 1.06% and auto net charge-offs; no match was found."
+    },
+    {
+      "claim": "The auto net charge-off rate was 1.76% in 2023.",
+      "cited_file": "cof_2024_10-k.txt, cof_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the asserted auto rate.",
+      "evidence_check": "Searched the claim-specific passages for 1.76% and auto net charge-offs; no match was found."
+    },
+    {
+      "claim": "The auto net charge-off rate was 2.10% in 2024.",
+      "cited_file": "cof_2024_10-k.txt, cof_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the asserted auto rate.",
+      "evidence_check": "Searched the claim-specific passages for 2.10% and auto net charge-offs; no match was found."
+    },
+    {
+      "claim": "The auto net charge-off rate was 1.59% in 2025.",
+      "cited_file": "cof_2024_10-k.txt, cof_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the asserted auto rate.",
+      "evidence_check": "Searched the claim-specific passages for 1.59% and auto net charge-offs; no match was found."
+    },
+    {
+      "claim": "The company calls delinquencies \"the key credit quality indicator... [providing] an early warning of changes in potential future credit losses\".",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The attributed quotation is not present in the evidence.",
+      "evidence_check": "Local search returned no match for the quoted language."
+    },
+    {
+      "claim": "Domestic card 30+ day performing delinquency dropped from 4.26% in Q1 2025 to 3.66% in Q1 2026.",
+      "cited_file": "cof_2026-04-21_8-k.txt",
+      "issue": "The cited values are for Total Credit Card, not Domestic Card. Domestic Card was 4.25% and 3.70%, respectively.",
+      "evidence_check": "The table shows Domestic credit card at 3.70% in Q1 2026 and 4.25% in Q1 2025; Total credit card is 3.66% and 4.26%."
+    },
+    {
+      "claim": "The February, April and May 2026 monthly readings were on the identical combined portfolio.",
+      "cited_file": null,
+      "issue": "The passages do not establish that the three monthly readings covered an identical portfolio.",
+      "evidence_check": "Searched the supplied evidence for portfolio-comparability or identical-composition language; none was found."
+    },
+    {
+      "claim": "Synchrony stepped up buybacks.",
+      "cited_file": "syf_cash_flow.json",
+      "issue": "No Synchrony buyback comparison is included in the evidence.",
+      "evidence_check": "Local search returned no match."
+    },
+    {
+      "claim": "American Express stepped up buybacks.",
+      "cited_file": "axp_cash_flow.json",
+      "issue": "The supplied passages are unrelated Capital One competition disclosures and contain no American Express repurchase comparison.",
+      "evidence_check": "Searched the claim-specific passages for American Express stock repurchases or increasing buybacks; no support was found."
+    },
+    {
+      "claim": "Auto 30+ day delinquency rose from 4.02% in April 2026 to 4.24% in May 2026.",
+      "cited_file": "cof_2026-05-15_8-k.txt, cof_2026-06-15_8-k.txt",
+      "issue": "The supplied passages do not contain either monthly auto delinquency value.",
+      "evidence_check": "Searched the claim-specific evidence for 4.02%, 4.24%, April 2026, and May 2026 auto delinquency; no match was provided."
+    },
+    {
+      "claim": "Capital One reported a net loss of $(4,277)M in Q2 2025.",
+      "cited_file": "cof_2025q2_10-q.txt, cof_income_statement.json",
+      "issue": "The claim-specific passages contain balance-sheet and American Express cash-flow data, not the asserted Capital One net loss.",
+      "evidence_check": "Searched the supplied excerpts for 4,277 and Q2 2025 net loss; no match was found."
+    },
+    {
+      "claim": "Capital One reported EPS of $(8.58) in Q2 2025.",
+      "cited_file": "cof_2025q2_10-q.txt, cof_income_statement.json",
+      "issue": "The claim-specific passages do not contain the asserted EPS.",
+      "evidence_check": "Searched the supplied excerpts for 8.58 and Q2 2025 EPS; no match was found."
+    },
+    {
+      "claim": "Capital One stated: \"in the second quarter of 2025, we recorded an allowance for credit losses for non-PCD loans of $8.8 billion through the provision for credit losses in accordance with... ASC 326\".",
+      "cited_file": "cof_2025_10-k.txt, cof_2025q2_10-q.txt",
+      "issue": "The attributed statement is absent from the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for the quoted language, $8.8 billion, non-PCD, and ASC 326; no match was found."
+    },
+    {
+      "claim": "The $8.8B allowance entry was the difference between a losing quarter and a profitable one.",
+      "cited_file": null,
+      "issue": "The passages identify an $8.8 billion acquisition-related allowance but do not provide the quarterly loss or demonstrate the claimed counterfactual profitability.",
+      "evidence_check": "Found the $8.8 billion initial allowance disclosure, but no losing-quarter figure or without-allowance profitability calculation appears in these passages."
+    },
+    {
+      "claim": "The purchase price Capital One paid was $51.8B of stock.",
+      "cited_file": null,
+      "issue": "The passages state only that the acquisition was an all-stock transaction; they do not contain the $51.8 billion purchase-price figure.",
+      "evidence_check": "Searched the claim-specific passages for 51.8 billion; no match was found."
+    },
+    {
+      "claim": "CECL requires a separate lifetime expected-loss allowance on acquired non-PCD loans on \"day 2,\" run through the income statement.",
+      "cited_file": null,
+      "issue": "The passages show an initial allowance adjustment in Q2 2025 but do not state the general CECL requirement, lifetime-loss characterization, or quoted \"day 2\" treatment.",
+      "evidence_check": "Searched the supplied excerpts for lifetime expected loss, acquired non-PCD day 2 accounting, and income-statement requirement; the full asserted doctrine was not present."
+    },
+    {
+      "claim": "Purchased credit-deteriorated loans took a $2,870M initial allowance through a balance-sheet \"gross-up\" without affecting earnings.",
+      "cited_file": "cof_2025_10-k.txt, cof_2025q2_10-q.txt",
+      "issue": "The claim-specific passages do not contain $2,870 million or the asserted gross-up/no-earnings treatment.",
+      "evidence_check": "Searched the supplied evidence for 2,870, PCD gross-up, and no earnings effect; no supporting passage was found."
+    },
+    {
+      "claim": "The all-stock deal added approximately $47B of equity.",
+      "cited_file": "cof_balance_sheet.json",
+      "issue": "The claim-specific passages do not contain the Capital One equity balances needed for this calculation.",
+      "evidence_check": "Searched the supplied passages for the Q1 and Q2 2025 Capital One equity values or an approximately $47 billion increase; none appears."
+    },
+    {
+      "claim": "Management presented pro forma results that add the \"$8.8 billion increase to the provision... as if it had been recognized... [on] a Closing Date of January 1, 2024\".",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The quoted pro forma disclosure and January 1, 2024 assumption are absent from the supplied passages.",
+      "evidence_check": "Searched the claim-specific excerpts for pro forma, January 1, 2024, and the quoted $8.8 billion adjustment language; no match was found."
+    },
+    {
+      "claim": "Future Discover charge-offs draw down the allowance rather than hitting provision.",
+      "cited_file": null,
+      "issue": "No claim-specific passage supports this concrete accounting treatment.",
+      "evidence_check": "Local search returned no match for the asserted treatment."
+    },
+    {
+      "claim": "Domestic card allowance coverage fell 80 bps from 7.98% to 7.18%.",
+      "cited_file": "cof_2024_10-k.txt, cof_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the 7.98% and 7.18% coverage comparison.",
+      "evidence_check": "Searched the claim-specific excerpts for 7.98%, 7.18%, and an 80-basis-point decline; no match was found."
+    },
+    {
+      "claim": "The deal consideration included $1.1B of preferred stock.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "Although $1.1 billion appears in unrelated contexts, the passages do not identify it as preferred-stock deal consideration.",
+      "evidence_check": "Searched the claim-specific excerpts for preferred stock consideration; the $1.1 billion references concern collateral or a core-deposit intangible instead."
+    },
+    {
+      "claim": "The booked intangibles included $2.27B of Discover, Diners Club and PULSE brand value.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The evidence lists a $2.270 billion Brand/Trade names intangible but does not identify the included brands as Discover, Diners Club, and PULSE.",
+      "evidence_check": "Found $2,270 million for Brand/Trade names; searched the claim-specific passages for the three named brands and found no match."
+    },
+    {
+      "claim": "Integration expense was $1.1B in 2025.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The claim-specific passages contain unrelated $1.1 billion amounts and do not identify 2025 integration expense as $1.1 billion.",
+      "evidence_check": "Searched the supplied excerpts for integration expense; no supporting 2025 integration-expense statement appears."
+    },
+    {
+      "claim": "Global Payment Network volume was $74.0B in Q2 2025.",
+      "cited_file": "cof_2026-04-21_8-k.txt",
+      "issue": "The asserted network-volume figure does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 74.0 or 74,014 and Global Payment Network volume; no match was found."
+    },
+    {
+      "claim": "Q2 2025 was a partial post-close quarter.",
+      "cited_file": null,
+      "issue": "The passages identify Q2 2025 balance-sheet dates but do not provide the closing date or establish the partial post-close characterization.",
+      "evidence_check": "Searched the claim-specific evidence for the May 18, 2025 close and partial-quarter language; neither appears."
+    },
+    {
+      "claim": "Global Payment Network volume was $153.1B in Q3 2025.",
+      "cited_file": "cof_2026-04-21_8-k.txt",
+      "issue": "The asserted network-volume figure does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 153.1 or 153,117 and Global Payment Network volume; no match was found."
+    },
+    {
+      "claim": "Global Payment Network volume was $174.6B in Q4 2025.",
+      "cited_file": "cof_2026-04-21_8-k.txt",
+      "issue": "The asserted network-volume figure does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 174.6 or 174,644 and Global Payment Network volume; no match was found."
+    },
+    {
+      "claim": "Capital One received $8.8B in cash for the Discover home-loan portfolio.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The supplied passages contain $8.8 billion only as an allowance/provision figure, not as cash received from the home-loan sale.",
+      "evidence_check": "Searched the claim-specific excerpts for home-loan sale proceeds and $8.8 billion in cash; no supporting sale passage was found."
+    },
+    {
+      "claim": "The Brex consideration included 10.6M shares valued at $1.9B.",
+      "cited_file": "cof_2026q1_10-q.txt",
+      "issue": "The claim-specific passages do not contain the 10.6 million share count or $1.9 billion valuation.",
+      "evidence_check": "Searched the supplied excerpts for 10.6 million shares and $1.9 billion Brex consideration; no match was found."
+    },
+    {
+      "claim": "Capital One discloses no quantified synergy target in the 2025 10-K.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The limited excerpts do not establish the absence of a quantified target throughout the entire filing.",
+      "evidence_check": "Reviewed the supplied 10-K excerpts; they do not contain a target, but they are insufficient to verify a filing-wide absence claim."
+    },
+    {
+      "claim": "The filing warns that \"the inability to achieve expected synergies from the Transaction... could cause the estimated fair values of our reporting units to decline... and increase the risk of a goodwill impairment\".",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The attributed quotation is not present in the supplied passages.",
+      "evidence_check": "Searched the claim-specific excerpts for the quoted expected-synergies and goodwill-impairment language; no match was found."
+    },
+    {
+      "claim": "CET1 capital was $72.5B.",
+      "cited_file": "cof_2026q1_10-q.txt",
+      "issue": "No claim-specific passage contains the asserted CET1 capital amount.",
+      "evidence_check": "Local search returned no match for $72.5 billion or the corresponding CET1 capital value."
+    },
+    {
+      "claim": "Capital One had on the order of $27B of excess capital.",
+      "cited_file": null,
+      "issue": "The passages contain no Capital One capital figures or calculation supporting approximately $27 billion of excess capital.",
+      "evidence_check": "Searched the supplied evidence for $27 billion and an excess-capital calculation; no support was found."
+    },
+    {
+      "claim": "Consumer Banking period-end deposits were $324.9B in Q1 2025.",
+      "cited_file": "cof_2026-04-21_8-k.txt",
+      "issue": "The asserted $324.9 billion period-end deposit figure does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 324.9 or 324,920 in connection with Consumer Banking deposits; no match was found."
+    },
+    {
+      "claim": "Capital One is the largest U.S. card issuer that also owns a global payment network.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The passages establish ownership of a global payment network but do not contain the asserted largest-U.S.-issuer comparison.",
+      "evidence_check": "Searched the claim-specific excerpts for largest issuer language; no match was found."
+    },
+    {
+      "claim": "No scaled competitor besides American Express possesses a vertically integrated issuer-plus-network model.",
+      "cited_file": null,
+      "issue": "The passages discuss competitors but do not establish this market-wide exclusivity claim.",
+      "evidence_check": "Searched the supplied competition excerpts for vertically integrated issuer-plus-network ownership or an American Express-only comparison; no support was found."
+    },
+    {
+      "claim": "The Global Payment Network processed $401.8B of volume in FY2025.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The FY2025 network-volume number does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 401.8 or 401,775 and Global Payment Network volume; no match was found."
+    },
+    {
+      "claim": "The Global Payment Network processed $174.3B of volume in Q1 2026.",
+      "cited_file": "cof_2026q1_10-q.txt",
+      "issue": "The asserted Q1 2026 network-volume figure does not appear in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for 174.3 or 174,332 and Global Payment Network volume; no match was found."
+    },
+    {
+      "claim": "Discover remains subject to an ongoing SEC investigation.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The supplied passages do not mention the asserted SEC investigation.",
+      "evidence_check": "Searched the claim-specific excerpts for SEC investigation and Card Product Misclassification; no supporting investigation statement appears."
+    },
+    {
+      "claim": "Capital One inherited legacy Visa/Mastercard interchange antitrust exposure.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The evidence says Capital One and its subsidiaries were already defendants in the interchange litigation, not that the exposure was inherited through Discover.",
+      "evidence_check": "The cited litigation passage identifies Capital One as an issuing-bank defendant since the 2005 cases; no inherited-exposure statement appears."
+    },
+    {
+      "claim": "Capital One committed to a $265 billion, five-year Community Benefits Plan as a condition of the deal.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The passage says the plan was committed to as part of the acquisition, but does not state it was a condition of the deal.",
+      "evidence_check": "Found the $265 billion, five-year Community Benefits Plan disclosure; searched for condition-of-closing or deal-condition language and found none."
+    },
+    {
+      "claim": "The $1.2B litigation reserve compares with $72.5B of CET1 capital.",
+      "cited_file": null,
+      "issue": "Neither the $1.2 billion litigation reserve nor $72.5 billion CET1 capital appears in the claim-specific passages.",
+      "evidence_check": "Searched the supplied excerpts for both comparison values; no supporting match was found."
+    },
+    {
+      "claim": "Integration costs were $1.1B per year while efficiency was improving.",
+      "cited_file": null,
+      "issue": "The passages show quarterly integration expenses and improving efficiency, but do not state integration costs were $1.1 billion per year.",
+      "evidence_check": "Found efficiency improving from 59.02% to 55.57% and quarterly integration costs of $110M-$415M; no $1.1B-per-year figure appears."
+    },
+    {
+      "claim": "Capital One never sizes the synergies that justify $13.4B of goodwill.",
+      "cited_file": "cof_2025_10-k.txt",
+      "issue": "The excerpts establish $13.4 billion of goodwill and attribute it to expected synergies, but cannot verify the filing-wide assertion that synergies are never quantified.",
+      "evidence_check": "Reviewed the supplied excerpts for a quantified synergy target; none appears, but the passages are insufficient to prove absence throughout the full filing."
+    }
+  ],
+  "synthesis_found": "Credit is normalizing AND the acquisition improved the mix \u2014 these are complementary, not contradictory.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/cof_balance_sheet.json",
+    "financials/cash_flow/axp_cash_flow.json",
+    "financials/cash_flow/cof_cash_flow.json",
+    "financials/cash_flow/syf_cash_flow.json",
+    "financials/income_statement/axp_income_statement.json",
+    "financials/income_statement/cof_income_statement.json",
+    "financials/income_statement/syf_income_statement.json",
+    "press_releases/cof_2026-03-16_8-k.txt",
+    "press_releases/cof_2026-04-21_8-k.txt",
+    "press_releases/cof_2026-05-15_8-k.txt",
+    "press_releases/cof_2026-06-15_8-k.txt",
+    "sec_filings/10-k/cof_2023_10-k.txt",
+    "sec_filings/10-k/cof_2024_10-k.txt",
+    "sec_filings/10-k/cof_2025_10-k.txt",
+    "sec_filings/10-q/cof_2025q2_10-q.txt",
+    "sec_filings/10-q/cof_2025q3_10-q.txt",
+    "sec_filings/10-q/cof_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 162,
+  "grounding_claims_no_match": 4,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

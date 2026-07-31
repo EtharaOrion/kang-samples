@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process verifies each material source's identity and reporting context from its contents before using that source to form analytical claims, rather than relying on filenames alone.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of source-open, header-reading, and table-reading steps relative to the first substantive claims; look for content-based identification of issuer, document type, and covered period."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process explores the materially relevant source classes across the corpus instead of relying predominantly on a single filing, release, or structured-data file.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-access and search steps for coverage of annual filings, quarterly filings, earnings or transaction releases, and Boeing structured financial statements across current and historical periods; peer files need appear only if a peer comparison is pursued."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into distinct analytical workstreams for production and certification, cash and financing endurance, backlog conversion and program economics, and portfolio actions.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an early plan, question list, claim-evidence matrix, or equivalent structure that treats the four workstreams separately before detailed interpretation begins."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a dated operational chronology that keeps realized production or delivery performance distinct from targets, expectations, and condition-dependent plans.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect notes, extraction tables, or intermediate reasoning for dated 737 or 787 observations labeled by status such as achieved, planned, expected, or dependent on certification or regulatory concurrence."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process gathers cash-generation and balance-sheet evidence with enough reporting-period context to evaluate financial endurance without conflating annual, quarterly, and point-in-time measures.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the evidence ledger or calculations for period-labeled operating cash flow, capital spending, liquidity, debt, maturities, or financing commitments and for avoidance of unlabeled annual-versus-quarter comparisons."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process classifies portfolio-related cash effects separately from recurring operating cash generation.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for transaction notes or bridges that identify acquisition consideration, divestiture proceeds, stock consideration, acquired cash, or similar portfolio effects as distinct categories rather than treating them as operating performance."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively pairs material evidence favoring recovery with consequential evidence that could undermine its durability or economic value.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect paired tables, challenge questions, or reasoning steps that test favorable production, backlog, cash, debt, or portfolio indicators against regulatory, certification, charge, margin, working-capital, financing, integration, or disruption risks."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests management credibility by comparing earlier forward-looking milestones with subsequently disclosed outcomes rather than evaluating only the latest outlook.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a dated forecast-versus-outcome comparison involving production rates, certification timing, first deliveries, cash expectations, or other previously stated milestones."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process visibly separates company-reported measures from analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect tables or calculation steps for explicit labels such as reported versus derived, with formulas and source inputs shown for calculated changes, ratios, free cash flow, net liquidity, or production-rate gaps."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "When disclosures cannot be cleanly reconciled because of differing periods, definitions, or scopes, the process preserves the discrepancy or labels the point unresolved instead of inventing a precise bridge.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect discrepancy logs, reconciliation notes, caveats, and the final answer for explicit unknowns or definition mismatches that remain visible rather than being silently normalized."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process integrates the opposing evidence into a causal explanation of which considerations dominate, rather than ending with a list of disconnected positives and negatives.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis steps or final analytical section for explicit weighing that connects operational execution and certification to deliveries, margins, working capital, cash generation, and financing capacity."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process reaches one explicit, defensible position on recovery credibility and financial endurance rather than remaining neutral or presenting only scenarios without a conclusion.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening or conclusion of the final answer for a direct stance, including a qualified stance if appropriate, that follows from the preceding synthesis."
+    }
+  ]
+}

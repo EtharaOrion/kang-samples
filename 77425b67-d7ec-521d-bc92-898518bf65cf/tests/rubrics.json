@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The trajectory visibly inspects source contents and reporting conventions before using those sources to form substantive claims.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early file-opening or parsing steps for checks of covered period, units, fiscal conventions, KPI definitions, and quarterly-versus-year-to-date presentation before analytical assertions appear."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory demonstrates broad reconnaissance across the available source classes rather than relying predominantly on one document type.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an inventory or exploration trail spanning company SEC filings, structured financial statements, press releases, historical business-model material, company profiles, and peer financial files."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The analysis is explicitly decomposed into connected tests covering revenue durability, operating leverage, enterprise visibility, and AI-platform monetization.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, a question tree, or an equivalent structure that connects each test to relevant metrics, disclosures, risks, and possible contrary interpretations."
+    },
+    {
+      "id": "c4",
+      "concern": "grounding_before_claim",
+      "text": "The process maintains claim-level evidence records that preserve the context needed to interpret each contemplated factual claim.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a ledger, notes, or structured extracts recording the source file, reporting period, units, definition, comparison base, and nearby management explanation for individual claims."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process performs cross-source reconciliation of repeated financial or operating disclosures instead of silently normalizing differences.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect comparisons among structured statements, annual or quarterly filings, and releases for the same figures or KPIs, together with exception notes or documented resolution of discrepancies."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "The trajectory actively searches for and records evidence that could overturn the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an adverse-evidence table, targeted searches, alternative hypotheses, or a written opposing case addressing issues such as comparison-base effects, usage sensitivity, backlog limitations, margin pressure, or uncertain AI monetization."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process stress-tests its operating-leverage interpretation against divergence among GAAP, company-adjusted, and cash-based measures.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect bridges or analytical notes examining whether stock-based compensation, working-capital timing, depreciation, capital spending, or gross-margin movement explains differing profitability signals."
+    },
+    {
+      "id": "c8",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Analyst-derived calculations are made reproducible rather than presented as unexplained outputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for formulas, identified source inputs, accounting basis, units, and reported-versus-derived labels for growth, margins, cash flow, customer, retention, or obligation calculations."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative process keeps annual, discrete-quarter, and year-to-date periods compatible when making comparisons or derivations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the period matrix and calculation steps for period alignment, valid subtraction when deriving discrete quarters, and explicit handling of unavailable or incompatible periods."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process resolves the competing evidence into a unified causal explanation rather than leaving separate positive and negative fact lists.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final answer for an explanation connecting growth, customer expansion, contracted visibility, margin economics, profitability measures, infrastructure investment, and AI commercialization while explaining the relative weight of conflicting signals."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The final analytical process commits to one explicit interpretation of the central durability-versus-spending question.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a direct opening or concluding position that chooses between the competing interpretations and identifies what evidence drove that choice, rather than ending with a neutral recap."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves unresolved uncertainty instead of converting absent, ambiguous, or definition-limited disclosures into confident claims.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect exception logs, analytical caveats, or the final synthesis for explicit treatment of missing product revenue, uncertain unit economics, KPI-definition limitations, unresolved discrepancies, and the distinction between forecasts and realized results."
+    }
+  ]
+}

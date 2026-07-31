@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Premium and Diversified Revenue Mix Shift
+Delta's thesis is that premium and diversified revenue de-commoditize the airline; the analyst must quantify how far the mix has actually shifted and whether it is broadening.
+[a] Quantify the premium mix — premium-products ticket revenue of $22,097 million in 2025 versus $20,599 million in 2024 (up 7%), and Q1 2026 premium revenue up 14% year-over-year
+[b] Note that diversified, high-margin revenue represented 62% of total revenue and grew mid-teens, with premium yield growth outpacing main cabin
+[c] Identify the main-cabin inflection — Q1 2026 was the first full quarter of positive main-cabin unit revenue growth since the end of 2024, with main-cabin capacity contracted 3% as premium seat mix rose
+Source: sec_filings/10-k/dal_2025_10-k.txt, press_releases/dal_2026-04-08_8-k.txt, financials/income_statement/dal_income_statement.json
+
+2. Loyalty and the American Express Co-Brand Engine
+The SkyMiles/American Express relationship is the highest-quality earnings stream; the analyst must size it and judge its resilience.
+[a] Anchor American Express remuneration of $8.2 billion in 2025 (up approximately 11%), which Delta expects to grow to $10 billion over the next few years, with Q1 2026 remuneration of over $2 billion up 10%
+[b] Note Q1 2026 loyalty and related revenue up 13%, driven by double-digit growth in card spend and an expanding cardholder base
+[c] Frame SkyMiles as high-margin and resilient — the 10-K describes it as generating high-margin revenue and resilient cash flows, with 12% of revenue miles flown in 2025 from award travel across roughly 35 million award tickets
+Source: sec_filings/10-k/dal_2025_10-k.txt, press_releases/dal_2026-04-08_8-k.txt
+
+3. Balance-Sheet Deleveraging Toward Investment Grade
+Deleveraging is the second pillar; the analyst must show the debt trajectory and connect it to the cash the premium franchise throws off.
+[a] Establish adjusted net debt of $13.5 billion at the end of the March 2026 quarter, a reduction of $760 million from the end of 2025, and management's statement that adjusted net debt is below 2019 levels
+[b] Note Delta is rated investment grade by all three major agencies, with a weighted-average interest rate of 4.6% and 86% fixed-rate debt
+[c] Tie deleveraging to cash generation — $8.3 billion of operating cash flow and $4.6 billion of free cash flow in 2025, with $1.2 billion of free cash flow in Q1 2026 funding debt paydown
+Source: press_releases/dal_2026-04-08_8-k.txt, sec_filings/10-k/dal_2025_10-k.txt, financials/cash_flow/dal_cash_flow.json, financials/balance_sheet/dal_balance_sheet.json
+
+4. Capacity Discipline, Margins and the Durable-Earnings Verdict
+Whether the mix shift and deleveraging produce structurally less-cyclical earnings is the payoff question; a defensible conclusion must reconcile the premium story against thin absolute margins and residual cyclicality.
+[a] Weigh Q1 2026 operating margin of 4.6% and the June-quarter guide of a 6%–8% operating margin on low-teens revenue growth with flat capacity, as evidence of pricing power plus supply discipline
+[b] Engage the distortions and risks — the 2024 CrowdStrike-caused outage cut approximately $380 million of revenue over roughly 7,000 cancellations (inflating 2025 comparisons), plus fuel/refinery dynamics and airline-industry competitive intensity
+[c] Take an explicit position on whether the premium-mix shift plus deleveraging deliver durable, less-cyclical earnings power, reconciling record premium and loyalty revenue and a best-in-history balance sheet against still-single-digit operating margins and the industry's inherent cyclicality
+Source: press_releases/dal_2026-04-08_8-k.txt, sec_filings/10-k/dal_2025_10-k.txt, financials/income_statement/dal_income_statement.json

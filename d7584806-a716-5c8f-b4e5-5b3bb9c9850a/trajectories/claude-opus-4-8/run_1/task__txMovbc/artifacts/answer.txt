@@ -1,0 +1,274 @@
+CHARLES SCHWAB (SCHW): DEPOSIT AND NET-INTEREST-INCOME RECOVERY POST CASH-SORTING
+A view on the mechanics, the engine, and the limits of the recovery
+
+==================================================================================
+THESIS (the position, up front)
+==================================================================================
+
+Schwab's deposit and net-interest-income (NII) recovery is real, but it is a
+balance-sheet REPAIR story, not an earnings-power breakout — and the easy phase is
+already over. Between mid-2024 and early 2026, quarterly NII rose from a trough of
+$2,158M (Q2 2024) to $3,144M (Q1 2026), a 46% rebound
+(financials/income_statement/schw_income_statement.json), and net interest margin
+(NIM) climbed from 2.03% to 2.88% (sec_filings/10-q/schw_2025q2_10-q.txt,
+schw_2026q1_10-q.txt). But essentially all of that gain came from ONE mechanical
+lever: displacing ~$74B of high-cost (~4-5.5%) supplemental funding with returning
+sweep deposits (~0.2-0.7%). That lever is now spent — supplemental funding fell to
+$5.1B at year-end 2025 and FHLB borrowings to $0 by Q1 2026
+(sec_filings/10-k/schw_2025_10-k.txt; press_releases/schw_2026-04-16_8-k.txt) — and
+NIM has already flattened (2.90% in Q4 2025 to 2.88% in Q1 2026;
+press_releases/schw_2026-01-21_8-k.txt, schw_2026-04-16_8-k.txt). The durable part
+of the story is that client cash turned to genuine growth; the finite part is the
+funding arbitrage that drove the P&L. From here, NII growth must come from organic
+asset gathering feeding balance-sheet expansion — and that runway is being partly
+diverted into capital return against a capital ratio still tethered to AOCI recovery.
+Constructive, but past peak momentum.
+
+==================================================================================
+THEME 1 — END OF CASH SORTING AND THE SWEEP DEPOSIT TURN
+==================================================================================
+
+Position: The turn is real and confirmed by multiple independent series, but
+"deposits recovered" is too clean a phrase — the client cash came back, yet it
+pooled at the broker-dealer and off-balance-sheet rather than fully rebuilding the
+bank's deposit base, which remains BELOW its 2024 level.
+
+The cash-sorting episode peaked in May 2023 (sec_filings/10-k/schw_2024_10-k.txt).
+It carved bank deposits down relentlessly: $366.7B (YE2022) to $290.0B (YE2023) to
+$259.1B (YE2024) to $255.7B (YE2025) (sec_filings/10-k/schw_2025_10-k.txt,
+schw_2023_10-k.txt). The inflection to inflows first appeared in Q3 2024, when
+Schwab reported "an increase in client sweep cash" of +$0.6B
+(sec_filings/10-q/schw_2024q3_10-q.txt), and by Q1 2025 the company described
+"normalized cash behavior... following further deceleration in the pace of clients'
+reallocation of cash from sweep products to higher-yielding investment solutions"
+(sec_filings/10-q/schw_2025q1_10-q.txt). The most telling proxy is transactional
+sweep cash, which troughed near $398B in May 2025 and rose steadily to $461.5B by
+March 2026, +13% year over year (press_releases/schw_2026-04-16_8-k.txt). Combined
+bank sweep deposits and payables to brokerage clients grew $42.1B, or 14%, year over
+year in Q1 2026 (sec_filings/10-q/schw_2026q1_10-q.txt). And the clearest "sorting is
+over" tell: retail CD net outflows collapsed from $5.7B in Q4 2025 to $0.1B in Q1
+2026 (press_releases/schw_2026-01-21_8-k.txt, schw_2026-04-16_8-k.txt).
+
+STRONGEST COUNTER-EVIDENCE. Total BANK deposits did NOT recover. They stood at
+$253.0B at 3/31/26 — below $255.7B at YE2025 and below $259.1B at YE2024 — and
+actually fell QoQ, with the Q1 2026 cash-flow statement citing "a net decrease of
+$2.7 billion in bank deposits" (sec_filings/10-q/schw_2026q1_10-q.txt). The recovery
+shows up in "payables to brokerage clients" (broker-dealer client cash, +17% YoY to
+$118.0B; press_releases/schw_2026-04-16_8-k.txt), not in the bank. Meanwhile the
+off-balance-sheet Bank Deposit Account (BDA) sweep to third-party banks kept
+bleeding: -13% to $76.2B (YE2025) and -12% to $73.5B (Q1 2026)
+(press_releases/schw_2026-01-21_8-k.txt, schw_2026-04-16_8-k.txt) — Schwab even
+transferred $6.7B of BDA balances onto its own balance sheet in 2025 to accelerate
+funding paydown (sec_filings/10-k/schw_2025_10-k.txt). And client cash as a share of
+total assets was still 9.9% in March 2026, DOWN 70bp year over year, up only
+seasonally (press_releases/schw_2026-04-16_8-k.txt).
+
+RECONCILIATION. Cash sorting ended in the sense that client cash stopped fleeing and
+turned to growth — that is genuine and multiply confirmed. But the cash re-formed at
+a new, lower cash-to-assets plateau and increasingly in the broker-dealer, not the
+bank. So the deposit "turn" powered the funding-cost story (below) without fully
+restoring the bank's deposit franchise to its prior scale. Ambiguity worth flagging:
+because the recovering cash is partly a broker-dealer payable rather than a bank
+deposit, its future stickiness and rate sensitivity differ from classic core
+deposits — the data does not let us cleanly judge that.
+
+==================================================================================
+THEME 2 — NET INTEREST MARGIN RECOVERY: MECHANICS, NOT MAGIC
+==================================================================================
+
+Position: The NIM recovery is entirely a liability-side, funding-mix event. It is
+NOT a rising-rate windfall — rates were FALLING through 2025 — which is precisely why
+it deserves to be called mechanical rather than lucky, and precisely why it is
+finite.
+
+The trajectory: NIM ran 1.98% (FY2023) to 2.12% (FY2024) to 2.74% (FY2025)
+(sec_filings/10-k/schw_2025_10-k.txt), and quarterly 2.03% (Q2 2024, trough) to
+2.53% to 2.65% to 2.86% to 2.90% (Q4 2025 peak) to 2.88% (Q1 2026)
+(sec_filings/10-q/schw_2025q2_10-q.txt, schw_2025q3_10-q.txt;
+press_releases/schw_2026-01-21_8-k.txt, schw_2026-04-16_8-k.txt). NII followed: FY2025
+net interest revenue was $11,750M, up 28% from $9,144M in FY2024
+(sec_filings/10-k/schw_2025_10-k.txt).
+
+The mechanism is unambiguous in the average-balance data. In Q1 2026 vs Q1 2025,
+total funding cost fell from 0.99% to 0.75%, while the earning-asset yield barely
+moved (3.52% to 3.63%) (sec_filings/10-q/schw_2026q1_10-q.txt). Management states it
+plainly: NIM rose "as reduced aggregate use of wholesale funding and lower rates paid
+on funding sources more than offset lower yields on floating-rate assets"
+(sec_filings/10-q/schw_2026q1_10-q.txt). The arbitrage is stark: bank deposits cost
+just 0.20%-0.72% across this window, versus FHLB and other short-term borrowings at
+~3.85%-5.6% (sec_filings/10-q/schw_2026q1_10-q.txt, schw_2025q1_10-q.txt). Retiring
+5% funding and re-funding with 0.2% deposits is the whole trick.
+
+THE "NOT MAGIC" PROOF — PEER CONTRAST. Because 2025 was a rate-CUT year, a purely
+rate-sensitive lender saw NII fall. Interactive Brokers' NII declined from $967M
+(Q3 2025) to $904M (Q1 2026) (financials/income_statement/ibkr_income_statement.json).
+Schwab's rose over the same span. The divergence isolates the driver: Schwab's gain
+was self-help on the funding mix, not the rate environment.
+
+STRONGEST COUNTER-EVIDENCE / AMBIGUITY. Two caveats keep me from over-crediting the
+trend. First, a methodology reclassification of client margin long/short strategies
+added +0.02% (Q3 2025) and +0.01% (Q2 2025) to reported NIM
+(press_releases/schw_2026-01-21_8-k.txt) — small, but it flatters the slope.
+Second, and more important, the low-yielding investment book is a persistent drag:
+AFS yields 2.00% and HTM 1.72% (sec_filings/10-q/schw_2026q1_10-q.txt), far below
+loans at 4.27% and client receivables at 5.74%. As that book runs off it is a SLOW
+asset-side tailwind, but it also means the fast, one-time gain was purely on funding.
+The decisive datapoint: NIM ROLLED OVER from 2.90% to 2.88% between Q4 2025 and Q1
+2026. That is the first hard evidence that the funding tailwind is exhausting — once
+deposits are already at 0.20%, there is little left to squeeze.
+
+==================================================================================
+THEME 3 — PAYDOWN OF HIGH-COST SUPPLEMENTAL FUNDING AS THE REVERSAL ENGINE
+           — AND ITS LIMITS
+==================================================================================
+
+Position: This is THE engine of the recovery, executed with real discipline — and it
+is now essentially complete, which means the single largest driver of the NII rebound
+cannot repeat. The clearest sign is that management retired the concept itself.
+
+"Bank supplemental funding" — brokered CDs, FHLB borrowings, and repos at the banks
+(sec_filings/10-k/schw_2024_10-k.txt) — ballooned to a May-2023 peak and stood at
+roughly $79.6B at YE2023. The paydown arc:
+  $73.7B (Q2 2024) — brokered CDs $40.3B, FHLB $24.4B, repos $9.0B
+  $64.8B (Q3 2024)
+  $49.9B (YE2024, -37% YoY)
+  $38.1B (Q1 2025), $27.7B (Q2 2025), $14.8B (Q3 2025, -70% YTD)
+  $5.1B (YE2025, -90% for the year)
+(sec_filings/10-q/schw_2024q2_10-q.txt, schw_2024q3_10-q.txt, schw_2025q1_10-q.txt,
+schw_2025q2_10-q.txt, schw_2025q3_10-q.txt; sec_filings/10-k/schw_2025_10-k.txt).
+FHLB borrowings then hit $0 outstanding at 3/31/26
+(press_releases/schw_2026-04-16_8-k.txt; sec_filings/10-q/schw_2026q1_10-q.txt).
+
+The fuel was the runoff of the low-yielding securities book plus recovering cash:
+"Principal and interest payments on AFS and HTM securities, as well as transfers of
+$6.7 billion of BDA balances... supported paydowns in bank supplemental funding of
+$44.8 billion, or 90% during 2025" (sec_filings/10-k/schw_2025_10-k.txt). Portfolio
+cash inflows ran $58.9B (2023), $40.9B (2024), and $37.6B (2025)
+(sec_filings/10-k/schw_2025_10-k.txt, schw_2024_10-k.txt). Management sequenced it
+explicitly and even subordinated buybacks to it: "In evaluating returns of excess
+capital to stockholders, we will consider the amount of bank supplemental funding
+outstanding, and may choose to utilize the liquidity we would otherwise use for
+capital returns to repay outstanding bank supplemental funding balances"
+(sec_filings/10-q/schw_2025q2_10-q.txt).
+
+THE LIMIT. By Q1 2026 the balance was normalized ("within a range generally
+consistent with our diversified funding strategy"; sec_filings/10-k/schw_2025_10-k.txt),
+and the phrase "bank supplemental funding" was DROPPED entirely from the Q1 2026 10-Q,
+as was the sentence linking capital return to paydown
+(sec_filings/10-q/schw_2026q1_10-q.txt). When the balance is ~$5B and falling toward
+its structural floor, there is nothing left to arbitrage. The engine that produced a
+46% NII rebound has, by design, run out of road.
+
+STRONGEST COUNTER-EVIDENCE — AND WHY IT CUTS BOTH WAYS. The balance sheet is already
+RE-levering with wholesale funding. In Q1 2026, other short-term borrowings grew
++$5.5B to $12.5B, repos rose from $1.3B to $3.0B
+(sec_filings/10-q/schw_2026q1_10-q.txt), and Schwab issued $2.25B of senior notes in
+May 2026 and another $1.0B in June 2026 (press_releases/schw_2026-05-21_8-k.txt,
+schw_2026-06-29_8-k.txt). This is NOT a relapse into the deposit-hole funding of
+2023: the new borrowing funds a 52%-type surge in margin loans that yield 5.74%
+(sec_filings/10-q/schw_2026q1_10-q.txt) — a profitable, demand-driven use. But it
+does puncture any story that Schwab is now a pure low-cost, deposit-funded machine.
+The funding-cost tailwind is not just spent; at the margin it is gently reversing, as
+higher-cost wholesale funding re-enters the mix to chase asset growth.
+
+RECONCILIATION. Two facts that look contradictory — "supplemental funding eliminated"
+and "wholesale borrowing growing" — resolve cleanly: the DEPOSIT-DISPLACEMENT paydown
+(the P&L engine) is finished and non-repeatable, while NEW borrowing is asset-driven
+at the margin. The recovery was real and well-executed; its repeatability is zero.
+
+==================================================================================
+THEME 4 — ORGANIC GROWTH AND CAPITAL RETURN AS THE OFFSET
+           — AND THE BALANCE-SHEET TRADE-OFF
+==================================================================================
+
+Position: Organic growth is the genuine, durable engine that must now replace the
+funding arbitrage — and it is strong. But Schwab is simultaneously diverting that
+growth into capital return, calibrated right at the edge of a capital ratio still
+dependent on AOCI recovery. The result is a real but self-capping recovery: the
+company is monetizing the repair for shareholders rather than maximally reinvesting
+it into the low-cost balance sheet.
+
+The growth is not in doubt. Core net new assets reached $519.4B in FY2025, up 42%, a
+5.1% organic growth rate; total client assets hit $11.90T, up 18%; and new brokerage
+accounts exceeded 1 million for five consecutive quarters (4.7M new accounts in FY2025)
+(sec_filings/10-k/schw_2025_10-k.txt; press_releases/schw_2026-01-21_8-k.txt). Q1
+2026 core NNA was $157.5B ex a planned client deconversion, a 5.4% annualized rate
+(press_releases/schw_2026-04-16_8-k.txt). This asset-gathering machine is what
+converts into future sweep cash, deposits, and balance-sheet growth — the sustainable
+successor to the funding-cost story.
+
+Capital return ramped precisely as the paydown completed. Buybacks went from $0 in
+Q1 2024 to $1.5B in Q1 2025 to $7.3B for FY2025, plus $2.4B in Q1 2026
+(financials/cash_flow/schw_cash_flow.json; sec_filings/10-k/schw_2025_10-k.txt;
+press_releases/schw_2026-04-16_8-k.txt). A new $20B authorization was set in July 2025
+(sec_filings/10-k/schw_2025_10-k.txt); the common dividend rose 8% to $0.27 then 19%
+to $0.32 (press_releases/schw_2026-01-21_8-k.txt, schw_2026-04-16_8-k.txt); and the
+Series G preferred was redeemed for $2.5B in June 2025
+(sec_filings/10-k/schw_2025_10-k.txt). Diluted share count fell from 1,834M (Q1 2024)
+to 1,752M (Q1 2026), which is why diluted EPS more than doubled, from $0.66 to $1.37,
+outrunning the 46% NII gain (financials/income_statement/schw_income_statement.json).
+
+THE TRADE-OFF — AND THE BINDING CONSTRAINT. The governor here is the adjusted Tier 1
+leverage ratio, which INCLUDES AOCI. It was just 5.9% at CSC in Q2 2024
+(sec_filings/10-q/schw_2024q2_10-q.txt), climbed to 7.1%-7.3% through 2025 as the
+AOCI loss narrowed from $(14,848)M (YE2024) to $(10,983)M (YE2025)
+(sec_filings/10-q/schw_2025q3_10-q.txt, schw_2026q1_10-q.txt), reached the 6.75%-7.00%
+long-term objective — then FELL BACK to 6.8% in Q1 2026 as the $2.4B buyback and
+balance-sheet growth consumed capital (sec_filings/10-q/schw_2026q1_10-q.txt). The
+tell that this is capital-constrained, not capital-abundant: even while buying back
+common, Schwab ISSUED $1.5B of Series L preferred in April 2026
+(press_releases/schw_2026-04-22_8-k.txt) and added senior debt. A company swimming in
+excess capital does not top up preferred and senior funding while it repurchases
+stock. The buyback is a controlled release calibrated to whatever AOCI recovery plus
+retained earnings free up — not a flood.
+
+STRONGEST COUNTER-EVIDENCE. Schwab demonstrably did BOTH in 2025-26: total assets
+grew from the $449.7B trough (Q2 2024) to $493.3B (Q1 2026) even as it returned
+~$10B+ of capital (financials/balance_sheet/schw_balance_sheet.json). Equity held
+near $49B while retained earnings climbed from $37.6B (YE2024) to $45.9B (Q1 2026)
+(financials/balance_sheet/schw_balance_sheet.json). So it is not a strict either/or —
+earnings power plus AOCI recovery funded both growth and returns.
+
+RECONCILIATION. The resolution is one of DEGREE, not direction. Schwab can grow the
+balance sheet and return capital simultaneously — but only modestly, because the
+adjusted ratio remains pinned near the low end of target and dependent on a still-large
+$(10.8B) AOCI hole closing further. Aggressive reinvestment to maximize the low-cost
+balance sheet AND aggressive buybacks are not both available. Management has chosen to
+lean toward shareholder return (share count down, dividend +19%), which is defensible
+but structurally caps how fast the NII base can be rebuilt.
+
+==================================================================================
+UNIFIED CONCLUSION
+==================================================================================
+
+The four themes fold into one coherent picture. Cash sorting ended and client cash
+turned to growth (Theme 1); that returning, near-zero-cost cash was used to retire
+~$74B of 5% supplemental funding (Theme 3); the swap — not the rate environment —
+drove NIM from 2.03% to a 2.90% peak and NII up 46% (Theme 2); and as the paydown
+finished, the freed liquidity and recovering capital pivoted to organic-growth-funded
+capital return (Theme 4).
+
+But every strand also carries its own limit, and they point the same way. Bank
+deposits never fully rebuilt (Theme 1). NIM has already rolled over, 2.90% to 2.88%
+(Theme 2). Supplemental funding is gone and cannot be paid down again — indeed
+wholesale borrowing is creeping back to fund asset growth (Theme 3). And capital
+return is calibrated against an AOCI-constrained ratio that dipped even as buybacks
+ran (Theme 4).
+
+So my view is deliberately unbalanced toward one conclusion: this was a superbly
+executed, largely one-time balance-sheet normalization — roughly 90-100% complete —
+that has already delivered most of its P&L benefit. The recovery is authentic and
+earned, but its rate of improvement has peaked. What comes next is a slower, harder
+story: NII growth that depends on organic asset gathering translating into
+balance-sheet growth, net of a capital-return program that competes for the same
+capacity. The cheap, mechanical tailwind is behind Schwab; the durable, growth-driven
+grind is ahead.
+
+Key ambiguities I will not paper over: (1) the recovering client cash is
+increasingly a broker-dealer payable and off-balance-sheet BDA, whose stickiness and
+rate behavior differ from core bank deposits, and the data does not resolve that;
+(2) the sustainability of NIM near ~2.9% hinges on the pace of low-yield AFS/HTM
+runoff being redeployed into higher-yielding loans versus how much new wholesale
+funding is added back — a race the current data shows as roughly a standoff; and
+(3) the buyback pace is only as durable as continued AOCI recovery, which is a
+function of market interest rates outside Schwab's control.

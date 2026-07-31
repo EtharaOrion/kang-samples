@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Membership Fee Revenue Growth and the Fading Fee-Increase Tailwind
+Fee revenue is compounding at a double-digit rate, but a large slice of that growth came from the one-time September 2024 annual-fee increase, whose contribution is now lapping and shrinking — so the analyst must separate durable organic sign-up growth from a decaying price event.
+[a] Trace the membership fee revenue trajectory — $4,580 (2023), $4,828 (2024), $5,323 (2025), up 10% in 2025 — and its continuation into fiscal 2026 (Membership fees of $1,373 in Q3 2026 vs $1,240, up 11%), rather than treating fee growth as a single undifferentiated number.
+[b] Isolate the September 1, 2024 U.S./Canada fee increase from organic growth: it drove roughly 40% of membership income growth in 2025, but only about 25% (quarter) and 35% (thirty-six weeks) of the growth in 2026, showing the price tailwind fading as it laps.
+[c] Use the rising deferred membership fees balance ($2,854 at end of 2025, $3,157 by Q3 2026) as a forward indicator of the contracted, recurring fee base, distinguishing it from recognized fee revenue.
+Source: sec_filings/10-k/cost_2025_10-k.txt, sec_filings/10-q/cost_2026q3_10-q.txt, financials/income_statement/cost_income_statement.json, financials/balance_sheet/cost_balance_sheet.json
+
+2. Renewal-Rate Durability and Membership-Mix Headwinds
+Renewal rates are exceptionally high, but they have slipped at the margin and carry a persistent gap between domestic and worldwide levels driven by online and international mix — testing how durable the loyalty flywheel really is.
+[a] Contrast renewal rates of 92.3% in the U.S./Canada and 89.8% worldwide at the end of 2025 with 92.2% and 89.7% at the end of Q3 2026, reading the modest decline rather than asserting rates are simply "stable and high."
+[b] Explain the worldwide-versus-domestic gap: growth in newer international markets and a higher penetration of memberships sold online, including through digital promotions, which renew at a slightly lower rate on average.
+[c] Tie renewal to base expansion and loyalty quality — total paid members rising from 71,000 (2023) to 76,200 (2024) to 81,000 (2025), with Executive members reaching 38,700 of paid members and representing 73.6% of worldwide net sales — as evidence of engagement rather than just headcount.
+Source: sec_filings/10-k/cost_2025_10-k.txt, sec_filings/10-q/cost_2026q3_10-q.txt
+
+3. Thin Retail Margin and the Membership-Fee Profit Engine
+Costco runs on very low gross margins by design, so membership fees are a disproportionate share of profit; the analyst must also strip out gasoline, foreign-currency, and LIFO noise before judging underlying margin.
+[a] Establish that the warehouse model operates at roughly an eleven-percent gross margin and that membership fees, not merchandise mark-up, are the dominant profit source — comparing membership fee revenue against operating income from the income statement rather than looking at gross margin alone.
+[b] Separate reported gross margin from underlying margin by using the ex-gasoline figures management provides — gross margin percentage excluding gasoline deflation of 11.03% in fiscal 2025 and 11.26% excluding gasoline inflation in Q3 2026 — and note LIFO charges and foreign-currency swings as further distortions.
+[c] Use the income statement (and peers) to track operating income, SG&A, and net income trends, showing how comparable-sales-driven SG&A leverage rather than gross-margin expansion carries profitability in a low-margin model.
+Source: sec_filings/10-k/cost_2025_10-k.txt, sec_filings/10-q/cost_2026q3_10-q.txt, financials/income_statement/cost_income_statement.json
+
+4. Base-Expansion Durability vs. Cannibalization, Concentration, and Competition
+The bull case rests on a durable recurring-fee moat, high renewal, and warehouse growth; the bear case points to a fading fee tailwind, slipping renewal, thin margins, geographic concentration, and cannibalization — which must be reconciled into a single durability verdict.
+[a] Weigh warehouse expansion (914 warehouses at end of 2025, 24 net new during the year) and digitally-enabled/e-commerce growth (e-commerce comparable sales up 16% in 2025, digitally-enabled comps up 21% in Q3 2026) against the disclosed risk that new warehouses cannibalize existing ones in established markets.
+[b] Surface concentration and competitive risk: U.S. and Canada generate 86% of net sales, California alone is 26% of U.S. net sales, and management describes competition as vigorous and widespread while relying on Kirkland Signature private-label margins.
+[c] Confront the strongest counter-evidence directly — the shrinking fee-increase contribution and the small renewal-rate declines — against the recurring-fee moat and steady paid-member growth, rather than listing bull and bear points separately.
+[d] State an explicit, reconciled position on whether membership-growth durability and the fee/margin engine are strengthening or eroding, integrating the opposing data points from moves [a]–[c] into one clear conclusion rather than a balanced survey.
+Source: sec_filings/10-k/cost_2025_10-k.txt, sec_filings/10-q/cost_2026q3_10-q.txt, financials/income_statement/cost_income_statement.json, press_releases/, company_profiles.json

@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Credit Normalization and the Trajectory of Charge-Offs and Delinquencies
+The central tension is whether Capital One's consumer credit is genuinely normalizing/improving or whether headline improvement is an artifact of the Discover portfolio's mix rather than underlying borrower health.
+[a] Distinguish the consolidated net charge-off rate (3.30% in 2025) from the Credit Card segment rate (5.09%), and note that the acquired Discover loan portfolio mechanically lowered the reported card charge-off rate — so an apparent improvement is partly a mix/denominator effect, not pure credit healing.
+[b] Read the 30+ day delinquency rate (3.24% company-wide as of March 31, 2026, declining sequentially) as a forward indicator of future charge-offs, and reconcile whether falling delinquencies corroborate a real normalization thesis or simply reflect the seasoning of newly acquired balances.
+[c] Track the multi-year path (2023 through Q1 2026 across the 10-Ks and 10-Qs) rather than a single point, explicitly flagging first-quarter seasonal peaks in card charge-offs so the analyst does not mistake seasonality for a trend break.
+Source: sec_filings/10-k/cof_2025_10-k.txt, sec_filings/10-q/cof_2026q1_10-q.txt, sec_filings/10-k/cof_2024_10-k.txt
+
+2. CECL Purchase-Accounting Distortion and the Allowance "Double Count"
+Under CECL gross-up rules, the Discover acquisition forced Capital One to book a large day-one allowance for non-PCD loans through provision, depressing GAAP earnings even as economics were unchanged.
+[a] Explain that the 2025 provision for credit losses jumped to $20.7 billion largely because of the ~$8.8 billion initial allowance for non-PCD loans acquired in the Transaction, and that this is a one-time, non-cash-economics build rather than deteriorating credit.
+[b] Show how this build inflated the allowance for credit losses to $23.4 billion and lifted the allowance coverage ratio to 5.16%, and interpret higher coverage as partly a card-mix effect plus the acquisition day-one build, not solely a bearish loss-expectation signal.
+[c] Trace the earnings distortion to segment results — e.g., Domestic Card income falling to $858 million in 2025 — and argue why an analyst should normalize out the initial allowance to judge run-rate profitability.
+Source: sec_filings/10-k/cof_2025_10-k.txt, financials/income_statement/cof_income_statement.json, sec_filings/10-q/cof_2026q1_10-q.txt
+
+3. Discover Integration Execution: Costs, Goodwill, and Synergy Realization
+Closing the deal in mid-2025 created large goodwill and intangibles and an ongoing integration-cost drag, raising execution and impairment risk against promised synergies.
+[a] Quantify the integration burden — cumulative Discover integration expenses of roughly $1.8 billion since announcement, driving a sharp rise in non-interest expense — and separate these transitory costs from the core cost base when assessing normalized operating leverage.
+[b] Assess the ~$13.4 billion of goodwill recognized on the Transaction (total goodwill ~$28.5 billion) plus acquired intangible amortization as sources of future impairment and reported-EPS risk if synergy or payment-network monetization targets slip.
+[c] Weigh the integration-related risk factors (management-attention diversion, attrition, expenses exceeding expectations, benefits taking longer than expected) against the strategic upside of owning the Discover payment network, taking a view on whether integration risk is adequately reflected in the reported numbers.
+Source: sec_filings/10-q/cof_2026q1_10-q.txt, sec_filings/10-k/cof_2025_10-k.txt, press_releases/
+
+4. Capital, Funding, and Franchise Value: Reconciling the Bull and Bear Case
+The deal reshaped the balance sheet — adding deposits, lifting net interest margin, and adding a payment network — against a backdrop of intense competition and normalizing credit, forcing a net judgment on franchise value.
+[a] Assess the funding and margin transformation: the Transaction added roughly $106.9 billion of deposits and helped lift net interest margin to 7.84% in 2025, and judge whether this cheaper, larger deposit base is durable or competition-exposed.
+[b] Situate Capital One against card/consumer-finance peers (e.g., American Express, Synchrony) and the "highly competitive" environment cited in the risk factors, testing whether the enlarged franchise and payment network create a defensible moat or merely scale.
+[c] Weigh capital adequacy and buffers (Basel III minimums plus the stress capital buffer requirement) as the cushion absorbing both the CECL day-one build and integration costs, noting whether capital constrains buybacks/dividends during integration.
+[d] Deliver an explicit synthesis: reconcile the bear case (elevated card charge-offs, a $20.7 billion provision, integration costs, goodwill/impairment risk) against the bull case (mechanically improving reported credit, expanded deposits and margin, an owned payment network) into a single, clearly stated position on whether Capital One is a de-risking normalization story or a mid-integration risk to underwrite.
+Source: sec_filings/10-k/cof_2025_10-k.txt, financials/income_statement/cof_income_statement.json, company_profiles.json, sec_filings/10-q/cof_2026q1_10-q.txt

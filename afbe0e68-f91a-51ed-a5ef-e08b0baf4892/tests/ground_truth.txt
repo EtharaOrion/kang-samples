@@ -1,0 +1,33 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Premium-Spend Durability and the Card-Fee Engine
+The bull case is that Amex's premium, high-credit-quality base keeps spending and paying rising annual fees through the cycle; the bear worry is that premium discretionary spend is inherently cyclical.
+[a] Quantify the spend engine — 2025 worldwide billed business of $1,670 billion across 86.6 million proprietary cards-in-force, growing 8% year-over-year (7% FX-adjusted) with 9% transaction growth (sec_filings/10-k/axp_2025_10-k.txt)
+[b] Show where growth is coming from and whether it is durable — U.S. Consumer Services billed business up 8% led by Millennial and Gen-Z cohorts, International Card Services up 14%, versus Commercial Services up only 3% — and note that Goods & Services is over 70% of billed business (sec_filings/10-k/axp_2025_10-k.txt)
+[c] Highlight the fee flywheel — net card fees up 18% on strong new-card acquisitions on fee-paying products, product refreshes (the refreshed Platinum Cards), and retention — as evidence of a recurring, less-cyclical revenue layer (sec_filings/10-k/axp_2025_10-k.txt)
+[d] Engage the counter-evidence: management's own statement that premium consumer spending is sensitive to discretionary spending and tends to decline in downturns, and that small-business/corporate clients (~41% of billed business) depend on the business-investment climate (sec_filings/10-k/axp_2025_10-k.txt)
+Source: sec_filings/10-k/axp_2025_10-k.txt, financials/income_statement/axp_income_statement.json, press_releases/axp_2026-04-23_8-k.txt
+
+2. Credit-Cost Normalization and Reserve Discipline
+Credit metrics are described as best-in-class, but the analyst must test whether write-offs and delinquencies are drifting up from cycle-low levels toward normalization.
+[a] Ground current credit quality in the monthly statistics — U.S. Consumer 30-day past-due rate around 1.4% and a consumer net write-off (principal-only) rate around 2.0% — and note the U.S. Small Business portfolio runs higher (30-day near 1.7%, write-offs near 2.8%) (press_releases/axp_2026-04-15_8-k.txt)
+[b] Reconcile the "strong and stable, best-in-class" credit narrative in the 10-K against the month-over-month trend in the delinquency/write-off tables to judge whether costs are normalizing rather than deteriorating (sec_filings/10-k/axp_2025_10-k.txt, press_releases/axp_2026-04-15_8-k.txt)
+[c] Connect credit performance to the premium-customer thesis — that a high-credit-quality base and disciplined risk management are what keep the provision for credit losses contained even as loans and receivables grew 8% (sec_filings/10-k/axp_2025_10-k.txt)
+Source: sec_filings/10-k/axp_2025_10-k.txt, press_releases/axp_2026-04-15_8-k.txt, financials/income_statement/axp_income_statement.json
+
+3. Competitive and Regulatory Pressure on the Revenue Model
+Discount revenue and cobrand economics face structural pressure from interchange regulation, alternative-payment competition, and partner-renewal risk.
+[a] Address interchange/merchant-fee risk — the proposed November 2025 Visa/Mastercard settlement (reductions and caps on interchange, greater merchant surcharging and steering) and EU interchange-cap exposure to cobrand arrangements — as a threat to discount revenue and merchant acceptance of premium cards (sec_filings/10-k/axp_2025_10-k.txt)
+[b] Assess cobrand and partner concentration/renewal risk — cobrand portfolios represent roughly 26% of worldwide billed business and 36% of Card Member loans, the Delta portfolio alone is ~13% of billed business (agreement through 2029), and the Amazon and Lowe's small-business cobrand portfolios have been reclassified to held for sale (sec_filings/10-k/axp_2025_10-k.txt)
+[c] Weigh disruptive competition — buy-now-pay-later and point-of-sale lenders on the lending side, and alternative payment mechanisms, digital wallets, and agentic commerce that could suppress or fragment card spend (sec_filings/10-k/axp_2025_10-k.txt)
+Source: sec_filings/10-k/axp_2025_10-k.txt, sec_filings/10-q/axp_2026q1_10-q.txt
+
+4. Earnings Power, Capital Return, and the Investment Verdict
+Amex's scale and operating leverage drive strong earnings, but rewards costs are rising and capital return is regulator-gated; the verdict weighs durable spend against credit and regulatory drag.
+[a] Quantify the earnings result — 2025 net income of $10.8 billion, or $15.38 per share, versus $10.1 billion, or $14.01 per share, a year earlier (which included a $0.66-per-share Accertify gain) — and total revenues net of interest expense up 10% (9% FX-adjusted) (sec_filings/10-k/axp_2025_10-k.txt, financials/income_statement/axp_income_statement.json)
+[b] Note the margin tension — Card Member rewards, services, and business-development expenses grew faster than revenues on the mix shift toward premium products — and the regulatory gating of capital return via the Federal Reserve stress capital buffer of 2.5% and effective CET1 minimum of 7.0% (sec_filings/10-k/axp_2025_10-k.txt)
+[c] Corroborate revenue and earnings trends against the reported income statement and quarterly filing rather than relying on the MD&A narrative alone (financials/income_statement/axp_income_statement.json, sec_filings/10-q/axp_2026q1_10-q.txt)
+[d] SYNTHESIS: reconcile the bull case (durable premium spend, an 18%-growing fee engine, best-in-class credit, scale-driven earnings) against the bear case (cyclical discretionary exposure, credit costs normalizing off cycle lows, interchange/cobrand pressure) into a single explicit position on whether premium-spend durability outweighs credit-cost normalization and regulatory risk
+Source: sec_filings/10-k/axp_2025_10-k.txt, financials/income_statement/axp_income_statement.json, financials/cash_flow/axp_cash_flow.json

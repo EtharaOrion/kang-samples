@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset"
+description = "Analyze whether Regeneron's EYLEA HD conversion, Dupixent collaboration profit, and broader pipeline can offset accelerating EYLEA biosimilar erosion, taking a clear grounded position using SEC filings and press releases."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "REGN"]
+
+[metadata]
+uuid = "3fa78876-b9e7-59c9-9022-27901a596d3e"
+difficulty_explanation = "Requires reconciling several moving, sometimes offsetting figures across the FY2025 10-K and Q1 2026 10-Q/press release (EYLEA's 42%-then-36% decline, EYLEA HD's dollar growth versus the combined franchise's still-negative net, and Dupixent collaboration profit growth) into one coherent, defensible position rather than a simple thesis. The agent must also avoid conflating strategic cannibalization (EYLEA-to-EYLEA HD transition) with genuine external competitive threats (biosimilars, compounded bevacizumab) when explaining the erosion."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

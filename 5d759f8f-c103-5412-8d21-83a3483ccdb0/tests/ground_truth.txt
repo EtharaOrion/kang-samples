@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Traffic vs. Price/Mix in Comparable Sales
+Comparable sales fell in 2025 on declining transactions but turned slightly positive in early 2026; the analyst must judge whether comp weakness is a genuine traffic problem and whether the recent stabilization is traffic-led or merely price-led.
+[a] Decompose comparable restaurant sales into transactions versus average check — 2025 comps decreased 1.7% driven by lower transactions of 2.9% offset by a 1.2% higher average check — and contrast with the three months ended March 31, 2026, where comps increased 0.5% on transactions up 0.6%, to determine whether the inflection is traffic-led rather than price-led.
+[b] Assess the durability of pricing power by separating menu-price increases from check mix, and weigh whether continued reliance on price to prop up comps is sustainable given management's about-flat 2026 comp guidance.
+[c] Evaluate the digital channel as a traffic/mix driver, noting digital sales rose from 36.7% of food and beverage revenue in 2025 to 38.6% in the first quarter of 2026.
+Source: sec_filings/10-k/cmg_2025_10-k.txt, sec_filings/10-q/cmg_2026q1_10-q.txt, financials/income_statement/cmg_income_statement.json
+
+2. Restaurant-Level Margin Durability Under Cost Inflation
+Restaurant economics are squeezed between menu-price offsets and rising labor and food costs; the analyst must show whether margins can hold as sales-volume deleverage compounds inflation.
+[a] Build the margin bridge for 2025: food, beverage and packaging fell to 29.6% of total revenue on menu-price benefit and cost efficiencies, while labor rose to 25.1% from 24.7% on lower sales volumes and wage inflation.
+[b] Show that the first quarter of 2026 saw renewed pressure on both lines, with labor costs up 1.1% as a percentage of revenue, and identify the deleverage from lower average restaurant sales volumes as the recurring driver.
+[c] Assess durable cost risks — tariffs estimated at about 15 basis points on an ongoing basis plus beef and freight inflation — against the diminishing offset available from further menu pricing.
+Source: sec_filings/10-k/cmg_2025_10-k.txt, sec_filings/10-q/cmg_2026q1_10-q.txt, financials/income_statement/cmg_income_statement.json
+
+3. Maturing Unit Growth and AUV Dilution
+Chipotle keeps opening units aggressively toward a long-term goal of 7,000 restaurants, but new units ramp slowly and dilute average unit volumes; the analyst must test whether the pipeline sustains revenue growth without eroding unit economics.
+[a] Quantify the pipeline and Chipotlane mix — 334 company-owned restaurants opened in 2025 including 257 with a Chipotlane, guidance of roughly 350 to 370 openings in 2026 with about 80% carrying a Chipotlane — and place it against the runway from over 4,000 units today toward the 7,000-unit goal.
+[b] Link the maturing base to average-unit-volume dilution: average restaurant sales fell to $3.104 million from $3.213 million, and management notes new restaurants take around 36 months to ramp, dragging fixed-cost leverage.
+[c] Weigh rising capital intensity — 2025 capital expenditures of $666.3 million rising to about $834.1 million planned for 2026 — against the incremental returns available as the domestic base matures.
+Source: sec_filings/10-k/cmg_2025_10-k.txt, sec_filings/10-q/cmg_2026q1_10-q.txt, financials/cash_flow/cmg_cash_flow.json
+
+4. Competitive and Demand Risks to the Durability Thesis
+The bull case (traffic re-inflecting positive, disciplined overhead, long unit runway) must be reconciled against the bear case (2025 traffic decline, restaurant-level margin deleverage, and macro demand risk).
+[a] Surface the demand and competitive risks flagged in the risk factors — competition including from outside the restaurant industry, reductions in discretionary consumer spending, and brand/food-safety exposure — as threats to the traffic recovery.
+[b] Credit the offsets, including general and administrative discipline that cut G&A to 5.5% of total revenue from 6.2%, and assess whether corporate leverage can cushion restaurant-level pressure.
+[c] Benchmark Chipotle's revenue and margin trajectory against quick-service peers using the income-statement data to judge whether its comp and margin softness is company-specific or industry-wide.
+[d] SYNTHESIS: Reconcile the positive first-quarter-2026 traffic inflection and multi-year unit runway against the 2025 traffic and margin deleverage and macro demand risk, and state an explicit position on whether traffic and margins are durable as the unit base matures.
+Source: sec_filings/10-k/cmg_2025_10-k.txt, sec_filings/10-q/cmg_2026q1_10-q.txt, financials/income_statement/cmg_income_statement.json

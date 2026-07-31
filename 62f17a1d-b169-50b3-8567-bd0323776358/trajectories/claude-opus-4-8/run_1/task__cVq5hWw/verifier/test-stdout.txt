@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['The Shape and Quality of the Comparable-Sales Recovery', 'Pro Penetration and the Total Home Strategy', 'Competitive Benchmarking Against Home Depot', 'Margins, Capital Allocation and a Reconciled Call']
+Cited files: 19

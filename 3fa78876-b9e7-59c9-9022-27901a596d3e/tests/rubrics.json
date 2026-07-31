@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process performs purposeful corpus reconnaissance across annual filings, quarterly filings, press releases, and structured financial records rather than relying on a single source class.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-inventory notes, directory listings, search logs, or document-open steps showing coverage of the major REGN source folders and identification of the latest usable annual, quarterly, and release materials."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "Numerical comparisons are grounded in inspected reporting context that establishes period, units, and accounting meaning before the figures are interpreted.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction notes surrounding key figures for verified reporting periods, currency or units, and distinctions such as product sales, collaboration revenue, profit share, GAAP, or non-GAAP."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the central question into distinct workstreams for legacy EYLEA erosion, EYLEA HD replacement, diversification economics, and additional commercial or pipeline growth.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, a question matrix, or separate analysis branches showing that internal franchise migration, external erosion, partner-dependent diversification, and pipeline durability were not treated as one undifferentiated issue."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process classifies cited causes of legacy EYLEA erosion by economic mechanism instead of attributing the entire decline to a single competitive cause.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a driver ledger or causal notes that separately tag external competition, affordability-related switching, and migration to EYLEA HD when supported by the inspected documents."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a dated launch-access assessment for aflibercept biosimilar competition rather than treating patent protection as a single undated status.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect legal-search notes or a launch calendar containing counterparty-specific commercial status, injunction or settlement status, and the relevant permitted-launch timing."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process preserves the accounting distinction between Regeneron-recognized collaboration economics and a partner's global product sales when evaluating diversification.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect Dupixent or Kevzara extraction notes and calculations for explicit separation of partner sales, Regeneron revenue, reimbursement, and profit-share measures."
+    },
+    {
+      "id": "c7",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly records unresolved uncertainty instead of replacing an unknown or mixed outcome with an assumed resolution.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect ambiguity notes concerning manufacturing timing, litigation outcomes, accounting-definition differences, or study-specific clinical results; look for unknowns being retained as unknowns."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process identifies the strongest fact that opposes its preliminary interpretation rather than collecting only thesis-supporting evidence.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect counter-evidence searches or a memo naming a specific adverse or favorable fact that directly challenges the emerging view, such as combined-franchise contraction, company-level growth, partner control, or regulatory delay."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process records how the strongest opposing fact changes the preliminary interpretation rather than leaving the contrary fact as a detached caveat.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect revision notes or a counter-evidence memo explaining whether the opposing fact alters the direction, magnitude, timing, or confidence of the emerging position."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process constructs a like-for-like quantitative bridge that reconciles EYLEA contraction with the principal offsetting revenue or collaboration components.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a franchise or company-level bridge showing comparable periods, reported inputs, visibly derived calculations or formulas, and the net relationship between EYLEA declines and non-legacy growth."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process integrates the separate workstreams into a causal resolution of the central tradeoff rather than presenting them as disconnected summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analysis for reasoning that connects current offset capacity, durability risks, and future growth breadth to one overall interpretation."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process commits to a directional view on whether the transition is manageable or remains a structural threat instead of ending with an unresolved survey of possibilities.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the concluding section for an explicit lean that remains identifiable even if confidence is qualified or conditions that could change the view are stated."
+    }
+  ]
+}

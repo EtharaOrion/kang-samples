@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "DPZ",
+    "cik": "0001286681",
+    "companyName": "DOMINOS PIZZA INC",
+    "sic": "5140",
+    "sicDescription": "Wholesale-Groceries & Related Products",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0102",
+    "city": "ANN ARBOR",
+    "stateOrCountry": "MI"
+  },
+  {
+    "symbol": "YUM",
+    "cik": "0001041061",
+    "companyName": "YUM BRANDS INC",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NC",
+    "fiscalYearEnd": "1231",
+    "city": "LOUISVILLE",
+    "stateOrCountry": "KY"
+  },
+  {
+    "symbol": "QSR",
+    "cik": "0001618756",
+    "companyName": "Restaurant Brands International Inc.",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "A6",
+    "fiscalYearEnd": "1231",
+    "city": "MIAMI",
+    "stateOrCountry": "FL"
+  },
+  {
+    "symbol": "WING",
+    "cik": "0001636222",
+    "companyName": "Wingstop Inc.",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1226",
+    "city": "DALLAS",
+    "stateOrCountry": "TX"
+  }
+]

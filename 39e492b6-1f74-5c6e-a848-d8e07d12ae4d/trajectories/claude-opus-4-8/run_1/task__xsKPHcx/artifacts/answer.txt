@@ -1,0 +1,434 @@
+UNIT-REVENUE AND MARGIN DURABILITY AGAINST CAPACITY GROWTH
+United Airlines Holdings (UAL) — with peer context on DAL, AAL, LUV
+================================================================================
+
+THESIS (the position, stated up front)
+--------------------------------------------------------------------------------
+United's unit revenue is durable, but not unconditionally. The data show a tight
+inverse relationship between how fast United adds seats and what each seat earns.
+When United grew capacity 6-7% through 2025, unit revenue fell every quarter;
+when it decelerated capacity to +3.4% in Q1 2026, unit revenue snapped positive.
+Durability is therefore EARNED through capacity discipline and STRUCTURALLY
+CARRIED by a premium-and-loyalty franchise that grows faster than ASMs — not by
+raw traffic, which is precisely the commoditized, price-discounted part of the
+business United's own 10-K warns about.
+
+The binding constraint on forward MARGIN durability is no longer the top line. It
+is COST. Labor-driven CASM-ex has inflected upward (+5.9% YoY in Q1 2026) and fuel
+has flipped from a 2025 tailwind to a 2026 headwind. United's decision to cut five
+points of planned 2026 capacity is the tell: management knows unit revenue only
+holds when supply is restrained, and it is now restraining supply defensively —
+because of fuel, not because demand collapsed. Net verdict: unit-revenue
+durability is REAL and franchise-backed; margin durability is CONDITIONAL and
+cost-gated, and I rate it a hold-the-line story, not an expansion story, for 2026.
+
+Every claim below is tagged to a specific file in /app/data/.
+
+
+================================================================================
+THEME 1 — UNIT-REVENUE DURABILITY AS ASMs GROW
+================================================================================
+
+The core relationship: capacity and unit revenue move inversely at United
+--------------------------------------------------------------------------------
+The single most important pattern in the data is a clean inverse correlation
+between ASM growth and unit-revenue growth, quarter after quarter:
+
+  Quarter    Capacity(ASM)   TRASM YoY   PRASM YoY   Source (/app/data/)
+  2025 Q2      +5.9%          -4.0%       -4.5%       press_releases/ual_2025-07-16_8-k.txt
+  2025 Q3      +7.2%          -4.3%       -5.0%       press_releases/ual_2025-10-15_8-k.txt
+  2025 Q4      +6.5%          -1.6%       -1.4%       press_releases/ual_2026-01-20_8-k.txt
+  FY 2025      +6.1%          -2.5%       -2.9%(PRASM) press_releases/ual_2026-01-20_8-k.txt;
+                                                       sec_filings/10-k/ual_2025_10-k.txt (line 1392, 1323)
+  2026 Q1      +3.4%          +6.9%       +7.4%       press_releases/ual_2026-04-21_8-k.txt;
+                                                       sec_filings/10-q/ual_2026q1_10-q.txt (line 1284)
+
+The FY2025 10-K states the mechanism plainly: "Passenger revenue increased $1.6
+billion, or 3.1%, in 2025 as compared to 2024, primarily due to a 6.1% increase
+in capacity as well as a 4.3% increase in passengers"
+(sec_filings/10-k/ual_2025_10-k.txt, line 1392). Revenue rose because United flew
+more seats and more people — NOT because each seat earned more. The statistics
+table confirms the per-unit erosion: PRASM fell to 16.18¢ from 16.66¢ and TRASM
+to 17.88¢ from 18.34¢ (sec_filings/10-k/ual_2025_10-k.txt, line 1323). This is
+growth diluting price.
+
+Q3 2025 is the cleanest proof of the inverse relationship — United's worst
+unit-revenue quarter in the dataset. The 10-Q attributes the passenger-revenue
+gain "primarily due to a 7.2% increase in capacity and a 6.2% increase in the
+number of passengers flown, partially offset by a 4.0% decrease in yield"
+(sec_filings/10-q/ual_2025q3_10-q.txt, line 1428). PRASM fell -5.0% to 15.80¢
+(same file, lines 1363-1365). The regional detail in the Q3 press release shows
+where the self-inflicted damage was worst: Latin America PRASM -13.5% on +10.1%
+capacity, and Atlantic PRASM -6.2% on +8.0% capacity
+(press_releases/ual_2025-10-15_8-k.txt). United poured seats into international
+regions faster than those markets could absorb them, and price collapsed. That
+same release names the external driver: an industry "supply inflection beginning
+in mid-August, similar to 2024" (press_releases/ual_2025-10-15_8-k.txt).
+
+Then the relationship reverses cleanly in Q1 2026. Capacity growth halved to
++3.4%, and unit revenue inflected hard positive: TRASM +6.9% (18.80¢ vs 17.58¢),
+PRASM +7.4% (16.95¢ vs 15.78¢) (sec_filings/10-q/ual_2026q1_10-q.txt, lines
+1219-1221; press_releases/ual_2026-04-21_8-k.txt). The Q1 10-Q attributes it
+"primarily due to a 3.4% increase in capacity, a 4.2% increase in yield and a
+4.1% increase in the number of passengers flown"
+(sec_filings/10-q/ual_2026q1_10-q.txt, line 1284) — note that YIELD, not just
+volume, is now a positive driver, the mirror image of Q3's -4.0% yield.
+
+The domestic data point is the crux of the whole durability argument. In Q1 2026,
+United posted domestic PRASM +7.9% on only +2.2% domestic capacity
+(press_releases/ual_2026-04-21_8-k.txt; sec_filings/10-q/ual_2026q1_10-q.txt,
+line 1274). Set that against 2025's full-year domestic PRASM of -4.1%
+(sec_filings/10-k/ual_2025_10-k.txt, line 1382) and Q3's domestic PRASM -3.3% on
++6.6% domestic capacity (press_releases/ual_2025-10-15_8-k.txt). Same network,
+same brand, same aircraft — the only material variable that changed was the rate
+of seat growth. When United stopped flooding domestic markets, price recovered
+immediately and steeply. That is the definition of a supply-driven, not
+demand-driven, unit-revenue cycle.
+
+Why this is durability and not just a lucky quarter
+--------------------------------------------------------------------------------
+The reconciliation of the 2025-decline vs 2026-recovery conflict is that the 2025
+unit-revenue erosion was a SUPPLY phenomenon — United's own growth plus
+industry-wide oversupply — not erosion of United's pricing power or brand. Two
+pieces of in-data evidence support reading it as supply, not demand:
+
+  1. Premium and loyalty revenue grew double digits THROUGHOUT the 2025 decline
+     (detailed in Theme 2). If demand for United's product were structurally
+     weakening, its highest-margin, most-discretionary segments would be the
+     first to break. They accelerated instead.
+
+  2. The snap-back required no demand miracle — only capacity restraint. United
+     told us in real time it was easing off the throttle: the Q2 2025 release
+     already flagged a "6 point acceleration in demand" in early July
+     (press_releases/ual_2025-07-16_8-k.txt), and by Q1 2026 the plan was explicit
+     capacity reduction (Theme 4).
+
+STRONGEST COUNTER-EVIDENCE to Theme 1 (engaged, not dodged): the Q1 2026 quarter
+is seasonally weak (airline Q1 is the trough), so a single strong Q1 is thin
+evidence for full-year durability. The honest rebuttal lives in the same data:
+Q4 2025 already showed the deceleration beginning to work — as capacity growth
+came off its Q3 +7.2% peak toward +6.5%, the TRASM decline narrowed sharply from
+-4.3% to -1.6% (press_releases/ual_2026-01-20_8-k.txt). The recovery is a
+two-quarter sequential improvement (Q3 → Q4 → Q1), not a one-quarter pop. That is
+a trend, not noise.
+
+AMBIGUITY to flag honestly: the durability of the Q1 2026 inflection depends
+entirely on United actually delivering the promised 2026 capacity cut. That is a
+forward-looking plan (Theme 4), and the data cannot confirm an event that has not
+happened. The peer income statements contain NO Q4 quarters for any carrier (only
+Q1/Q2/Q3 for 2023-2025 plus 2026 Q1), so the cleanest full-seasonal-cycle peer
+comparison is unavailable
+(financials/income_statement/*_income_statement.json).
+
+
+================================================================================
+THEME 2 — PREMIUM AND LOYALTY MIX AS UNIT-REVENUE DEFENSE
+================================================================================
+
+This is the structural heart of the durability case. While the blended,
+traffic-driven part of the top line fell all through 2025, the premium and
+loyalty segments grew double digits WITHOUT INTERRUPTION — which is why margins
+held roughly flat in a year unit revenue fell (Theme 3).
+
+Premium and loyalty growth held through the entire unit-revenue decline:
+
+  Quarter   Premium rev   Loyalty rev   Basic Economy   Source (/app/data/)
+  2025 Q2    +5.6%         +8.7%         +1.7%          press_releases/ual_2025-07-16_8-k.txt
+  2025 Q3    +6%           +9%           +4%            press_releases/ual_2025-10-15_8-k.txt
+  2025 Q4    +9%           +10%          +7%            press_releases/ual_2026-01-20_8-k.txt
+  FY 2025    +11%          +9%           +5%            press_releases/ual_2026-01-20_8-k.txt
+  2026 Q1    +14%          +13%          +7%            press_releases/ual_2026-04-21_8-k.txt
+
+The pattern: premium and loyalty grew every quarter, ACCELERATED into the
+unit-revenue recovery (+14% / +13% in Q1 2026), and consistently outgrew Basic
+Economy — the fare bucket most exposed to the "substantial price discounting" of
+low-cost carriers that the 10-K identifies as United's core competitive threat
+(sec_filings/10-k/ual_2025_10-k.txt, line 735). United is compounding the
+seats that are hardest to commoditize and de-emphasizing the seats that are
+easiest to. Q1 2026 also showed business revenue +14% and positive PRASM in every
+geographic region (press_releases/ual_2026-04-21_8-k.txt) — the highest-yield
+customer segment leading.
+
+The physical build-out is real, not just a revenue-mix accident. United set a
+record 27.4 million premium seats in 2025, equal to 12% of total flown seats
+(press_releases/ual_2026-01-20_8-k.txt), and a record 6.9 million premium seats in
+Q2 2025 alone (press_releases/ual_2025-07-16_8-k.txt). The 10-K ties this to
+strategy: United Next "aims to increase customer choice and win brand-loyal
+customers by offering a diversity of products ranging from Basic Economy to
+Polaris ... which the Company expects will lead to diverse revenue streams"
+(sec_filings/10-k/ual_2025_10-k.txt, line 1255).
+
+Loyalty is the anchor — and it is largely CASH ALREADY IN THE DOOR. The
+frequent-flyer deferred revenue balance (miles sold but not yet flown) grew across
+the whole period:
+
+  Date         FF deferred revenue    Source (/app/data/)
+  1/1/2024     $7,143M                sec_filings/10-k/ual_2025_10-k.txt (line 2933)
+  12/31/2024   $7,441M                sec_filings/10-k/ual_2025_10-k.txt (line 2933)
+  12/31/2025   $7,777M                sec_filings/10-k/ual_2025_10-k.txt (line 2933)
+  3/31/2026    $7,934M                sec_filings/10-q/ual_2026q1_10-q.txt (line 925)
+               ($3,832M current + $4,103M noncurrent per press_releases/ual_2026-04-21_8-k.txt)
+
+Miles earned outpaced miles redeemed in Q1 2026 ($1,034M earned vs $835M travel +
+$42M non-travel redeemed), so the liability keeps building
+(sec_filings/10-q/ual_2026q1_10-q.txt, lines 917-925) — a forward book of demand
+that is insulated from spot-fare discounting.
+
+The Chase co-brand engine is visible and growing. United recognized $3.2B in
+partner/co-brand marketing-and-related revenue in 2025 (up from $2.9B in 2024 and
+$2.7B in 2023) (sec_filings/10-k/ual_2025_10-k.txt, line 2945), and $870M in Q1
+2026 vs $774M a year earlier — a +12.4% increase
+(sec_filings/10-q/ual_2026q1_10-q.txt, line 927). The Q1 2026 10-Q explicitly
+credits "an increase in mileage revenue from non-airline partners, including
+credit card spending with our co-branded credit card partner, JPMorgan Chase Bank,
+N.A." for other-revenue growth (sec_filings/10-q/ual_2026q1_10-q.txt, line 1286).
+This revenue stream is tied to cardholder SPEND, not to airfare, so it defends
+unit revenue precisely when fares are soft. Ancillary fees inside passenger
+revenue tell the same story: $4.8B in 2025 (from $4.5B / $4.1B)
+(sec_filings/10-k/ual_2025_10-k.txt, line 2897), and ~$1.2B in Q1 2026 vs ~$1.0B
+(sec_filings/10-q/ual_2026q1_10-q.txt, line 905).
+
+STRONGEST COUNTER-EVIDENCE to Theme 2 (engaged): premium and loyalty growth of
++5-14% did NOT prevent blended PRASM from falling -2.9% for full-year 2025
+(sec_filings/10-k/ual_2025_10-k.txt, line 1323). The high-margin mix was a
+CUSHION, not a SHIELD — it slowed the bleed but could not offset the sheer weight
+of 6.1% ASM growth diluting the base fare. So "premium/loyalty defends unit
+revenue" is true at the margin and over time, but it is not strong enough on its
+own to overcome an undisciplined capacity plan. The defense works WITH capacity
+discipline, not INSTEAD of it. That reconciles the two themes: 2025 proves mix
+alone can't hold the line; Q1 2026 proves mix + discipline can, and powerfully.
+
+United's own 10-K flags the tail risk in this defense: MileagePlus "benefits from
+the attractiveness and competitiveness of United Airlines ... If we are not able
+to maintain a competitive and attractive airline business, our ability to
+acquire, engage and retain customers in the MileagePlus loyalty program may be
+adversely affected" (sec_filings/10-k/ual_2025_10-k.txt, line 747), and separately
+warns that weak demand could hit "business and premium cabin travelers" and fare
+levels specifically (sec_filings/10-k/ual_2025_10-k.txt, line 759). The loyalty
+moat is contingent on the airline staying premium — it is not independent of it.
+
+AMBIGUITY to flag: the press releases give premium/loyalty GROWTH RATES but not
+absolute premium/loyalty revenue DOLLARS, so I cannot compute premium's precise
+share of total revenue or a clean premium-vs-blended yield spread from this data.
+The 12%-of-flown-seats figure (press_releases/ual_2026-01-20_8-k.txt) is a seat
+count, not a revenue share. That is a genuine gap; the directional conclusion
+(mix outgrowing ASMs) is well supported, the exact magnitude is not.
+
+
+================================================================================
+THEME 3 — COST TRAJECTORY (CASM AND FUEL) VERSUS MARGIN
+================================================================================
+
+This is where the durability story turns cautious, and where the real 2026 risk
+lives. Through 2025, FALLING FUEL did the heavy lifting that let flat-to-rising
+labor costs coexist with only modest margin compression. In 2026 that reverses.
+
+Fuel: a 2025 tailwind that has flipped to a 2026 headwind.
+
+  Period    Fuel $/gal     YoY        Source (/app/data/)
+  2025 Q2    $2.34         -15.3%      press_releases/ual_2025-07-16_8-k.txt
+  2025 Q3    $2.43         -5.1%       press_releases/ual_2025-10-15_8-k.txt
+  2025 Q4    $2.49         +3.6%       press_releases/ual_2026-01-20_8-k.txt
+  FY 2025    $2.44         (vs $2.65)  sec_filings/10-k/ual_2025_10-k.txt (line 1329)
+  2026 Q1    $2.78         +9.9%       press_releases/ual_2026-04-21_8-k.txt
+
+For full-year 2025, "Aircraft fuel expense decreased $360 million, or 3.1% ...
+primarily due to a lower average price per gallon"
+(sec_filings/10-k/ual_2025_10-k.txt, line 1430) — a $360M cost gift. In Q1 2026
+that gift reverses: "Aircraft fuel expense increased $339 million, or 12.6% ...
+primarily due to a higher average price per gallon of fuel and increased
+consumption" (sec_filings/10-q/ual_2026q1_10-q.txt, line 1322). A ~$700M
+year-over-year swing in the fuel line, from tailwind to headwind, in two quarters.
+
+Labor / CASM-ex: the more dangerous, because it is STRUCTURAL, not cyclical. Fuel
+mean-reverts; ratified wage rates do not. The CASM-ex trajectory shows a clear
+upward inflection:
+
+  Period    CASM-ex YoY    CASM-ex level   Source (/app/data/)
+  2025 Q2    +2.2%          12.36¢         press_releases/ual_2025-07-16_8-k.txt
+  2025 Q3    -0.9%          12.15¢         press_releases/ual_2025-10-15_8-k.txt
+  2025 Q4    +0.4%          12.94¢         press_releases/ual_2026-01-20_8-k.txt
+  FY 2025    +0.4%          (n/a)          press_releases/ual_2026-01-20_8-k.txt
+  2026 Q1    +5.9%          13.95¢         press_releases/ual_2026-04-21_8-k.txt
+
+FY2025 CASM-ex of +0.4% was a genuinely strong cost-control result — near-flat
+ex-fuel unit cost against 6.1% growth. But Q1 2026's jump to +5.9% is a real
+inflection, and it is labor-led. Salaries "increased $406 million, or 9.8% ...
+primarily due to increased pay ... a 5.9% increase in headcount, and an increase
+in pay rates" in Q1 2026 (sec_filings/10-q/ual_2026q1_10-q.txt, line 1320),
+following +5.8% ($969M) for full-year 2025
+(sec_filings/10-k/ual_2025_10-k.txt, line 1428). Total CASM was +4.4% (17.52¢) in
+Q1 2026 (press_releases/ual_2026-04-21_8-k.txt).
+
+The labor overhang is not finished. The AFA flight-attendant contract has been the
+open wound: the crew rejected a tentative deal on July 29, 2025
+(sec_filings/10-k/ual_2025_10-k.txt, line 541), and a NEW TA reached March 2026
+carries "pay rate increases during its five-year term" plus a one-time
+ratification payment — United already booked $561M in 2025 special charges for that
+payment, with ratification voting closing May 12, 2026
+(sec_filings/10-q/ual_2026q1_10-q.txt, line 1125). And the pilot (ALPA) contract
+becomes amendable October 2027 (sec_filings/10-k/ual_2025_10-k.txt, line 555) —
+the next large labor step-up is already on the calendar. The 10-K is blunt: new
+contracts "may include material increases in salaries and other benefits, which
+would significantly increase our labor expense"
+(sec_filings/10-k/ual_2025_10-k.txt, line 849).
+
+Margin: what actually happened. FY2025 operating margin COMPRESSED to 8.0% from
+8.9% in 2024, operating income fell 7.5% to $4,713M, and adjusted EPS was
+essentially FLAT at $10.62 vs $10.61 (press_releases/ual_2026-01-20_8-k.txt). This
+is the decisive counter to any naive "growth is working" read: United grew ASMs
+6.1% and margin went DOWN. Growth in 2025 was margin-dilutive. The CASM line in
+the 10-K improved (16.46¢ vs 16.70¢ vs 16.99¢ across 2025/2024/2023,
+sec_filings/10-k/ual_2025_10-k.txt, line 1329) ONLY because cheaper fuel masked
+the labor build. Strip fuel out and the underlying unit-cost pressure was already
+rising.
+
+STRONGEST COUNTER-EVIDENCE / the GAAP-vs-adjusted trap in Q1 2026 (engaged
+directly): Q1 2026's headline looks like a margin breakout — GAAP operating margin
+6.82% (997/14,608, financials/income_statement/ual_income_statement.json), best of
+any quarter in the seasonally weak Q1 series, and GAAP pre-tax margin 6.0%, up
+2.3pp. But this is substantially INFLATED by a $389M special credit (chiefly $444M
+of aircraft sale-leaseback gains). On an ADJUSTED basis, pre-tax margin was only
+3.4%, up a mere 0.4pp, and adjusted operating margin was 4.2%
+(press_releases/ual_2026-04-21_8-k.txt). So the "true" operating improvement in Q1
+2026 is modest — the unit-revenue recovery (Theme 1) and the fuel + labor headwinds
+(this theme) roughly offset, leaving only a slight net gain once you remove
+one-time gains. That reconciliation matters: the top-line inflection is real, but
+it is being spent almost entirely on higher costs, not dropping to the margin.
+
+RECONCILED READ of Theme 3: 2025 margin durability was BORROWED from fuel. 2026
+margin durability must be EARNED from unit revenue, because fuel and labor are now
+both working against it. The Q1 2026 result shows United can just about hold
+adjusted margin flat-to-slightly-up when unit revenue is recovering AND it is
+booking sale-leaseback gains — which is a thin, contingent kind of durability, not
+a robust one.
+
+
+================================================================================
+THEME 4 — COMPETITIVE CAPACITY DISCIPLINE AND THE DURABILITY VERDICT
+================================================================================
+
+The tell: United is now cutting growth defensively.
+--------------------------------------------------------------------------------
+The most important forward signal in the entire dataset is that United plans to
+CUT five points of planned 2026 capacity, guiding Q3/Q4 2026 to flat-to-+2% YoY,
+and it is doing so because of ELEVATED FUEL
+(press_releases/ual_2026-04-21_8-k.txt). The 10-Q gives the same message in
+governance language: in Q1 2026 United "took immediate and decisive actions ...
+including reducing lower-margin capacity and adjusting fares and fees"
+(sec_filings/10-q/ual_2026q1_10-q.txt, line 1171).
+
+This is the thesis in United's own hand. If unit-revenue durability were
+unconditional — if the premium/loyalty franchise (Theme 2) fully insulated pricing
+from supply — United would keep growing into the United Next plan regardless of
+fuel. The plan is enormous and intact: "over 630 new narrow- and widebody aircraft
+by the end of 2034" (sec_filings/10-k/ual_2025_10-k.txt, lines 284, 687; Q1 2026
+firm commitments detailed at sec_filings/10-q/ual_2026q1_10-q.txt, line 1374).
+Instead United is pulling back the moment fuel rises. That reveals management's own
+belief: unit revenue holds only when supply is disciplined, and margin holds only
+when unit revenue and cost are managed together. The capacity cut is simultaneously
+(a) confirmation of the inverse ASM/unit-revenue relationship from Theme 1, and (b)
+the mechanism by which United intends to protect the Q1 2026 inflection.
+
+Is the DISCIPLINE industry-wide or United-specific? Both — and that is the risk.
+The Q3 2025 release cited an industry "supply inflection beginning in mid-August,
+similar to 2024" as the trigger for the -5.0% PRASM quarter
+(press_releases/ual_2025-10-15_8-k.txt). United needs peers to also restrain
+capacity for the pricing recovery to hold. The 10-K is candid that United cannot
+control this: "the Company is not able to control decisions by other airlines to
+reduce their capacity" (sec_filings/10-k/ual_2025_10-k.txt, line 787), and it
+faces "low-cost carriers and ultra-low-cost carriers, which engage in substantial
+price discounting ... resulting in lower yields on many domestic markets," which
+"often" forces United "to match competitors' discounted fares"
+(sec_filings/10-k/ual_2025_10-k.txt, lines 735, 352). United's unit-revenue
+durability is thus partly HOSTAGE to competitor behavior it cannot dictate.
+
+Peer context: United is the margin leader when it matters most, but not
+unconditionally.
+--------------------------------------------------------------------------------
+(All peer figures: financials/income_statement/{ual,dal,aal,luv}_income_statement.json)
+
+  - In the seasonally WEAK Q1 quarters, United is #1: Q1 2025 operating margin
+    4.59% led the group; Q1 2026 operating margin 6.82% was the highest of ANY
+    carrier that quarter, while DAL fell to 3.16% and AAL was NEGATIVE at -0.29%.
+    United's premium/loyalty mix (Theme 2) shows up exactly where the cushion is
+    most needed — in the trough.
+
+  - In the PEAK Q2/Q3 quarters, DELTA edges United: Q2 2025 DAL operating margin
+    12.63% vs UAL 8.70%; Q3 2025 DAL 10.10% vs UAL 9.16%. United is not the
+    unconditional margin champion — Delta converts peak season better.
+
+  - AAL is structurally weakest (negative operating margin in Q1 2025 -2.15% and
+    Q1 2026 -0.29%); LUV posted the biggest swing (Q1 2026 operating margin
+    +4.55%, its best Q1 in the dataset). United sits at the strong end of the
+    group but in a peer set that is broadly turning up in Q1 2026 — 2026 Q1 YoY
+    revenue growth was UAL +10.56%, DAL +12.92%, AAL +10.84%, LUV +12.77%,
+    i.e. United did NOT out-grow the field on the top line.
+
+  - Balance-sheet quality favors United: Q1 2026 operating cash flow $4,799M was
+    the highest in the group (+29% YoY) vs DAL $2,432M, AAL $4,223M, LUV $1,418M,
+    and net leverage was down to 2.0x (press_releases/ual_2026-04-21_8-k.txt),
+    off a $36.3B debt peak in Q2 2021 now at ~$27.1B
+    (press_releases/ual_2025-07-09_8-k.txt). A caution here: DAL posted a Q1 2026
+    NET LOSS of -$289M despite +$501M operating income (~$715M of below-the-line
+    drag), a reminder that operating-margin league tables miss capital-structure
+    and non-operating effects.
+
+  IMPORTANT AMBIGUITY: the peer income-statement files contain NO Q4 quarters for
+  any carrier, so a full-year, all-seasons peer margin comparison cannot be built
+  from this data — the peer read is Q1/Q2/Q3 only.
+
+
+================================================================================
+DURABILITY VERDICT
+================================================================================
+
+1. UNIT-REVENUE DURABILITY: REAL, but CONDITIONAL on capacity discipline.
+   The 2025-to-2026 record is an almost controlled experiment. Grow ASMs 6-7% and
+   unit revenue falls 3-5% (2025); cut ASM growth to +3.4% and unit revenue rises
+   ~7% (Q1 2026), with domestic PRASM +7.9% on +2.2% domestic seats as the
+   signature data point. Durability is not a property of the network alone; it is
+   the OUTPUT of a supply decision.
+
+2. THE DEFENSE IS PREMIUM + LOYALTY, and it is structural.
+   Premium (+14%) and loyalty (+13%) growth, a $7.9B and still-growing
+   frequent-flyer deferred-revenue book, and a $3.2B/yr Chase co-brand stream that
+   keys off card SPEND rather than airfare — these are why 2025 margins compressed
+   only modestly instead of collapsing, and why the Q1 2026 recovery had leverage.
+   But the FY2025 -2.9% PRASM proves mix alone cannot beat undisciplined growth;
+   it works WITH capacity discipline, not instead of it.
+
+3. THE BINDING CONSTRAINT IS NOW COST, not the top line.
+   Fuel has flipped from a $360M FY2025 tailwind to a +12.6%/+$339M Q1 2026
+   headwind, and CASM-ex has inflected from ~flat (FY2025 +0.4%) to +5.9% on
+   ratified labor — with the AFA payment ($561M booked) and the ALPA contract
+   (amendable Oct 2027) still ahead. FY2025 operating margin already fell to 8.0%
+   from 8.9% DESPITE growth. Q1 2026's GAAP margin strength is inflated by a $389M
+   sale-leaseback credit; adjusted pre-tax margin rose only 0.4pp. The unit-revenue
+   recovery is largely being consumed by cost.
+
+4. MANAGEMENT AGREES — and is acting defensively.
+   United is cutting five points of planned 2026 capacity because of fuel, guiding
+   H2 2026 to flat-to-+2%. That is the clearest possible confirmation that United
+   believes unit revenue holds only when supply is restrained. It is a hold-the-
+   line posture, not an expansion posture.
+
+BOTTOM LINE: I rate United's unit-revenue durability HIGH but CONTINGENT, and its
+2026 margin durability MODERATE and COST-GATED. United has the best trough-quarter
+margins and the strongest premium/loyalty franchise and balance sheet in the peer
+set, which makes it the most likely of the four to defend margin through a fuel-up,
+labor-up 2026 — but "defend," not "expand." The durability is real precisely
+because United is now willing to sacrifice growth to protect it; the risk is that
+the defense depends on two things United cannot fully control — competitor capacity
+discipline and the fuel curve — and on continued execution of a capacity cut the
+data cannot yet confirm.
+
+KEY UNCERTAINTIES / DATA LIMITS (not smoothed over):
+  - Absolute premium/loyalty revenue dollars are not disclosed; only growth rates
+    and a 12%-of-seats figure — precise mix-share of revenue is uncomputable here.
+  - The 2026 capacity cut and H2 guidance are forward-looking; no post-Q1-2026
+    actuals exist in the data to confirm delivery.
+  - Peer files lack all Q4 quarters, precluding a full-seasonal-cycle peer
+    comparison.
+  - Q1 is seasonally weak; the strongest recovery evidence (Q1 2026) sits in the
+    trough, though the Q3->Q4->Q1 sequential narrowing gives it trend support.

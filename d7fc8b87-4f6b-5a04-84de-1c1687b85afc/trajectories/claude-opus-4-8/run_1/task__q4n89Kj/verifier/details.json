@@ -1,0 +1,346 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Regulatory and Tax Overhang",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent specifically cites New York City's 2023 regulations as producing a de facto ban on short-term rentals and notes the risk that similar restrictions spread to other jurisdictions.",
+        "b": "The agent discusses lodging-tax collection and remittance, digital-services regulation, and EU host-data reporting obligations that could discourage listings, while characterizing these requirements as an ongoing compliance-cost drag. This substantially addresses the indirect-tax and reporting exposure contemplated by the move.",
+        "c": "The agent does not address payments or money-transmission regulation and omits the requirement to safeguard customer funds by holding eligible liquid assets equal to at least 100% of customer amounts held."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Demand Durability and the Quality of Growth",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent mentions Q1 2026 GBV growth of 19% and separately references roughly 9%\u201310% nights growth, but it does not explicitly reconcile actual Nights and Seats Booked growth of 9% against 19% GBV growth and 13% ex-FX GBV growth to show that ADR and FX carried much of the headline increase. It instead characterizes the business as broadly volume-led.",
+        "b": "The agent argues that demand is durable using geographic diversification and other indicators, but it omits the rubric's concrete drivers: app nights growing 22% to 63% of total nights, first-time booker growth accelerating to 10%, and India and Brazil growing around twice the core-market rate.",
+        "c": "The agent notes 2025 revenue growth of 10% and discusses a reaccelerating 2026 outlook, but it does not provide the required 2025 GBV growth of 12% or management's specific Q2 2026 revenue-growth guide of 14% to 16%."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Take-Rate Expansion and the Single-Fee Transition",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent identifies 2025 take-rate compression through its claim that the full-year ratio fell from 13.57% to 13.41%, and reconciles that with management's Q2 2026 guidance for implied take rate to be \"up slightly year-over-year.\" The derived full-year take-rate figures were flagged as unsupported, so this hit is tainted.",
+        "b": "The agent explains that Airbnb moved from a split fee charged to hosts and guests to a single host-paid fee, and argues that the change largely repackages the economics and therefore complicates interpretation of reported take rate. Claims supporting this discussion\u2014including the precise October migration description and old-versus-new fee arithmetic\u2014were flagged, so the move is tainted.",
+        "c": "The agent states that Reserve Now, Pay Later represented roughly 20% of global GBV and treats Services and Experiences monetization as an eventual, unbooked option rather than a currently material fee contributor. Its supporting characterization of the new offerings as launched and unproven was flagged as unsupported, making the move tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cash Generation, Margins, and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports approximately $1.7 billion of Q1 2026 cash generation, a 64% Q1 FCF margin, and roughly $4.5 billion of trailing-twelve-month FCF at a mid-to-high-30% margin, while explaining that service fees are collected at booking before revenue recognition at check-in. The 64% margin and some of the approximately $4.5 billion margin characterization were flagged as unsupported, so this move is tainted.",
+        "b": "The agent discusses reinvestment and a roughly 35% Adjusted EBITDA margin guide, but it attributes that guide to 2025 rather than stating the required 2026 guide of at least 35%. Thus, it does not make the specific current-year margin-versus-reinvestment comparison required by the rubric.",
+        "c": "The agent notes that 61% of 2025 revenue was generated outside the United States, presents Latin America and Asia Pacific as growth drivers, and discusses the associated offshore, FX, and multi-jurisdiction regulatory exposure. This conveys the two-edged nature of international concentration.",
+        "d": "The final verdict explicitly reconciles durable volume and strong FCF with unrealized take-rate expansion and regulatory and tax risks, then concludes that the cash engine outweighs the overhang and recommends accumulating shares. Several pillars of that synthesis\u2014including the stable 8%\u201310% volume characterization, derived take-rate compression, FCF framing, and city-level regulatory-diversification evidence\u2014were flagged as unsupported, so the synthesis is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Nights growth has printed inside a tight 7\u201310% band every single quarter for two years: 8%, 12%, 8%, 7%, 9%, 10%, 9% from Q3'24 through Q1'26",
+      "cited_file": "abnb_2024-11-07_8-k.txt through abnb_2026-05-07_8-k.txt",
+      "issue": "The cited quarterly growth sequence is absent from the supplied passages.",
+      "evidence_check": "The passages contain only balance-sheet records and do not contain the seven Nights-growth percentages."
+    },
+    {
+      "claim": "Q1 2025's constant-currency +8%",
+      "cited_file": null,
+      "issue": "The constant-currency growth figure is not supported by the supplied passages.",
+      "evidence_check": "Searched the provided balance-sheet and cash-flow excerpts; none states Q1 2025 constant-currency revenue growth of 8%."
+    },
+    {
+      "claim": "lifting S&M to 28% of revenue",
+      "cited_file": "abnb_income_statement.json",
+      "issue": "The supplied passages do not provide Airbnb sales-and-marketing expense as 28% of revenue.",
+      "evidence_check": "The retrieved excerpts are from Booking Holdings, Expedia, and an unrelated Airbnb release passage; no Airbnb 28% S&M ratio appears."
+    },
+    {
+      "claim": "the highest of any quarter in the dataset",
+      "cited_file": "abnb_income_statement.json",
+      "issue": "The dataset-wide superlative is unsupported.",
+      "evidence_check": "No local match was found, and no quarterly comparison establishing that it was the highest appears."
+    },
+    {
+      "claim": "Services and redesigned Experiences launched May 2025",
+      "cited_file": null,
+      "issue": "The specific launch event and date are absent from this claim's passages.",
+      "evidence_check": "The provided balance-sheet and cash-flow excerpts do not mention Services, redesigned Experiences, or a May 2025 launch."
+    },
+    {
+      "claim": "the company itself flags as \"unproven businesses... There can be no assurance that our hosts and guests will adopt or respond positively\"",
+      "cited_file": "abnb_2025_10-k.txt",
+      "issue": "The attributed quotation is not present in the supplied passage.",
+      "evidence_check": "No local match was found for the quoted warning."
+    },
+    {
+      "claim": "in October 2025 Airbnb began migrating property-management-software hosts \"from a split fee structure (where hosts paid a 3% fee and guests paid a separate service fee) to a single service fee of 15.5% for most hosts\"",
+      "cited_file": "abnb_2026-05-07_8-k.txt",
+      "issue": "The fee migration and percentages are supported, but the supplied passage says it began in Q4 2025, not specifically October 2025.",
+      "evidence_check": "Found the split-fee and 15.5% language, but searched for an October start date and found only 'Beginning in Q4 2025.'"
+    },
+    {
+      "claim": "extending it to most non-PMS hosts by December",
+      "cited_file": "abnb_2026-05-07_8-k.txt",
+      "issue": "The extension to non-PMS hosts and December timing are absent from the supplied passages.",
+      "evidence_check": "The passages do not mention non-PMS hosts or a December extension."
+    },
+    {
+      "claim": "it expects \"improvements to monetization through a simplified fee structure and our insurance programs, which are expected to lift our full-year take rate\"",
+      "cited_file": "abnb_2026-05-07_8-k.txt",
+      "issue": "The attributed quotation is absent from this claim's supplied evidence.",
+      "evidence_check": "No local match was found for the quote."
+    },
+    {
+      "claim": "A 15.5% host-paid fee is approximately the old ~3% host + ~12% guest economics repackaged",
+      "cited_file": "abnb_2020_s-1.txt",
+      "issue": "The passages supplied for this claim do not contain the old 3% host and 12% guest fee illustration.",
+      "evidence_check": "Searched the excerpts for the claimed fee components; they discuss booking trends and expenses, not the illustrative fee economics."
+    },
+    {
+      "claim": "help our hosts price more competitively",
+      "cited_file": "abnb_2025-11-06_8-k.txt",
+      "issue": "The attributed phrase is absent from the supplied passage.",
+      "evidence_check": "No local match was found."
+    },
+    {
+      "claim": "full-year take rate slipped from 13.57% in 2024 to 13.41% in 2025",
+      "cited_file": "abnb_income_statement.json; abnb_2025-02-13_8-k.txt; abnb_2026-02-12_8-k.txt",
+      "issue": "Neither full-year take-rate value appears, and the supplied excerpts lack the revenue and GBV inputs needed to verify them.",
+      "evidence_check": "Searched the provided balance-sheet excerpts for 13.57%, 13.41%, and corresponding full-year revenue/GBV figures; none appears."
+    },
+    {
+      "claim": "Q3 fell from 18.58% to 17.89%",
+      "cited_file": "abnb_2024q3_10-q.txt; abnb_2025q3_10-q.txt",
+      "issue": "Neither comparison value is present in the supplied evidence.",
+      "evidence_check": "No local match was found for 18.58% or 17.89%."
+    },
+    {
+      "claim": "Q1 fell from 9.27% to 9.18%",
+      "cited_file": "abnb_2025q1_10-q.txt; abnb_2026q1_10-q.txt",
+      "issue": "Neither comparison value is present in the supplied evidence.",
+      "evidence_check": "No local match was found for 9.27% or 9.18%."
+    },
+    {
+      "claim": "the 10-Qs contain no discussion of the single fee",
+      "cited_file": null,
+      "issue": "This corpus-wide absence claim cannot be established from the supplied excerpts.",
+      "evidence_check": "The passages are balance-sheet snippets rather than full-text searches of the relevant 10-Qs."
+    },
+    {
+      "claim": "the 10-Qs never state a take-rate figure at all",
+      "cited_file": null,
+      "issue": "This corpus-wide absence claim cannot be established from the supplied excerpts.",
+      "evidence_check": "The passages are balance-sheet snippets and do not demonstrate that all relevant 10-Qs were searched for take-rate disclosures."
+    },
+    {
+      "claim": "the cross-currency service fee (introduced Q2 2024 on the ~20% of GBV that is cross-currency)",
+      "cited_file": "abnb_2025-02-13_8-k.txt",
+      "issue": "The supplied passage supports the existence of an additional fee for cross-currency bookings, but not the Q2 2024 introduction date or the approximately 20% GBV share.",
+      "evidence_check": "Found mention of an additional cross-currency service fee; did not find 'Q2 2024' or '20% of GBV' in the supplied excerpts."
+    },
+    {
+      "claim": "no single city represented more than 2% of our revenue... or more than 1% of our active listings",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024_10-k.txt; abnb_2023_10-k.txt",
+      "issue": "The city concentration thresholds are absent from the supplied passages.",
+      "evidence_check": "The excerpts discuss quarterly performance and listings but do not state the 2% revenue or 1% active-listing limits."
+    },
+    {
+      "claim": "We do not believe that the current regulations in our top 10 cities, in the aggregate, have had or are expected to have a material adverse impact",
+      "cited_file": "abnb_2023_10-k.txt",
+      "issue": "The attributed statement is absent from the supplied passages.",
+      "evidence_check": "The retrieved excerpts contain filing headers and contents, not the quoted top-10-cities statement."
+    },
+    {
+      "claim": "The effective rate has normalized to ~21%",
+      "cited_file": null,
+      "issue": "The supplied evidence does not establish an Airbnb effective tax rate of approximately 21% or its normalization.",
+      "evidence_check": "The passages are principally Booking Holdings data and unrelated Airbnb excerpts; no relevant Airbnb effective-rate evidence appears."
+    },
+    {
+      "claim": "Pillar Two's 15% global minimum",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024_10-k.txt",
+      "issue": "The 15% Pillar Two minimum is absent from the supplied passages.",
+      "evidence_check": "Searched the excerpts for Pillar Two and a 15% global minimum; neither appears."
+    },
+    {
+      "claim": "the IRS dispute over the 2013 IP transfer",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024q2_10-q.txt",
+      "issue": "The supplied passages mention an outstanding IRS matter but do not identify a 2013 intellectual-property transfer dispute.",
+      "evidence_check": "Found a $163 million IRS payment related to an outstanding matter; no 2013 IP-transfer description appears."
+    },
+    {
+      "claim": "a May 2024 Statutory Notice of Deficiency \"claims that we owe $1.3 billion in tax, plus penalties and interest\"",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024q2_10-q.txt",
+      "issue": "The notice, date, claimed amount, and quotation are absent from the supplied evidence.",
+      "evidence_check": "The retrieved balance-sheet and cash-flow excerpts contain no Statutory Notice of Deficiency or $1.3 billion claim."
+    },
+    {
+      "claim": "exceeding the reserve \"by more than $1.0 billion\"",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024q2_10-q.txt",
+      "issue": "The reserve comparison is absent from the supplied passages.",
+      "evidence_check": "Searched the excerpts for a reserve and a more-than-$1.0-billion excess; neither appears."
+    },
+    {
+      "claim": "now in US Tax Court since July 2024",
+      "cited_file": "abnb_2025_10-k.txt; abnb_2024q2_10-q.txt",
+      "issue": "The Tax Court proceeding and July 2024 date are absent from the supplied evidence.",
+      "evidence_check": "The retrieved balance-sheet and cash-flow excerpts do not mention U.S. Tax Court."
+    },
+    {
+      "claim": "by Q1 2026 the Italy matter had disappeared from the 10-Q entirely",
+      "cited_file": "abnb_2026q1_10-q.txt",
+      "issue": "The supplied excerpts do not establish the absence of the Italy matter from the entire filing.",
+      "evidence_check": "The passages show the filing header, contents, and selected financial sections, not a conclusive full-document search for Italy."
+    },
+    {
+      "claim": "~80% of it is optical rate-normalization that depresses EPS without touching cash",
+      "cited_file": null,
+      "issue": "The approximately 80% attribution and no-cash-impact assertion lack supporting factual inputs in the supplied passages.",
+      "evidence_check": "The provided excerpts contain unrelated Booking Holdings data and no calculation or disclosure supporting the 80% estimate."
+    },
+    {
+      "claim": "Q3 operating margin slipped from 40.9% to 39.7% year-over-year",
+      "cited_file": "abnb_income_statement.json",
+      "issue": "The comparison is not supported by the supplied passage.",
+      "evidence_check": "The only supplied excerpt is an unrelated 2020 S-1 passage and contains neither margin."
+    },
+    {
+      "claim": "the FCF margin fell in Q1 2026 to 64% from 78%",
+      "cited_file": null,
+      "issue": "Neither FCF-margin figure appears in the supplied passages.",
+      "evidence_check": "The excerpts contain balance-sheet data only and do not provide Q1 2025 or Q1 2026 FCF margins."
+    },
+    {
+      "claim": "Airbnb repurchased ~$3.4\u20133.7B of stock over trailing-twelve-month windows",
+      "cited_file": "abnb_2025-08-06_8-k.txt; abnb_2026-05-07_8-k.txt",
+      "issue": "The supplied evidence does not establish the stated $3.4\u2013$3.7 billion range.",
+      "evidence_check": "One passage states $3.3 billion of TTM repurchases in Q3 2024; the supplied excerpts do not show the claimed lower bound of approximately $3.4 billion or a full series through $3.7 billion."
+    },
+    {
+      "claim": "the company earned inaugural investment-grade ratings (A-/Baa1)",
+      "cited_file": "abnb_2026-05-07_8-k.txt",
+      "issue": "The ratings and agencies are absent from this claim's supplied evidence.",
+      "evidence_check": "No local match was found for A-, Baa1, or inaugural investment-grade ratings."
+    },
+    {
+      "claim": "Airbnb compounds a strikingly stable 8\u201310% volume engine",
+      "cited_file": null,
+      "issue": "The analytical characterization lacks the underlying volume-growth data in the supplied passages.",
+      "evidence_check": "The excerpts are balance-sheet records and contain no volume-growth series."
+    },
+    {
+      "claim": "converts that into ~$4.5B of FCF at ~38% margins",
+      "cited_file": null,
+      "issue": "The supplied passages show $4.1 billion of TTM FCF at 38%, not approximately $4.5 billion at 38%.",
+      "evidence_check": "Found Q3 2024 TTM FCF of $4.072 billion and a 38% margin; did not find $4.5 billion paired with 38%."
+    },
+    {
+      "claim": "nearly all returned via buybacks",
+      "cited_file": null,
+      "issue": "The proportion of cash flow returned through buybacks is unsupported.",
+      "evidence_check": "No local match or comparative cash-flow and repurchase calculation was provided."
+    },
+    {
+      "claim": "realized take rate is flat-to-down (13.57%\u219213.41% FY)",
+      "cited_file": null,
+      "issue": "The specific full-year take-rate values are absent from the supplied evidence.",
+      "evidence_check": "The provided balance-sheet excerpts contain neither 13.57% nor 13.41%, nor the revenue and GBV inputs needed to calculate them."
+    },
+    {
+      "claim": "the ~ $1.3B IRS Tax Court tail",
+      "cited_file": null,
+      "issue": "The supplied passages do not identify a $1.3 billion Tax Court exposure.",
+      "evidence_check": "Found only a $163 million IRS payment related to an outstanding matter; no $1.3 billion Tax Court claim appears."
+    },
+    {
+      "claim": "growth increasingly funded by a 33%-higher marketing spend",
+      "cited_file": null,
+      "issue": "The supplied passages do not provide Airbnb marketing spending up 33% or establish that growth was increasingly funded by it.",
+      "evidence_check": "The excerpts contain Expedia data and unrelated Airbnb passages; no Airbnb 33% marketing-spend increase appears."
+    }
+  ],
+  "synthesis_found": "On balance, the market is over-discounting a cash-generative compounder for a regulatory threat the diversification data neutralizes and a tax drag that is mostly optical.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/abnb_balance_sheet.json",
+    "financials/cash_flow/abnb_cash_flow.json",
+    "financials/income_statement/abnb_income_statement.json",
+    "financials/income_statement/bkng_income_statement.json",
+    "financials/income_statement/expe_income_statement.json",
+    "press_releases/abnb_2024-11-07_8-k.txt",
+    "press_releases/abnb_2025-02-13_8-k.txt",
+    "press_releases/abnb_2025-05-01_8-k.txt",
+    "press_releases/abnb_2025-08-06_8-k.txt",
+    "press_releases/abnb_2025-11-06_8-k.txt",
+    "press_releases/abnb_2026-02-12_8-k.txt",
+    "press_releases/abnb_2026-05-07_8-k.txt",
+    "sec_filings/10-k/abnb_2023_10-k.txt",
+    "sec_filings/10-k/abnb_2024_10-k.txt",
+    "sec_filings/10-k/abnb_2025_10-k.txt",
+    "sec_filings/10-q/abnb_2024q2_10-q.txt",
+    "sec_filings/10-q/abnb_2024q3_10-q.txt",
+    "sec_filings/10-q/abnb_2025q1_10-q.txt",
+    "sec_filings/10-q/abnb_2025q3_10-q.txt",
+    "sec_filings/10-q/abnb_2026q1_10-q.txt",
+    "sec_filings/s-1/abnb_2020_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 113,
+  "grounding_claims_no_match": 8,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

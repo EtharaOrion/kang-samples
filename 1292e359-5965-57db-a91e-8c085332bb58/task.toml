@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat"
+description = "Take a clear position on whether Adobe's Creative Cloud moat — its integrated subscription ecosystem, contracted backlog, and commercially-safe Firefly advantage — can withstand generative-AI disruption, judging whether AI monetization is genuinely incremental against decelerating ARR growth."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "ADBE"]
+
+[metadata]
+uuid = "1292e359-5965-57db-a91e-8c085332bb58"
+difficulty_explanation = "The analyst must resist the 'record revenue' framing and see that headline ARR growth is decelerating toward roughly 10% even as AI-first ARR triples off a small base, so the central question is whether AI revenue is incremental or defensive. The moat and the disruption threat are both real and are described in the same filings, forcing a genuine reconciliation rather than cherry-picking. Subtle counter-signals — a goodwill impairment on the Publishing & Advertising unit, a CFO departure, and reliance on third-party models Adobe does not control — must be weighed against elite cash generation to reach a defensible verdict."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

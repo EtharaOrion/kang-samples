@@ -1,0 +1,52 @@
+[
+  {
+    "symbol": "BLK",
+    "end": "2026-03-31",
+    "year": 2026,
+    "period": "Q1",
+    "form": "10-Q",
+    "operatingCashFlow": -980000000,
+    "investingCashFlow": -280000000,
+    "financingCashFlow": -304000000,
+    "capitalExpenditure": 106000000,
+    "filingDate": "2026-05-06",
+    "date": "2026-03-31",
+    "fiscalYear": 2026,
+    "reportedCurrency": "USD",
+    "cik": "2012383"
+  },
+  {
+    "symbol": "BLK",
+    "end": "2025-03-31",
+    "year": 2025,
+    "period": "Q1",
+    "form": "10-Q",
+    "operatingCashFlow": -1128000000,
+    "investingCashFlow": -3336000000,
+    "financingCashFlow": -661000000,
+    "capitalExpenditure": 78000000,
+    "stockRepurchase": 657000000,
+    "filingDate": "2026-05-06",
+    "date": "2025-03-31",
+    "fiscalYear": 2025,
+    "reportedCurrency": "USD",
+    "cik": "2012383"
+  },
+  {
+    "symbol": "BLK",
+    "end": "2024-03-31",
+    "year": 2025,
+    "period": "Q1",
+    "form": "10-Q",
+    "operatingCashFlow": -408000000,
+    "investingCashFlow": -22000000,
+    "financingCashFlow": 1095000000,
+    "capitalExpenditure": 64000000,
+    "stockRepurchase": 634000000,
+    "filingDate": "2025-05-07",
+    "date": "2024-03-31",
+    "fiscalYear": 2025,
+    "reportedCurrency": "USD",
+    "cik": "2012383"
+  }
+]

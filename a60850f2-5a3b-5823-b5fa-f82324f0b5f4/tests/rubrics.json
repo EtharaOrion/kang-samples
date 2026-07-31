@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "Substantive analytical claims are preceded by opening the relevant source and checking its internal reporting scope rather than relying on the filename alone.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-open or search steps before early interpretations; look for checks of document dates, fiscal periods, units, and whether disclosures are annual, year-to-date, or quarterly."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The reconnaissance process purposefully explores the available annual filings, interim filings, earnings releases, and structured financial statements instead of depending on one document or source class.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the source inventory and tool log for coverage of Deckers 10-Ks, 10-Qs, dated press releases, and income-statement, balance-sheet, and cash-flow files; peer files need appear only if peer comparisons are used."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a reporting chronology that keeps full-year, cumulative interim, and standalone-quarter evidence distinct.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a dated period map or equivalent notes linking annual reports, interim filings, and releases, especially where nine-month figures are bridged to fourth-quarter or full-year figures."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The analytical plan treats HOKA and UGG as separate growth engines rather than collapsing them into a single brand narrative.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the question plan or evidence matrix for distinct HOKA and UGG tracks addressing each brand's scale, momentum, maturity, runway, or risk profile."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process defines a reproducible concentration test using HOKA, UGG, Other brands, and consolidated sales.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a planned or executed concentration formula, brand-share bridge, or residual calculation that makes the denominator and treatment of Other brands explicit."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The evidence-gathering process uses a multidimensional durability framework rather than treating recent sales growth alone as proof of durability.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect searches, excerpts, or working notes for organized evidence on operating mix, geographic development, margins, seasonality, competition, sourcing, portfolio changes, cash generation, or capital returns."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively seeks the strongest evidence that could weaken or overturn its emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for searches or notes targeted at contrary indicators such as deceleration, domestic weakness, margin pressure, concentration risks, sourcing exposure, or, for a cautious view, resilient growth, profitability, international runway, and liquidity."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "Apparent contradictions are tested for period, denominator, classification, or framing differences before being treated as genuine conflicts.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a contradiction log or reconciliation steps comparing annual, nine-month, and quarter-only rates; look for an explicit explanation of resolved tensions and identification of any tension that remains unresolved."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Every analyst-derived measure used in the reasoning is visibly traceable through a stated formula and disclosed inputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect quantitative workpapers for labeled formulas and inputs behind concentration, brand shares, quarter-only bridges, mix changes, incremental revenue, basis-point changes, or cash-flow ratios, with reported figures kept distinguishable from derived outputs."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The reasoning includes an explicit synthesis that weighs material positive and negative evidence to explain why the final position follows.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look near the end of the trajectory or in the final response for connective reasoning across brand momentum, concentration, operating mix, risks, profitability, and capital allocation rather than a sequence of disconnected observations."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The process takes a clear directional position on whether the durability evidence justifies the two-brand concentration and associated capital-return posture.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening thesis and closing conclusion for an integrated favorable, fragile, or conditional stance, rather than an unresolved list of advantages and disadvantages."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly preserves material uncertainty when the available evidence cannot support a clean inference.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for candid limitations concerning aggregate margins, unavailable brand profitability, overlapping channel and geographic categories, non-comparable periods, rounding, or management assertions that have not yet become observable outcomes."
+    }
+  ]
+}

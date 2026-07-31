@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Severity and Shape of the Ag Downturn', 'Segment Divergence and Diversification Cushion', 'Precision-Agriculture Durability and Recurring Value', 'Cost, Tariff, and Margin Pressure — Net Position on Resilience']
+Cited files: 16

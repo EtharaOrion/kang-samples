@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure"
+description = "Assess whether Starbucks' North America traffic turnaround and Q2 FY26 margin/EPS rebound are durable given decelerating China comparable sales, discounting pressure, and the Boyu Capital China joint venture."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "SBUX"]
+
+[metadata]
+uuid = "d00e69b2-7991-5bce-a1e9-c8ac98293805"
+difficulty_explanation = "Requires decomposing comparable-store-sales metrics into transactions vs. ticket across two segments and two quarters, then distinguishing genuine operating recovery from accounting effects of the Boyu Capital China divestiture (held-for-sale depreciation cessation, deconsolidation) that mechanically inflate reported margin. The agent must also spot and flag a numerical inconsistency between the announced China JV enterprise value and the disclosed closing consideration rather than silently resolving it."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

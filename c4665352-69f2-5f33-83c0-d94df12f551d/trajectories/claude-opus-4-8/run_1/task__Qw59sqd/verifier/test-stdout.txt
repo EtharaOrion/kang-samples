@@ -1,0 +1,5 @@
+Score: 1/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Balance-Sheet Deleveraging Toward Investment Grade']
+Themes missed: ['Premium and Diversified Revenue Mix Shift', 'Loyalty and the American Express Co-Brand Engine', 'Capacity Discipline, Margins and the Durable-Earnings Verdict']
+Cited files: 14

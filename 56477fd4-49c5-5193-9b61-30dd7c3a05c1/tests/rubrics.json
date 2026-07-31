@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process surveys multiple relevant corpus classes rather than building the analysis from a single release or filing type.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect corpus inventories, search results, and file-open steps for coverage of annual or quarterly SEC filings, earnings releases, company financial statements, balance-sheet or cash-flow data, and any peer files used."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes an explicit temporal framework that aligns the outage, CrowdStrike fiscal periods, publication dates, and the June 30, 2026 cutoff.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for header reads, fiscal-calendar notes, an event-and-reporting timeline, or period labels that distinguish fiscal years and quarters from calendar dates."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes durability into testable analytical branches covering growth, customer behavior, profitability quality, and unresolved downside exposure.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, a question tree, or an evidence matrix for distinct propositions about growth momentum, retention or expansion, earnings and cash economics, and legal, regulatory, or competitive risks."
+    },
+    {
+      "id": "c4",
+      "concern": "grounding_before_claim",
+      "text": "Substantive analytical claims are formed only after the process has inspected the relevant source passages or structured financial records.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect step ordering for source searches and reads preceding claim notes, comparisons, calculations, or drafted conclusions that rely on those materials."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process preserves metric distinctions instead of treating revenue, ARR, net new ARR, retention, backlog, and guidance as interchangeable evidence.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for metric definitions, separate table rows, period or as-of-date labels, and notes explaining what each measure does or does not represent."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work maintains visible provenance for calculations by distinguishing reported figures from derived values.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables or scratch work for formulas, source inputs, units, covered periods, and labels identifying company-reported versus independently calculated values."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process conducts a targeted search for evidence that could weaken an emerging durability view.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for searches and reads of risk factors, legal proceedings, outage discussions, customer disruption disclosures, competitor activity, regulatory inquiries, or adverse trend language after favorable metrics have been identified."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests whether favorable retention or expansion indicators may have been supported by customer concessions rather than assuming they are economically costless.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect notes surrounding commitment programs, contract extensions, discounts, promotional modules, service credits, or similar remedies and their possible effect on retention, ARR, or revenue timing."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests the quality of reported profitability and cash generation rather than accepting non-GAAP margins or free cash flow at face value.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for examination of GAAP versus non-GAAP results, reconciliation exclusions, stock-based compensation, outage or legal costs, working-capital timing, deferred revenue, or capital expenditures."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly marks material quantities or causal relationships that the available documents do not establish instead of filling those gaps with unsupported estimates.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect ambiguity logs, caveats, or analytical notes for unquantified concession costs, unresolved legal exposure, uncertain backlog conversion, noncontemporaneous metrics, or limits on attributing retention to incentives."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process explicitly reconciles favorable and unfavorable evidence by explaining why one body of evidence receives greater analytical weight.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a synthesis step or final-answer passage that directly weighs growth, retention, and cash indicators against concessions, GAAP losses, competitive pressure, and unresolved proceedings rather than listing them in parallel."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process converges on a clear position about durability instead of ending with an unresolved survey of considerations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the concluding reasoning and final answer for an explicit stance such as resilient, not yet proven, impaired, or an equivalent calibrated formulation, regardless of which stance is selected."
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+0001327567-26-000009.txt : 20260311
+0001327567-26-000009.hdr.sgml : 20260311
+20260311161023
+ACCESSION NUMBER: 0001327567-26-000009
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20260310
+ITEM INFORMATION: Other Events
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20260311
+DATE AS OF CHANGE: 20260311
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: Palo Alto Networks Inc
+ CENTRAL INDEX KEY: 0001327567
+ STANDARD INDUSTRIAL CLASSIFICATION: COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+ ORGANIZATION NAME: 06 Technology
+ EIN: 202530195
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 0731
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-35594
+ FILM NUMBER: 26743399
+
+ BUSINESS ADDRESS: 
+ STREET 1: 3000 TANNERY WAY
+ CITY: SANTA CLARA
+ STATE: CA
+ ZIP: 95054
+ BUSINESS PHONE: 408-753-4000
+
+ MAIL ADDRESS: 
+ STREET 1: 3000 TANNERY WAY
+ CITY: SANTA CLARA
+ STATE: CA
+ ZIP: 95054
+8-K
+1
+panw-20260310.htm
+8-K
+panw-20260310
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported)
+
+March 10, 2026
+
+ _____________________
+
+PALO ALTO NETWORKS, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+Delaware001-3559420-2530195
+
+(State or other jurisdiction of
+
+incorporation)(Commission File Number)(IRS Employer
+
+Identification No.)
+
+3000 Tannery Way
+
+Santa Clara, California95054
+
+(Address of principal executive office, including zip code)
+
+(408) 753-4000
+
+(Registrant’s telephone number, including area code) 
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each classTrading Symbol(s)Name of each exchange on which registered
+
+Common stock, $0.0001 par value per sharePANWThe Nasdaq Stock Market LLC
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01 Other Events.
+
+On March 10, 2026, the Board of Directors of Palo Alto Networks, Inc. (the “Company”) approved the repurchase of up to an additional $1.0 billion of the Company’s common stock. This authorization is an increase to the existing $4.1 billion repurchase authorization, which was originally approved by the Company’s Board of Directors in February 2019 and extended in December 2020, August 2021, August 2022, November 2023, August 2024, and November 2025, of which $0.0 million remained available as of March 6, 2026. The Company repurchased $1.0 billion of its common stock on the open market during February 20 and February 24, 2026, totaling approximately 6.8 million shares at an average price of $147.69 per share. The authorization allows the Company to repurchase shares of its common stock opportunistically and will be funded from available working capital. Repurchases may be made at management’s discretion from time to time in open market purchases, privately negotiated transactions, block purchase techniques, 10b5-1 trading plans, or a combination of the foregoing. The repurchase authorization period will expire on December 31, 2026 and may be suspended or discontinued by the Company at any time without prior notice. The Company had approximately 811 million shares of common stock outstanding as of March 6, 2026.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+Exhibit No.
+
+Description of Exhibit
+
+104Cover Page Interactive Data File (formatted as Inline XBRL)
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+PALO ALTO NETWORKS, INC.
+
+By:/s/ BRUCE BYRD
+
+Bruce Byrd
+
+Executive Vice President and General Counsel
+
+Date: March 11, 2026 
+
+EX-101.SCH
+2
+panw-20260310.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Cover Pagelink:presentationLinklink:calculationLinklink:definitionLinkEX-101.LAB
+3
+panw-20260310_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting MaterialSoliciting MaterialWritten CommunicationsWritten CommunicationsLocal Phone NumberLocal Phone NumberCover page.Cover [Abstract]Document Period End DateDocument Period End DatePre-commencement Tender OfferPre-commencement Tender OfferCurrent Fiscal Year End DateCurrent Fiscal Year End DateAmendment FlagAmendment FlagEntity Central Index KeyEntity Central Index KeyPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Tax Identification NumberEntity Tax Identification NumberEntity Emerging Growth CompanyEntity Emerging Growth CompanyEntity File NumberEntity File NumberEntity Registrant NameEntity Registrant NameSecurity Exchange NameSecurity Exchange NameTrading SymbolTrading SymbolEntity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeTitle of 12(b) SecurityTitle of 12(b) SecurityEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Address, City or TownEntity Address, City or TownEntity Address, Address Line OneEntity Address, Address Line OneDocument TypeDocument TypeCity Area CodeCity Area CodeEX-101.PRE
+4
+panw-20260310_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover Page
+
+Mar. 10, 2026
+
+Cover [Abstract]
+
+Document Type8-K
+
+Document Period End DateMar. 10, 2026
+
+Entity Registrant NamePALO ALTO NETWORKS, INC
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-35594
+
+Entity Central Index Key0001327567
+
+Amendment Flagfalse
+
+Entity Tax Identification Number20-2530195
+
+Entity Address, Address Line One3000 Tannery Way
+
+Entity Address, City or TownSanta Clara
+
+Entity Address, State or ProvinceCA
+
+Entity Address, Postal Zip Code95054
+
+City Area Code408
+
+Local Phone Number753-4000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Title of 12(b) SecurityCommon stock, $0.0001 par value per share
+
+Trading SymbolPANW
+
+Security Exchange NameNASDAQ
+
+Entity Emerging Growth Companyfalse
+
+XML
+7
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.4html1221false00false0falsefalseR1.htm0000001 - Document - Cover PageSheethttp://www.paloaltonetworks.com/role/CoverPageCover PageCover1falsefalseAll ReportsBookAll Reportspanw-20260310.htmpanw-20260310.xsdpanw-20260310_lab.xmlpanw-20260310_pre.xmlhttp://xbrl.sec.gov/dei/2025truefalseJSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "panw-20260310.htm": {
+ "nsprefix": "panw",
+ "nsuri": "http://www.paloaltonetworks.com/20260310",
+ "dts": {
+ "inline": {
+ "local": [
+ "panw-20260310.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "panw-20260310.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "panw-20260310_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "panw-20260310_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 24,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 22
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.paloaltonetworks.com/role/CoverPage",
+ "longName": "0000001 - Document - Cover Page",
+ "shortName": "Cover Page",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "panw-20260310.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "panw-20260310.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Cover page.",
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Current Fiscal Year End Date",
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.paloaltonetworks.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+13
+0001327567-26-000009-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001327567-26-000009-xbrl.zip
+M4$L#!!0 ( $N!:UQ\@J;)]P\ (9: 1 <&%N=RTR,#(V,#,Q,"YH
+M=&WM7.M7XD@6_SY_12TS.ZWGF) 'R$-ECXWT+*>[T0/V]NQ^V5-)"JDQ))E*
+M16#^^KVWDO 0T."TBCWK%TGJ>7_WUGU554[_,1W[Y(Z)F(?!V3M3-]X1%KBA
+MQX.;LW?G@W:W^^X?K1]._Z9IO[[O?R(7H9N,62!)6S JF4]9OP[L%^S*IFU#7;7/2S>2Y0TU[J**\^C?DF(BW#,,N_
+M?OXT<$=L3#4>Q)(&+LM;>6S12HV0SQ0*D+;JO'LHY-LF9."$5CN&Z=T^4!V+
+M'1K/JT_7ZJ\P"4M5U:9/05Y++-"^#$JMTQ&C7NMTS"0EV%1COR?\[JS4#@,)
+MLJM=SR(8P4V?SDJ23659\;O<^N&''TXEESYK1328:"BRAFT:I^7TY6DY[=H)
+MO5GKU.-W))8SGYV5/!Y'/ITU@S!@, $^;6)%)M*?W/-8H'Y">0\6D.!N.OY4
+M]MGPK.1JP-^ CK$GQIN= (:;M6%V@OK=P&/3CVQ6(MP[*PTURRRU#&"?;=6J
+MQ[73\DJO.PQR#NO8P[7\P:)42P(1.@*5B\ 7_D2S-6
+MH@4C$\6GI@34STHQ'T<^\E>]&PF^9PB]_XAX^#SD31,V);5R#[>['55SO-V[EKU9[CP">T,N?0-J%O #-
+MV$)Z-,/64'CNE\VGZ6VIFI?DS_D@Y16ZY2/QM$C9<6+Z:M&^G4)6 DO7SDK%B'HO+Z^T9=;QB;BPS=
+M5._+JC^1%V:@V9$LJ39 "4)S5K)+]XC-IF]&DL2ASSWRHZ'^3K)R&48;"B/J
+MH8EN&@3*YN.7%3!+R&]GSC*34QQQ()COR28N8?/W<&@
+M>]E[G=D;A6;_E<8C$"(9!D?D0F_KX*%5*XTBWC?7M'BL!@6L^,0J,0"""#_4[OFO0[5Y?]ZU>1N&(3O4I$G%"(
+M'F1(!LQ%#Y>8-@D%,:L'WB$)AWL\^6L("20W^=J3L"IX>1A/,HYN_[WT@X^<:X?KI2_U4F]L!))XS'PHJ:RZ<$;;0Q=C+"9YM&9-@/4
+M-!;,?>A2ZS,5[HB8QI$*>M=]Z4)@-IX9O.-"DO+SC^:QM#4KL_-,E.?]T?4EZG>NOE_V/@R/2[;7O,UG?;D&>
+M$XUB9O.@,Z6@MI!F7/5B3BNA,8DCYF+$XQ$>$"YC HH.E( X?!V*[K/W(3'-
+M)_BR447#U"VKOFM085NZ9=L/!A6OU56E2*BS+:[)0Q,KFF)PLK[V[P.:8OFB
+M[J_Q%(W0#=Q0@#U4F;F!!#O0#I- BED[]%:-!";Z,-R7+!+A'?:SL X5,+[,
+MIQ,J-N18LN4EO;\_7<:T0?@=J*6(0$\'8['/,:M&X+KAZ22\"STO19SN_T!Z8PC/YPQH5BY*OND
+M%^J'NTCU2J)^:]YLCY(TNZJ'<\\3+(ZS?Y^@/S-7#;52RX9YDFL:!$S,R%+M0M.'GI;@.)W,;7"^U!N#L4M+VJ:#W,3C:(:&T,I!21)?B"FP^5WM>
+M!5V"1JG5!F2A=L#79O/4R5R%,)K_'QZEWDF6ZS)*K4;5J*X9U-?A^Z,Z( U6
+M,HHP4HD$(,LCZA,V96XB^1T&,* -V!%$*ZZ?H%8C?_ (@*8\U2JV+4[[/U, N+"O?]*025?S4"Y;CJ59A6J56KVAH$
+M7\:;DIU%&/_SCW7+K)W$1#*?14@B"12-RY(#7CE-1:=0 CC-;F3&5//94#8M
+MTTXWRO*WZO##XO6^9'3V.-/:"R4YCR(?;#R8Y7V6K@^@X,'E3/,H0NE[>*2I
+MO@*Y&I(T20R1-%H$XM,X3ZINUTW;Z'ID&^^)S=;R'2^>BVZ/F'NKSA#1"(PC
+MJ'CTYYUP2ASFAQ-$$0L1:U+7/I(A]W&I\AC6K62!!^C*$ >)[ZD 0N3V)^1
+M&-S#>#A3+;,&H0/@T"PL4 5+>:\$^@'.!;.\;!CZ,#BV0X/-THSP$4GWP)..HF\GD 6-,@UIX&>'%S
+M\%5P"1!CG)$$FEKS>^+UE6"XJO%P
+ME=H01STJ+H=#=/F*\;RZ;SP'DC1WB:9'U[E9\33KP#DL)@%IW>]8!KIQG##Q
+M!$DX?ON28#.MI@ ORG:="!#+8G,
+M"P+BFZ^SJ?;$HWIV53?,S5M>V[;"MK^OU:QOLJEF?"L'B'%/G\B.4;!T%0E>$8S,9.Z!_$N^P2?"<0
+M]++C#DH,6*[?0>5-1AS>+/3B+AL*A8[I[@\R:Q9SQSW(S([,3,M1RVKN!-0@
+MD B#LOF^,"F5U7\=LI*=&>S3VZ.]D@.N"?*;BEDGRZ=/:
+MB;%UK;/SON1.N;Z=0I1OY)IW P^]<$:<&7%5W@_F= L*F*F]^WM).1X3F!RX
+M\#CM&W(CPHD5HUH:^-AW[G7>*T<&BW5*W#QP&?'V>=+;@N[I/L-^A
+M;+KUF5/RBR*DG=)1,(JUC'V+8O=89+K#!Q8F[J=M7.5\+>L^@C7,? @\80T'
+MH0I#DYBI6L#H++>/-V*Y"DW3:W#(3S66/\/!U0UDE-< J((2P>YX#.U ,]#
+M16FDKHL']; RWD;UJ/#B-*OO;8N![0,ZCX&7E[R^!ZMB+J5O*"Q_LS?H_J3%
+MO7=Y,@I326X*YE,\O+!VG7)!FR+*6#2A#A"0R/4FC]W W/4F:&U^$W0D%H[A
+M#=,
+BM1H= ?9/Z$SJ+$;?-UT5KUI^[*XJ*6@/,!75E,T[&(*JSD^VG-GY+
+M8LF'LY<_D]25;$SJ.L0YE\J#Z>"]F5C?[?88Z$MHU;2/OZDJ7Z-@LSJY#,CJ
+M=94CI?7>AZ F405>< %:,13J_,T5]4-R[H.J[#$Y"<5M?$2Z@:N3 VR#1RPL
+MXR0SO.K)/#E,MW7O4)4K[0\*%Q1JK$+Q)$*U"_3B:D0Q!S7Y$RB15,LZW/>7
+MMFN7^E4'.=RE>%,GU^APT42.0L'_2+=Y4_^1!RX(+IJ5,+,L8'[0&/Q4TPM9!
+MZ05S&9Y*058 0\Z3&Q!M?#"7'ZPCTH.1\XKV=#TCG)?61*J&)V*Q'$J$0CNG+HED#S%*[+$)G5=9(DMF%U!9,*(!S'>GU.@,HG )NE$B(P7Z"H
+M\)28J\3K)[-2TX\;B\R#GO(;R5D5%70')_$R%U%Z$@"%"LW
+M%8P OXSB^\1A9)@HU@Y%.%Y"&=<.4N;2B .1.M[$RX:* :@9MAQ3I8@C)0\HW_08J6\9[W>X3 W*48!NPFE%Q]PD4Y6%0Y
+M/E#%\9&D.=F2053+?T^PM6DX57K"W$5"QF
+M*2KH)X:)1 R@%7B;(".K@CVBWCU)JYN9@K@G;D#BJ@0D4GF62E8WK)^BYN"5
+M[%<#[=>'N;^LSK&BN,4*],YTQ!U>T*@UGHD(U5D3EPIW"Q@UO$W\A'F_"5_:
+MM/6Z\6UN>]5MO=&H/=,>$!Z'W)KKVY,U .BG4_:8FUT/::H]8*Q5:F4BA+<,
+M[OFK3[I:\1T@6S;A+JW-P+"
+MLUJQIE'9(9^^Y\2TP544X-N#Z]3%V!:=@3M&+JBDZ<6B@S2%AMX"F+>NTGL$
+M/S.VX>[-UA#Z@0]GK(9OQ6)J%6&^B8 :;UV\?D3]DM\M*>A\#+J_],ZOO_0?
+M^,C/_L7+RQ\Q20/:WQ-P6E-_J=B&P=&F/*B7@,/ITB16@3*/LW/B. RZO, G
+M]'?3&_D.&U%_F'N[2CUG%49,L"2 -JJ[W--FWG8G: NB6Q;A2_M(EEW7JT;J
+MG&WVD>8;E:L%#95QV^(,[5A@F97'>]NQ(IN/5VSY,(:^
+MZ33%?90JWPZEU83NTX;:&Z0WV^OWL^9WX7PH?5J.R^1]_TN[0][_NW_Q0L+R
+MU!,,FX#[ME>_BXJ 2%Q&WL_$QL-*S[B\]AF4SOQ.Z+\P 7@E6*R^WZG2&/FU
+M'?QH1\S\ H[KKE]/?.Y8;?NGO)HDS^'GV;)]]Y[+Z2=TU7=W6_\#4$L#!!0
+M ( $N!:UR!9$.-:P( !X' 1 <&%N=RTR,#(V,#,Q,"YX=7:#Y/_FQ3.VA28"T*#,BVHFNQW@;9IAVALN1)[4\?"+IB1%="-ABO'.U
+MC[#1*Q=AE!5Y-4]Q&)$2G\3S!*E1>@+FG;N@6[50Q08:@HPTKA9;M?0V6K>+(.C[WN\37\@Z
+MB,,P"NZ^K7\ZJ#=@&>7W$_0VEVS$)X%UYT3!"&\)[R?PEC!!F!8<=&]T*K\0
+M36!EATED.DNTEC3O-%R:_EQ 13JFEU['_W2$T8I":9K/P+9W GCFUD36H+^3
+M!E1+"C@@^6J&D.T-;5HA->)OAIC*I5QIP@LC=]?0M2B(=G/R+L5^X9&'K0E'
+M,4XB?ZM*+_B'&O8M/ZR&D7=X#2Z8@L*OQ4-0 K4M/'X[O7H/;@_8'J8Y">="
+M.[ZU#+:VI;P2.X,QV<(78_774(U3_&HTAT&.LBP+G-=,I2,364C!X&-PT$K1
+M@M04U/.Q=@$V$JJE9X<;C^/SNY7@FTI&R*L$TRNP;I,!E!EEIW>]%S2&T(^M
+M":',/3#8M>A_UL](?JA^0P%VH'!+O#%^1,NE=R[,C_F*U*8P:[^]_OKW?7>9
+M]\0Q^AB_A(IRZB8P=$^$\/Z?CI%C(DL]#5X27H3J%)0_^,J=7U[U0!X@'Q +
+MPHJ.'<[;E_4N;3".'1TV+IBNW.[[V5HZPV[75[,G4$L#!!0 ( $N!:URD
+MT_$VF@D /]8 5 <&%N=RTR,#(V,#,Q,%]L86(N>&ULQ9QO;]NZ%<;?
+M]U-PWIL-N(Q%_5?1YJ++;8=BN6W0I+AW&X:"I"A'J"P%M-(DWWZ4;">214DD
+M9:MO&L>FSW.>$_U\#FVS;WY]7&?@!^.;M,C?+M"9M0 LIT64M W\4_'OZ X.K#)=)
+MP=<0GM=/NRCNGGBZNBV!;=G^?MG^4?[:0A$EB1]""^$8!K;OP#!D$4161,(X
+M8;$3.;^L7GN(!([M^I#87@)=E# 8$HO".+)#-PR8^$GJH%F:?W]=_4/PA@%A
+M+]_4O[Y=W);EW>OE\N'AX>R1\.RLX*NE;5G.R->(=CI$V[(3$YY>T&]S^.YKMUGJOLWB_$40[!7?+%\RTRY&
+M=F*+V57&@9KL58\I39M:6 U:,2)+'G$VN 8--?D:7JB/6+6KR*YNBYQ]
+MNE\3Q@_ILET",4$!9%82>\CVXRCQ5.DZ#'YBL&HY4.N!K: Z5)TZC/,TQ9T>
+M2AK&M##J\K_U-S'Z'9#BQ!8D5A1#%=AC&R U"FJB2(54X,2'/
+M;UUN18%0!96L.B[RNHQC,]FM'C[:1K4P&C1CA),\XFQ8#1IJXC6\4!^S*\ZJ
+MN8^)#*NP-]7[$/QSDG2GMB@*('%P "W'2[#M,QJ'RGNB?ID3 R>$(6TH@ZTT
+MJ+75J1LHTSAZQS&OQY^9;RT(QVT9D3@0=C8KLM>*?&+@GK5 )::.6-O].%?&GO1@4K2CA8\T=2-FVI%F T5J
+MH$F'?($^$N_S,BV?+D0@CK./HM<]_HL]':(A=F.0H(A!A,6\Z 4^8A%214.J
+M<&)$MII@)PIJ52!DU6&1UV4#1-JJ%T: 9(YSD$6?#:M!0$Z_AA9-W
+M9A\WFWO&!_9GKA- S"("<1+:KA53)W"4F]&8V-R[M&T"Q]FL=2NGO66;5(^)
+M&S>=4DS9O_5Z/,8NKAO\9^WE>FT.[.CZGV/:/6_PX\=81$Z3W>=M\D_*D!W
+M*'8\:"7(M0(_\*FM_)[+H-(\W52(@[:Z]H=HP_52[:Y'J()1E]4O@$&W'3$W
+MH>OV19ZY^XX8[';AL2>88OM^S?@JS5?_Y,5#>2M>(NYPWAE]*;8@]GP?.E%H
+M>Z&':>Q0/6BE.O,@NY<&6VVP$]<%5EXI55PG^S>"5=>Z :J#QB: *H\[,Z:#
+MYKJ0#B\W1?1#FO5][80F,/*B&(:V;_EN@*GHJ7IK:Z-(C66.*S!>V2JO/Z_/R$UYW/F"@"$%,? *)
+M%X7(LET684ULV@+SH/.B"2I177P.:J**D+E3(XQ431J@)'#@#,C);?3
+MQ:IGG3Y:UXS>\ZK+/=);\9=C,K0<6S0C9'F04!PYH4\]SU=^RT8F<&*T]I)@
+MKZF)EK0FXVA-=:J'EJ9)O:_N#S@Q^_*^+.!\7]\?L-/Z O_0.GVT;CBNSH9>
+M/ZU)T3D"XSDAQ$Z,(4U"+_)8$ 6!,E.MR">&::<%MF+J$+7=C]-C[$D/&T4[
+M6KA(4S?BI!UI-D"D!IIDR!>8#G(?YKYJ(ELB>;<*E/8)B$"+((!W;$(M$#E?\WA'Z9F6'=:@,A
+M;C3,2@NE":JQ_6F8JCHWAU1J;#JB[; _!U"IM5X\Y:LGPGDA;G[F-\5#?D@F
+MP@2RQ6MT0YP0&V;))'FAWH2E9D1
+MW-T E3;XG)NVQE:=-$$T=3\-167CYCC*C$T'LA7UYR I,]8+I72Q^5GV&_'4
+M#HG(@\06OP:(6&&(B(-<[2/L5> 3P_=\H+O2TC^N7EL?A\O4D!Y/:EZ,3J0W
+M$Y]T$+T.-/OY\V;ZLF/GK<<-#K56:'&&9;LU'#"(H[ Z7V[%H6-CFE"F?)"U
+M$?C$(-1S4*6EN1UK>1\GP=21'@F*9O0.HDHR-SM\V@PTWX%32?JM0Z:RQ_M0
+M:%94=)'OYZ_V]Z3;_R_W_-7_ 5!+ P04 " !+@6M<8@ ZUQD& 1,P
+M%0 '!A;G';W]J0TL2AM;"E[(%$$F>R,_N?7_9A
+MO+QYNYIGWCV8,BWRXQ$YQ",/CS[=GB,V>GMR*$CS;O;QL7AZ/9E6U.!J/E\OEX4J:[+ P
+MT[&/<3!>6X^>S%XRM,V2\9?WES=J!G.!TKRL1*YJ
+M!V5Z5#87+PLEJD;U7\;EO6A1OT)K,U1?0L1' 3E^&IC=I;OYA@54&NX;'/
+M:V]9H3:,LEKQPJP_F0D)67/UJX;T:]/RJ2PK(U3U=8M*&EGP=!0BGX819\S'
+MH=";$M3AES;^)D$EJ,-I<3^V#=M$^;1^4NM#&VU:[AXU>EWMN,^L?[H!4(1(^D8C$)&980<@C,DCJ-]QV8L!WGX'7:[EG&,[R*JT>
+MKF&:UDKDU0.Z$0N(M";R6=(.'"KM[,
+MHC"-\#=6?Y@4=WEE'B:%;G7'UX$%6THB 45#"!PR!(!F#DV6,G(*CK0+Q202>R/[$Z
+M&9%=V"7TZF]XV.X 4X#L'"@0XQP$V%S*$ 9 8,MM)PXBUSGHH^6>83BU*R%=
+MKX;.,S'=#AQ8C(2B% '3- E4$DDI>D&PX:Y3\F-WD_]Z[9P8 6[%ZD+;Z-,D
+M?2Q+[![*2,*1)$PC@BG1C*K$E^$ (\$+[CM!P=R%8CAMG8#D5&N;@O+IX3+-
+M@;2D81@Q'',D*+$_*M2"\ $ V>&Z$QS<=3CZ:NH2&!/[]*.Y+99Y:PFD->**
+MQBB*54@Y5TSB ;%X=MRM)H7_)U2\4E"7F&BV1A_-E2GNTURU=D:1G13MG*A0
+M0IB$@(B0N]'A<,ER,&E=0N2J*"N1_9LN=FV=P;?C'O$!T9@%0H:^
+MXG2(O<X:C'O5.#8A=<8>^1!QP@ *0VL=1A+GL5['ZT5LW
+M !RN8;Y:NCVGO+X9FEW-BORE$DJDD="<(.['24ACS.(XZI7V;8_=4N]P6;*7
+MA'M._V>35A7DDV(^O\N?-DGE=@[O ,:G(6K=AZGJZ4@%2*B):Q5R$">N%0MMG-PX<+D?V
+ME''/$%P9J D&N[!M[M'7QSO,QR1I#VP!3I"(F$:^H@(4T5B&_98$+_ON!H7#
+M9]X0"
+MZLY.B@_$E[=IE;56QCCD]?D.BJ1/&(14@];];G%N>^R&@\/%REX2[CG]MT;4
+MYUEO'N:R:,V!4<#J(Z78=B'VE:21HCWO:&RXZW8^RN%ZY.O%<^1+?[92,Y%/
+M8==Q'M *<2X(4IIA(26-%?2K/N[RVHT!AZN.O:5THMIX-@. !P $0 @ $F$ <&%N=RTR,#(V,#,Q,"YX
+M&UL4$L! A0#% @ 2X%K7&( .M<9
+M!@ $3, !4 ( !C1P '!A;GXML
+14
+panw-20260310_htm.xml
+IDEA: XBRL DOCUMENT
+00013275672026-03-102026-03-100001327567false8-K2026-03-10PALO ALTO NETWORKS, INCDE001-3559420-25301953000 Tannery WaySanta ClaraCA95054408753-4000falsefalsefalsefalseCommon stock, $0.0001 par value per sharePANWNASDAQfalse

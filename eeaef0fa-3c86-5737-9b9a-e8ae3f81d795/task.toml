@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/cat-2026-06-30-construction-cycle-and-backlog-durability"
+description = "Assess how durable Caterpillar's record order backlog is as a construction-cycle demand signal, disentangling Power & Energy-led backlog growth, dealer-inventory-driven Construction Industries sales, and tariff-driven margin pressure to reach a clear position on backlog durability."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "CAT"]
+
+[metadata]
+uuid = "eeaef0fa-3c86-5737-9b9a-e8ae3f81d795"
+difficulty_explanation = "The headline backlog figures ($30.0B to $51.2B to $62.7B) look unambiguously bullish, but their durability as a construction-cycle signal depends on facts scattered across the 10-K and 10-Q: the backlog's concentration in Power & Energy, the long-dated share not filled within twelve months, and the fact that the 38 percent Q1 2026 Construction Industries jump was driven largely by dealer restocking rather than end-user demand. The analyst must also net record backlog against falling 2025 profits, a multi-billion-dollar tariff overhang with unresolved legal status, and whether returning price realization can offset cost inflation. Reaching a defensible verdict requires reconciling these directly conflicting bull and bear data points rather than surveying them in parallel."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

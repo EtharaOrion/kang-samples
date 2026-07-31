@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Cross-Border Volume as the High-Margin Growth Engine', 'Value-Added Services and Solutions as the Diversifier', 'Rebates, Incentives and the Quality of Net Revenue', 'A Reconciled View on Durability and Mix']
+Cited files: 11

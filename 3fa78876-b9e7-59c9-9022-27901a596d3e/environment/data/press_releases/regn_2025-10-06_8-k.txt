@@ -1,0 +1,2027 @@
+0001104659-25-096921.txt : 20251006
+0001104659-25-096921.hdr.sgml : 20251006
+20251006070049
+ACCESSION NUMBER: 0001104659-25-096921
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20251006
+ITEM INFORMATION: Results of Operations and Financial Condition
+FILED AS OF DATE: 20251006
+DATE AS OF CHANGE: 20251006
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: REGENERON PHARMACEUTICALS, INC.
+ CENTRAL INDEX KEY: 0000872589
+ STANDARD INDUSTRIAL CLASSIFICATION: PHARMACEUTICAL PREPARATIONS [2834]
+ ORGANIZATION NAME: 03 Life Sciences
+ EIN: 133444607
+ STATE OF INCORPORATION: NY
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 000-19034
+ FILM NUMBER: 251375580
+
+ BUSINESS ADDRESS: 
+ STREET 1: 777 OLD SAW MILL RIVER ROAD
+ CITY: TARRYTOWN
+ STATE: NY
+ ZIP: 10591
+ BUSINESS PHONE: 9148477000
+
+ MAIL ADDRESS: 
+ STREET 1: 777 OLD SAW MILL RIVER ROAD
+ CITY: TARRYTOWN
+ STATE: NY
+ ZIP: 10591
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: REGENERON PHARMACEUTICALS INC
+ DATE OF NAME CHANGE: 19930328
+8-K
+1
+tm2528010d1_8k.htm
+FORM 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+October 6, 2025 (October 6, 2025)
+
+REGENERON PHARMACEUTICALS, INC.
+
+(Exact name of registrant as specified
+in its charter)
+
+New York
+
+(State or other
+jurisdiction of incorporation)
+
+000-1903413-3444607
+
+(Commission
+
+File Number)
+
+(I.R.S.
+ Employer
+
+Identification
+ No.)
+
+777 Old Saw Mill River Road, Tarrytown, New York10591-6707
+
+(Address
+ of principal executive offices)(Zip
+ Code)
+
+Registrant’s telephone number,
+including area code: (914) 847-7000
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions
+A.2. below):
+
+¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title
+ of each classTrading
+ Symbol(s)Name
+ of each exchange on which registered
+
+Common Stock – par value $0.001 per shareREGNNASDAQ Global Select Market
+
+Indicate by check mark whether the
+registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ¨
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Item 2.02.Results of Operations and Financial Condition. 
+
+Regeneron Pharmaceuticals, Inc. (“Regeneron”
+or the “Company”) currently expects that its financial results calculated in accordance with U.S. generally accepted
+accounting principles (“GAAP”) and its non-GAAP financial results for the third quarter 2025 will include an acquired
+in-process research and development (“IPR&D”) charge of approximately $83 million on a pre-tax basis. This charge
+primarily relates to the previously disclosed $80 million up-front payment made to Hansoh Pharmaceuticals Group Company Limited under
+the 2025 license agreement. The acquired IPR&D charge is expected to negatively impact each of GAAP and non-GAAP net income per diluted
+share for the third quarter 2025 by approximately $0.68.
+
+Acquired IPR&D charges may include IPR&D
+acquired in connection with asset acquisitions as well as up-front, opt-in, certain development milestone payments, and premiums paid
+on equity securities related to collaboration and licensing agreements. Regeneron does not forecast such acquired IPR&D charges due
+to the uncertainty of the future occurrence, magnitude, and timing of these transactions in any given period.
+
+Regeneron’s results for the third quarter
+2025 have not been finalized and are subject to Regeneron’s financial statement closing procedures. There can be no assurance that
+actual results will not differ from the preliminary (unaudited) estimates described herein.
+
+The information included in this Current Report
+on Form 8-K shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended,
+nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall
+be expressly set forth by specific reference in such a filing.
+
+Note
+Regarding Forward-Looking Statements
+
+This Current Report
+on Form 8-K (this “Report”) includes forward-looking statements that involve risks and uncertainties relating
+to future events and the future performance of Regeneron Pharmaceuticals, Inc. (“Regeneron” or the “Company”),
+and actual events or results may differ materially from these forward-looking statements. Words such as “anticipate,” “expect,”
+“intend,” “plan,” “believe,” “seek,” “estimate,” variations of such words,
+and similar expressions are intended to identify such forward-looking statements, although not all forward-looking statements contain
+these identifying words. These statements concern, and these risks and uncertainties include, among others, Regeneron’s expected
+acquired in-process research and development charge for the quarterly period ended September 30, 2025 and its expected impact on
+GAAP and non-GAAP net income per diluted share for this period as discussed in this Report. A more complete description of these and other
+material risks can be found in Regeneron’s filings with the U.S. Securities and Exchange Commission. Any forward-looking statements
+are made based on management’s current beliefs and judgment, and the reader is cautioned not to rely on any forward-looking statements
+made by Regeneron. Regeneron does not undertake any obligation to update (publicly or otherwise) any forward-looking statement, including
+without limitation any financial projection or guidance, whether as a result of new information, future events, or otherwise.
+
+Note Regarding Non-GAAP Financial Measures
+
+This Report references non-GAAP net income
+per diluted share, which is a financial measure that is not calculated in accordance with U.S. Generally Accepted Accounting Principles
+(“GAAP”). This non-GAAP financial measure is computed by excluding certain non-cash and/or other items from the related
+GAAP financial measure. The Company also includes a non-GAAP adjustment for the estimated income tax effect of reconciling items. The
+Company makes such adjustments for items the Company does not view as useful in evaluating its operating performance. Management uses
+this and other non-GAAP measures for planning, budgeting, forecasting, assessing historical performance, and making financial and operational
+decisions, and also provides forecasts to investors on this basis. Additionally, such non-GAAP measures provide investors with an enhanced
+understanding of the financial performance of the Company's core business operations. However, there are limitations in the use of such
+non-GAAP financial measures as they exclude certain expenses that are recurring in nature. Furthermore, the Company's non-GAAP financial
+measures may not be comparable with non-GAAP information provided by other companies. Any non-GAAP financial measure presented by Regeneron
+should be considered supplemental to, and not a substitute for, measures of financial performance prepared in accordance with GAAP.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+REGENERON PHARMACEUTICALS, INC.   
+
+/s/ Joseph J. LaRosa
+
+Joseph J. LaRosa
+
+Executive Vice President, General Counsel and Secretary
+
+Date: October 6, 2025
+
+EX-101.SCH
+2
+regn-20251006.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+00000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.LAB
+3
+regn-20251006_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+Cover [Abstract]Document TypeAmendment FlagAmendment DescriptionDocument Registration StatementDocument Annual ReportDocument Quarterly ReportDocument Transition ReportDocument Shell Company ReportDocument Shell Company Event DateDocument Period Start DateDocument Period End DateDocument Fiscal Period FocusDocument Fiscal Year FocusCurrent Fiscal Year End DateEntity File NumberEntity Registrant NameEntity Central Index KeyEntity Primary SIC NumberEntity Tax Identification NumberEntity Incorporation, State or Country CodeEntity Address, Address Line OneEntity Address, Address Line TwoEntity Address, Address Line ThreeEntity Address, City or TownEntity Address, State or ProvinceEntity Address, CountryEntity Address, Postal Zip CodeCountry RegionCity Area CodeLocal Phone NumberExtensionWritten CommunicationsSoliciting MaterialPre-commencement Tender OfferPre-commencement Issuer Tender OfferTitle of 12(b) SecurityNo Trading Symbol FlagTrading SymbolSecurity Exchange NameTitle of 12(g) SecuritySecurity Reporting ObligationAnnual Information FormAudited Annual Financial StatementsEntity Well-known Seasoned IssuerEntity Voluntary FilersEntity Current Reporting StatusEntity Interactive Data CurrentEntity Filer CategoryEntity Small BusinessEntity Emerging Growth CompanyElected Not To Use the Extended Transition PeriodDocument Accounting StandardOther Reporting Standard Item NumberEntity Shell CompanyEntity Public FloatEntity Bankruptcy Proceedings, Reporting CurrentEntity Common Stock, Shares OutstandingDocuments Incorporated by Reference [Text Block]EX-101.PRE
+4
+regn-20251006_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Oct. 06, 2025
+
+Cover [Abstract]
+
+Document Type8-K
+
+Amendment Flagfalse
+
+Document Period End DateOct. 06, 2025
+
+Entity File Number000-19034
+
+Entity Registrant NameREGENERON PHARMACEUTICALS, INC.
+
+Entity Central Index Key0000872589
+
+Entity Tax Identification Number13-3444607
+
+Entity Incorporation, State or Country CodeNY
+
+Entity Address, Address Line One777 Old Saw Mill River Road
+
+Entity Address, City or TownTarrytown
+
+Entity Address, State or ProvinceNY
+
+Entity Address, Postal Zip Code10591-6707
+
+City Area Code914
+
+Local Phone Number847-7000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Title of 12(b) SecurityCommon Stock – par value $0.001 per share
+
+Trading SymbolREGN
+
+Security Exchange NameNASDAQ
+
+Entity Emerging Growth Companyfalse
+
+XML
+7
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.2html1221false00false3falsefalseR1.htm00000001 - Document - CoverSheethttp://regeneron.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportsregn-20251006.xsdregn-20251006_lab.xmlregn-20251006_pre.xmltm2528010d1_8k.htmhttp://xbrl.sec.gov/dei/2025truefalseJSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "tm2528010d1_8k.htm": {
+ "nsprefix": "regn",
+ "nsuri": "http://regeneron.com/20251006",
+ "dts": {
+ "schema": {
+ "local": [
+ "regn-20251006.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "regn-20251006_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "regn-20251006_pre.xml"
+ ]
+ },
+ "inline": {
+ "local": [
+ "tm2528010d1_8k.htm"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 59,
+ "unitCount": 3,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 22
+ },
+ "report": {
+ "R1": {
+ "role": "http://regeneron.com/role/Cover",
+ "longName": "00000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "AsOf2025-10-06",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "tm2528010d1_8k.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "AsOf2025-10-06",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "tm2528010d1_8k.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentDescription": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentDescription",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Description",
+ "documentation": "Description of changes contained within amended document."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AnnualInformationForm": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AnnualInformationForm",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Annual Information Form",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_AuditedAnnualFinancialStatements": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AuditedAnnualFinancialStatements",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Audited Annual Financial Statements",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CountryRegion": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CountryRegion",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Country Region",
+ "documentation": "Region code of country"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentAccountingStandard": {
+ "xbrltype": "accountingStandardItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAccountingStandard",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Accounting Standard",
+ "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentAnnualReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAnnualReport",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Annual Report",
+ "documentation": "Boolean flag that is true only for a form used as an annual report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r11",
+ "r13",
+ "r14"
+ ]
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "xbrltype": "fiscalPeriodItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalPeriodFocus",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Period Focus",
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "xbrltype": "gYearItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalYearFocus",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Year Focus",
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodStartDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodStartDate",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period Start Date",
+ "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentQuarterlyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentQuarterlyReport",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Quarterly Report",
+ "documentation": "Boolean flag that is true only for a form used as an quarterly report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r12"
+ ]
+ },
+ "dei_DocumentRegistrationStatement": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentRegistrationStatement",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Registration Statement",
+ "documentation": "Boolean flag that is true only for a form used as a registration statement."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_DocumentShellCompanyEventDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyEventDate",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Event Date",
+ "documentation": "Date of event requiring a shell company report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentShellCompanyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyReport",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Report",
+ "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentTransitionReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentTransitionReport",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Transition Report",
+ "documentation": "Boolean flag that is true only for a form used as a transition report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r15"
+ ]
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentsIncorporatedByReferenceTextBlock": {
+ "xbrltype": "textBlockItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentsIncorporatedByReferenceTextBlock",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Documents Incorporated by Reference [Text Block]",
+ "documentation": "Documents incorporated by reference."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCountry": {
+ "xbrltype": "countryCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCountry",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Country",
+ "documentation": "ISO 3166-1 alpha-2 country code."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityBankruptcyProceedingsReportingCurrent": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityBankruptcyProceedingsReportingCurrent",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Bankruptcy Proceedings, Reporting Current",
+ "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityCommonStockSharesOutstanding": {
+ "xbrltype": "sharesItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCommonStockSharesOutstanding",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Common Stock, Shares Outstanding",
+ "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCurrentReportingStatus": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCurrentReportingStatus",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Current Reporting Status",
+ "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityExTransitionPeriod": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityExTransitionPeriod",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Elected Not To Use the Extended Transition Period",
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+ }
+ }
+ },
+ "auth_ref": [
+ "r19"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityFilerCategory": {
+ "xbrltype": "filerCategoryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFilerCategory",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Filer Category",
+ "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInteractiveDataCurrent": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInteractiveDataCurrent",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Interactive Data Current",
+ "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r16"
+ ]
+ },
+ "dei_EntityPrimarySicNumber": {
+ "xbrltype": "sicNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPrimarySicNumber",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Primary SIC Number",
+ "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_EntityPublicFloat": {
+ "xbrltype": "monetaryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPublicFloat",
+ "crdr": "credit",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Public Float",
+ "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityShellCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityShellCompany",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Shell Company",
+ "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntitySmallBusiness": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitySmallBusiness",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Small Business",
+ "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityVoluntaryFilers": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityVoluntaryFilers",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Voluntary Filers",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityWellKnownSeasonedIssuer": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityWellKnownSeasonedIssuer",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Well-known Seasoned Issuer",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+ }
+ }
+ },
+ "auth_ref": [
+ "r17"
+ ]
+ },
+ "dei_Extension": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Extension",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Extension",
+ "documentation": "Extension number for local phone number."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_OtherReportingStandardItemNumber": {
+ "xbrltype": "otherReportingStandardItemNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "OtherReportingStandardItemNumber",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Other Reporting Standard Item Number",
+ "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r7"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r9"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_Security12gTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12gTitle",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(g) Security",
+ "documentation": "Title of a 12(g) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_SecurityReportingObligation": {
+ "xbrltype": "securityReportingObligationItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityReportingObligation",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Reporting Obligation",
+ "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r10"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r8"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://regeneron.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r18"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-23"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "g"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12, 13, 15d"
+ },
+ "r7": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r8": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r9": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r10": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "15",
+ "Subsection": "d"
+ },
+ "r11": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-K",
+ "Number": "249",
+ "Section": "310"
+ },
+ "r12": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-Q",
+ "Number": "240",
+ "Section": "308",
+ "Subsection": "a"
+ },
+ "r13": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 20-F",
+ "Number": "249",
+ "Section": "220",
+ "Subsection": "f"
+ },
+ "r14": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 40-F",
+ "Number": "249",
+ "Section": "240",
+ "Subsection": "f"
+ },
+ "r15": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Forms 10-K, 10-Q, 20-F",
+ "Number": "240",
+ "Section": "13",
+ "Subsection": "a-1"
+ },
+ "r16": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Regulation S-T",
+ "Number": "232",
+ "Section": "405"
+ },
+ "r17": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "405"
+ },
+ "r18": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ },
+ "r19": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Section": "B",
+ "Subsection": "2"
+ }
+ }
+}
+ZIP
+13
+0001104659-25-096921-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001104659-25-096921-xbrl.zip
+M4$L#!!0 ( !F_T'U-6,;0T@; LFD9-(P)4T'FC3-I2/LA6BP)4>2 \FO
+MKV1;YL- @+: 0T8O^UU"ME'*6/1<-W)9.)0]HPGC(^%
+MX[-H.\&^Q#(1A5IE6LE_V]&OB? +\@$^KT\^3GOD?@3T4]+%M0?_)X:;ZN F
+M>'WH'51_C:5P_+5]-/%()*Z>!M4*=*ZRD$WA/T*$D3H+*EJ6
+MKB\O;U)S&!^YU4K%<^^ON_T49V7 QC0D=+P*[AT?'[NIUT!+R.F AT:ZYFKW
+M LHE)67;, 3*B2F_@(^D 5A'EQW,^<"E*R$'F508J !+.$$^,Z(/;O*H?#5
+MN@$FPAYA'!?@(1:#5#1W+( %EV6@,BZ#;/D2@U@)S5P+! XC6F#51L\"H[HI
+M4YBGJE.3%4($5%XR'EW $">ARN0IP2$9$@@L)#$?@=1=)F+LPUMRIE:07:J;6Q-!>M\W4O6 A$K2L;#FG9O0"
+M&!)*TMCY$'G(UB.3Z$+5,F4VW65P62D1$-S0TW0=XL&NE2L*A/^QY*[6+]?:=!='2^V7QZ^IRF5<(EH:Y$T7:?8$=)F?
+M2FV@Z)UM>+8VV5[5KGG.5 2S3'=)8O8%=DO"\/9(8LUUOBJ^6 ?7B[2%M@VZ
+MYEG8&'0EQX50"F/9.X7Y1^0OQW&K/G?[N#,/CL$/0_@GW#[M$%Y>"K6J#I9FIJ^0=0
+M2P,$% @ %SA&6R#[UB3]"@ ?X8 !4 !R96=N+3(P,C4Q,# V7VQA
+M8BYX;6S-G5UOX[@5AN\+]#^P[DT+C..)@UT@V4Y(34:!V
+M?(:^/YJNT'@\H-IOA,:,?[V?5]4^YOES=C:9O+Z^'E'V@E\9?\J.(K895N$B
+MQ_DVJVK[N/M8_E'AG]*$/IW)OU8X(T@<+IJ=[;+D?"3W6^[V]>2(\?5D^O'C
+M\>2?OUXOHD>RP>.$RL,6D9&.DK78XHY/3T\G1:F6MI2[%4_U/DXFVDY5LRA-
+M.O0U)UEREA7VKEF$\Z+7>W>#0(7\WUC+QG+3^'@Z/CD^VF7Q2!_\X@AREI)[
+M\H"*9I[E^V=!4I9($$;EMD=.'NQF4LXG,GY"R1KG))8[.I4[.OY>[NBOY>9K
+MO"+I"$FEX -LUVFCKC)HXMKL'>$)BR_I^UR;T9[LB^\.S_^'!M3CG3=AR7*<
+MOLM\/=*Y[1OROB-^B'-_I,4P3]YWI&N1_Q?;>=ORFP^O_;BFQI6*2<3$
+MU/2X6.DJE
+MHTTJ%')%1>CXZV+T8Z%!OVO5?SY-#K4XZ&BQ!-IN",V7HD9+"YK%KKK99DKW
+M>+H@M(M3N_),^-=^#1E
+MKJFQF31AJ6N"8L1B#$1#:9$2>R+B'UMQQDYXNN^%HJ5TS05@U43#D 5%A]T;
+M"$@E]\O(DF.:)7( ZX6D+75^N@&8;9UZ&+J@. ',P:R:%MBPR4M;&10QH#V0F2("E2'A8'/Y(E?G8IDTL+$UO4]X6K:[^*G$
+MP2)D.AQ(41&&9)PGDFJW(7H8:BE=TP-8-;DQ9$$18_<&LJ+DJ-#[A^22QH,0
+MJ71^ #%LVO$H10'"T736AX90^P3C*LDBG"HO5V);UM$\B]8U(*!=$Y*6,"A0
+M('<@+"I ,U.$> 7F7P3S8;C4E'Y@:5FUHU+) @3%]-:'B=1[@62VY;SA&IYQ
+M8*FSF[(]9JO[LX N"%!ZS+7NVBIY Q1/,] ES9-\+Q^GN]EN5H1;&M>6N&(#
+M,J>9,,N#8 $P93*@9$CJD!)ZZ7E]EX#F\B%&L#FFS"T!=I--"IJ:@$BP&@-H
+M.&B+9TJ]$#$3(Q/'Z9S&9/<+V8/M:NG<,@'8;$)AB *BPNX,P*(4HT*-A-P+
+M&'<\V6"^7R11SU31%KI% S+:9,-4!00'8 V@HU2CQ7SFVTUF '% Z'0[! @20:@9Y1.D.8T8?V:UQQUF;"L&P/V,Q? *
+MI2?*+52#FM!$JS,D(,"&^ 0P:X1^4,^D("9?XRDJ0+(&+\1=Q+$X4%GYSW5"
+MR3'8?JO6+5T==IM,680!D02[ _@IE1_T!R1CT"T-!9KI&YHZ]0_-="@TTZ"A
+MF;X'FN4K"P2:DS@ %,6ZDQM.&A
+M8S?8QT^U(-9Q7L<:M2CO_9)HF9]1IFG2/L0H37B0-(WU#BY*[1.).Y;E./UW
+M\MQY(FX7>\'#:M@*24,9'BHV>WW J!@D@GR<6)>XRAL:UE?)C')WKP!;;!U>
+M :X5!@&!S5'[%6!U]42)7'>S9)03#(P(S6)GG6PQ5?5QK2R,+FX;:O5P\;T6
+M&A]?9)G=);U[9!1^0* M<=73D#G=VV9Y$#T.F#)[O9"A0N?I:KS,,)'9A^]:
+MF;.9W;133>2Z((C>-=VTIFE=[K@W?^-)+O8\8YO-EI9W>6S/#0(Z5[W<:5/W
+MN%441.]W.3-)*+6H*7:,Q8*E293D"5W_*DX^>8)MK;*)7 $!&]0TM!5!H #:
+M,CDX")%6.H;@CA,)(1$=4;P$*!,+\=N'!^MLWR5V!46_80T'K P"DEY[)BPB
+M8!S5(I *046,7VSF6;8E_$WP6$(\(02:!T!JZ4/$"3+9"Y4*],G6@D1;,3_N
+MCZ>K99*GMI/+ML39G 28JV8DHSP(-@!3)@M%&6(/Z'CZM]7?D8YRW/TW;,FQ
+MS!V[V&]6+ 6R3UE5KB#HL*@YL$B"0 'V9=)PPU I14KK(SM5PZRE.4:Y*P"L
+MMG37-PJ#Z'2;H]:7O]'7GH;\RUWT*$P1X(4$N\SUT&\S:0[_=4T0"'08:YV4
+ME%*DM3Y>2#A,6>O^1<#:VR)@W;,(6(>X"%@/702LO2T"]&Y5BA Q+MVNTF2-
+M@>2$G6K74'18-OFP2(-"!?8'CAE5"#K$N,YH6:0XD^GY^:;8_Y7X8&DEH'.6
+MT[++9I74TB8*@I$N9ZVTEBKI7$V,I-HU%]LXR4FLS%PE%-,HP6F5'M%V1;P_
+MQ!DM \U7X/3HPV!HF,D63BI,YS*L @^I+EU?2EK=/S/38;CXT XB#P&F(0^#1&1DT?I)12(>55\*\D/2-I5N:8UZ\
+M2\YM(Q.@UL8KR](IE3N3O120OY O.<>D-;"\D=_U299=I
+M\VU*FS8@A#H-@N]/5C$R50S63'E+&<-G8JFU9AU/B1LJ]XEC6A;;N6,J24!X
+MV'QU9)#A2&N]L+#8X#3]O,T22C)X(C)4;EFP6FRRT) $Q(+-%\!"(45:ZX6%
+MRPWA:S&]_$
+MXBK+(MQ2B]0Q-J!9@YF6+B1@(',M6E(2R>LM-RQ'2X:^9@3ECP1=EC]#5\\$
+MK^KQ]4LC421?B%"KDPWXMD-_B"N"AIK7'/7I@Z!IH$F3J2*L>7)=!"(9Z3.;43VY
+M/;S$:X@.,>6U[
+M1K*\@R @ MJNH!1YA1 52B_]_QG3)[Y]SJ/]'6<1(?(IJZP:K?JNOPV,=LO,
+MFYK4I&E0:$":9G$&%
+M,?@J>&>0X]L+ QI@W&3HB @(O0$VH1L.120J0C\@%8QJT9[.S[)#%D 2?][?
+MDP?"Y7L'2[++/XL=/76<80R(=7WV-K@YYLE<;V 0$+[5+72JEZ%Z!6@EGQ$K
+MJT"_RTI048OM]\OKFZ[%)[%9;Q)_K7!&Q);_ E!+ P04 " 7.$9;JO>J
+MQED' #65P %0 ')E9VXM,C R-3$P,#9?<')E+GAM;,V<37/;-A"&[YWI
+M?V#5LRQ+;M-:L9NQ%2NCB1.[EI.TO60@$I(P!@$- %K2OR] BHH^"'!]X=H'
+M6Z86P+[/@B"7 'CQ;I7RZ)DJS:2X;'5/3EL1%;%,F)A=MKZ,VU?CP6C4BK0A
+M(B%<"GK9$K+U[J^??XKLS\4O[78T9)0G_>B]C-LC,95OH\\DI?WH Q54$2/5
+MV^@KX9D[(H>,4Q4-9+K@U%#[1=%P/WISTIM$[3:@VJ]4)%)]>1AMJYT;L]#]
+M3F>Y7)X(^4R64CWIDUBFL K'AIA,;VL[79UN?HKB%YR)I[[[-2&:1A:7T/V5
+M9I79B52S3N_TM-OYY]/M.)[3E+29<-ABVBI+N5JJRG7/S\\[^;>E
+MZ9'E:J)XV<99IW1G6[/]E@7L=SS1K*]S]VYE3$P>]=IF(J^%^Z]=FK7=H7:W
+MUS[KGJQTTBKAYP25Y/2!3J-<9M^L%[8G:>8Z0FMS;*[H]+*EZ$S8BGJ_=T]/
+MW[AJ?AU(VS];D:O AGWKKC5T/4P*%^J.^[:SL>SL-;Q05%-A!W1E
+M;'^B2>F#JP;0PJ8*9ISUIKMTH[;K6UEJ&[,?"\N-)Z4O7,9[S7,7 ZGV"93]
+M.2>M:7PRD\^=A+*.H^(^Y'AR-/:?[WE#5Q-M%(E-61,G$\KS^K];FP.33@->
+ME20>;8W53NU;'/JT&[4K%4=2)519UF5=1,5[L3KNFAN+SH(H6U$[GC.^#?-4
+MR=1'9T-">AS=!66;:(;FE6T_<3X,.9E5XSPP ?+L8@"M5(-%]#W5L6(+QZ4&
+M[)XED&\/E6^%MH8QE^?. YTQYZ]SQ5UPJ3L8'A<\18#@SS!'BJ!:I A<"9$1
+M_D 74M6 W[<$\OX-DW>5-B3,?V=$&:KX&D+ZR!@(^W=,V!Z%2+P?%1&:.3X0
+MX,?60.)O4&\\/!J1D(_GE'.7PQ$!ZN55]D#L?V!B]^M\!>!OGMWUW5Y:X.QW
+MB@#Q__E:\!^I18K /55,)O:2K@#LCXR!U,\QJ7L4HO*^$0F4]M84G/_@PSZ0
+MAX1ZR'1,>.'1T![38=P5YE#D*#EGK4Q4[/]2HL#0=XRAR%'2T!J)#0,?9$KM
+M.1,<5?S64.0H"6B=R(:9WPC#S-H]]/^LSB^D'CV!8*&R6S# M$H?U(5J/$JF)35DP'UD/W%H&R1TDK07)10C 2L50+
+MN?.X>" S>SZN!S()#NDU!:'A0,DW7R =)2A726)QZ
+M (R7PGVWLNP]^#84?+06IFO!/O9R["?P;&CY**U,C&Q#^S'._4HEYX9:*\Q
+M%#E*+EHC$1-X?J6Y4_=*/K-B550=]:,24/2(*6I8+&J'+R[RD-Y>6D)Y(Z:K
+MU>(P.=]+;0C_CRWJ[B2K[:',$1/7D-"F'S 6<7M]+-?Y-'MV/&,\H<64%9HZ1\
+M/E$-L_TL'Q5QF_7&ZW0BN7][2*4AE#!*@A>0UC#D/3^J\1Z80,&B9':5VT;=33B;
+M$?].LF !\#X;3.(!J4WOW\NW_+A]W"K-_1C:#]78/:90X#A;)$/RFD:=)_T8Y_RCD4HPIT5+0I+C5#SWA
+M]Q:!1@%Q#K%&+DH(ODJ>64HJ7PBJ/.> QQ2*'''NT",/9^UEL:AY>^TI7M@1
+M(NXK 06/.(D8%HNT/LU0YS-[IN^)(1L/0_Q]):#\$2<4PV+1UL^K@;WPS&1X
+MSOS $$H;<2ELI304R..4<'Z=:2:H#HXM!X90R(AK7BNEH4"^2:F:V4'M@Y)+
+M,]_L[0S!]A2 0D=;'_+4B^PAK\=@)$[%Z16*_=B&.WD**X
+MDHN$* _UD#V4.^K&2K_0ALG?F3E5N_=/N3,CF[>%%CW4EX)& 25=A8K&N;;N
+M[.0/7EKW[*"\$1/3*F$X>Z:R"6?QD$L2O"_?,X/R19R5]?:OT+
+M/C0(EH.&!G,3)T XTEV0_K'1BR;7ZPT]^U?;.M*_YZ_0E[T/>C;O
+M! B4LB<- =)"H GT]0M'L97$X-BN)>=Q__J=D63'3ISPN-!RO[/W[+9@2S.C
+M><](5@_^,QO;9,)\;KG.NS_+A=*?A#F&:UK.\-V?C5ZSW?[S/X>9@Y& 83#4
+MX>^R(R&\_6)Q.IT6IM6"ZP^+Y;V]O>(,QV35H/U9ZKA*J50N?CT_ZQDC-J9Y
+MR^&".@:+)MF6<[<>/KZ-AO9]VTH,Q2N/J0 1
+M(J3M?*F2K^S$@.0Y,Q* X/?"T)W<"Z>>KY9#."O"2:X47_4]R58_6)YL._:C*>.EF\2PPTW<(0_3R=$OTQ,X+Y8
+M!0T/$X-\-G2B4? +.3II-"[A+R2,Y/,/G%RMW. B
+M;Q*+NPD7]W XM4HTZ0FSM_=N&&@+4 __:XR98\+_Q;%-AS<#:G/V"$B[,4@M
+M!Z0P;P(HG]IMQV2SCVQ^4X+_ZKN5[?K>P\'NO <>']V4;[29*_CPZ!$@*C>]
+M$?49OZG<2*>F8'#Y[!%@CI"22PVJND+0.MA]UYP3+N8V>Y<=@-+MDW+)$^3*
+M&L.(#IN2KCNF3DX]R %^WQJ@;IO6))QF6MRSZ7R?.*[#\)TUVT<]93XHO_S%
+M,DWFH"7@;S"J$XP!CJ&T?":Z;/ NV^ 7 ]20?+F4!_,AEODN>TP-@6(I5;/$
+M@44#+F;M)Q0A>R@UX:"8@/QW<-7BN%)5)7NXT)4TQ,7XFI$,GPV8#U&5
+M/>4^ER$0R"$RKNV/?*0,C2X?&DIAQLVL?BW +;S+.V@PI%,+CA\&#VV3'PQL)A/).$L-9HTVQ^3O%F>'"$K
+MIF'3N#Q@I&NND #QW!='5+##!?4AG,6[Y5F@*FOFA&^62(IC#Y]I]B58&CB6
+MXB<8US(3QXSRP&>'V@CW84@(*GR5@(^PTH$K>UX'7R]>CGDB@H736$8"%@Z"
+M6V$HSI3*3H7K+]X^>NW+Y*7 C&$\8HX[MIQ[<-[+CV6D*6##U_'E+[-1F]["
+MTI3):Y]W4(2YAYE,YL +7>28^D/+V2>E+*0 'KR+^_1N8+/\)1W*>.6*!YY?/^F[0KCC?5+%9U/+%"-TVZ7?LXGI?=<'>M3T]S8U[@C (-RU
+M+?,MT2]#2.I]>?$>8T&>6W]!H(&GV<,__E7>*;U52]-_QI903*PA=>4 NK0
+MXVT:M/Q:QZ7Z?7$IY(\&]):@T>:I;0WAD0&^AOD O']XW6E?M8Y([ZIQU>H=
+M%/LOCK#7:EYWVU?M5H\T.D>D];5YVNBNU+SH;J*@\%Q5?*!]!
+M52=DP/N44>Z-N$6#"@+GUC1$EI(O4]*_J1[-S^;[:^SBL +@G9@Y[\&OY7^UL/U<$@ 5[[8Z5Z3;NKSH7JU?UO.(?..JGLUD+@.?!]011+@P
+MT<#"&'A&7)^4M[?,-\0=_ S#%2.6 >R!;PD+H+5FQH@ZX&H;A@ *2'FO6ONU
+M6O0\*&"EF)#ADKK,_+0.3N+.'W=9)J]/J7G3(Y6FC>]YHMJZO
+MVLW&62]'VIUFX5E_O"I_@ ;
+ML%BE"N;Y[@3ELN(0*JL*MY'6["'RZ9OKW_TR19.,CD$."X825@RHAI)F#)3"Y\)GPACA,]!+.R)RN_S[ V2Y;%6[":LZMFP&Z@?!*MV$_&!TNNU,
+M=T[.V--=,I7]XK83*TP1[TC\)<8?LR1U5MO)#E[PO529G]DX56
+MJS]%:$E7>$5G;=V:,Z0);I)@Y>S3MWIK[\H]?KH 4UJK:VC('I:K^6JM5MLI
+M[3Y0G/"'GVY/*5R'-?PJG]ATQV.+XW;KLL.+.E0O4C'=2QG:$E'L7_;%C["7
+M^Q"%)O1P.TP5UT_BR5:[T"WT"K&6X_K_6F//=N?,?V5B39I71$W'+:Q$W'64
+M/I=MA)JT:JJIGA7")-+V+EM)>-[UAOYS?/ 3_&XYX7<;INDSSO5?9Y;#RND^
+M]Y:.+TZ[K2^WL]K3G>[VJM--(2![N+N[2RYLD_3HE)Q;MDVZ%K *A$W--1XX
+MM])PJZ2MLPD_7OA7[M19DU[/&[O5^>1S;_STWEMY9^TJ%^BSAU?4]^<"?GSP
+MBH[35B33V@O_$E)Y2&'75 VV\<'I3V]GI[?]%ZP:=M>N>XG(!Y8+CTV/GC\G
+M"M.N%S;)G33!7KK ;?N[Y:TO!IGYY?3\4WGB5(VG:VM]K=02%$ 65-K>*^=W
+M=I\A"WHUSG%++U42"%6@YX-^6AZU"9LQ(Q#@=N Q!"S&WSQ5*?]N#O)ZF 6J
+M((E#?5AAAY9V45:QAR_84PDY]O*MJT63[8]_U2OEW;<<1MK,&P$7B2.STUP&
+M%,8.L#HGU&<4[,X$GJVT?EO:Q#$"-&#<>J/^U.GZUU6(?->/Z_@FC#JQ_1/'
+MF3W<*Z\K2M^L1)RZIOK,!=6ZQ&5O*LN.Y^UAVVLW3^I/+ZPKB5[T,M[L8;VV
+MF]^%<2_?9WK1%J'-!F!3S1$S[H@8,4(]B*K@?+!%U7=GI,]L=TJL@7QY# 9*
+MZOF/9 J&<6)Q8>R3.9F1$NX=8XL 5UF!MP>TXXY-9\,)?ANX-J '.=AI+>P.N1DBS-&3O#\'?C&M@-S ]DZXYE&H5)0
+M]+[9?YVL3W-M SJV[/D^^0+K1./EV96H7-7*_\6W!' ;:^7 T:4+3[< ZW@B
+MS.O^=.H].<_:[[NNS:@CCY(MV49B'R"5+,6Y^MNUYB'_(GINQDA,)EYLBQ%/
+M49!:95OK!RI&;-\/M_NVRKND>=PEE6JI /?_%IIA>E^S[4M XATAN=@3&!1
+M=KJH.NVO=<_[WK_MV"\AJD0'?96F!\II,1%XI&9F5H14KM%\N1*34V)3-I)2
+MK510(W^QH,)-T$N?H>[B@4%Y-@']F7\Q&*R++H.CTLZWV^,/I?/=EQ!8HJ&[
+MGK8'"@X Y(T8A'LMK5PS\Y6M_IN'B5&-_<6"W$T79)OS@/GWBK-;>7_;KDXF
+M'S^;+R'.V@9QKE#X8D*MLGQMRWB84/78YQ+JR^QZ+N;*OE'(N4!8/
+MLWKQJ-><]ZWA"%:Z7:@AI/!I*,ER_"$*/QKYG'7F%7Z4$I;CC!HC
+M8MB4\TT%\NKATAB#]$N]M'6O'W3VM!0[XEHI_1-XZ5-$(/G5FX_[KKV%;8S7
+MQ\6-^P7QVIF_[BBM
+MCBKS,_%8JE$IEXN$7*_A!P.8\8Y-E/IOQ_=-D'K;(M4M3WBQ=X!^^M8\<
+MY]@;'/V--E1B#R>!5)ZUZ_Q/A'_;;,-4>/WAR?-/]CD?=8;;[Y]<(\AM*W36
+M:3M6E=TTLX[3!9Z_T3MJ?"(GMMNG-N1Y-B2JY)SZ=TP\0 >>NRG^$YJ2;2;6/;0X 2%#.810AV3HNU,!*9L[]K"C2#DQ
+MVGG
+M*RG T@ZE+Z!BK;68&(-;>*W=R]8:[CZI:B\E]AI#T"<2UBM_CI%F6IN@PT&E .S2;5&M3,0-\01V)IT3F!K
+MCBMKZH S:1J 4VX6$'FM@B7K;/5I*0I'XK+GB'QJ 6K4+ >6 V]\-K$XS ,+
+MIHYA@?^CAKRH ?CG18F]4V>D=L$YKJ"OKI%HX(^;IF%A^EO*.T7%.MCOW^L
+MIK0YU#>1C_C^\;[(7TF/_'_G^\>GMP=7^(3@W\+H'P$VPP"HQ"43GM55KTUI
+M[OVH=$?F$6G?9L9%J#]R7<'N,WJ7[S/0<:#0DQ3',>ZL$>,C,<99_ZQUK^^A-_6,HF!CQ:M*H50IW'?J(SJ1G0)MPW&D
+M<#FE%U]/E_' %AQ=\(7'?-VK!M\-6ANZ]:8+809?@%-./=:!WYF_[AP6 B7#
+M^:5"9=MRLGAV0]T60RZAY!Y3@P52R7A.86\[1@&3PGJE J3$&2[!F7WV9@5R%#MVP,\>,T@V34SL4"NSSS9P/%'
+M\P,O]%FF'E4+287D+(_O4V@>:'Y!_NV;Y$<@O_E2'TU.\;BG.E/#,#.BQH_
+M\N4'8GE(- S&<0^!,^H;(XG*9!-FNQYNR#R>_O9E]P\Z]MX>K8@ E&8H/UB3
+M1S-F%NZ_ @-_JU<)F*(MSU( =< ]EA=T1OJ46[Q KG1% 9,A+X)9/M@M$(P"
+MXI@7X;(]3*S4:0W3XH;M8I+U6[T400Z\_ "43$#4FLN%C2EP V:?0@+GCI95
+MFD"&''A$:Q,YL\86JH-<9P812L[:EL$<2 GIT&=R_PJI91<2+X2OTN%G?HKK)[&.H9RF#Z/=#MZFXDD /8+E92C,V>5C7,.K)0C5.;.
+ML:B>0J#&OT,]R1'70T)R$,)]00%.W"I JQ@7>&9-JQ.L!Z4%:CBV@C&'QY:9
+M 8QX_9>8$Q[?K5.>!<0OHW=?&Y&2X['Z
+MP8*'JH-*TCN"=0Q!A23 MWWPFH\#CTBS9*D/ISLA4X-##1C[TAH+W2'V WB1N^
+MU0?Z$:/E/)< UW#\9T@5?;#E1)<=AOY!>@/9GVJJ;$!?1(!VB@<"%6EX*A"<
+MJN8G,-]$.S3#1&0 EF_JF":5!"IT#Z*-S 9UA:X E>L/;*3ET._0L6PHY#*.
+MZVO\TK3CZU@0L_BT%G[I8S34%X6%)JF/*:X]::8[@PG4N ,'J8S\B!P)R/2Q
+MT>'A86X\!,FDUP$'"OCT1^9&$K'R11KW*W4$ZD^I*$O:DP^?]J&F'D+X=TRL
+MM%Q_'[3
+MMK-I\=;AU4-L9TM:V..K (2VG#)JPY7>6#+9UDR.?&>8QSL3UP:O[%O\3E5B
+MBV 7!5W?K&.>O&M$C8U%0@ABTMY0H^5-)3^QY"'/6O+D,C(>J3BA%RL;
+MD"IB8-ZD@T5X#A*,/(P;G&U@>8%\@8*(:W./9$V!U?BAAV"Y<$'ZC4IYPZ<9
+M_50=N%X>Z]F@MTO/^A##8 7+CSEC=RNH=%R+GD\H'@&7V0K(4Y(\1>H5>SC$
+M1IOZH9M3R:#/HL/@&,/U_89S-7D]6\"7VF+D!L.1C!SHP3>H+?;W03LSBMDA
+M#MDR1O)D @ ODC- I9U3-]QF OI6LY&P&(DGS/?7A+J8
+M"5,DG1R!^N@6N&)=#\MB_,1 F4JUI._P"8O9J!#2I8_K9!Y:]9!XU0/>1N/%
+MO3$H_@+.8[%>>98":9"QBQD5MN:98#KO\6)'^+&0 ]SJ,HO0*#2/=2(V0,ES5&,@6V2>(A5V$'87_Q6?B0!G&Z[6:DL&5RF(5KU\VL40&]T2'
+M\FV$7?@QK>Z[@,4P\"2/9Q)9"%EE*)S2H18?R7%V=^4],4Q;9B+Y*;'%1;IKKR*RXCIP^889[
+M[3&5T;>)ZIQ"Z?(#FH$G43.PH9N!^$/8#+R,FH&9YV@&ZH982BLPI![-&[Q<
+MH&L#R.KUUW1A)P/G&I1+QUX,]1I\,AOS1>6H^Q29="2JT16VQR A,+U,:.,(U8.&Y:*0V([
+MQ8@XW&^@=@9T1GU*IL9+(>B-8QXAE!U22(^Q7>5S]/!R$;JWVC#5)@4J;TZQ
+M=751&F8,BM[5AD _0GK-C%19N7V]:!;%77$RJX[)Z$_45=#9?@#\P*0C6B!0
+M=^I.P?OZ.9P 8S 0+KP]5Q&>R3UYG=IEUEN%;/+!\- >6&0-F(&K-3$3H#(."!2T+5!@#"
+MS>FT"QB _2M05 '^ [4HM^ @<#E=IH 85I;N(9'6UQTO[]V*K_QO*_YU;\6O
+MOYJY?=)I7%UW-UX$_3J(7V0X,L&)WTVKPK$LT%2X6^DK9M+[BDO?)>.!)C.
+M- 6R?RPE9"10MZTB&G 0'!BH:@R,BGTVHO8 G8G:/D ?KP9(APSYC:O@03$Q
+M@C#V%WNI]O_+'ZX(3U \Y+ZJQ=UZI2.LV"^HFL0 P/##ST
+M]K,4DE:O6$K"V[2,)4_7O^<<]7.>MBCR(OG@2
+M"[U09G(OQ]:=EC@]>^=7BY8EUW%Y^Z4R_7XA.,SCYPHY.+_@N_?>@NC?L
+MNJ?OIZV_3GM>Y:AT/)G,QB>?A]ZL4YO8K0^]YM7G\^WA9/:U^[E>;)=_?&_N
+MU,K!IP[_N'*(T7\EZKD/X$FQO;A?P%02P$"% ,4 " 7.$9;II:MXR<# #E"P
+M$0 @ $ &UL4$L! A0#% @ %SA&6ZKWJL99!P UE< !4
+M ( !A@X ')E9VXM,C R-3$P,#9?<')E+GAM;%!+ 0(4 Q0 (
+M !,5\X:RYH=&U02P4& 0 ! % 0 IBX
+
+end
+XML
+14
+tm2528010d1_8k_htm.xml
+IDEA: XBRL DOCUMENT
+00008725892025-10-062025-10-06iso4217:USDsharesiso4217:USDsharesfalse00008725898-K2025-10-06REGENERON PHARMACEUTICALS, INC.NY000-1903413-3444607777 Old Saw Mill River RoadTarrytownNY10591-6707914847-7000falsefalsefalsefalseCommon Stock – par value $0.001 per shareREGNNASDAQfalse

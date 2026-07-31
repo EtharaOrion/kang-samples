@@ -1,0 +1,266 @@
+{
+  "score": 2,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 2,
+  "themes_hit": [
+    {
+      "label": "Branded-Checkout Turnaround: Leadership Reset vs. Engagement Erosion",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent quotes the interim CEO\u2019s admission that execution had fallen short \u201cparticularly in branded checkout,\u201d connects it to Chriss\u2019s departure and Lores\u2019s appointment, and characterizes the new leadership\u2019s turnaround as a promise rather than an achieved result. Although it does not quote Lores\u2019s \u201csharpen our strategy, simplify our organization\u201d language, its discussion of his reorganization and the aspirational nature of the reset is conceptually equivalent.",
+        "b": "The agent cites active accounts at roughly 438\u2013439 million, transactions per active account falling from 60.6 to 57.7, and total transactions declining 4% to 25.4 billion while discussing TPV growth to $1.79 trillion. It uses this divergence to argue that rising payment value is not evidence of deepening account engagement; however, the $1.79 trillion TPV support was flagged as unverified in the cited evidence.",
+        "c": "The agent discusses Darcy v. PayPal, its February 2026 filing and class period, and the allegation that undisclosed impediments impaired the branded-checkout strategy and 2027 targets. It also explicitly treats the suit as an allegation rather than proof, noting that the deterioration is \u201cconsistent with, but not proof of\u201d the alleged nondisclosure."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Transaction Margin Dollars Growing, Transaction Margin Rate Compressing",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent lays out the full transaction-margin-rate sequence\u201447.7%, 46.4%, 46.0%, 46.5%, and 45.6%\u2014alongside 3% transaction-margin-dollar growth in both 4Q\u201925 and 1Q\u201926. It explicitly concludes that dollar growth coexists with approximately 210 basis points of year-over-year rate compression.",
+        "b": "The agent identifies the transaction expense rate improvement to 0.89% from 0.93%, but it does not provide the required 2023 comparison of 0.94% or discuss the transaction and credit loss rate worsening to 0.10% from 0.09%. Consequently, it does not make the required funding-cost-mix versus credit/fraud-loss driver distinction.",
+        "c": "The agent explicitly contrasts the stabilization narrative with 1Q\u201926 GAAP operating margin of 17.8%, down 182 basis points, and non-GAAP margin of 18.4%, down 229 basis points. It concludes that the volume/mix trade \u201cno longer even holds the operating line,\u201d thereby reconciling transaction-margin claims with deterioration below that line, though it gives limited detail on individual operating-expense categories."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Braintree/Unbranded Mix Shift: A Deliberate Margin Trade That Shrinks Scale",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent quotes disclosures tying lower Braintree volume and revenue to merchant negotiations and a stronger focus on profitable growth, followed by revenue and TPV growth in the second half of 2025. It combines that with shrinking ex-PSP-implied transaction volume to establish an intentional management trade rather than passive erosion; its equation of PSP activity with Braintree was flagged as insufficiently supported.",
+        "b": "The agent directly cites the transaction expense rate improvement to 0.89% and the 10-K explanation that it resulted from a lower proportion of Braintree TPV, which generally carries higher expense rates. This clearly connects Braintree de-emphasis to the highlighted margin improvement.",
+        "c": "The agent weighs disciplined shedding of unprofitable volume against the strategic cost of declining total transactions, weaker engagement metrics, and dependence on Braintree for top-line growth. It concludes that reducing Braintree shrinks scale while restoring it compresses margins; part of this analysis relies on the flagged PSP-equals-Braintree inference and the flagged $1.79 trillion TPV claim."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive Positioning: A Structurally Thinner-Margin Model Facing a Broad, Unnamed Field of Rivals",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent characterizes the competitive field using broad filing categories including banks, financial institutions, payment networks, processors, digital wallets, mobile payments, BNPL, P2P, cryptocurrencies, cash, and checks, and interprets the breadth as a branded-checkout moat and pricing-power problem. The assertion that PayPal names no competitor across all three 10-Ks was flagged as an unsupported exhaustive claim, and the answer does not specifically enumerate card-on-file or QR/contactless technologies.",
+        "b": "The agent calculates PayPal\u2019s 17.8% operating margin and compares it with Mastercard at about 58.4% and Visa at about 64.4%, while also noting PayPal\u2019s 45.6% transaction margin. It attributes the structural difference to PayPal bearing transaction funding costs unlike pure network peers, but the peer-margin comparison and parts of that business-model characterization were explicitly flagged as unsupported by the supplied claim-specific evidence.",
+        "c": "The unified conclusion explicitly reconciles branded-checkout underperformance and the CEO transition with the Darcy litigation, Braintree volume management, transaction-margin-rate compression, declining engagement, and the asserted structural margin gap to Visa and Mastercard. It takes a clear position that stabilization is chiefly mix/volume engineering rather than demonstrated branded-checkout recovery; because the synthesis relies in part on the flagged Visa/Mastercard margin comparison, this move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "dated as of the 1Q'26 reporting cycle (filings through May 2026)",
+      "cited_file": null,
+      "issue": "The passages establish Q1 2026 periods and April 2026 filing dates, but do not establish a May 2026 cutoff.",
+      "evidence_check": "Searched the supplied passages for a May 2026 filing or explicit data-cutoff statement; only April 23 and April 30, 2026 filing dates appear."
+    },
+    {
+      "claim": "the FY2024 and FY2025 10-Ks elevate \"Accelerating growth in our branded checkout business\" to the #1 strategy bullet",
+      "cited_file": "sec_filings/10-k/pypl_2024_10-k.txt; sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "The FY2025 first strategy bullet is shown, but no FY2024 strategy passage is supplied to establish the same wording and ranking for FY2024.",
+      "evidence_check": "Verified the quote as the first bullet in the FY2025 passage; found no corresponding FY2024 passage among the evidence for this claim."
+    },
+    {
+      "claim": "PayPal never says in any 10-K that branded checkout is decelerating",
+      "cited_file": "sec_filings/10-k/pypl_2024_10-k.txt; sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "This is an exhaustive negative claim that cannot be established from the limited excerpts provided.",
+      "evidence_check": "Searched the supplied passages for branded-checkout language; the excerpts do not provide a full-text search result across all relevant 10-Ks."
+    },
+    {
+      "claim": "branded checkout is always framed as a growth priority",
+      "cited_file": "sec_filings/10-k/pypl_2024_10-k.txt; sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "No local evidence was supplied, and the absolute term \"always\" requires comprehensive support across the cited filings.",
+      "evidence_check": "The claim's evidence section reports no local match, so neither the framing nor its consistency across both filings can be verified."
+    },
+    {
+      "claim": "the only \"lower volume\" language is about Braintree, by design",
+      "cited_file": "sec_filings/10-k/pypl_2024_10-k.txt; sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "The passage supports deliberate lower Braintree volume, but not the exhaustive assertion that this is the only lower-volume language in both filings.",
+      "evidence_check": "Found the Braintree lower-volume statement and profitable-growth rationale; no comprehensive search result establishing exclusivity was supplied."
+    },
+    {
+      "claim": "payment transactions ex-PSP grew +6\u20137% every quarter",
+      "cited_file": "press_releases/pypl_2025-07-29_8-k.txt; press_releases/pypl_2025-10-28_8-k.txt; press_releases/pypl_2026-02-03_8-k.txt; press_releases/pypl_2026-05-05_8-k.txt",
+      "issue": "The evidence for this claim only shows the 1Q'26 value of 7%, not every quarter across the cited period.",
+      "evidence_check": "Searched the claim-specific passages for quarterly ex-PSP growth figures; only 1Q'26 at 7% appears."
+    },
+    {
+      "claim": "transactions-per-account ex-PSP grew +4\u20136%",
+      "cited_file": "press_releases/pypl_2025-07-29_8-k.txt; press_releases/pypl_2025-10-28_8-k.txt; press_releases/pypl_2026-02-03_8-k.txt; press_releases/pypl_2026-05-05_8-k.txt",
+      "issue": "The claim-specific evidence only supplies the 1Q'26 TPA ex-PSP increase of 6%, not the asserted multi-quarter 4\u20136% range.",
+      "evidence_check": "Searched the supplied passages for the other quarterly ex-PSP TPA figures; only 6% for 1Q'26 appears."
+    },
+    {
+      "claim": "PayPal does not disclose a standalone branded-checkout TPV or engagement figure anywhere in this data set",
+      "cited_file": null,
+      "issue": "This is an exhaustive data-set-wide absence claim that is not established by the few excerpts shown.",
+      "evidence_check": "The passages show consolidated TPV, transactions, TPA and accounts, but do not include a comprehensive search proving that no standalone branded metric appears anywhere else."
+    },
+    {
+      "claim": "notably slower than the +7% posted a year prior",
+      "cited_file": "press_releases/pypl_2026-05-05_8-k.txt",
+      "issue": "The 1Q'26 transaction-margin-dollar growth of 3% is shown, but the claimed prior-year growth rate of 7% does not appear in the passages.",
+      "evidence_check": "Searched the claim-specific passages for a 1Q'25 transaction-margin-dollar growth rate of 7%; only 1Q'25 dollars of $3,716 million and the 1Q'26 3% growth rate appear."
+    },
+    {
+      "claim": "PSP = unbranded card processing, i.e., Braintree",
+      "cited_file": null,
+      "issue": "The passages define ex-PSP as excluding unbranded card-processing transactions and accounts, but do not explicitly equate all PSP activity with Braintree.",
+      "evidence_check": "Found the definition of PSP-related exclusions as unbranded card processing; no statement identifying PSP as synonymous with Braintree appears."
+    },
+    {
+      "claim": "TPV grew to $1.79T in FY2025",
+      "cited_file": null,
+      "issue": "The claim-specific passages are unrelated American Express and Mastercard income-statement excerpts and contain no PayPal TPV figure.",
+      "evidence_check": "Searched the supplied passages for PayPal, TPV, or $1.79 trillion; none appears."
+    },
+    {
+      "claim": "PayPal never discloses branded-vs-unbranded TPV dollars",
+      "cited_file": null,
+      "issue": "The supplied excerpts show only total TPV, but do not establish the exhaustive assertion that such a split is never disclosed anywhere.",
+      "evidence_check": "Found consolidated TPV and definitions in the excerpts; no comprehensive data-set search proving the absence of branded/unbranded TPV dollars was provided."
+    },
+    {
+      "claim": "Amex:        net margin ~28.3% (no operating-income line; a balance-sheet-intensive lender)",
+      "cited_file": "financials/income_statement/axp_income_statement.json",
+      "issue": "No claim-specific passage supplies the revenue and net-income figures needed for 28.3%, or textual support for the business-model characterization.",
+      "evidence_check": "The evidence section reports no local match for this claim."
+    },
+    {
+      "claim": "The card networks run operating margins roughly 3.3x\u20133.6x PayPal's.",
+      "cited_file": "financials/income_statement/v_income_statement.json; financials/income_statement/ma_income_statement.json; financials/income_statement/pypl_income_statement.json",
+      "issue": "The claim-specific passages do not provide the contemporaneous Visa, Mastercard and PayPal margin values needed to verify the 3.3x\u20133.6x comparison.",
+      "evidence_check": "Found an older Mastercard excerpt and a PayPal 2Q'25 margin excerpt, but no Visa figure or complete aligned comparison supporting the stated multiples."
+    },
+    {
+      "claim": "PayPal's gross-profit-like transaction margin (~45.6%) sits BELOW Visa's and Mastercard's OPERATING margins",
+      "cited_file": "financials/income_statement/v_income_statement.json; financials/income_statement/ma_income_statement.json; press_releases/pypl_2026-05-05_8-k.txt",
+      "issue": "PayPal's 45.6% transaction margin is shown, but the claim-specific passages do not contain Visa's or Mastercard's operating margins.",
+      "evidence_check": "Verified PayPal's 45.6% figure; searched the supplied passages for Visa and Mastercard operating-margin values and found none."
+    },
+    {
+      "claim": "Visa and Mastercard are toll-collecting networks; PayPal is a two-sided platform that must FUND transactions, paying networks, issuers and processors",
+      "cited_file": "sec_filings/10-q/pypl_2026q1_10-q.txt",
+      "issue": "The passages do not describe Visa and Mastercard as toll-collecting networks or provide the asserted list of counterparties PayPal pays.",
+      "evidence_check": "Found references to Visa/Mastercard contractual funding provisions and PayPal balance-sheet/funding activity, but not the quoted characterization or full payment-cost statement."
+    },
+    {
+      "claim": "Amex is not a clean comparator at all (it reports no operating income and carries funding costs as a lender",
+      "cited_file": "financials/income_statement/axp_income_statement.json",
+      "issue": "No claim-specific passage supports the lender characterization or comparative conclusion.",
+      "evidence_check": "The evidence section reports no local match."
+    },
+    {
+      "claim": "across all three 10-Ks, PayPal does not name a single competitor.",
+      "cited_file": "sec_filings/10-k/pypl_2023_10-k.txt; sec_filings/10-k/pypl_2024_10-k.txt; sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "This exhaustive negative claim is not established by the limited FY2025 excerpts supplied.",
+      "evidence_check": "The passages show generic competition language but do not provide a comprehensive search across all three complete 10-Ks for named competitors."
+    },
+    {
+      "claim": "It acknowledges some rivals are \"larger... [with] greater brand recognition\"",
+      "cited_file": "sec_filings/10-k/pypl_2023_10-k.txt",
+      "issue": "The attributed quotation does not appear in the supplied passage evidence.",
+      "evidence_check": "The evidence section reports no local match for the quoted wording."
+    },
+    {
+      "claim": "others \"smaller or younger... more agile\"",
+      "cited_file": "sec_filings/10-k/pypl_2023_10-k.txt",
+      "issue": "The attributed quotation does not appear in the supplied passage evidence.",
+      "evidence_check": "The evidence section reports no local match for the quoted wording."
+    },
+    {
+      "claim": "a two-sided platform",
+      "cited_file": "sec_filings/10-k/pypl_2025_10-k.txt",
+      "issue": "No claim-specific passage contains the quoted phrase.",
+      "evidence_check": "The evidence section reports no local match for this claim."
+    },
+    {
+      "claim": "Visa and Mastercard can run ~60% margins",
+      "cited_file": "financials/income_statement/v_income_statement.json; financials/income_statement/ma_income_statement.json",
+      "issue": "The claim-specific passages contain PayPal materials rather than Visa and Mastercard income-statement values, so the asserted margins cannot be verified from them.",
+      "evidence_check": "Searched the supplied passages for Visa/Mastercard revenue and operating income or calculated margins; none appears."
+    },
+    {
+      "claim": "an ~18% operating margin against Visa's ~64% and Mastercard's ~58%",
+      "cited_file": "financials/income_statement/v_income_statement.json; financials/income_statement/ma_income_statement.json; financials/income_statement/pypl_income_statement.json",
+      "issue": "The claim-specific excerpts do not contain the aligned Visa, Mastercard and PayPal values needed to support this three-company comparison.",
+      "evidence_check": "Found unrelated American Express and older Mastercard data plus a PayPal excerpt, but no Visa 64% figure or complete contemporaneous comparison."
+    },
+    {
+      "claim": "Interest-on-customer-balances decline (rate-driven, outside PayPal's control)",
+      "cited_file": null,
+      "issue": "The supplied passages define interest on customer balances but do not establish the decline, its rate causation, or the assertion that it is outside PayPal's control.",
+      "evidence_check": "Searched the claim-specific passages for declining interest amounts, lower-rate language, or an external-control statement; none appears."
+    },
+    {
+      "claim": "Amex is not a like-for-like margin comparator (lender model, no operating-income line)",
+      "cited_file": "financials/income_statement/axp_income_statement.json",
+      "issue": "No claim-specific passage supports the lender-model characterization or the like-for-like comparison conclusion.",
+      "evidence_check": "The evidence section reports no local match."
+    }
+  ],
+  "synthesis_found": "The FY2025 rate defense and the 1Q'26 rate compression are the same lever pulled in opposite directions.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/axp_income_statement.json",
+    "financials/income_statement/ma_income_statement.json",
+    "financials/income_statement/pypl_income_statement.json",
+    "financials/income_statement/v_income_statement.json",
+    "press_releases/pypl_2025-07-29_8-k.txt",
+    "press_releases/pypl_2025-10-28_8-k.txt",
+    "press_releases/pypl_2026-02-03_8-k.txt",
+    "press_releases/pypl_2026-04-30_8-k.txt",
+    "press_releases/pypl_2026-05-05_8-k.txt",
+    "press_releases/pypl_2026-05-15_8-k.txt",
+    "sec_filings/10-k/pypl_2023_10-k.txt",
+    "sec_filings/10-k/pypl_2024_10-k.txt",
+    "sec_filings/10-k/pypl_2025_10-k.txt",
+    "sec_filings/10-q/pypl_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 114,
+  "grounding_claims_no_match": 7,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

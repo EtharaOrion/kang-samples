@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Creates a contents-based corpus inventory that records source identity, covered period, publication date, units, document type, and intended analytical role rather than relying on filenames.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early trajectory notes or tables for metadata taken from CRM filings, releases, financial JSON files, company profiles, and any peer files considered; peer sources should have an explicit comparability disposition."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "Demonstrates direct inspection of a broad cross-section of relevant source classes before advancing substantive interpretations.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of file-open, search, or extraction steps relative to the first analytical claims. Look for engagement with annual and quarterly filings, recent earnings releases, all three CRM financial JSON series, and business-identification material rather than dependence on one document."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Builds a linked question decomposition that treats acquisition-adjusted growth, forward demand, margin expansion, AI-product momentum, cash generation, and capital allocation as distinct inputs to the ultimate decision.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a question tree, analysis plan, or equivalent structure that assigns separate analytical roles to reported revenue, acquisition effects, cRPO, product ARR, operating margins, restructuring, cash flow, and shareholder returns."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Maintains an explicit claim-evidence map that distinguishes reported evidence, analyst-derived evidence, contrary evidence, and unresolved ambiguity.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning tables or structured notes for claim-level entries containing the relevant period and source path, with separate fields or labels for reported facts, calculations, counterpoints, and open measurement issues."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Extracts evidence into a period-indexed record that preserves each measure's units, definition, scope, and reporting basis.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for extraction tables covering revenue and demand, margins and restructuring, AI and data products, cash flow, and capital allocation. Entries should visibly preserve distinctions such as quarter versus year-to-date, GAAP versus non-GAAP, ARR versus recognized revenue, and operating cash flow versus free cash flow."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "Records the strongest company-specific contrary fact for each major provisional interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect notes for explicit counterpoints to interpretations of organic revenue, demand strength, margin durability, AI-led acceleration, and shareholder returns, each tied to evidence actually examined in the corpus."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "Uses contrary evidence to test whether a provisional causal explanation should be retained, qualified, or revised.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for visible before-and-after reasoning in which an alternative explanation is considered and the analyst states how it affects the working interpretation, rather than merely appending generic risks."
+    },
+    {
+      "id": "c8",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Maintains reported-versus-derived provenance for every material calculation.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation sheets or trajectory steps for formulas, source inputs, periods, units, assumptions, and appropriately rounded outputs. Look especially at acquisition-adjusted growth, guidance decomposition, margin reconstruction, restructuring intensity, AI scale comparisons, cash conversion, funding changes, and share-count timing."
+    },
+    {
+      "id": "c9",
+      "concern": "no_fabrication_process_signals",
+      "text": "Preserves unresolved measurement gaps instead of silently supplying missing adjustments or harmonizing incompatible figures.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity log or explicit caveats concerning unavailable prior-period acquisition adjustments, combined metrics containing acquired content, fiscal-period mismatches, changed definitions, constant-currency differences, or accelerated-repurchase timing. Approximations should expose their assumptions."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "Produces a causal reconciliation that explains how revenue trajectory, margin actions, AI timing, cash generation, and financing jointly support the final interpretation.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final answer for a paragraph that resolves the competing evidence into one connected explanation rather than presenting independent lists of positives and negatives."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "Commits to a directional position on whether margin expansion and capital return compensate for acquisition-obscured deceleration over the stated analytical horizon.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening thesis, conclusion, or decision statement for a clear stance. The position may be favorable, unfavorable, or conditional, but it should not collapse into a neutral survey and should remain directionally consistent through the synthesis."
+    },
+    {
+      "id": "c12",
+      "concern": "synthesis_presence",
+      "text": "States measurable future observations that would confirm or disconfirm the chosen position.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the closing analysis for falsifiable indicators such as acquisition-adjusted revenue growth, matched-period cRPO, product ARR excluding identifiable acquired content, GAAP margin progression, operating-cash-flow growth, or debt reduction."
+    }
+  ]
+}

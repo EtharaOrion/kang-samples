@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration"
+description = "Assess whether Deckers' HOKA and UGG revenue growth is durable and how concentrated the business has become on those two brands, decomposing brand, channel, and geographic mix and reaching a defensible position on the concentration risk."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DECK"]
+
+[metadata]
+uuid = "a60850f2-5a3b-5823-b5fa-f82324f0b5f4"
+difficulty_explanation = "The analyst must separate two engines that are easy to blur together — HOKA growing 15.9% off a smaller base while the now-larger UGG grows 8.2% — and detect deceleration by reconciling full-year 10-K, nine-month 10-Q, and Q4 press-release rates rather than reading a single headline. It also demands quantifying concentration as the 'Other' portfolio is deliberately wound down, judging quality-of-growth from a wholesale-led, internationally-led mix against flat domestic sales and a 57.7% gross margin, and weighing seasonality and competition to take an explicit stand on whether a roughly two-brand model justifies aggressive capital return. The right answer requires reconciling conflicting signals into one position, not surveying both sides."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory conducts broad reconnaissance across the available source families before narrowing the analysis.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for file-opening or inventory steps covering company profiles, RTX structured financial statements, peer financial statements, annual filings, quarterly filings, and company releases, followed by a source map describing their periods and roles."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "Substantive working claims are formed only after the relevant file content and surrounding context have been inspected, rather than inferred from filenames or isolated search hits.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the sequence of source-reading and note-taking steps for opened sections that establish entity, period, units, and contextual language before the associated proposition appears in the analysis."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The analysis creates an explicit issue tree that separates the major causal questions instead of treating the topic as a single list of positives and negatives.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for distinct workstreams concerning growth composition, charge-versus-cash mechanics, Pratt segment economics, consolidated cash effects, and competitive context."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes a period-comparison framework that keeps annual, quarterly, standalone, and year-to-date observations on compatible bases.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a period map or comparison grid aligning 2023\u20132025 annual observations with Q1 2025 and Q1 2026 and identifying the basis of structured cash-flow or income-statement fields."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The evidence-gathering process builds a longitudinal record of commercial-aftermarket growth composition rather than relying on a single headline quarter.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction notes or tables for Collins and Pratt aftermarket activity across annual and Q1 periods, including the relationship between total organic growth, aftermarket growth, and commercial OEM direction where disclosed."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process reconstructs the powder-metal matter as a chronology that distinguishes initial expense recognition from subsequent settlement activity and remaining obligations.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a dated chronology or roll-forward containing the original charge, accrual changes, cash payments or customer credits, remaining balance, and prospective cash-effect disclosure."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work is reproducible and visibly distinguishes company-reported measures from analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect worksheets or calculation notes for explicit reported/derived labels and visible formulas for items such as segment margins, growth rates, backlog changes, free cash flow, peer margins, or powder-metal burden relative to guidance."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The trajectory deliberately retrieves and records the strongest contrary evidence for each major favorable inference under consideration.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for counter-evidence notes or matrix rows addressing adverse service mix, OEM weakness, backlog-conversion limits, continuing cash outflows, unresolved proceedings, absolute margin levels, or peer-comparability limitations."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process specifically stress-tests Pratt margin improvement by isolating the base effect from the nonrecurrence of the earlier powder-metal charge.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the profit bridge or comparison notes for a separation between charge-driven rebound and evidence of recurring operating leverage, including use of a cleaner comparison period where available."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "Unresolved discrepancies, disclosure gaps, or scope mismatches are preserved as explicit ambiguities rather than silently harmonized or filled with assumptions.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a discrepancy log, unexplained accrual residuals, non-GAAP definition caveats, release-versus-filing differences, or narrowed peer comparisons; the final answer may also visibly retain these limitations."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The final reasoning produces an integrated causal synthesis rather than presenting separate fact lists without resolving their implications.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis for explicit reasoning that connects aftermarket growth composition, accounting-versus-cash mechanics, Pratt economics, consolidated cash generation, and competitive context into a coherent decision rationale."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in a directional position over an explicit decision horizon rather than defaulting to a neutral balance of favorable and unfavorable observations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an opening or closing position statement that says which force is judged more consequential over the selected horizon and identifies the conditions that would cause that position to be reconsidered."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-07-30T16:57:55.219186Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "harbor",
+        "run",
+        "-p",
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task",
+        "-a",
+        "claude-code",
+        "-m",
+        "claude-opus-4-8",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
+        "-o",
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "RewardFileNotFoundError",
+            "VerifierOutputParseError",
+            "AgentTimeoutError",
+            "VerifierTimeoutError",
+            "RewardFileEmptyError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:932d7af7ff711024fa12b2dfcaade34341f077b77d87dfbd16918d87d7b08540",
+                "path": "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "claude-code",
+                "model_name": "claude-opus-4-8",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-07-30__22-27-47/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
+                    "digest": "sha256:eb98888a37d8395bc21294e9befafa798e8c3a6b163472817df419bd92bc2650"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

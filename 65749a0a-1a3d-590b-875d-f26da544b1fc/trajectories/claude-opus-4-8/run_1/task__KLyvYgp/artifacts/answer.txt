@@ -1,0 +1,253 @@
+DOORDASH (DASH): MARGIN INFLECTION AND NEW-VERTICAL EXPANSION DURABILITY
+A view as of Q1 2026 reporting (period ended March 31, 2026)
+
+==============================================================================
+THESIS (the position, stated up front)
+==============================================================================
+
+DoorDash's organic business crossed a genuine, structural profitability
+inflection by Q3 2025 — the last "clean" quarter before Deliveroo. Management
+then deliberately buried that inflection under a margin-dilutive inorganic
+overlay (the £2.8bn Deliveroo deal plus tuck-ins) and a still-lossmaking
+grocery/retail build-out. The result is a set of financials that look
+contradictory on the surface: revenue and Adjusted EBITDA accelerating while
+GAAP net income and free cash flow decline. My position is that this is not a
+deteriorating model — it is a profitable model whose owners are choosing to
+spend the profits. The inflection is real and durable; the payoff has simply
+been pushed to 2H 2026 and now rests on an integration DoorDash has never
+attempted before. I come out bullish on the durability of profitable scaling,
+but the bull case is a bet on execution promises that are not yet in the
+numbers, so it must be held with calibration, not conviction.
+
+==============================================================================
+1. TOP-LINE GROWTH AND THE DELIVEROO INORGANIC OVERLAY
+==============================================================================
+
+The headline growth is spectacular and, at the consolidated level, partly an
+illusion of arithmetic. In Q1 2026 Marketplace GOV grew 37% Y/Y to $31.6bn and
+revenue grew 33% to $4.0bn; in Q4 2025 GOV grew 39% to $29.7bn and Total Orders
+grew 32% to 903 million (dash_2026-05-06_8-k.txt; dash_2026-02-18_8-k.txt).
+Reported revenue in the income statement confirms the step-change: $4,036m in
+Q1 2026 versus $3,032m in Q1 2025 (dash_income_statement.json).
+
+But management itself strips the overlay away, and the honest number is much
+lower. Excluding Deliveroo, Q1 2026 GOV grew 24% and revenue 21%; Q4 2025 GOV
+grew 25% and Total Orders 20% (dash_2026-05-06_8-k.txt;
+dash_2026-02-18_8-k.txt). So roughly 13 of the 37 points of GOV growth and 12
+of the 27 points of order growth in Q1 2026 are simply Deliveroo being bolted
+on, not the engine running faster.
+
+The correct read is that Deliveroo is an OVERLAY, not an ACCELERANT. The
+organic franchise is still growing ~24-25% — impressive for a business at this
+scale, and notably the organic rate has held up rather than collapsed (organic
+GOV was ~25% in Q3 2025 and ~24% in Q1 2026). The U.S. restaurant category,
+the mature core, actually reaccelerated to its highest Y/Y GOV growth in more
+than three years in Q3 2025 (dash_2025-11-05_8-k.txt). That matters for
+durability: the growth story does not depend on Deliveroo. Deliveroo buys
+scale, geographic reach ("over $100 billion in annualized Marketplace GOV
+across more than 40 countries," dash_2025-11-05_8-k.txt) and duration — not a
+rescue of a decelerating core.
+
+Ambiguity to flag: the two growth rates are not fully comparable. DoorDash
+notes Deliveroo used different GOV/revenue definitions and accounting treatment
+pre-acquisition, and that aligning them changes the numbers (there is even a
+reconciliation table and a note that Hong Kong operations, which ended in April
+2025, are excluded) (dash_2025-11-05_8-k.txt). The "24% ex-Deliveroo" figure is
+clean; the "37% reported" figure blends two definitional regimes and ~2 points
+of FX tailwind in Q1 2026 (dash_2026-05-06_8-k.txt). Treat the organic ~24% as
+the real growth rate and the headline as marketing.
+
+==============================================================================
+2. MARGIN INFLECTION: ADJUSTED EBITDA VERSUS GAAP NET INCOME
+==============================================================================
+
+This is the crux, and the two metrics point in opposite directions on purpose.
+
+The organic inflection is real. Adjusted EBITDA margin (as a % of Marketplace
+GOV) climbed steadily from 2.2% in Q2 2024 to a peak of 3.0% in Q3 2025 — the
+last quarter before Deliveroo closed (dash_2025-11-05_8-k.txt). Contribution
+Profit margin rose in lockstep from 4.2% to a peak of 5.1% over the same window
+(dash_2025-11-05_8-k.txt). Management attributes the gain to durable,
+structural drivers: improved logistics efficiency, a rising advertising mix,
+and lower credits/refunds (dash_2025-08-06_8-k.txt). This is not a cost-cutting
+blip; it is operating leverage. Absolute Adjusted EBITDA nearly doubled, from
+$430m in Q2 2024 to $754m in Q1 2026 (dash_2025-08-06_8-k.txt;
+dash_2026-05-06_8-k.txt). By the Adjusted-EBITDA lens, DoorDash inflected.
+
+GAAP net income tells the opposite RECENT story. It peaked at $285m in Q2 2025
+and then declined every single quarter through the inorganic build-out: $244m
+in Q3 2025, $213m in Q4 2025, $184m in Q1 2026 — down 5% Y/Y even as revenue
+rose 33% (dash_2026-05-06_8-k.txt; dash_income_statement.json). GAAP operating
+income makes the squeeze starker: just $151m in Q1 2026, essentially flat
+against $155m in Q1 2025 despite $1bn more revenue (dash_income_statement.json).
+
+The wedge between the two is almost entirely acquisition accounting, and it is
+identifiable to the dollar. D&A jumped to $269m in Q1 2026 from $152m in Q1
+2025 — a $117m (77%) increase — of which $83m is amortization of ACQUIRED
+INTANGIBLES and $25m is capitalized software (dash_2026q1_10-q.txt, MD&A). Those
+acquired intangibles are the $1,498m of Deliveroo intangibles now being
+amortized straight-line (dash_2026q1_10-q.txt, Deliveroo Acquisition note), plus
+intangibles from SevenRooms and other 2025 deals. On top of that, DoorDash
+expensed $58m of Deliveroo acquisition-related costs directly in G&A
+(dash_2026q1_10-q.txt). Adjusted EBITDA excludes precisely these items — D&A,
+transaction-related costs, and stock-based compensation — by definition
+(dash_2026q1_10-q.txt, Adjusted EBITDA definition). So the bull reads a metric
+built to remove Deliveroo's costs (+28% Y/Y), and the bear reads a metric that
+absorbs them in full (-5% Y/Y). They are describing the same quarter.
+
+Reconciliation. The organic Adjusted-EBITDA and contribution-margin inflection
+through Q3 2025 is genuine operating improvement, not an accounting artifact —
+it predates the deal and is corroborated by falling cost-of-revenue and
+sales-and-marketing ratios (dash_2025-08-06_8-k.txt). The subsequent GAAP net
+income decline is dominated by non-cash intangible amortization and one-time
+deal costs, i.e. artifacts of choosing to acquire, not operating decay. So I
+weight the evidence toward "the inflection is real."
+
+But I will not smooth over two things that keep this from being a clean bull
+verdict. First, GAAP net income is itself noisy and sometimes flattered:
+Q2 2025's $285m peak was boosted by ~$108m of below-operating-line income
+(pre-tax income $271m vs operating income $163m) and a $13m tax BENEFIT, while
+Q1 2026 carried only $8m of tax (dash_income_statement.json). So the "GAAP peak
+then decline" is partly a hard comparison, not pure Deliveroo drag. Second, and
+more important, Adjusted EBITDA excludes real, recurring stock-based
+compensation — a genuine economic cost. The truth sits between the two lenses:
+Adjusted EBITDA modestly overstates the cash economics (SBC), while GAAP net
+income understates the steady-state run-rate (front-loaded deal amortization).
+On balance the inflection survives that adjustment — but the honest framing is
+"real inflection, partially masked by the deal AND partially flattered by the
+non-GAAP metric," not "clean beat."
+
+==============================================================================
+3. NEW-VERTICAL (GROCERY AND RETAIL) EXPANSION DURABILITY
+==============================================================================
+
+Here I split the question in two, because the data does: the DEMAND side of new
+verticals is durable and proven; the PROFIT side is unproven and overdue.
+
+Demand is unambiguous. In December 2025 more than 30% of U.S. MAUs and nearly
+30% of global MAUs engaged with grocery and retail; DoorDash attracted more new
+grocery/retail consumers in Q4 2025 than in any prior quarter, and again set a
+record in Q1 2026 (dash_2026-02-18_8-k.txt; dash_2026-05-06_8-k.txt). Y/Y GOV
+growth in the category accelerated through Q3 2025, with rising MAUs, frequency,
+and order values (dash_2025-11-05_8-k.txt). A third of the user base using a
+category built almost from scratch is real, sticky adoption — the expansion,
+measured as a land-grab of demand, is durable.
+
+Profit is the problem. As of Q3 2025 management stated plainly that "unit
+economics in our U.S. new verticals categories remain negative"
+(dash_2025-11-05_8-k.txt). They are improving Y/Y and Q/Q, and management now
+guides grocery/retail unit economics to "turn positive in 2H 2026"
+(dash_2026-02-18_8-k.txt) — but that is a promise, roughly five years into the
+push, not a result. And the self-operated piece (DashMart) carries structural,
+not just ramp, risk: the 2025 10-K warns that these facilities may "not be able
+to generate a sufficient number of orders to cover our fixed costs," and expose
+the company to inventory shrinkage, food-safety, permit and zoning risk
+(dash_2025_10-k.txt, self-operated retail risk factor). Grocery is a hard place
+to make money.
+
+The strongest counter-evidence — and it cuts both ways — is the peer. Instacart
+(CART / Maplebear) is the pure grocery-delivery play, and it is durably,
+structurally profitable: Q1 2026 operating income of $182m on $1,019m of revenue
+(~18% operating margin) and net income of $144m (cart_income_statement.json).
+That is the bull's proof that grocery CAN be a high-margin business at scale,
+which supports the durability of DoorDash's eventual profit ramp. But it is
+equally the bear's warning: an entrenched specialist already earns ~18% margins
+in the exact category where DoorDash still loses money, and DoorDash's own 10-K
+names grocery chains with "strong bargaining power" and their own fleets as
+competitors (dash_2025_10-k.txt, competition risk factor). Instacart shows the
+destination is reachable; it does not show DoorDash will reach it, or at what
+margin.
+
+Verdict on Theme 3: the EXPANSION is durable — the demand is won and
+compounding. The PROFITABILITY of that expansion is plausible (Instacart proves
+the category economics exist) but not yet earned, and the 2H 2026 breakeven is
+a credibility test after years of "improving but negative."
+
+==============================================================================
+4. INTERNATIONAL INTEGRATION DRAG AND THE PROFITABLE-SCALING VERDICT
+==============================================================================
+
+Deliveroo is being run as a deliberate investment, and the drag is a choice, not
+a symptom. DoorDash paid $3,724m of fair-value consideration (£2.8bn equity
+value), booking $1,981m of goodwill and $1,498m of intangibles
+(dash_2026q1_10-q.txt, Deliveroo Acquisition note; dash_2025-11-05_8-k.txt).
+Crucially, management is choosing to suppress Deliveroo's near-term profit:
+Deliveroo contributed ~$45m to Adjusted EBITDA in Q4 2025 (slightly ahead of
+plan), but guidance was then cut to LESS THAN $25m in Q1 2026 — an explicit,
+voluntary step-down "due to incremental investments in Deliveroo" — while
+holding the full-year 2026 contribution at ~$200m (dash_2026-02-18_8-k.txt;
+dash_2025-11-05_8-k.txt). Accounting-definition alignment will further reduce
+the reported 2026 contribution by $32-40m (dash_2025-11-05_8-k.txt). This is the
+signature of an owner spending the acquisition's cash flow to buy growth, not a
+business that can't earn.
+
+That choice is exactly what dilutes the consolidated margin. Adjusted EBITDA
+margin fell from the 3.0% Q3 2025 peak to 2.6% in Q4 2025 and 2.4% in Q1 2026;
+contribution margin fell from 5.1% to 4.4%; and Net Revenue Margin slipped from
+13.8% to 12.8%, which the 10-Q attributes partly to Deliveroo's lower-margin mix
+(dash_2026-05-06_8-k.txt; dash_2026q1_10-q.txt, MD&A). All three margin lines
+inflected DOWN at exactly the quarter the inorganic overlay arrived — consistent
+with dilution-by-design, not organic erosion.
+
+And the ex-Deliveroo signals confirm the core is still improving underneath.
+International unit economics (ex-Deliveroo) hit an "all-time high" in Q3 2025,
+rose again Y/Y and Q/Q in Q4 2025 "despite significant ongoing investment," and
+rose again Y/Y in Q1 2026 (dash_2025-11-05_8-k.txt; dash_2026-02-18_8-k.txt;
+dash_2026-05-06_8-k.txt). The legacy international business (Wolt) is scaling
+profitably; Deliveroo is the new money pit, and a chosen one.
+
+The real risk is execution, and it is unprecedented for this company. DoorDash
+is rebuilding DoorDash, Wolt, and Deliveroo onto a single global technology
+platform, reorganizing its global team, and integrating Deliveroo's internal
+controls over financial reporting (dash_2026-02-18_8-k.txt; dash_2026q1_10-q.txt,
+controls section). It has never integrated an acquisition of this size or
+cross-border complexity, and the 10-K flags integration, labor/works-council,
+and regulatory risk explicitly (dash_2025_10-k.txt, growth and self-operated
+risk factors). The $200m 2026 Deliveroo contribution and the 2H 2026 margin
+re-acceleration are the load-bearing assumptions of the whole bull case, and
+they are promises.
+
+The one piece of counter-evidence I refuse to wave away is cash. Free Cash Flow
+FELL year-over-year through the build-out: $420m in Q1 2026 vs $494m in Q1 2025,
+and $254m in Q4 2025 vs $420m in Q4 2024 (dash_2026-05-06_8-k.txt;
+dash_2026-02-18_8-k.txt). If the GAAP decline were purely non-cash amortization,
+cash should have been fine. It wasn't — but the drivers management cites are
+working-capital growth (grocery-driven receivables, payment-processor float,
+up-front vendor payments) and Deliveroo transaction costs plus a legal
+settlement (dash_2026-02-18_8-k.txt), i.e. growth investment and one-time items,
+not margin loss. Operating cash flow itself was still healthy at $594m in Q1
+2026 (dash_cash_flow.json). So the FCF dip qualifies the bull case — profitable
+scaling is not yet showing up as RISING cash — without refuting it.
+
+------------------------------------------------------------------------------
+THE PROFITABLE-SCALING VERDICT (reconciled)
+------------------------------------------------------------------------------
+
+Profitable scaling is real and intact in DoorDash's organic core. The evidence
+is a coherent, pre-Deliveroo inflection: Adjusted EBITDA margin 2.2%->3.0% of
+GOV, contribution margin 4.2%->5.1%, U.S. restaurant GOV growth at a three-year
+high with rising unit economics, and international unit economics at all-time
+highs — all by Q3 2025, all corroborated across the press releases and the
+10-Q's operating-leverage narrative.
+
+The apparent contradictions the bear points to — GAAP net income down 5% Y/Y,
+operating income flat on +33% revenue, margins compressing, FCF falling — are
+real but are dominated by (a) non-cash amortization of $1.5bn of acquired
+intangibles, (b) one-time deal costs, and (c) a DELIBERATE decision to reinvest
+Deliveroo's and grocery's profits rather than harvest them. They are the cost of
+a chosen investment cycle, not evidence that the unit economics have broken.
+
+I therefore land bullish on durability: the model demonstrably scales
+profitably, and the current margin dip is a feature (self-funded investment in a
+larger global footprint and a proven-demand grocery business) rather than a
+failure. But this is a calibrated bull call, not an unqualified one. It rests on
+three things that are promised, not yet delivered: grocery/retail unit economics
+turning positive in 2H 2026, Deliveroo delivering ~$200m of Adjusted EBITDA in
+2026 while being simultaneously starved for investment, and a first-of-its-kind
+global platform integration executing cleanly. Until free cash flow
+re-accelerates and grocery crosses breakeven, the inflection is a well-evidenced
+thesis about the core — not yet a proven fact about the consolidated company.
+The single cleanest tell to watch: consolidated Adjusted EBITDA margin
+re-crossing its 3.0%-of-GOV Q3 2025 high WITH Deliveroo included. That, and not
+the headline growth rate, is what would convert the durable-inflection thesis
+into a verdict.

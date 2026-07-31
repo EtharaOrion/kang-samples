@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['US Traffic Turnaround: Transactions vs. Ticket, and What It Costs', 'China Comparable Sales Deceleration and Competitive Discounting', 'The Boyu Capital Joint Venture: Strategic Retreat or Growth Accelerant?', 'Consolidated Margin and EPS Trajectory: Real Recovery or Accounting Optics?']
+Cited files: 6

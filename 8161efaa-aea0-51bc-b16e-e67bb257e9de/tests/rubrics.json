@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process substantively inspects the major source classes before relying on them analytically, including PANW filings, financial-statement JSON files, press releases, and peer financial files.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the chronology of file-open, search, parsing, or reading-log steps for direct engagement with each major source class before related analytical claims appear."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes the period and unit semantics of extracted data before making cross-period or cross-company comparisons.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for JSON-schema inspection, identification of quarterly versus cumulative observations, unit checks, fiscal-period mapping, or explicit non-comparability flags."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into distinct linked inquiries covering platform deal economics, forward commitments, recurring-revenue transition, and economic quality.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question tree for explicit links among strategy, contract terms, backlog or RPO, revenue recognition, collections, acquisitions, margins, and competition."
+    },
+    {
+      "id": "c4",
+      "concern": "grounding_before_claim",
+      "text": "The process obtains disclosed definitions for company-specific operating and contract metrics before interpreting those metrics.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for source-reading steps that capture definitions or limitations for metrics such as platformization, financing arrangements, RPO, deferred revenue, NGS ARR, billings-related measures, or free cash flow before analytical use."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process preserves materially conflicting observations as separate evidence items until their periods, accounting bases, or definitions are reconciled.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the evidence ledger or notes for separate favorable and adverse entries, including unresolved filing-versus-JSON differences or differences among reported measures."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work uses period-matched bases for cross-metric and peer comparisons.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation steps for matched quarterly, year-to-date, annual, or trailing-period inputs; look for fiscal-calendar normalization or explicit approximate-comparison labels."
+    },
+    {
+      "id": "c7",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process visibly distinguishes company-reported figures from analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for reported-versus-derived labels, formulas with numerator and denominator, calculation trails, or separate GAAP and non-GAAP columns in working tables or the final presentation."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests whether stronger contractual visibility may coexist with delayed collections, financing exposure, or renewal uncertainty.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect steps comparing RPO or similar commitments with deferred revenue, financing-related accounts, operating cash flow, contract timing, cancellation terms, or management cautions."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process challenges at least one favorable operating indicator with disclosed acquisition, accounting, or adjustment effects rather than accepting its headline presentation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an explicit stress test of recurring growth, product mix, margins, or cash flow using acquisition contribution, acquired licenses or subscriptions, amortization, stock compensation, hosting costs, restructuring, or non-GAAP exclusions."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The synthesis explicitly weighs the strongest favorable evidence against the strongest adverse evidence and explains why one receives greater analytical weight.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analysis for a reconciliation statement that adjudicates competing evidence rather than merely listing both sides."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The completed reasoning reaches a single directional position on the durability and economic quality of platform-driven demand.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the thesis and concluding paragraph for a clear directional judgment with a principal reason, rather than an evenly balanced summary or refusal to decide."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly retains material ambiguities when the available disclosures do not support a precise attribution or adjustment.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for statements that an organic-growth bridge, financing adjustment, renewal effect, acquisition contribution, or integration outcome cannot be isolated, together with bounded or directional language instead of invented precision."
+    }
+  ]
+}

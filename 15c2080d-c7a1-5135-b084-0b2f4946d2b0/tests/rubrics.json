@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The trajectory opens and inspects a broad set of relevant source classes before forming substantive analytical claims, including current KKR disclosures, historical comparators, structured financial statements, and peer materials.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for file-open, schema-inspection, and document-search steps across press releases, 10-Ks, 10-Qs, KKR financial JSON files, company profiles, and peer financial files before analytical notes or draft conclusions appear."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes a consistent interpretation of key measures before comparing them across documents or periods.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a terminology or normalization record covering measure definitions, accounting basis, units, period type, definition changes, nulls, and restatements for items such as AUM, fee-paying AUM, Fee Related Earnings, Insurance Operating Earnings, and adjusted shares."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The assignment is decomposed into connected analytical workstreams for franchise expansion, fee economics, insurance spread economics, and consolidated earnings durability.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a question plan or source matrix that maps each workstream to measurable tests and relevant source types rather than treating the assignment as one undifferentiated question."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process keeps quarterly, year-over-year, year-to-date, and trailing-period questions distinct throughout the planned comparisons.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit period labels in the analysis plan, comparison tables, or notes, including warnings against blending point-in-time balances with flow measures or mixing overlapping periods."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Evidence gathering preserves the period, units, definition, and reported-versus-management-defined status of each extracted measure.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a measure-level extraction table or ledger whose entries retain period labels, units, measure definitions, and classification as GAAP, segment, management-defined, or analyst-derived."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "Headline franchise growth is actively tested against non-organic or non-fundraising contributors rather than being accepted at face value.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for steps that compare reported AUM growth with acquisitions, investment appreciation, foreign exchange, realizations, deployment, and disclosed capital raising, while retaining any incomplete organic bridge as a limitation."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The operating-leverage interpretation of fee earnings is stress-tested against less-repeatable revenue, expense behavior, acquisition timing, and share-count effects.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a challenge to the preliminary fee thesis using management-fee mix, transaction or performance-related revenue, compensation, other operating expenses, acquired contributions, and adjusted-share changes, with an indication of whether adverse evidence alters confidence."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The insurance growth interpretation is tested as a spread-and-risk proposition rather than inferred from asset or segment growth alone.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for analysis of investment yield versus insurance or liability cost, together with consideration of runoff, credit, ratings, liquidity, distribution, actuarial, interest-rate, and capital sensitivities across recent and longer periods."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work visibly separates copied reported values from reproducible analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for calculation tables with reported and derived fields, formulas, aligned periods, denominator choices, and disclosed treatment of discrepancies; examples may include AUM growth, fee conversion, Fee Related Earnings per share, insurance spread contribution, segment mix, or cash-flow conversion."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process produces a causal synthesis in which franchise scale, fee conversion, expense behavior, insurance economics, and usable peer evidence bear on consolidated earnings durability rather than remaining disconnected summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for synthesis notes or final-answer structure that traces upstream business drivers through revenue, costs, per-share or cash-flow implications, insurance risks, and peer contrast to an overall assessment."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The process explicitly selects one of the two earnings engines as the more durable driver instead of ending with an unranked balance of considerations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a planned thesis or final conclusion that clearly prioritizes franchise fee growth or insurance, while identifying the other engine's role without treating both as equally persuasive."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves material ambiguity when the available disclosures cannot support a unique reconciliation, rather than filling evidentiary gaps with invented estimates.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an unresolved-issues log, qualified synthesis language, omitted non-defensible calculations, or explicit limits concerning acquisition effects, AUM bridges, segment reconciliation, period alignment, or peer comparability."
+    }
+  ]
+}

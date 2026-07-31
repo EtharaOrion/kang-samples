@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Membership Fee Revenue Growth and the Fading Fee-Increase Tailwind', 'Renewal-Rate Durability and Membership-Mix Headwinds', 'Thin Retail Margin and the Membership-Fee Profit Engine', 'Base-Expansion Durability vs. Cannibalization, Concentration, and Competition']
+Cited files: 16

@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-07-30T17:37:58.602139Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "harbor",
+        "run",
+        "-p",
+        "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/task",
+        "-a",
+        "claude-code",
+        "-m",
+        "claude-opus-4-8",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml",
+        "-o",
+        "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "AgentTimeoutError",
+            "VerifierOutputParseError",
+            "VerifierTimeoutError",
+            "RewardFileEmptyError",
+            "RewardFileNotFoundError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:9aeb9e1c34ec67b08609a3d14e2a2a54f8f55b6630913f75f126005c044e1ec7",
+                "path": "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "claude-code",
+                "model_name": "claude-opus-4-8",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-07-30__23-07-54/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml",
+                    "digest": "sha256:d69c072354367d6b7a0b22a9a1f7ae5164b024540bcfbe764bed855aefdb14c0"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

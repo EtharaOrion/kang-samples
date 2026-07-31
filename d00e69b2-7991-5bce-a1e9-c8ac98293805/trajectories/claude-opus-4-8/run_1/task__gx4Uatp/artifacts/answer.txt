@@ -1,0 +1,321 @@
+STARBUCKS (SBUX): US TRAFFIC TURNAROUND AND CHINA COMPETITIVE PRESSURE
+A four-theme analysis, fiscal Q3 2025 through Q2 2026
+
+===================================================================
+THESIS (the position this note defends)
+===================================================================
+
+"Back to Starbucks" has produced a real turnaround in the one metric that is
+hardest to fake — U.S. transactions — but the *profit* recovery that the
+Q2 FY26 headlines now celebrate is, in its first two reported quarters,
+substantially manufactured by the deconsolidation of China. Starbucks bought
+its U.S. traffic back with labor hours and, increasingly, delivery/price; it
+could not win the China price war on its own economics; and it used the Boyu
+Capital joint venture to do four things at once — offload the China fight,
+monetize ~$3.1B of cash, fund deleveraging, and mechanically lift consolidated
+operating margin by removing a low-ticket, high-depreciation business from the
+P&L.
+
+Net view: bullish on the demand turnaround (real and broad-based), skeptical
+that the margin/EPS turnaround is yet *proven*. The engine — North America —
+still shows year-over-year margin contraction stripped of accounting help. The
+true test arrives in FY27, when the China depreciation-cessation tailwind and
+the easy prior-year comparisons both lap.
+
+===================================================================
+THEME 1 — U.S. TRAFFIC TURNAROUND: TRANSACTIONS VS. TICKET,
+          AND WHAT IT COSTS
+===================================================================
+
+POSITION: The U.S. turn is genuine and high-quality — it is led by
+transactions, not just price — but it was purchased at a severe and still-
+unrecovered margin cost, and one quarter of the "ticket" is now flattered by
+delivery mix.
+
+The U.S. transaction trajectory (U.S. Supplemental Data in each earnings 8-K)
+is the strongest fact in the entire dataset because a transaction is a physical
+customer, not an accounting choice:
+
+  Quarter (period end)     U.S. comp    Transactions    Ticket
+  Q3 FY25 (Jun 29 '25)       -2%           -4%           +2%   [2025-07-29 8-K]
+  Q4 FY25 (Sep 28 '25)        0%           -1%           +1%   [2025-10-29 8-K]
+  Q1 FY26 (Dec 28 '25)       +4%           +3%           +1%   [2026-01-28 8-K]
+  Q2 FY26 (Mar 29 '26)      +7.1%         +4.3%          +2.7% [2026-04-28 8-K]
+
+The inflection is unambiguous. The Q1 FY26 release (sbux_2026-01-28_8-k.txt)
+headlines "U.S. Comparable Transaction Growth for the First Time in Eight
+Quarters," and the prior-year comparatives in the same tables show how deep the
+hole was: U.S. transactions were -8% in Q1 FY25 and -10% in North America in
+Q4 FY24 (2025-10-29 8-K). Going from -8%/-10% traffic to +3%/+4.3% traffic in
+roughly a year is a real operational recovery, and critically it is
+transaction-led rather than a pricing illusion — average ticket rose modestly
+alongside it (+1% to +2.7%), so this is more customers *and* slightly higher
+spend, the healthiest possible mix.
+
+THE COST. This traffic was explicitly bought. The FY2025 10-K
+(sbux_2025_10-k.txt) attributes the 710 bp consolidated operating-margin
+contraction to restructuring (~240 bp), deleverage (~210 bp), "investments in
+support of 'Back to Starbucks,' which were largely in labor hours" (~130 bp),
+and inflation (~80 bp); North America margin contracted 830 bp to 11.5% for the
+year with ~180 bp of that from labor-hour investment. The mechanism is visible
+in the segment tables: North America store operating expense as a percent of
+company-operated store revenue climbed from ~51% (Q3 FY24) to 57.0% in Q1 FY26
+and 58.7% in Q2 FY26 (2026-01-28 and 2026-04-28 8-Ks). North America segment
+operating margin ran 21.0% (Q3 FY24) → 13.3% (Q3 FY25) → 4.5% (Q4 FY25, with
+restructuring) → 11.9% (Q1 FY26) → 9.9% (Q2 FY26). The September 25, 2025
+partner letter (sbux_2025-09-25_8-k.txt) makes the labor thesis explicit:
+"Where we've invested in more green apron partner hours... we saw improvements
+in transactions, sales, and service times." Traffic was, quite literally, hired.
+
+STRONGEST COUNTER-EVIDENCE, and how I weigh it: A bull will say the cost is
+already receding — the year-over-year North America margin decline narrowed
+from -770 bp (Q3 FY25) to just -170 bp (Q2 FY26), and the FY25 10-K guides that
+completed store closures will be "slightly accretive" to future margin. That is
+fair, and it is why I call the *demand* turn real. But two cautions keep me from
+declaring the U.S. margin healed. First, North America margin was still *down*
+year-over-year in Q2 FY26 (9.9% vs 11.6%) even against an already-depressed base
+— the labor investment is structural, not a one-off. Second, the Q2 FY26 10-Q
+(sbux_2026q2_10-q.txt) discloses that the U.S. ticket gain of +2.7% was
+"primarily driven by higher delivery sales," i.e., channel mix rather than pure
+menu pricing power; delivery carries its own economics and does not prove the
+customer will pay more in-store. Verdict: traffic turnaround = real; U.S. profit
+recovery = not yet earned.
+
+===================================================================
+THEME 2 — CHINA COMPARABLE-SALES DECELERATION AND
+          COMPETITIVE DISCOUNTING
+===================================================================
+
+POSITION: China's "growth" was a discounting-driven traffic story that the
+company could not turn into pricing power, and the Q2 FY26 deceleration to
+essentially flat exposes it. The most telling evidence is not what Starbucks
+said about China — it is what it stopped saying.
+
+The China supplemental tables tell a consistent story: transactions up, ticket
+persistently down — the signature of buying volume with price in a market where
+Luckin- and Cotti-style value competitors set the price.
+
+  Quarter                  China comp   Transactions    Ticket
+  Q3 FY25 (Jun 29 '25)       +2%           +6%           -4%   [2025-07-29 8-K]
+  Q4 FY25 (Sep 28 '25)       +2%           +9%           -7%   [2025-10-29 8-K]
+  Full FY25                  -1%           +4%           -5%   [2025-10-29 8-K]
+  Q1 FY26 (Dec 28 '25)       +7%           +5%           +2%   [2026-01-28 8-K]
+  Q2 FY26 (Mar 29 '26)      +0.5%         +2.1%         -1.6%  [2026-04-28 8-K]
+
+For four of these five periods, average ticket in China fell — as much as -7% in
+Q4 FY25. A +9% transaction number paired with a -7% ticket is not demand
+strength; it is a price war. Q1 FY26 looked like a genuine break in the pattern
+(ticket +2%, comp +7%), but it did not hold: Q2 FY26 decelerated hard to +0.5%
+comp with ticket back to -1.6%. The single-quarter positive ticket now reads as
+noise — perhaps holiday/seasonal or promotional timing — inside a structurally
+deflationary market.
+
+The corroborating fingerprint is in margin, not comp. The FY25 10-K
+(sbux_2025_10-k.txt) attributes the International segment's 210 bp margin
+contraction "primarily [to] increased promotional activity (approximately
+170 bps)." International is the segment that houses China; ~170 bp of promotion
+is the accounting shadow of the price war.
+
+THE STRONGEST SINGLE PIECE OF EVIDENCE — a disclosure that was DELETED. The
+FY2024 10-K (sbux_2024_10-k.txt) carried a dedicated China risk factor naming
+"a highly competitive retail environment and the entry of new competitors to the
+specialty coffee market in China" and warned that China volatility could be
+caused by "increasing competition in the market, lower-priced competitor product
+offerings." That standalone China risk factor was *removed* from the FY2025
+10-K, where China-specific competition language is folded into generic macro
+risk. Management was simultaneously (a) living the price war in the ticket line
+and (b) de-emphasizing China in its formal risk narrative — precisely as it
+prepared to hand the problem to a partner (Theme 3).
+
+STRONGEST COUNTER-EVIDENCE: Starbucks China revenue actually grew — $3,160.8M
+in FY25, +5% year-over-year (sbux_2025_10-k.txt) — and transactions grew every
+quarter, so the market is clearly not dead; the brand is still taking footfall.
+And Q1 FY26's +7% comp was, briefly, best-in-portfolio. Reconciliation: growing
+transactions while ticket erodes is exactly what a premium brand defending share
+against value entrants looks like — it keeps the customers by conceding on
+price. Revenue growth of +5% on a -5% ticket means the volume had to run very
+hard just to stay ahead. That is not a franchise compounding pricing power; it
+is a brand treading water in a discount flood. The Q2 FY26 flatline confirms the
+tread was unsustainable at Starbucks' own cost structure — which is the
+strategic rationale for Boyu.
+
+Note on ambiguity: neither the FY25 10-K nor the Q2 FY26 10-Q MD&A breaks out
+China comps/transactions/ticket in narrative form — China sits inside the
+International segment. Every China comp figure above comes from the supplemental
+tables in the earnings 8-Ks, and after the JV closes, this China supplemental
+disclosure is likely to disappear as China converts to licensed. The window into
+China's underlying unit economics is closing just as it turns most interesting.
+
+===================================================================
+THEME 3 — THE BOYU CAPITAL JOINT VENTURE:
+          STRATEGIC RETREAT OR GROWTH ACCELERANT?
+===================================================================
+
+POSITION: It is a strategic retreat, monetized and marketed as an accelerant —
+and that is a defensible, even shrewd, decision. Both descriptions are literally
+true; the disagreement is only about which verb dominates. Ownership and
+operational control retreated; store-count ambition and cash flow advanced.
+
+The facts (2025-11-03 8-K; 2026-04-02 8-K; sbux_2026q2_10-q.txt Notes 2 & 18):
+ - Announced Nov 3, 2025; Boyu acquires 60% of Starbucks China retail; Starbucks
+   retains 40% and continues to own and license the brand/IP to the JV.
+ - Struck at a "cash-free, debt-free... total enterprise value of approximately
+   $4 billion." Closed effective March 30, 2026 for "total consideration of
+   $3.1 billion" (the cash for the 60% stake). 7,991 company-operated stores
+   convert to licensed.
+ - Starbucks claims the "total value of its China retail business [will] exceed
+   $13 billion," comprising sale proceeds + the retained 40% + "the net present
+   value of ongoing licensing economics... over the next decade or longer."
+ - Shared aspiration: grow from ~8,000 to "as many as 20,000 locations."
+
+THE "RETREAT" READING (which I find more honest): Starbucks sold *control* of its
+second-largest, self-described "fastest-growing" market to a local private-equity
+firm. The valuation is modest for a supposed crown jewel: ~$4B enterprise value
+against ~$3.16B of FY25 China revenue is roughly 1.25x sales — a price that
+signals a business under competitive pressure, not a compounding growth asset.
+The timing is pointed: the deal was struck in November 2025, immediately after
+FY25 in which China ticket fell -5% and just before/around the Q1 FY26 blip;
+Starbucks chose to sell control rather than out-invest Luckin/Cotti itself. The
+"$13 billion total value" figure is soft — the majority of it is a
+self-calculated NPV of a decade-plus of licensing streams plus the value of a
+minority stake it no longer controls, not cash in hand. Cash in hand was $3.1B.
+
+THE "ACCELERANT" READING (which is real, not merely spin): converting 7,991
+stores to a licensed/royalty model is asset-light and structurally higher-margin
+for Starbucks — it swaps volatile, price-war-exposed retail P&L for a brand
+royalty stream, exactly the model that makes McDonald's and Yum franchised
+economics so stable (see Theme 4). A local PE partner plausibly can expand into
+lower-tier cities faster than a Seattle-run company-operated model, supporting
+the 20,000-store aspiration. And the proceeds directly strengthen the balance
+sheet: the Q2 10-Q earmarks them "for debt reduction," and on May 20, 2026
+Starbucks settled cash tender offers repurchasing and cancelling roughly
+$1.3 billion in principal across six senior-note series (sbux_2026-05-20_8-k.txt)
+— visible deleveraging funded by the retreat.
+
+RECONCILIATION: A company that believed it could win China on its own economics
+does not sell 60% at ~1.25x sales. A company that is losing a price war it can't
+afford, but owns an iconic brand, licenses the brand to a local operator, keeps
+40% of the upside and a royalty annuity, and takes $3.1B to fix its balance
+sheet. That is a retreat executed from a position of enough strength to get paid
+for retreating. Calling it an "accelerant" is true for store count and for
+Starbucks' *reported* margin; calling it a retreat is true for ownership,
+control, and competitive posture. The honest label is: disciplined monetization
+of a market Starbucks decided it could no longer win alone.
+
+Ambiguity worth flagging: the closing date conflicts across sources — the
+2026-04-02 press release announces an April 2, 2026 "official closing," while the
+Q2 10-Q repeatedly dates the close March 30, 2026 (first day of fiscal Q3). The
+substance is unaffected (both fall in Q3 FY26), but it is a genuine
+inconsistency in the record.
+
+===================================================================
+THEME 4 — CONSOLIDATED MARGIN AND EPS TRAJECTORY:
+          REAL RECOVERY OR ACCOUNTING OPTICS?
+===================================================================
+
+POSITION: Both — but in a specific, decomposable ratio. The top line is a real
+recovery; the Q2 FY26 margin and EPS *expansion* is roughly half accounting
+optics driven by the China held-for-sale treatment and an easy comparison. Strip
+the optics out and the operating recovery is early and unproven.
+
+WHAT LOOKS LIKE RECOVERY. Q2 FY26 (2026-04-28 8-K): consolidated net revenue
++9% to $9.5B; GAAP operating margin *expanded* 180 bp to 8.7%; GAAP EPS +32% to
+$0.45; non-GAAP EPS +22% to $0.50. The 8-K headline — "the turn in our
+turnaround" — and management raised FY26 non-GAAP EPS guidance to $2.25–$2.45
+(from FY25's $2.13). After a brutal FY25 (operating income -45.7% to $2,936.6M,
+7.9% margin, EPS $1.63 vs $3.31; sbux_2025_10-k.txt), this reads as the corner
+turning.
+
+WHY MUCH OF IT IS OPTICS. The Q2 FY26 10-Q (sbux_2026q2_10-q.txt) is explicit
+that classifying China as held for sale "required us to cease property, plant,
+and equipment depreciation and operating lease ROU asset amortization...
+resulting in reduced depreciation and amortization and store operating
+expenses." The magnitude is large and quantified:
+ - Consolidated D&A fell to $363.4M from $418.9M year-over-year — a ~$55M
+   non-operational reduction driven "primarily as a result of ceasing
+   depreciation upon classifying... China as held for sale."
+ - The International segment's headline 780 bp margin jump to 19.4% is
+   decomposed by the 10-Q as "approximately 520 basis points" from the
+   China held-for-sale cost cessation and only ~430 bp from real sales leverage.
+   In other words, most of International's spectacular margin print is an
+   artifact of not depreciating assets that were about to be sold.
+ - Consolidated operating-margin expansion is attributed "primarily [to] sales
+   leverage and lower store operating and depreciation and amortization costs
+   after classifying... China as held for sale."
+
+This is an accounting benefit that would have occurred even if the underlying
+China stores earned exactly the same profit — you simply stop running the
+depreciation clock. It flatters H1 FY26 and then vanishes on deconsolidation.
+
+THE CORE ENGINE TELLS THE UNVARNISHED STORY. North America — untouched by the
+China accounting — had operating margin *contract* to 9.9% from 11.6% in Q2 FY26,
+"primarily driven by labor investments... product mix shift, and inflation led by
+tariffs and elevated coffee pricing." The business that generates ~90% of
+company-operated revenue is still losing margin year-over-year. That is the
+tell: consolidated margin went up while the core segment's margin went down —
+the delta is China accounting.
+
+THE OTHER DISTORTIONS, BOTH DIRECTIONS.
+ - Downward (real cash, GAAP-only): the held-for-sale reclassification changed
+   indefinite reinvestment assertions and drove a punitive tax rate — 61.7% in
+   Q1 FY26 and 46.1% for H1 FY26, including a $273M discrete tax charge
+   (2026-01-28 8-K; sbux_2026q2_10-q.txt). This is why H1 GAAP EPS looks so weak
+   ($0.70 vs $1.02) even as the operating line improved; it is a one-time,
+   non-cash-flavored assertion change, appropriately excluded from non-GAAP.
+ - Upward and still coming: the 10-Q states Starbucks "anticipate[s] recognizing
+   a material pre-tax gain on the sale" in Q3 FY26. That gain is pure accounting
+   — a one-time mark on deconsolidation — and management has already flagged it
+   will be excluded from non-GAAP EPS. GAAP Q3 FY26 net income will look huge and
+   mean nothing operationally.
+
+WHAT IS GENUINELY REAL in the recovery: revenue +9% and transaction-led comps
+(Theme 1); demonstrable G&A discipline (consolidated G&A fell year-over-year in
+Q1 and Q2 FY26 after the September 2025 elimination of ~900 non-retail roles,
+sbux_2025-09-25_8-k.txt); and a narrowing rate of core-margin decline. The
+FY26 non-GAAP EPS guide of $2.25–$2.45 implies only modest real growth over
+FY25's $2.13 — management's own numbers concede the earnings recovery is shallow.
+
+PEER CROSS-CHECK (financials/income_statement/*.json): SBUX consolidated
+operating margin collapsed from 16.7% (Q3 FY24) to 6.9% (Q2 FY25) to single
+digits, while McDonald's held ~45–47%, Yum ~31–34%, and Domino's ~19–20% margins
+essentially flat across the same span. The peers' stability confirms this was
+NOT an industry demand collapse that dragged everyone down — SBUX's margin
+destruction was self-inflicted (labor reinvestment + China dilution), which is
+also why so much of it is reversible by choice and by accounting.
+
+RECONCILIATION: The recovery is real at the top of the P&L and manufactured in
+the middle. Transactions turned because the strategy worked; margin turned
+because China's depreciation stopped and the prior-year base was a trough
+(Q2 FY25 was the 6.9% floor). The clean read on operational health — North
+America margin ex-accounting — is still negative year-over-year but improving.
+
+===================================================================
+UNIFIED CONCLUSION
+===================================================================
+
+Across all four themes the same shape recurs: a genuine operational green shoot,
+amplified by financial engineering into a more complete-looking recovery than the
+underlying economics yet support.
+
+ 1. The U.S. traffic turnaround is the real, un-fakeable core — transaction-led,
+    now with modest ticket support — but still margin-dilutive and partly
+    delivery-mixed.
+ 2. China's "growth" was a discounting story Starbucks could not convert to
+    pricing power; the Q2 FY26 flatline and the quietly deleted China risk factor
+    reveal a brand that chose to stop fighting the price war on its own balance
+    sheet.
+ 3. Boyu is the hinge that resolves the China problem: a monetized retreat
+    ($3.1B cash, 40% retained, royalty annuity, ~$1.3B debt retired) dressed as a
+    20,000-store accelerant — both framings true, retreat the more honest.
+ 4. The consolidated margin/EPS "turn" of Q2 FY26 is roughly half real (revenue,
+    transactions, G&A discipline) and half optics (China depreciation cessation,
+    an easy comp, and a coming one-time gain). The core North America margin is
+    still down year-over-year.
+
+Investment posture: credit the demand turnaround as real and durable; do NOT yet
+credit the profit turnaround, because its most flattering component — the China
+deconsolidation tailwind — is temporary and its cleanest gauge (North America
+margin ex-accounting) has not inflected. The verdict comes in FY27, when the
+depreciation-cessation benefit and the trough-quarter comparisons both lap and
+North America margin has to expand on its own. Until then, the turnaround is
+proven on the top line and taken on faith on the bottom line.

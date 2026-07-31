@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process bases its initial source map on direct content inspection across the major corpus categories: company profiles, AXP structured financials, annual and quarterly filings, press releases, and peer financials.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-open, parsing, or search steps showing actual contents from company_profiles.json; AXP income-statement, balance-sheet, and cash-flow files; 10-K and 10-Q filings; press releases; and peer files, rather than source characterization inferred from filenames."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into linked decision questions covering spend durability, fee economics, credit behavior, competitive or regulatory pressure, and earnings or capital conversion.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect an early question tree, research plan, or structured checklist that turns the broad investment issue into connected analytical workstreams rather than an undirected document summary."
+    },
+    {
+      "id": "c4",
+      "concern": "counter_evidence_engagement",
+      "text": "The process defines in advance what observable evidence would strengthen or weaken the principal investment interpretations.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for pre-extraction decision tests, contrary-indicator lists, or two-sided hypotheses concerning spend resilience, fee durability, credit normalization, expense pressure, or payment-economics risk."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "The process reads the surrounding table, definition, footnote, or narrative context before assigning analytical meaning to an extracted figure.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect trajectory steps around search hits and numerical extraction for follow-up reads that establish units, portfolio scope, period basis, exclusions, and whether the measure is a balance, quarterly flow, or cumulative flow."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process explicitly weighs a material favorable signal against a material adverse signal and records why one carries greater decision weight.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a two-sided evidence matrix, conflict note, or provisional conclusion that directly compares opposing evidence\u2014for example fee growth versus engagement costs or premium customer quality versus rising credit metrics\u2014rather than listing each side separately."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly preserves non-comparability when conflicting observations use different periods, portfolios, populations, or measurement bases.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for discrepancy notes that identify unresolved definition or scope mismatches and decline to merge, rank, or smooth the observations without a defensible reconciliation."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process distinguishes company-reported values from analyst-derived values.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation sheets, working tables, or trajectory notes for separate reported and derived labels; derived rows may show formulas and input values as corroborating evidence of the distinction."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process checks period-basis compatibility before computing sequential, trailing, ratio, or growth measures.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for checks of standalone-quarter versus year-to-date presentation, ending versus average balances, cumulative cash-flow signs, compatible portfolio definitions, and matching numerator-denominator periods before calculations are performed."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process synthesizes the evidence into a causal argument linking spend behavior to revenue economics, credit costs, competitive constraints, earnings conversion, and capital capacity.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis outline or final analysis for connected reasoning across the economic chain, rather than a collection of independent metric summaries or risk disclosures."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in one directional position on whether the identified operating advantages outweigh the principal risks.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a clear thesis sentence or concluding decision that chooses a direction while permitting stated uncertainty, rather than ending with a neutral inventory of positives and negatives."
+    }
+  ]
+}

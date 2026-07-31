@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/tgt-2026-06-30-traffic-recovery-and-operating-margin-normalization"
+description = "Assess whether Target's Q1 FY2026 traffic-led comparable-sales rebound is durable and whether it is translating into genuine operating-margin normalization, decomposing traffic vs ticket, the digital/omnichannel contribution, gross-margin/shrink/SG&A drivers, and competitive positioning versus peers."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "TGT"]
+
+[metadata]
+uuid = "d8e779e1-7139-549d-892f-b27af1811157"
+difficulty_explanation = "The data sends conflicting signals that must be reconciled rather than cherry-picked: full-year FY2025 comparable sales and traffic fell while Q1 FY2026 comps and traffic surged, and gross margin improved even as the operating income margin rate stayed depressed. Getting it right requires stripping one-off interchange-settlement benefits and shrink tailwinds out of the trend, distinguishing a soft prior-year comparison from structural recovery, and benchmarking against larger peers before committing to a clear position. Facts are scattered across the 10-K, the latest 10-Q, income statements, and peer files, so a defensible verdict demands synthesis, not a parallel list of metrics."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

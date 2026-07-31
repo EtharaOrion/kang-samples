@@ -1,0 +1,214 @@
+LOWE'S (LOW): THE COMP RECOVERY IS REAL BUT LOW-QUALITY — AND THE PRO PIVOT IS
+A BOUGHT, MARGIN-DILUTIVE CATCH-UP TO HOME DEPOT
+Analyst view as of July 2026. Primary ticker: LOW. Benchmarks: HD, SHW, TSCO.
+
+===============================================================================
+POSITION (the call up front)
+===============================================================================
+Lowe's has genuinely turned the comp cycle — four consecutive quarters of
+positive comparable sales through Q1 FY26 (low_2026-05-20_8-k.txt). But the
+recovery is thin: it is carried almost entirely by average ticket, mix, and
+online, while customer TRANSACTIONS (traffic/units) have declined in every
+quarter of the dataset. Management has responded to soft organic demand by
+BUYING growth and Pro reach — the $1.3B ADG and $8.8B FBM acquisitions
+(low_2026_10-k.txt) — which lifts FY26 total-sales guidance to +7–9% even as
+organic comps are guided only flat-to-+2% (low_2026-02-25_8-k.txt). That trade
+buys Pro penetration and revenue but costs gross margin, operating margin, and
+balance-sheet strength. Against Home Depot, Lowe's is a fast follower running
+the same Pro-distribution M&A playbook a year or two late, from a smaller,
+more DIY-exposed, more financially stretched base. Rating: constructive on
+strategy, skeptical on quality — a "show-me" story where the bull case
+(Pro + housing recovery optionality) is credible but not yet in the numbers.
+
+===============================================================================
+THEME 1 — THE SHAPE AND QUALITY OF THE COMPARABLE-SALES RECOVERY
+===============================================================================
+The shape is a clean V in the headline number. Reconstructing the quarterly
+path:
+
+  FY2023 full year: comp -4.7% (low_2024_10-k.txt)
+  FY2024 full year: comp -2.7% — Q1 -4.1%, Q2 -5.1%, Q3 -1.1%, Q4 +0.2%
+                    (low_2025_10-k.txt)
+  FY2025 full year: comp +0.2% — Q1 -1.7%, Q2 +1.1%, Q3 +0.4%, Q4 +1.3%
+                    (low_2026_10-k.txt)
+  FY2026 Q1:        comp +0.6% (low_2026q2_10-q.txt)
+
+So the trend inflected from deeply negative to modestly positive across FY25 —
+a real turn. The problem is COMPOSITION. Splitting every disclosed quarter into
+transactions vs. ticket:
+
+  Q2 FY24: comp -5.1% = -5.9% transactions, +0.8% ticket (low_2024q3_10-q.txt)
+  Q3 FY24: comp -1.1% = -1.3% transactions, +0.2% ticket (low_2024q4_10-q.txt)
+  Q1 FY25: comp -1.7% = -3.8% transactions, +2.1% ticket (low_2025q2_10-q.txt)
+  Q2 FY25: comp +1.1% = -1.8% transactions, +2.9% ticket (low_2025q3_10-q.txt)
+  Q1 FY26: comp +0.6% = -0.9% transactions, +1.5% ticket (low_2026q2_10-q.txt)
+  FY25 FY: comp +0.2% = -2.8% transactions, +3.0% ticket (low_2026_10-k.txt)
+
+The recovery is entirely a ticket-and-mix story. Transactions have NEVER been
+positive in this dataset; even in the "positive-comp" quarters, fewer customers
+are shopping — the baskets are just bigger and more expensive. Online is doing
+heavy lifting on top of that: management attributes the FY25 comp partly to
+online, which contributed ~105 bps to comps (up from ~50 bps in FY24 and
+~25 bps in FY23) (low_2026_10-k.txt); online grew 11.4% in Q3 FY25
+(low_2025-11-19_8-k.txt) and 15.5% in Q1 FY26 (low_2026-05-20_8-k.txt). Netting
+the ~1.05-pt online lift out of the +0.2% FY25 comp implies in-store comps were
+still slightly NEGATIVE. This is a recovery of pricing, mix (appliances, Pro
+baskets), and channel shift — not of underlying demand or footfall.
+
+Strongest counter-evidence (which I concede): the transaction DECLINE is
+narrowing fast — from -5.9% (Q2 FY24) to -3.8% to -1.8% to -0.9% (Q1 FY26). The
+second derivative on traffic is clearly improving and is approaching zero. Four
+straight positive comps is not noise. A bull can reasonably argue Lowe's is one
+or two quarters from traffic-led growth. That is the single best data point for
+the recovery being high-quality, and I weight it — but a trajectory pointing at
+zero is not the same as demand that has actually returned. Note also the honest
+ambiguity: Lowe's reported comp includes online and excludes acquisitions until
+they are owned 12 months (low_2026_10-k.txt), so the headline both flatters the
+mix shift and hides the acquired Pro volume — "organic health" is murkier than
+the +0.6% suggests. And momentum is already fading at the margin: Q4 FY25 +1.3%
+decelerated to Q1 FY26 +0.6%.
+
+===============================================================================
+THEME 2 — PRO PENETRATION AND THE TOTAL HOME STRATEGY
+===============================================================================
+This is where Lowe's is playing genuine offense, and it is the honest core of
+the bull case. Pro has outperformed DIY in EVERY quarter, positive or negative:
+Lowe's reports "positive comparable sales with our Pro customers and online"
+through the FY24 trough (low_2024q3_10-q.txt, low_2024q4_10-q.txt) and
+"continued growth with our Pro customer" through the FY25/FY26 recovery
+(low_2025q3_10-q.txt, low_2026q2_10-q.txt). DIY — especially big-ticket
+discretionary — is the persistent drag (low_2025_10-k.txt, low_2026_10-k.txt).
+Pro penetration is the #1 pillar of the Total Home strategy (low_2026_10-k.txt).
+
+The FY25 move is a strategic step-change, not an increment. Historically Lowe's
+defined its Pro as "primarily the small to medium sized Pro" (low_2025_10-k.txt).
+In FY25 it bought its way UP-market into the large Pro / homebuilder channel:
+- ADG, closed June 2, 2025, ~$1.3B — interior surfaces (flooring, cabinets,
+  countertops) distribution/installation to homebuilders (low_2026_10-k.txt).
+- FBM, closed Oct 9, 2025, ~$8.8B — building-materials distribution, 370+
+  locations (low_2026_10-k.txt; low_2026-05-20_8-k.txt press).
+Together these create "a comprehensive interior solutions platform to better
+serve the homebuilder," targeting a "$250 billion total addressable market" for
+large Pro, explicitly framed as an option on housing recovery ("16 million new
+homes needed in the U.S. by 2033") (low_2025-10-09_8-k.txt). Lowe's now operates
+540+ branch locations serving larger Pro (low_2026_10-k.txt).
+
+My reconciliation: strategically sound, but the disclosure quality is weak and
+the market is right to demand proof. "Pro penetration" is asserted as
+"increased" every year but is NEVER quantified as a percentage anywhere in the
+data (low_2025_10-k.txt, low_2026_10-k.txt) — a notable ambiguity for a metric
+management centers the whole thesis on. And the growth is now substantially
+inorganic: the wedge between FY26 total-sales guidance (+7–9%) and comp guidance
+(flat-to-+2%) — roughly 6–7 points — is essentially all FBM/ADG
+(low_2026-02-25_8-k.txt). Lowe's is renting Pro revenue via M&A while its own
+same-store Pro growth, though positive, is not large enough to move the blended
+comp much above zero.
+
+===============================================================================
+THEME 3 — COMPETITIVE BENCHMARKING AGAINST HOME DEPOT
+===============================================================================
+Caveat on data: the dataset contains HD's income statement and cash-flow
+summaries (hd_income_statement.json, hd_cash_flow.json) but NOT HD's comparable
+sales or Pro-penetration disclosures. So this benchmark rests on revenue,
+margin, and cash generation, and I flag that limitation rather than assert HD
+comps I cannot source.
+
+Scale and growth: HD is roughly twice Lowe's size and is growing faster off the
+larger base — HD Q1 FY26 revenue $41.8B vs. LOW $23.1B, with HD revenue +4.8%
+YoY (hd_income_statement.json) vs. LOW's +0.6% COMP (LOW's +10.3% total is
+acquisition-inflated, low_2026q2_10-q.txt). HD posted mid-single-digit YoY
+revenue growth across FY25 (Q2 +4.9%, Q3 +2.8%) and +9.4% in Q1 FY25 — a growth
+profile consistent with HD having ALREADY absorbed a large Pro-distribution
+acquisition, i.e., HD ran this same playbook a cycle ahead of Lowe's. Lowe's is
+the follower.
+
+Margin: the popular "HD is simply the better operator" framing is too glib on
+this data, and I engage it fairly. At seasonal peak the two are essentially
+tied — Q2 FY25 operating margin: LOW 14.48% vs. HD 14.48%
+(low_2025-08-20_8-k.txt; hd_income_statement.json). But the gap has since opened
+the WRONG way for Lowe's: Q1 FY26 operating margin LOW 11.07% vs. HD 11.93%,
+and Q3 FY25 LOW 11.92% vs. HD 12.94%. HD is holding low-teens/mid-teens; Lowe's
+is sliding toward 11% (see Theme 4). So Lowe's is not a structurally inferior
+operator — but it is now compressing while HD is stable, and HD's compression
+did not come from bolting on lower-margin distribution the way Lowe's is.
+
+Cash generation and resilience: HD throws off far more cash — Q1 operating cash
+flow $6.0B (HD) vs. $3.35B (LOW) (hd_cash_flow.json; low_2026-05-20_8-k.txt) —
+which funds HD's Pro M&A without the balance-sheet strain Lowe's is taking on.
+Read-through from the other benchmarks supports the "Pro-facing demand is
+healthier than DIY" thesis that underpins both companies' Pro pivots:
+Pro-heavy Sherwin-Williams grew revenue +6.8% YoY in Q1 2026
+(shw_income_statement.json) and rural-Pro Tractor Supply +3.6%
+(tsco_income_statement.json) — both outrunning Lowe's flat organic comp, i.e.,
+the contractor/Pro channel is where the demand is, validating direction while
+underscoring how DIY-dependent Lowe's still is.
+
+===============================================================================
+THEME 4 — MARGINS, CAPITAL ALLOCATION, AND A RECONCILED CALL
+===============================================================================
+Margins — a two-part story, and both parts must be told. The CORE business is
+holding up: full-year gross margin actually rose to 33.48% in FY25 from 33.32%
+in FY24 (low_2026-02-25_8-k.txt), and Q1/Q2 FY25 gross margin expanded +19 bps
+and +34 bps on productivity (PPI), shrink, and credit
+(low_2025q2_10-q.txt, low_2025q3_10-q.txt). Adjusted EPS grew despite flat
+comps (Q2 FY25 +5.6%, Q3 FY25 +5.9%, FY25 adjusted diluted EPS $12.28, +2.4%)
+(low_2025-08-20_8-k.txt, low_2025-11-19_8-k.txt, low_2026_10-k.txt) — the
+productivity engine is real.
+
+But OPERATING margin is compressing, and the acquisitions are the cause. GAAP
+operating margin fell from 12.51% (FY24) to 11.77% (FY25), guided down again to
+11.2–11.4% for FY26 (low_2026-02-25_8-k.txt). Q1 FY26 gross margin fell -70 bps
+explicitly "driven by the operational cost structure of acquisitions"
+(low_2026q2_10-q.txt) — FBM/ADG distribution is structurally lower-margin than
+retail — plus ~40 bps of intangible amortization (low_2026-02-25_8-k.txt) and
+SG&A deleverage (SG&A rose to 19.46% of sales in FY25 from 18.74%,
+low_2026-02-25_8-k.txt). So Lowe's is trading margin rate for Pro reach and
+revenue dollars.
+
+Capital allocation — the pivot is stark and is the crux of the risk. For years
+Lowe's manufactured EPS through buybacks: diluted share count fell ~22%, from
+~718M (Q1 FY21) to ~559M (Q1 FY26) (low_income_statement.json). That cushion is
+now gone: FY25 repurchases collapsed to $211M from $4.05B in FY24
+(low_2026-02-25_8-k.txt) to fund M&A. To pay for FBM, Lowe's issued ~$6.97B of
+new notes in Sept 2025 (low_2026-02-25_8-k.txt cash flow; low_2025-09-30_8-k.txt
+indenture), pushing long-term debt to ~$37.5B (from ~$32.9B a year earlier) and
+lifting net-interest-expense guidance from ~$1.3B to ~$1.6B
+(low_2026-02-25_8-k.txt). Cash fell to $982M at FY25-end from $1.76B
+(low_2026-02-25_8-k.txt), and the company runs a persistent shareholders'
+DEFICIT of ~$9.9B (low_2026-05-20_8-k.txt) — negative book equity, a legacy of
+debt-funded buybacks, now carrying ~$10B of fresh acquisition goodwill/intangibles
+(goodwill $3.9B, intangibles $5.9B; low_2026-02-25_8-k.txt). The dividend was
+still raised ($4.55 FY24 → $4.75 FY25; low_2026-02-25_8-k.txt), so capital
+return did not stop — it rotated from buybacks into M&A while leverage rose.
+
+RECONCILED CALL. Stitching the four threads: the comp "recovery" is real in
+trajectory but low in quality — ticket, mix, and online, not traffic; in-store
+DIY demand is still contracting and momentum is already decelerating
+(Q4 +1.3% → Q1 +0.6%). Management is masking that softness two ways: with a
+Pro-distribution M&A program that inflates FY26 total sales to +7–9% while
+organic comps stay near zero, and with years of buyback-driven EPS optics that
+have now been switched off. The Pro/Total Home strategy is the right direction —
+Pro out-comps DIY every quarter, and SHW/TSCO confirm the Pro channel is where
+the demand lives — but Lowe's is executing it late, behind Home Depot, and
+paying for it in margin rate (op margin 12.5% → ~11.2%), leverage
+(+$6.97B debt, net interest $1.3B → $1.6B), and a deeper negative-equity
+position. Versus HD, Lowe's is roughly a peer on peak-season margin and a
+capable operator, but structurally smaller, more DIY-dependent, cash-generating
+about half as much, and now compressing while HD holds.
+
+The genuine bull optionality I will not dismiss: the acquired large-Pro platform
+(FBM/ADG, 540+ branches, $250B TAM) is pre-positioned for a housing-turnover
+recovery that has not yet arrived, and the sharply narrowing transaction decline
+(-5.9% → -0.9%) says the DIY bleed is nearly stanched. If housing turns, Lowe's
+has bought the operating leverage to inflect. Until traffic actually goes
+positive and the acquisitions clear their margin drag, though, this is
+inflation-plus-M&A dressed as a demand recovery — own the strategy, discount
+the quality, and demand proof in transactions and operating margin before
+paying up.
+
+Key ambiguities noted rather than smoothed: (1) Pro penetration is never
+quantified in the data — the central metric is qualitative only. (2) HD
+comparable sales and Pro disclosures are absent, so the HD benchmark is
+revenue/margin-based, not comp-based. (3) Reported comps include online
+(~105 bps) and exclude sub-12-month acquisitions, so headline comp neither
+cleanly measures organic demand nor captures acquired Pro volume.

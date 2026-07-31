@@ -1,0 +1,1574 @@
+0000927628-26-000062.txt : 20260608
+0000927628-26-000062.hdr.sgml : 20260608
+20260608160542
+ACCESSION NUMBER: 0000927628-26-000062
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20260608
+ITEM INFORMATION: Regulation FD Disclosure
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20260608
+DATE AS OF CHANGE: 20260608
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: CAPITAL ONE FINANCIAL CORP
+ CENTRAL INDEX KEY: 0000927628
+ STANDARD INDUSTRIAL CLASSIFICATION: NATIONAL COMMERCIAL BANKS [6021]
+ ORGANIZATION NAME: 02 Finance
+ EIN: 541719854
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-13300
+ FILM NUMBER: 261072609
+
+ BUSINESS ADDRESS: 
+ STREET 1: 1680 CAPITAL ONE DRIVE
+ CITY: MCLEAN
+ STATE: VA
+ ZIP: 22102
+ BUSINESS PHONE: 7037201000
+
+ MAIL ADDRESS: 
+ STREET 1: 1680 CAPITAL ONE DRIVE
+ CITY: MCLEAN
+ STATE: VA
+ ZIP: 22102
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: OAKSTONE FINANCIAL CORP
+ DATE OF NAME CHANGE: 19940728
+8-K
+1
+cof-20260608.htm
+8-K
+cof-20260608
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of 
+
+The Securities Exchange Act of 1934 
+
+June 8, 2026
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+Delaware001-1330054-1719854
+
+(State or other jurisdiction of incorporation)(Commission File Number)(IRS Employer Identification No.)
+
+1680 Capital One Drive,
+
+McLean,Virginia22102
+
+(Address of principal executive offices)(Zip Code)
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class
+Trading Symbol(s)Name of Each Exchange on Which Registered
+
+Common Stock (par value $.01 per share)COF
+New York Stock Exchange
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series ICOF PRI
+New York Stock Exchange
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series JCOF PRJ
+New York Stock Exchange
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series KCOF PRK
+New York Stock Exchange
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series LCOF PRL
+New York Stock Exchange
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series NCOF PRN
+New York Stock Exchange
+
+1.650% Senior Notes Due 2029COF29
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company     ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01    Regulation FD Disclosure. 
+
+Capital One Financial Corporation (the “Company”) will present at the Morgan Stanley US Financials conference in New York, New York on Tuesday, June 9, 2026 at 2:30 p.m. ET. A live audio webcast will be available via the Company’s website (http://www.capitalone.com). Choose “Investors” to access the Investor Center and listen to the presentation. The replay of the presentation will be archived on the Company’s website through at least June 22, 2026.
+
+Note: Information in this report furnished pursuant to Item 7.01 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly stated by specific reference in such filing. This report will not be deemed an admission as to the materiality of any information in the report that is required to be disclosed solely by Regulation FD.
+
+Item 9.01Financial Statements and Exhibits.
+
+(d) Exhibits 
+
+Exhibit No.Description
+
+104The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+Date: June 8, 2026By:/s/ Matthew W. Cooper
+
+Matthew W. Cooper
+
+General Counsel and Corporate Secretary
+
+2
+
+EX-101.SCH
+2
+cof-20260608.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+cof-20260608_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+4
+cof-20260608_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Common Stock (par value $.01 per share)Common Stock [Member]Entity Tax Identification NumberEntity Tax Identification NumberEntity File NumberEntity File NumberTitle of 12(b) SecurityTitle of 12(b) SecurityEntities [Table]Entities [Table]Local Phone NumberLocal Phone NumberClass of Stock [Domain]Class of Stock [Domain]Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series ISeries I Preferred Stock [Member]Outstanding nonredeemable series I preferred stock or outstanding series I preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.Soliciting MaterialSoliciting MaterialEntity Address, Address Line OneEntity Address, Address Line OneDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series NSeries N Preferred Stock [Member]Series N Preferred Stock MemberEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Registrant NameEntity Registrant NameEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeWritten CommunicationsWritten CommunicationsEntity Information [Line Items]Entity Information [Line Items]Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series KSeries K Preferred Stock Member [Member]Outstanding nonredeemable series K preferred stock or outstanding series K preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.Trading SymbolTrading SymbolClass of Securities [Axis]Class of Securities [Axis]Class of SecuritiesDocument And Entity Information [Abstract]Document And Entity Information [Abstract]Document And Entity Information [Abstract]City Area CodeCity Area CodeClass of Securities [Domain]Security Class [Domain][Domain] for Security ClassDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series JSeries J Preferred Stock [Member]Outstanding nonredeemable series J preferred stock or outstanding series J preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer.Document Period End DateDocument Period End DateAmendment FlagAmendment FlagPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Address, City or TownEntity Address, City or TownSecurity Exchange NameSecurity Exchange NameDocument TypeDocument TypeClass of Stock [Axis]Class of Stock [Axis]Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series LSeries L Preferred Stock Member [Member]Series L Preferred Stock MemberPre-commencement Tender OfferPre-commencement Tender OfferEntity Central Index KeyEntity Central Index Key1.650% Senior Notes Due 2029Senior Notes Due 2029 [Member]1.650% Senior Notes Due 2029Entity Emerging Growth CompanyEntity Emerging Growth CompanyEX-101.PRE
+5
+cof-20260608_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Jun. 08, 2026
+
+Entity Information [Line Items]
+
+Document Type8-K
+
+Document Period End DateJun. 08, 2026
+
+Entity Registrant NameCAPITAL ONE FINANCIAL CORP
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-13300
+
+Entity Tax Identification Number54-1719854
+
+Entity Address, Address Line One1680 Capital One Drive,
+
+Entity Address, City or TownMcLean,
+
+Entity Address, State or ProvinceVA
+
+Entity Address, Postal Zip Code22102
+
+City Area Code703
+
+Local Phone Number720-1000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Entity Emerging Growth Companyfalse
+
+Entity Central Index Key0000927628
+
+Amendment Flagfalse
+
+Common Stock (par value $.01 per share)
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityCommon Stock (par value $.01 per share)
+
+Trading SymbolCOF
+
+Security Exchange NameNYSE
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I
+
+Trading SymbolCOF PRI
+
+Security Exchange NameNYSE
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J
+
+Trading SymbolCOF PRJ
+
+Security Exchange NameNYSE
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K
+
+Trading SymbolCOF PRK
+
+Security Exchange NameNYSE
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L
+
+Trading SymbolCOF PRL
+
+Security Exchange NameNYSE
+
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N
+
+Trading SymbolCOF PRN
+
+Security Exchange NameNYSE
+
+1.650% Senior Notes Due 2029
+
+Entity Information [Line Items]
+
+Title of 12(b) Security1.650% Senior Notes Due 2029
+
+Trading SymbolCOF29
+
+Security Exchange NameNYSE
+
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+9
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.26.1html8221false70false0falsefalseR1.htm0000001 - Document - CoverSheethttp://www.capitalone.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportscof-20260608.htmcof-20260608.xsdcof-20260608_def.xmlcof-20260608_lab.xmlcof-20260608_pre.xmlhttp://xbrl.sec.gov/dei/2026truefalseJSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "cof-20260608.htm": {
+ "nsprefix": "cof",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "dts": {
+ "inline": {
+ "local": [
+ "cof-20260608.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "cof-20260608.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2026/elts/srt-2026.xsd",
+ "https://xbrl.fasb.org/srt/2026/elts/srt-roles-2026.xsd",
+ "https://xbrl.fasb.org/srt/2026/elts/srt-types-2026.xsd",
+ "https://xbrl.fasb.org/us-gaap/2026/elts/us-gaap-2026.xsd",
+ "https://xbrl.fasb.org/us-gaap/2026/elts/us-roles-2026.xsd",
+ "https://xbrl.fasb.org/us-gaap/2026/elts/us-types-2026.xsd",
+ "https://xbrl.sec.gov/country/2026/country-2026.xsd",
+ "https://xbrl.sec.gov/dei/2026/dei-2026.xsd",
+ "https://xbrl.sec.gov/stpr/2026/stpr-2026.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "cof-20260608_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "cof-20260608_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "cof-20260608_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 1,
+ "memberStandard": 1,
+ "memberCustom": 6,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2026": 2
+ },
+ "contextCount": 8,
+ "entityCount": 1,
+ "segmentCount": 7,
+ "elementCount": 36,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2026": 40
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.capitalone.com/role/Cover",
+ "longName": "0000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "cof-20260608.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "cof-20260608.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2026",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Domain]",
+ "label": "Class of Stock [Domain]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_ClassofSecuritiesAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "ClassofSecuritiesAxis",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Securities [Axis]",
+ "label": "Class of Securities [Axis]",
+ "documentation": "Class of Securities"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_CommonStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2026",
+ "localname": "CommonStockMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Common Stock (par value $.01 per share)",
+ "label": "Common Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_DocumentAndEntityInformationAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "DocumentAndEntityInformationAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document And Entity Information [Abstract]",
+ "label": "Document And Entity Information [Abstract]",
+ "documentation": "Document And Entity Information [Abstract]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntitiesTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntitiesTable",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entities [Table]",
+ "label": "Entities [Table]",
+ "documentation": "Container to assemble all relevant information about each entity associated with the document instance"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInformationLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityInformationLineItems",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Information [Line Items]",
+ "label": "Entity Information [Line Items]",
+ "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "cof_SecurityClassDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SecurityClassDomain",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Securities [Domain]",
+ "label": "Security Class [Domain]",
+ "documentation": "[Domain] for Security Class"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "cof_SeniorNotesDue2029Member": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeniorNotesDue2029Member",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "1.650% Senior Notes Due 2029",
+ "label": "Senior Notes Due 2029 [Member]",
+ "documentation": "1.650% Senior Notes Due 2029"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_SeriesIPreferredStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeriesIPreferredStockMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I",
+ "label": "Series I Preferred Stock [Member]",
+ "documentation": "Outstanding nonredeemable series I preferred stock or outstanding series I preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_SeriesJPreferredStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeriesJPreferredStockMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J",
+ "label": "Series J Preferred Stock [Member]",
+ "documentation": "Outstanding nonredeemable series J preferred stock or outstanding series J preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_SeriesKPreferredStockMemberMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeriesKPreferredStockMemberMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K",
+ "label": "Series K Preferred Stock Member [Member]",
+ "documentation": "Outstanding nonredeemable series K preferred stock or outstanding series K preferred stock. Classified within stockholders' equity if nonredeemable or redeemable solely at the option of the issuer. Classified within temporary equity if redemption is outside the control of the issuer."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_SeriesLPreferredStockMemberMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeriesLPreferredStockMemberMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L",
+ "label": "Series L Preferred Stock Member [Member]",
+ "documentation": "Series L Preferred Stock Member"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "cof_SeriesNPreferredStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.capitalone.com/20260608",
+ "localname": "SeriesNPreferredStockMember",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",
+ "label": "Series N Preferred Stock [Member]",
+ "documentation": "Series N Preferred Stock Member"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2026",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Axis]",
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.capitalone.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+14
+0000927628-26-000062-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0000927628-26-000062-xbrl.zip
+M4$L#!!0 ( +.@R%PKG20[+!( "N/ 0 8V]F+3(P,C8P-C X+FAT
+M;>T]:W?:R)+?YU?T,GMOG',L(0D! CN^QQ>3628Q]@%G9W:_W--(C>F)D'2[
+M)1OVUV]52\)@P(B8&+]RF_?G/WE=R%KK)F 4Q:0E&8^:16QZ/2#QBY(]0
+M?.2N/W;52P^;@0@$.4LLK)E*[IC2:51Y2.5 #9 4+
+ME;$GO@X%!J)@<198ZMV;2%:Y5DX+\ZIN.%SHV*41CZD?!DQWP[&:A5$SG+PZ
+MX._[ Q/!X@&5=Q-9JK_ *UBJJC9]"F)38H'VK5\Z.1XQZIT67XYC'/CL!P+1\]L?E]-UQ
+M.>UY$'K3DV./WQ 93WWVJ>1Q&?ETV@P ;AB?3YI8D8GT)_<\%JB?4-X%,1;<
+M38>?Q#T&^',U8-6 CK$GQING(.@>"OMGGUZ7"/<^E89:I5$Z&5)?LN/R0D=;
+M]-L. (QI"SH6U.\$'IM\8=.\?]LHG1CPIV'5:Y:S-$AY$1#!ADR OF)R!?J1
+M+$VI&!RF0129FC$@_5-)\G'D(WG5NY%0LYS#M#Z1'I!!#7DC_G@Y07X%Z-!NMGHR&#AETC@Z:/'@PV
+MB7SN\OBA5*ULI4P?-?LQ@(1M6CZ5\F+8CT/W^^F$R]))7J45CL=A
+MH K2?H[+*[N?86(VBY=!F\H+I T(9[,/,#+9N50"*9CW>BEDOV@*_?X&*%1]
+MT13ZLHI"KY).M1=-IZ]OAD[U%TVG[AO0>,YSHQ"B7Q$E'/:9FP@> R7F*1/P
+M4'3#F,FSA $N&B^>+.5%]Z,\Y]^5P0M,74&D%M\4!OD7NBEW;3+W<C>*C6^[%HZ9I&'\K+53%"6G4Y]=!\Z]$ @FG4"XC"F[90*#CE/Y>
+M&N)9MUMJC5$?#7H0U(V;,AF/J9@>S77I G,P 3W&=."SO-4@%$ 3S0U]GT:2
+M-?,?1[E[GL9O--7H"/J\!KP/PC@.QTW$^0T3,7>IGPVBQDN+,W(T&KIM5I$B
+M,9 ^]O*!,V+I0*SRBO>.WC!6%QFZN;K)>U=KNRHKW(N\,).;2A275!L@.K+6
+MIY)9+=UCC#B,FE84$QGZW"._&NK/440]#+HV#6)"'_D 9<4D#S/VC NWDX>%
+M9GDY3#L4S7Q.0] \VI".N3]M?K@"U2M)E]V27CBFP8=#"6IJF-:1_/]8TP2@
+MTL?;%!EUZ$)Q>H8]X'Z"8BVS(79&]29/YLI"PH6*(5>NWM%>NW+B][57BC1*#31RT3(A 8Q
+MB4,"%C)N$!&S0D)!S.J!]Y&$P_WP4;'97XT8N;/K27OBCFAPS!(PXAVI[=GF_Y?EB"L%%3NBQ*!0Q.@(^I,(,\+&88(502&3$7
+M@R0>X0'AL22@"H&EQ5M@Z>H:\CRYQ^U4*UM[W#6]8E5VXY#6=+O6V$E7EJ/7
+M:\Y.NJK8NF$7+:S"7.O5XKFJ#?NTSJ)=J$T0YYV=DDG,:/Z+-.X(8"
+M5AV5DZ,"R*TP"6(Q;87>X@J- 2:,%,8L$N$-]G.W--NPQ#&?WE*QG&N1"T[L
+M+2*V\KH1^YG[#"H/0 -D2*IB5-G4S$K%,-ZQE&+IBDXZ65S=52RXB+):Z:1J
+M:V;=;#A5^T&5G]^%I8Y@!S6+C$
+MC1*"0D-2%G@]\'5Z?=(>1WXX!9HN<))F7VWU?H
+MS\QU0+UT8M8<@[32-$ER 2[@F> W[/ 12G06N2Y8;259"C&BRB=^V51IP<\+
+M<17>SM9[IW1R[GYE-'@,#58@RV?#%XXKI<(OQ"682%RE!Q>TH!JED__F:.MS
+M^@I0NN1G*92F/O#/T.LOBT'D1V$RWU!8W8FLJR>5ID=@:,?>[.F@(S"Q"6./0K1^$$S)@?GB+
+MS(&%R$+$T;Z0(?=1P7 )VB9F@0=,$X? -^/$CVG PD3Z4R+!893#J6J9-0@'
+MP"HTCPY@P5PL/H%^@"&#:5XV#'T8'-NA]>XG/B&U5,^Z)%_>U<3O[P*R3UN<>L2J&
+M#A77Z[)7PQO]4*7> BSG(,8XAZ*,8;\0QKB#D(PS$)>YPK0I&!9SC+&0Y3!C
+M"]O0TYIO@#,N!4.-@>G]YA:56'N.B0IUH[YMHD+-T6L->R#IWJF5EQ_SO1)4A8/ZT_$@] \>&Z9\5K!U
+MLY0N1;Z9W@4M\\>(PYO>3!5MCDD_VZ#FZA#M@TNXM> .I*IY:EH#Q>ZS-;D.
+MCK^ZC8&H@Y7D(**"W% _8>0_=<,D$9XZ'%&!<:V7GOSQ6"1F0I3*T R##F#P
+MXO//W_Y*<;,V@F3,V9?["L;](%/F,IOFIMZW)1F4+NXZF@T0>ICF_X3B>\:V
+M>1_#<&O%!%\R\#DMRB4/*9B2OHHXO(PU:$]%L$#9GS@!@(QR[81CT@'
+M@<>L;Q[ 2]4 M>YG/@$CKX>QPFX8:*UDG/A4[8A=,A&Q. &/979X.Z76(4D/
+M=9/.F]0IE8TZQ3*53B&7O1UCZ-7JE94\OZU>L:QWO?( CNU">J7R#/3*[V]2
+MK]B;]8J=ZY4=8^C5ZI65/+^U7JF^ZY4'<%PMI%=JST"O+!T3?A-ZI;I9K]1S
+MO;)C#+U:O;*2Y[?6*\Z[7GD Q[5">J7Q#/3*US>I5VH;]4K%R/7*CC'T:O7*
+M2I[?5J]4S'>]\@".ZT7T2L5Z!GJE^R;U2GVS7JGD>F7'&'JU>F4ESV^M5^QW
+MO?( CIU">@5\25.O58V_D?3^1:(N8"1G"2I"FN1C7/F;F7WYI>UU0A!YC
+M5#]2::YY9:YN,XGP-A/,^4\3EJR!9JWH:^4=4'FGF+QTUVZN6_V';QM[<@JU
+M5V-[72;8M@<+]I2@EY[3RV'[38'62B$KF)M7<3;FYCWJ*KF]2>3P 1G#X-.)9:BFN*Z9 T\-F4?.O?]2O1",N^5896>>[<',Y^
+M8=KI5<*D1\&Z4/=^-M)[/[%WJUDQ2*2/==*^TLDI\3&*1Q./A^26#5P\:ZLF
+M-("W-Y3[:D&\X51-:V[JZM WM #=P\C!VF_R?=1):Q2&<@9])[AA,@Z%S.!'
+M0P),#KS4 $?(BTE++A_CB;A0==9$]'*W %]B5&;7IUH*
+MBD03*#G[8"6RJ7+6TE/<9)B(@,O1/7-RICXPUQ?(AB8ND,YC8#FK8[V#&1,-
+MN<^\G('0P%6$3T#>)%.78\Q,4Z>@@WF(OBX=IT;TO+3.5\Y%]G!VT=@M&,]$
+M)H._8+R<07U.!]Q/AU*# S/)=#Z' )3(P./ST-W=3P8/X ?,OD:H O%@KF?G
+MEM<>+LV<[WDPU"SOF^2'X"JX+$HO'%7S&*#W@$*CCDK'^0RRVTC=Q:G(Q!UE
+M$5 Z#.8-TQX87'Y 4G=L-(_ZU4W75X;(#M[$O=U*_Y/G\Z:*_EGB_#L
+MPTY2+27MR8@/>"R7^6-WYENM=3A-]]QTXJ4Y=KVTX3;?K?:>=GY+:>/^U(E7&9WAWX^YO
+M'-S735;%0#]CTA4\PO5IFR-@ \N31!5VJ#%LI<+PE(2.,H
+M:"\.&/B00W2_L&?EG685P#EF20!MU! TB4>A &B]W7EFS\SB7&?U67JUOINO
+M0U3JNK6C^QLLO>'4=S,IO,MJ)SV! VU:#]O@*XVE1C$;HM!5KT]B,&[668K+
+MLL_BD(MNF\P^AD/P.SCWOWLS9T?>6^[Q&XBE':'KX1N]E[M]-NA=;8CAAZ2:
+M9/&S6+M.P]H7;/^<-E\/,&59)N=@_8Z@IS]T6+[""+_OO,F'*LCG>_5 ]H72
+M9X3.%X*Q_*)/_,2/9+X*)N8;?,KN$@QS[!]UK_-"B-ET5FYN+L:O>O/ B]*?PWBL?^R?\#4$L#!!0 ( +.@R%Q>P#Y:P0, 'T1 0
+M 8V]F+3(P,C8P-C X+GAS9-U7WW/:.!!^SU_A\W.%S:^ F4 G3:XWW-%<
+M)TGG^M:1K35H8DL^20[DOS])MDH@AD"NTV&:R8.U^WVK_;3KM;AXO\HS[Q&$
+MI)R-_78K]#U@"2>4S/UP\T$?L?KU.^F@
+MW1WB;F=H@Z[D2"8+R+&GI3$Y6LFQOU"J& 7!.T.C-NDU$-A&W7;OH>5$C0N%7S4
+MU;J&%)>9WJQD_Y8XHRD%HELA U/L#< SM\)B#NH&YR +G,!!9S$Y\SQ3(YH7
+M7"B/O2"G6,8VZ5*B.<:%I?I>5=,93["RK6K0TIU*(R> 3$EG0<;26DGB!Z]F
+ML*\R36DT4LP*.1XR)M3NZ'-_PXQQ9?G&4MN*@K*45P9M,@4;N:K=
+M0NJFP8OA5(^R=A1%@?7J:6#)6"2"9[ ?'!2"%R 4!?E\L-D "P%ZLNGQAMQ[
+M^ZT0T-*).,2+^)N=9]QZ Y!Z>EBYL[4>%\+TP-B7N@P95"=TPO()I,?*UQ3*
+MZ*\@/L/QL>(U!;(C=1OBO?9[E(S]*ZYO);YG;%]NI_L^+7:_"N[BN8CK$DQ"
+M^]?VT/H*@SS+N@BVL5M12@GD;S:QS]L]79-KR!YB@K.DS([G;791(ZTVNN.K
+M)TNP.5JJ]<;X,<.G_L+;(]BD>Y&RLF][0Y2"LO1([?4-*I*L_I#\+(8
+M^Q6<*LCU_B^_WT!&Q6QPB@5$N;K@">5V"
+M'CG1)\AC\^KOTK$+?Q)BA&Z2Z6<]0D$(('>*)P^OZ=E#.1E)?QXO:0?E9"3]
+MU93?(<+V$D]&WNRM\O823T;>S?$-N8/R4R79KW#U0V)R]A]02P,$% @
+MLZ#(7!VF^;9G" @$H !0 !C;V8M,C R-C V,#A?9&5F+GAM;-V<76_;
+M.!:&[_LKO-G;94Q1$D4&;0;9M%UD)FV#)H,9[$W CT-'J"P&DMPD_WXIV6X2
+M2W$])MM9&RA<6Z9X7KX/11Y2L8-?CE^]>OT/A/[\]^?ST5NK9E,HF]%I!:(!/;K+FYM1%:(RMI@@==Z>=VMN'*I_<-".""5T66WY;'>&( Y.I02DS'&5@,L1Q1I$F
+M*16Q^PUD5A[::C G&\7A9^F!1_+Y7_B[N2D><\W'W
+M[;>B=3Y4T%4;C?_\<'ZI;F J4%[6C2C58P 77C??3GRJ)AW/OW1%Z_RH[LX_
+MMTHT':#O-F'T8HGV$UH60^TA%!$41X?WM3XX?C4:S9T3E:IL 9_!C!9O?_]\
+MUE>:E\U8Y]/QHLQ8%(53W-70/-S"FX,ZG]X6L#QV4X%Y4?VRR:VHM)7SS[:V
+ML;>F&R>D4C,)R!V%LNWB 34.U>ZO^5M=2(,1LZ()J+A?=U"]=BKRD ;WJ@Z@
+MMJL(36$JH0HI]5F]3W0N1:XJ;*M4XC9O1&%+.%1V.NX$GMJOFPA3UJ!V-,44
+MLT[ _+PG@1WAO,S;0>/T@9;^=60@)
+M17?T6D-^_:YL\N;AK&QG!K&0!6<-3.OKE0E ,8TXT!1E%,=2,H(U3?I I0TQQC41B."=$&Y$&
+M:,0RW'/=CZQ/JF4+%CW^+PW*0*
+M6X-^<]!4,W@\:,O&==MW!;39BKN*8-*^V1:XN^"N3PM1U]9<@II573-.[O.>
+M%ZF@B G"$>%I0B.7,- T_<[%^V+E 3&OF0L'L&_'R(;T:HBX![R%DH=.V-MN
+MN-Y(SO7*-+P&X4"(@ !?3 P>\04RWH9W[>?#) R[GAHIE%",2:1I% /_?X+X
+M+%OZFQFN-2LXNS*WU4?;0/UV!LY__J'+FE8UQ0D@ 8E;!U(3T4QIKK79".!P
+M_2$I#F61SQ%ZFVX#.]:GB+>E.*O11(C;Z\M&--WLVC7RD[ELK/HRU%4IT8@Q
+MDJ(H5323"1 I\)IDR(A:=L8O(LTS(BB:>GGD,37ZKIC=G$/#>MR'3WSA/]4S
+MW+\'%0U/I][T^VI^[LP;&)?](5X'',@W5R9UY-8&A"*%P6!)$IV"V5'Z+TS9
+M?S?\M1;_".AV.K5E)^BEB2AQ@YMK)&%9E/(4. T^WO=$_+SY/1295=!>M@:<
+MW^F.N:0'M -Y2-?<:Q/^/SS<4Q&B,N4NT6@3Q+9N3S3UN36T?$CBRI5=
+MU8&50I+HS+UD.)'8,*VHUYVAI]%^'LT?=(MH:^L")L!/=5RX'F;UNU*_=8N[
+M54$) \1CU3ZP0I(H2E*BB K"\EG8O8&ZO9D!D^''-GZ&25XWE2B;CV+:TZ,8
+M03*-!*(QQ(0JX>3$ >Y#/X^Z\VR]K0R8%3]MHK+5K:VZ1G8;,Z=V5C;5PZG5
+M/7GMDV,L*>$-[2PH!)\J.6*W%_IMU$DIM\_D3DL##&&9**212Q
+M1%"--:2Q#L#VA?![ CJ$N8$3Z;FP$ZTKJ.O%?VUSHU51(J.(:=;>64OD]H^YK:)TV#D3YU;S]55_:NMS(4*4/"B!AIPT1FM!2@0ES9O<#[
+M17E+0_N,LV",NUSA4W51V:]YJ7JI@H'(Z4K=!),JHR.6R3@6X4"O1-\OVC[6
+M]I&S8,@O;-V(XK_Y[5!NF&2 F!$9TIQ2H[5,(5UWH_@O G\6>[]P;V]K'S;W
+M@=V.,B<5B"$=:=9>EDXP--KI^N/*F\:*-N'"V;E(J_O
+M-0UXY'J8B-Q'P72">2J4WZ\5!L/N/%E_,P?P>NUV7=HB5\[$D.!$(Y J_-(! H)DKGA15, (%BXA9D7
+MS&?A=I[D]N8-8/3:K5KVJ7?WZD:4$QBZL=EF!2+1"3()D:F0/-5LW9/.FU^:
+M3Z/N/%1O*P?8!MB6>C>%:N(ZVW\J>]?QCYL S'UZ[5B^$)/>@APPXK%[QZ0&#)F .(J\L#X+
+MM_,XMS=O .-BL^KU>,4-)_/+\:O%X?:E_2M$QZ_^!U!+ P04 " "SH,A<
+M_G+(:/4. OD@ % &-O9BTR,#(V,#8P.%]L86(N>&UL[5UK;]RX%?V>
+M7\&Z+;H+A!Z]'\$FB]1)"B=>)XB]V$6#(J!(RA9V1II*FL3^]R6E&5LSHB22
+MTBA%L$#@C,?4/3Q7.KR7EZ+TT\]WJR7X0O,BR=+G)^:I<0)HBC.2I#?/3WZ]
+M?@.#DY]?/'GRTU\@_/V?'R_ JPQO5C0MP5E.44D)^)J4MZ"\I>"W+/\C^8+
+MAR4JXRQ?0?BB.NPL6]_GRS#T/ ]
+M2"S70S;[1RWGZGH7YF12)JR,R:B]]_N;C"MW2%8)(6)4HQ!RB29T7UY46&45EY?;!?
+MH+,%_PWNFD'^%30M:)NG=P4Y>?$$@-H=>;:D'VD,^/^_?CSOA P7O,4BI3?\
+MW'Z@>9*1JQ+EY06*Z)+UOK)6WJ_I\Y,B6:V7=/?=;4YCL=EEGN]9Y;T,>2]-
+MC_?RKUU@BQ'=GZB_9;NO$W2NHGLY51_[?'HY67>OV0A!C]_A!LSH+M<7U.N4
+MS'7M/D"-[OKQ>SS599&5:#G#9?$(T^CRDG]QP3YM8;BAGL&TPMD.W8VNTKN2
+MIH36H^6>:9"0YR?LT^=- 6\06G\^RU:K++TJ,_S'+W05T?SS0>SR40PCA]$(
+M(AR9)& !"Y'/Y<-%_9FF\->K'7X%,H!PHL"M[-!H3HMLD^,ZNC%4'MGKCKRH
+M\4 %"'Y8HQQ\0<&>?92I)>F4F>T=J1#/8$9#FA.
+MKBQ"D\^OTS(I[Z_1W3EAZ6<2)W7V=+D1"=$P+!CYQ(78(93ZIA/:OB$CQ$&D
+M(PNRQ@8,'.RC@QI>3HG#_NI7Y*1>4%.FM@.D12I-3B#6@N+3F^S+@MFH=JQTQ*=##$-F;49C%!6P]C,8FK3:.M'T$9=,E<4;W)FS+2BZZ1<
+MTD/)D,B"8*
+MKF*53Y&I>IVOD\Q4A;XVP+R5ODZ"K5)?=TLUZ>$L9OE@SF+>^0?F1)KGE/24
+MW*GOP,!R*/0L:H4(6<0/71G]#> <682OZ#HKDA+E]^"*E]B+I^ UPK?@(UVS
+M7W@%)KT!")@+QRAOP7G*(&A1@B1E7U8'\,OZ37)'"?B(2A8NLA2>;5:;)2J3
+M+Q1\H/F:EAL>37;<:A$\!35G<"ZG]Z&ST2_Z"7VLIOP=R4/ZP[5^)?9D>S-$
+M52J;PPM[@-+>>+\I^>T'_)X.D&8I@Z=TQ1-*4.S\M'[P4U'Y*7KK
+MB, :5Z.\X1E!-=(/'3W+<"])83?FRS;7*'UERP0G?/#[A8UJ>8*6K?$^L"&R
+M(QO&KF.@(+0\:DG7B]OFCSS,/P*"':)"Z:OM#(GBURB*BJ.L CNUTENV/YWD:34;.=.,0P#&T-B!=0,0\,+'>E)
+M?R?*/(LP6\2GNP^ 8X/W*55=DA'Y2;)L-I:]1@E-A[C&DDT/L1%K-R*K,R_B
+M]!!KK^;T-=:=U%S*36H0#"UB0(LZL1=;MFNY4G7J 9SO?5)SJ9K6B\^&[*1F
+MM(^U)C67DTUJQ.Q5)S6CO: WJ>GT1MV!*?/Z7H:#>;WXZ)GS^EX*[;R^O_G(
+ME.1#QN:5RW\GZ[.,M);H#,^"H6\$D-@.=AS3-J- ZA;*?IB9DY(:&S!PP-$U
+M
+MHE5+EBZ;<4=>[$,SH,A!,?6HK2C+?8!Y!/F("3BHJ@X/?"*K0'VF6MJ3):DA
+M.3&3$6([,#BSS,1TV@+K:#^SS_DV9>$=?A08DZ,(+(O&?T.W:48_T8X85P$E.>O'P,[R(V/@H>&OTT<
+M[*#7&0F[VNL*]CS%6^>UUH7,3;CFBEL?UNE-7S9,[1DO4HOV@(7(KM")WWVY]9[E)DVZJ7
+M.TQ=_+_E25G2E.]:VJ3;#1#%H=R9NB'RK!@ZL8M#%!!B6(ZLW(4(1Q;X%A/L
+M@\IK6>R58?6.YJJF5T6:2M+LI:(E1K'%V>372Z@IN/Z&^O&5/R"B,L:KZN_C%CM*/G".HZ\9
+M+Q69:\7(;F*C0J/ [.P1L9N:*!#VM-9=H7HGJOV*UZD\RX8A\@@DON=CT_!,
+MDTCM1))"^]Y7J]ZIKM?TG9G^06%R?ZN-#3O"'6LUV@M8?0Y17<::R#%'ND/O
+MG>0=>JUV?]ZAA]5.\N!Z7I^-F5?U).BTU_9D#E)/[*YSQ*_#J_M5E+5NV@MB
+MOKN((.AB)S!=P\.6)5TBV;-\Y)BPQ0(UF'RVML]^.$'3YJ0V[DK244K!A%W7
+MRKKV+_E7=*:YMB1!T/7PM#'!H[\R&$>
+MDJKZ=R(<62*/FVH>4,$GCJL0O<6>&4YA1O-5D\_QJ,HG)Z,IZR4D NK3Q.%>
+M/CVQ5WS<;/&VM]O-&-O?4'T0V3UO\V5*6G.^EQ%?I,1E:YN[:T%D(AL:*$"^
+MY?HV,J3ND9<%//;,;/>,4=8'(*HK[/JAH$,I/PZ/0%-[1VU ^F:.D1^OIG:0
+MWO U@:.41C45UCV#G)29V<8\%5+-(5#I./69QAE?]\TI$JW%6EX($8X)]#P3
+MD3C AA_ZLA.-IN%C)U'5'0,,2W%==8_[\#1#EY%BFB1'1FF6(>JYUB1CS]!L
+MKWK)>^Z@9
+M"WF=7=XOW74WTUWH>2NS%@?7;<1'S[QB
+MTTNAO5;3WUQ][K2;FCV\L. 5&]Q:-Z*'! :F94'7(CC$7DBP(;W70X@P5[VH
+M!F43?@(XK/R\2NR7X0G6:+::]1]9HDISKEXR6I,OL<799F&]A)K3L?Z&ZC)[
+MR8P1;O#-$MVT[A>/8QBXM@,#WXE#VR8$4>EGT^]9/K*L'K !Y,7TS[[81%I
+M94=7/,WK^3O
+MXUCP*A7'@Q'&%%K$(J;C^#'VI1_5.P1V9.$P>(@;^*#N *A[ *HNR,MIT'/#
+M"IO2'VJB&^4*)2G*EC1FYPY%7-]_EU]K55A;11!",C
+M#" )L14ZA%@(*[[EH85Q9!$?;NNKJMQL5L6A-7'V';]FYI**M^SZ37>!:(206\QQVF?A\
+MK/JZB"; D87W4!C>82INW1?Z9%AO8YEJEO_E2&J].$+$9-3+(_8,SOX""1$=
+MT4LDA.WT2R77[-#6#3;L!S+8#\]R?2\FMF?;TO>S-@W/51CA6.K5D(JZ?!%$
+ME9!F[:.7BU;!H]GQ476.RM#LY8UF]T55C;V_ZST'O]IDRVTU'_,MNIW50!@&
+MMFE :IC(0X[J5]#DU)7$Y4::^7GXP\RFN@Q
+M^=TXLSXM?Y#NX4/SAP_07=N]D-_$1ST/!MASH6O$$<4.QMA0?-AD#]KWOLY[
+MH;K2V7=F^L>)R?VMFK+6A*?>Q-?G$-4%X(D<,^J)E%T.FG(E5(+GX'IHGXV9
+M5T4EZ+371F4.&EVG[JE04P_#T(L=-J^FAN=YL6W&4F\>Z8>9NS8]25%Z5#GZ
+MVQ2BCUZ!/E+M^?^AZJQ6;YZRTGS&[.5H>:C#T" S\B,,).:+FV
+M:[J.XF,J#Q#FJ3)O04&%"ABL:H7YT"^R]>41;+6JR_)$-2K+'61&U)4/+X@U*XI=S74F3ZD299?9B4M7FTHQ]/&_5I%W 52M5[R"MDJ&/)Z^7
+MF&N==\6LO)];;S+><>B,.7A_Y_=3[X&VNH']]8KF-VRR_J\\^UK>LO1AC=)6
+M>+<(B^RF$T+3Q1$.8C-&["G9@#^:OU;85Z6N
+M$?Q[B8U( <1V9TX$>LFUTX'^YET2;9Z-"_;IQ9/=-^Q'A KZXLG_ %!+ P04
+M " "SH,A<*5G)6A8( 430 % &-O9BTR,#(V,#8P.%]P&UL
+MU9QO4^,X$H??\RERW-L3D65)EJB!+8Z9N>*6F:$&MG;KWE#ZTPJN<:R4;0;X
+M]B<;,@-Q8+S8E),J*B1!=G?_^HG4:CN\^^UVGDV^0U&F/C_8C?;P[@1RXVV:
+MSPYV_[CXB,3N;X<[.^_^@=!?__YZ.GGOS?4<\FIR7("JP$YNTNIJ4EW!Y$]?
+M?$N_J\E9IBKGBSE"A\UAQWYQ5Z2SJVI",.'+8//5&58WJO_1K\NR(
+M^A5:#D/U6R@B*([V;DN[>[@SF=S+4?@,OH*;U+__^'KRQ*11B[12F<]AS_CY
+MM!XR/?8!B>!L4*DS$V2&.6(!=S$W.&*4O$+Z3H:NM>K;\?
+MBX7TLCEI"N6%TAFL.BV90,)(BQ1U4A)BG6+TJ=-U LJ0@8:I$LS>S'^?AA-/
+MZTCJ)TU(33@ME]PD(8NY.@AH.B 'MZGZ]G@VXBKL+L"\W(U[)0JW*/U@Z;X4
+M@*PJE^_\K E^Z4PG9LAFKA##*KT!R#SV?_VG2-L(22 <&0P.:T(M SH
+MP#$A4D:X,Q,O&.I$!MT:,H:2="/X..T>C. QDHK9L!N3"=-,&L>[\_&"H4Y\
+ML*WA8RA)-X*/SUVF0:,MD@E(Y*Q+%)=&"=N=C+4F.C'!MX:)_C*.2,./K?SC
+M'O]IFL-)V+2UMFA&A"B L[!9P['6@F#+![CBL=;V.#7',*V- 54=F8WEI:"+
+M,';5;VP,TL0FX2'!5&,GK.&]:'AL;>2+'P-DS@\@XX:D_RS,=-Y^R.U[5;4"
+MH *0C$U]5P&A4409,<0,PL$3LR/W.M\&B-<+NQ&+QE>8I?7UX+SZK.8M_XT@
+M2+-((1Y#3+A1P?UX@.7BJ=61%XIAN>@MZT9@<9(;7RQ\T8C2-("/_75>%7?'
+MWK;"J6\K$@FEB,9&^*33#B;X1#'U,,_A\O:Z6Q@(C
+M)0U#TE@(Q3J3-B(# //3XCB[UC>EXY5R;@0*%^KVQ ;A4I?>W]&W/A A!=)&
+M:!0)JKC%%EAL!^#B&?/C;&/?%)(AA-X(8HZL#?DH'W[5\D2K0:B$(V%%O9NC
+M89O/B00U1'&RQG0G4I*M(J6OP)M$R7%X^J6X\#>M3I *FWWE5(RL$RIQ5BLP
+M0\PH+<.="!';2,@KQ=TD/II:ZDMQ5OCO:6Y:I92#*,3!PB+*C+.12'0B12YC:3TD7F3<#GS9:6R_Z6+=74W30 )IQ)D)>?.6LV O70'T-^$Y8GM
+M;ATTO(VLO%[CD4FII\.C M0ZOUDLD:;4(($5,4Q;+H'U8N.QM6XT;$M#]=4Z
+MCIS_^CM)V=F5SY_9C'$2(T5CBW <)43'#E@B>S&P:K$;!]O21^VEY\@L_%FD
+M505Y?9?:=?ZPX6HI 3(*,*LHO%3"4BR9,OTNN:TUVXV*;>FB]E=V9#3.?9::
+MM$KSV:=0%!6IRE:]3V**!(\PB@B3V(:BR+A^56?;9C%A>6AYTHV9;6J>#ZCWVNO/P3;"(Z(NT:M_]
+MHF*,!$TTDMQ*$HBW_EA#L4LWJ>/97>2-@.0[Z%2H["671[>_0"B"*
+M)1));)'C4G/ %BCT*T+7FNT&R+8T0?LK.S(:1Z%@MG71_#%3LU9_!C"2<7@F
+MM 4,B8+X9WOZ54@\,=<-A6WI@[Y>R<$0>#=M*1GB^G:X\_"'^J'^)UJ'._\'
+M4$L! A0#% @ LZ#(7"N=)#LL$@ *X\ ! ( !
+M &-O9BTR,#(V,#8P."YH=&U02P$"% ,4 " "SH,A<7L ^6L$# !]$0
+M$ @ %:$@ 8V]F+3(P,C8P-C X+GAS9%!+ 0(4 Q0 (
+M +.@R%P=IOFV9P@ (!* 4 " 4D6 !C;V8M,C R-C V
+M,#A?9&5F+GAM;%!+ 0(4 Q0 ( +.@R%S^(> !C;V8M,C R-C V,#A?;&%B+GAM;%!+ 0(4 Q0 ( +.@
+MR%PI6XML
+15
+cof-20260608_htm.xml
+IDEA: XBRL DOCUMENT
+00009276282026-06-082026-06-080000927628us-gaap:CommonStockMember2026-06-082026-06-080000927628cof:SeriesIPreferredStockMember2026-06-082026-06-080000927628cof:SeriesJPreferredStockMember2026-06-082026-06-080000927628cof:SeriesKPreferredStockMemberMember2026-06-082026-06-080000927628cof:SeriesLPreferredStockMemberMember2026-06-082026-06-080000927628cof:SeriesNPreferredStockMember2026-06-082026-06-080000927628cof:SeniorNotesDue2029Member2026-06-082026-06-08false00009276288-K2026-06-08CAPITAL ONE FINANCIAL CORPDE001-1330054-17198541680 Capital One Drive,McLean,VA22102703720-1000falsefalsefalsefalseCommon Stock (par value $.01 per share)COFNYSEDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series ICOF PRINYSEDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series JCOF PRJNYSEDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series KCOF PRKNYSEDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series LCOF PRLNYSEDepositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series NCOF PRNNYSE1.650% Senior Notes Due 2029COF29NYSEfalse

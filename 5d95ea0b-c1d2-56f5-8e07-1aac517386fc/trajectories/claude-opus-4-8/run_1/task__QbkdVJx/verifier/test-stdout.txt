@@ -1,0 +1,5 @@
+Score: 2/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Branded-Checkout Turnaround: Leadership Reset vs. Engagement Erosion', 'Transaction Margin Dollars Growing, Transaction Margin Rate Compressing']
+Themes missed: ['Braintree/Unbranded Mix Shift: A Deliberate Margin Trade That Shrinks Scale', 'Competitive Positioning: A Structurally Thinner-Margin Model Facing a Broad, Unnamed Field of Rivals']
+Cited files: 14

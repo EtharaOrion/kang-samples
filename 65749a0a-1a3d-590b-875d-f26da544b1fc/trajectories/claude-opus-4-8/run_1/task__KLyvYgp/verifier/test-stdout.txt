@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Top-Line Growth and the Deliveroo Inorganic Overlay', 'Margin Inflection: Adjusted EBITDA Versus GAAP Net Income', 'New-Vertical (Grocery and Retail) Expansion Durability', 'International Integration Drag and the Profitable-Scaling Verdict']
+Cited files: 9

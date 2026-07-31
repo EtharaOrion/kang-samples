@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Franchise Growth and Fundraising Momentum
+Whether KKR's scale is still compounding — capital raised, AUM and fee-paying AUM growth — and whether that growth is organic or increasingly bought.
+[a] Quantify the growth in the fee base: AUM of $758 billion (up 14% year-over-year) and fee-paying AUM of $615 billion (up 17%), alongside new capital raised of $28 billion in the quarter and $127 billion over the trailing twelve months
+[b] Distinguish organic fundraising from inorganic scaling, noting the Arctos acquisition ($16 billion in AUM) and the reliance on so-called perpetual capital that the 10-K warns is not permanent and can be reduced or removed
+[c] Tie AUM growth to the management-fee line, observing that management fees are the largest and most recurring component of Fee Related Earnings and grew meaningfully year-over-year
+Source: press_releases/, sec_filings/10-q/kkr_2026q1_10-q.txt, sec_filings/10-k/kkr_2025_10-k.txt, financials/income_statement/kkr_income_statement.json
+
+2. Fee-Related Earnings Durability and Operating Leverage
+FRE is the market's proxy for the quality of KKR's earnings; the question is whether fee growth outpaces fee-related compensation and other operating expenses.
+[a] Establish that Fee Related Earnings grew roughly 24% year-over-year in the quarter and about 14% on a trailing-twelve-month basis, faster than AUM, evidencing operating leverage
+[b] Decompose FRE into its drivers — management fees, transaction and monitoring fees, and fee-related performance revenues — against fee-related compensation and other operating expenses, noting that transaction and monitoring fees are more cyclical than management fees
+[c] Assess FRE per adjusted share growth as evidence that per-unit economics, not just absolute scale, are improving
+Source: press_releases/, sec_filings/10-q/kkr_2026q1_10-q.txt, financials/income_statement/kkr_income_statement.json
+
+3. Insurance Earnings Engine and Spread Economics
+Global Atlantic contributes Insurance Operating Earnings whose growth depends on the spread between net investment income and the net cost of insurance — a spread under pressure from higher funding costs.
+[a] Frame the insurance economics as a spread business: net investment income (driven by portfolio growth and higher yields) less net cost of insurance, which is rising as older, lower-cost business runs off and funding costs climb
+[b] Note that Insurance Operating Earnings were roughly flat quarter-over-quarter even as the trailing-twelve-month figure grew about 14%, and size the franchise via Global Atlantic AUM of $220 billion (of which $164 billion is credit) serving over 3.5 million policyholders
+[c] Surface the insurance-specific risk factors the 10-K enumerates — possible downgrades to financial strength or credit ratings, disruptions to third-party distribution, and differences between actuarial assumptions and actual results
+Source: sec_filings/10-k/kkr_2025_10-k.txt, sec_filings/10-q/kkr_2026q1_10-q.txt, press_releases/, financials/balance_sheet/kkr_balance_sheet.json
+
+4. Earnings-Mix Quality and a Defensible Position on Durability
+Total Operating Earnings — the sum of FRE, Insurance Operating Earnings and Strategic Holdings — is management's chosen measure of durable earnings; the analyst must judge whether the insurance-heavy mix strengthens or dilutes that durability.
+[a] Reconcile the claim that roughly 85% of segment earnings are durable and recurring with the observation that the fastest-growing durable component (FRE) and the spread-sensitive component (insurance) have diverging trajectories
+[b] Weigh the diversification benefit of insurance earnings against their exposure to interest-rate and credit-spread risk, versus the higher-multiple, capital-light FRE stream
+[c] Contrast KKR's mix against a peer using the provided income statements and cash flows (e.g., BX, ARES or CG) to test whether the insurance tilt is an advantage or a drag
+[d] Commit to an explicit, reconciled position on whether franchise (fee) growth or the insurance engine is the more durable driver of KKR's earnings, rather than listing both in parallel
+Source: press_releases/, sec_filings/10-q/kkr_2026q1_10-q.txt, sec_filings/10-k/kkr_2025_10-k.txt, financials/income_statement/kkr_income_statement.json, financials/cash_flow/kkr_cash_flow.json

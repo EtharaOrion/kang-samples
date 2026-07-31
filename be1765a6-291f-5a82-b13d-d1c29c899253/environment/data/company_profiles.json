@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "SNOW",
+    "cik": "0001640147",
+    "companyName": "Snowflake Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "MENLO PARK",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "DDOG",
+    "cik": "0001561550",
+    "companyName": "Datadog, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NV",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "MDB",
+    "cik": "0001441816",
+    "companyName": "MongoDB, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "NET",
+    "cik": "0001477333",
+    "companyName": "Cloudflare, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  }
+]

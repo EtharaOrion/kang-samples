@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting"
+description = "Analyze how Charles Schwab's reversal of client cash sorting, paydown of high-cost bank supplemental funding, and margin/organic growth are driving its net interest margin recovery, and reconcile that recovery against its aggressive capital return pace."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "SCHW"]
+
+[metadata]
+uuid = "d7584806-a716-5c8f-b4e5-5b3bb9c9850a"
+difficulty_explanation = "The task requires decomposing a multi-driver recovery (sweep deposit inflows, supplemental funding paydown, floating-rate asset yield declines, margin loan growth) into distinct mechanical contributions rather than citing a single headline NIM figure, and requires reconciling a genuine tension in the data: Schwab is returning record capital and re-growing its balance sheet via margin lending even as its GAAP Tier 1 Leverage Ratio has been declining and its main source of easy funding-cost relief (bank supplemental funding) is nearly exhausted."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

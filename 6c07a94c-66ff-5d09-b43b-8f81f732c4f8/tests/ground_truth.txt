@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Organic Revenue Growth Deceleration Beneath Acquisition Optics
+Reported top-line growth is running in the low-teens, but the Informatica acquisition is padding the headline; the analyst must separate acquired from organic growth to judge the true deceleration.
+[a] Separate reported Q1 FY27 revenue growth (revenue of $11.1 billion, up 13% Y/Y and 12% in CC) from organic growth by backing out the $444 million Informatica contribution, and note FY27 guidance of $45.9–$46.2 billion, up 11% Y/Y including approximately 3pts of Informatica
+[b] Trace the multi-year total-revenue trajectory — $34,857 million (FY24), $37,895 million (FY25), $41,525 million (FY26) — to characterize the settling into high-single/low-double-digit growth
+[c] Use current remaining performance obligation as a forward demand read (cRPO of $33.6 billion, up 14% Y/Y at April 30, 2026; approximately $29.4 billion, up 11% at July 31, 2025) and note subscription & support is ~95% of revenue
+Source: press_releases/crm_2026-05-27_8-k.txt, sec_filings/10-k/crm_2026_10-k.txt, sec_filings/10-q/crm_2025q2_10-q.txt, financials/income_statement/crm_income_statement.json
+
+2. Restructuring-Driven Operating-Margin Expansion and Its Limits
+Margin expansion is real but has been powered by successive restructuring programs; the analyst must judge how much runway remains once headcount and facilities cuts anniversary.
+[a] Quantify the expansion — income from operations of $8.3 billion (~20% margin) in FY26 versus $7.2 billion (~19%) in FY25, and Q1 FY27 GAAP operating margin of 21.1% with non-GAAP operating margin of 34.8%
+[b] Attribute the margin gains to restructuring, citing charges of $586 million (FY26), $461 million (FY25) and $988 million (FY24) for workforce, data-center and office reductions
+[c] Test sustainability against FY27 guidance (GAAP operating margin 20.6%, non-GAAP 34.3%) and management's framing that operating expenses as a percentage of revenue should keep improving
+Source: sec_filings/10-k/crm_2026_10-k.txt, press_releases/crm_2026-05-27_8-k.txt, financials/income_statement/crm_income_statement.json
+
+3. Agentforce, Data 360 and the Forward Re-Acceleration Bet
+Salesforce is pitching AI (Agentforce, Data 360) as the catalyst to reverse deceleration; the analyst must weigh reported ARR momentum against the still-small base and the risk that growth simply may not sustain.
+[a] Weigh Agentforce and Data 360 ARR of nearly $3.4 billion, up over 200% Y/Y (including $1.2 billion Agentforce ARR, up 205%), as a re-acceleration signal
+[b] Engage management's explicit claim of confidence in "organic revenue acceleration in the second half of FY27" and note that more than 50% of Agentforce/Data 360 bookings came from existing customers
+[c] Counter with the risk-factor caution that revenue growth rates "may not be sustainable and may decline in the future" and that failure to provide continued operating-margin expansion could harm the business
+Source: press_releases/crm_2026-05-27_8-k.txt, sec_filings/10-k/crm_2026_10-k.txt
+
+4. Capital Return, Cash Flow and the Profitable-Growth Trade-off
+The buyback-and-margin story is running alongside softening cash-flow growth; a defensible verdict must reconcile decelerating organic growth against restructuring-led profitability and heavy capital return.
+[a] Assess the capital-return program — $27.5 billion returned to shareholders including $27.1 billion of repurchases, plus a $25 billion accelerated share repurchase delivering 103 million shares upfront
+[b] Note the cash-flow softness this drives — Q1 FY27 operating cash flow up only 3% and free cash flow up 4%, with full-year FCF growth guidance updated to approximately 4%–5% to reflect the $25 billion debt issuance
+[c] Take an explicit position on whether restructuring-led margin expansion is durable enough to offset decelerating organic growth, reconciling the acquisition-masked top line, the AI re-acceleration bet, and the leverage taken on to fund buybacks into one conclusion
+Source: press_releases/crm_2026-05-27_8-k.txt, sec_filings/10-k/crm_2026_10-k.txt, financials/cash_flow/crm_cash_flow.json, financials/balance_sheet/crm_balance_sheet.json

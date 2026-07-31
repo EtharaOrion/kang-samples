@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "DE",
+    "cik": "0000315189",
+    "companyName": "DEERE & CO",
+    "sic": "3523",
+    "sicDescription": "Farm Machinery & Equipment",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1101",
+    "city": "MOLINE",
+    "stateOrCountry": "IL"
+  },
+  {
+    "symbol": "CAT",
+    "cik": "0000018230",
+    "companyName": "CATERPILLAR INC",
+    "sic": "3531",
+    "sicDescription": "Construction Machinery & Equip",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "IRVING",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "AGCO",
+    "cik": "0000880266",
+    "companyName": "AGCO CORP /DE",
+    "sic": "3523",
+    "sicDescription": "Farm Machinery & Equipment",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "DULUTH",
+    "stateOrCountry": "GA"
+  }
+]

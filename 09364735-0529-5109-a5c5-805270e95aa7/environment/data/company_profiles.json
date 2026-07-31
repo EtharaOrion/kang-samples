@@ -1,0 +1,65 @@
+[
+  {
+    "symbol": "BLK",
+    "cik": "0002012383",
+    "companyName": "BlackRock, Inc.",
+    "sic": "6211",
+    "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "BX",
+    "cik": "0001393818",
+    "companyName": "Blackstone Inc.",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "KKR",
+    "cik": "0001404912",
+    "companyName": "KKR & Co. Inc.",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "TROW",
+    "cik": "0001113169",
+    "companyName": "PRICE T ROWE GROUP INC",
+    "sic": "6282",
+    "sicDescription": "Investment Advice",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "MD",
+    "fiscalYearEnd": "1231",
+    "city": "BALTIMORE",
+    "stateOrCountry": "MD"
+  }
+]

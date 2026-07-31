@@ -1,0 +1,459 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Balance-Sheet Deleveraging Toward Investment Grade",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent reports adjusted net debt of $13.54B at March 31, 2026 versus $14.30B at year-end 2025, which is a $760M reduction, and states that it is below 2019 levels.",
+        "b": "The answer states that Delta has investment-grade ratings from all three agencies and that 86% of debt is fixed-rate at a 4.6% weighted-average rate. Although ancillary rating-history claims were flagged, the evidence for this required core move was not.",
+        "c": "The agent reports 2025 free cash flow of $4.6B and generally connects cash generation to debt reduction, but it omits the required $8.3B of 2025 operating cash flow and does not identify $1.2B as Q1 2026 free cash flow funding debt paydown. Its $1.2B figure instead refers to early debt repayment/refinancing."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Premium and Diversified Revenue Mix Shift",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent quantifies 2025 premium-products revenue at $22,097M versus $20,599M in 2024, describes 7% growth, and reports Q1 2026 premium revenue growth of 14%. The 7% premium-growth support was flagged as unsupported in one cited filing, so this move is tainted.",
+        "b": "The agent reports the 62% diversified-revenue share and discusses higher-margin premium revenue, but it does not state that diversified high-margin revenue grew mid-teens or that premium yield growth outpaced main-cabin yield growth. Revenue-growth comparisons and MRO growth are not equivalent to the required yield comparison.",
+        "c": "The agent explicitly identifies Q1 2026 as the first full quarter of positive main-cabin unit-revenue growth since the end of 2024 and says main-cabin capacity contracted 3% as fleet renewal lifted premium seat mix. The 3% capacity-contraction claim was flagged as unsupported, making the move tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Loyalty and the American Express Co-Brand Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives 2025 American Express remuneration of $8.2B, up 11%, management's $10B target over the next few years, and Q1 2026 remuneration of $2.2B, up 10%. The Q1 amount/growth and parts of the target-growth support appear among the flagged claims, so the move is tainted.",
+        "b": "The answer states that Q1 2026 loyalty and related revenue grew 13% and links the co-brand expansion to double-digit card spending and more than one million card acquisitions, conveying an expanding cardholder base.",
+        "c": "The agent explicitly frames SkyMiles/Amex as the high-margin, resilient or counter-cyclical crown jewel and reports award travel at 12% of revenue miles across roughly 35 million tickets. Its resilience argument substantially relies on flagged deferred-revenue and upfront-cash claims, so this move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capacity Discipline, Margins and the Durable-Earnings Verdict",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent weighs Q1 2026's 4.6% adjusted operating margin against the June-quarter 6%\u20138% guide and notes that low-teens revenue growth is expected on flat capacity. It explicitly interprets capacity discipline as the mechanism supporting unit revenue and pricing.",
+        "b": "The answer discusses fuel/refinery effects and competitive pressure, particularly from United, but it never addresses the 2024 CrowdStrike outage, its approximately $380M revenue impact, or roughly 7,000 cancellations. Therefore it does not complete the required risk-and-distortion analysis.",
+        "c": "The agent takes an explicit position that Delta is structurally advantaged and more resilient but remains cyclical, reconciling premium and loyalty strength plus balance-sheet improvement against single-digit margins, fuel exposure, and industry cyclicality. Several facts used in that reconciliation\u2014including withdrawn guidance, United's latest-quarter outperformance, premium parity, and some balance-sheet comparisons\u2014were flagged as unsupported, so the move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "\"data through the March 2026 quarter (10-Q filed 2026-04-08)\"",
+      "cited_file": "dal_2026q1_10-q.txt",
+      "issue": "The passages establish the March 2026 quarter but do not contain the claimed filing date.",
+      "evidence_check": "Searched the supplied passages for \u201c2026-04-08\u201d and a filing-date statement; neither appears."
+    },
+    {
+      "claim": "\"premium +26% YoY\"",
+      "cited_file": "dal_2023_10-k.txt",
+      "issue": "The claim-specific passages do not contain the premium-revenue growth rate.",
+      "evidence_check": "Searched the supplied claim 3 passages for \u201c26%\u201d and the premium-products revenue table; no match."
+    },
+    {
+      "claim": "\"premium +8%\"",
+      "cited_file": "dal_2024_10-k.txt",
+      "issue": "The passages contain 8% growth for American Express cash sales, not an 8% premium-products growth figure.",
+      "evidence_check": "Searched for a premium-products 8% figure; only American Express-related 8% figures appear."
+    },
+    {
+      "claim": "\"premium +7%\"",
+      "cited_file": "dal_2026-01-13_8-k.txt",
+      "issue": "The supplied passage contains financial guidance but no premium-revenue growth figure.",
+      "evidence_check": "Searched for \u201cpremium\u201d and \u201c7%\u201d in the claim-specific passage; the asserted result is absent."
+    },
+    {
+      "claim": "\"Main-cabin ticket revenue is shrinking in absolute dollars (2024 $24.5B -> 2025 $23.4B)\"",
+      "cited_file": null,
+      "issue": "The supplied passages are balance-sheet records and do not contain main-cabin ticket revenue for either year.",
+      "evidence_check": "Searched for $24.5B, $23.4B, and main-cabin revenue; none appears in the passages."
+    },
+    {
+      "claim": "\"Premium crossed above main only in individual quarters\"",
+      "cited_file": null,
+      "issue": "The passages state that premium revenue outpaced main cabin in growth, but they do not establish an absolute-dollar crossover or that it occurred only in individual quarters.",
+      "evidence_check": "Searched for quarterly premium and main-cabin dollar comparisons; none is supplied."
+    },
+    {
+      "claim": "\"in 1Q26 main narrowly reclaimed the lead\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The claim-specific passages do not contain the main-cabin and premium revenue amounts needed to establish the lead.",
+      "evidence_check": "Searched the supplied passages for $5,404M and $5,363M; neither appears."
+    },
+    {
+      "claim": "\"the metric counts *premium passenger tickets* as \\\"diversified.\\\"\"",
+      "cited_file": null,
+      "issue": "This specific classification is not present in the supplied evidence.",
+      "evidence_check": "No local match was found, and the claim-specific evidence provides neither the metric reconciliation nor a statement classifying premium tickets as diversified."
+    },
+    {
+      "claim": "\"Corporate sales accelerated through the data set: low-single digits (2Q25)\"",
+      "cited_file": "dal_2025-07-10_8-k.txt",
+      "issue": "The supplied passages do not contain the asserted low-single-digit corporate-sales result.",
+      "evidence_check": "Searched the passages for \u201ccorporate sales\u201d and \u201clow-single digits\u201d; no match."
+    },
+    {
+      "claim": "\"Corporate sales accelerated through the data set: ... +8% (3Q25)\"",
+      "cited_file": "dal_2025-10-09_8-k.txt",
+      "issue": "The supplied passages do not contain an 8% corporate-sales figure.",
+      "evidence_check": "Searched the claim-specific passages for \u201ccorporate sales\u201d and \u201c8 percent\u201d; no match."
+    },
+    {
+      "claim": "\"Corporate sales accelerated through the data set: ... high-single (4Q25)\"",
+      "cited_file": "dal_2026-01-13_8-k.txt",
+      "issue": "The passage attributes high-single-digit growth to diverse revenue streams, not corporate sales.",
+      "evidence_check": "Searched for a high-single-digit corporate-sales statement; only a diverse-revenue statement appears."
+    },
+    {
+      "claim": "\"Corporate sales accelerated through the data set: ... double digits and a record in 1Q26\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The supplied passages do not state that corporate sales were a record or grew double digits.",
+      "evidence_check": "Searched for \u201crecord quarterly corporate sales\u201d and \u201cdouble-digits\u201d; neither appears in the claim-specific passages."
+    },
+    {
+      "claim": "\"corporate demand for premium products particularly strong\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The attributed quote is absent from the supplied evidence.",
+      "evidence_check": "The local search returned no match for the quoted wording."
+    },
+    {
+      "claim": "\"1Q26: $2.2B, +10%\"",
+      "cited_file": "dal_2026q1_10-q.txt / dal_2026-04-08_8-k.txt",
+      "issue": "The passages are balance-sheet extracts and contain neither $2.2B nor 10% American Express growth.",
+      "evidence_check": "Searched for $2.2B, American Express remuneration, and 10%; no supporting match."
+    },
+    {
+      "claim": "\"the 8-11% annual growth actually being delivered\"",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the underlying American Express remuneration growth series.",
+      "evidence_check": "Searched for annual remuneration values and 8%-11% growth; the evidence consists of unrelated balance-sheet data."
+    },
+    {
+      "claim": "\"SkyMiles deferred revenue \u2014 miles sold (largely to Amex) but not yet flown\"",
+      "cited_file": null,
+      "issue": "The supplied passages do not describe the accounting meaning or composition of SkyMiles deferred revenue.",
+      "evidence_check": "Searched for deferred revenue, miles sold, American Express, and redemption/flight recognition; no supporting statement appears."
+    },
+    {
+      "claim": "\"$7,882M (1/1/23) -> $8,420M (2023) -> $8,826M (2024) -> $9,262M (2025) -> $9,458M (3/31/26)\"",
+      "cited_file": "dal_2023/2024/2025_10-k.txt, dal_2026q1_10-q.txt",
+      "issue": "None of the claimed loyalty deferred-revenue values appears in the supplied passages.",
+      "evidence_check": "Searched the balance-sheet snippets for each listed value; no match."
+    },
+    {
+      "claim": "\"Amex pays cash for miles up front\"",
+      "cited_file": null,
+      "issue": "The passage mentions American Express remuneration but does not describe payment timing or state that cash is paid up front for miles.",
+      "evidence_check": "Searched for payment terms, advance payments, and cash paid for miles; no match."
+    },
+    {
+      "claim": "\"it kept growing 10-13% through the 2025 macro scare that dented ticket revenue\"",
+      "cited_file": null,
+      "issue": "The supplied passages contain no 10%-13% growth series or ticket-revenue evidence supporting this statement.",
+      "evidence_check": "Searched for the growth rates, loyalty/Amex metrics, and ticket-revenue decline; only unrelated balance-sheet data appears."
+    },
+    {
+      "claim": "\"~$8.2B of high-margin annual cash ... rides on a single counterparty and a single contract\"",
+      "cited_file": null,
+      "issue": "The passages show $8.2B of American Express remuneration but do not establish the \u201csingle contract\u201d characterization or that the full amount is high-margin cash under one contract.",
+      "evidence_check": "Searched for contract concentration and a single-contract statement; neither appears in the claim-specific evidence."
+    },
+    {
+      "claim": "\"contract whose renewal date/term is NOT disclosed in any file here\"",
+      "cited_file": null,
+      "issue": "A universal claim about the absence of disclosure across all files cannot be established from the supplied snippets.",
+      "evidence_check": "The passages contain no contract term, but they are not a complete search result proving that no provided file discloses one."
+    },
+    {
+      "claim": "\"The $10B target is credible given the delivered 8-11% CAGR\"",
+      "cited_file": null,
+      "issue": "The supplied evidence contains neither the $10B target nor the remuneration series needed to calculate the stated growth range.",
+      "evidence_check": "Searched for the target and annual American Express values; only unrelated balance-sheet passages were supplied."
+    },
+    {
+      "claim": "\"Moody's affirmed Baa3 then upgraded to Baa2 in February 2025\"",
+      "cited_file": "dal_2025_10-k.txt",
+      "issue": "The passage supports the February 2025 upgrade to Baa2 but does not state the preceding Baa3 affirmation.",
+      "evidence_check": "Searched for \u201cBaa3\u201d and \u201caffirmed\u201d; neither appears in the supplied passages."
+    },
+    {
+      "claim": "\"Fitch moved to Positive outlook (3Q25)\"",
+      "cited_file": "dal_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the claimed Fitch outlook change.",
+      "evidence_check": "Searched for Fitch, Positive, Stable, and September 2025; no match in the claim-specific passages."
+    },
+    {
+      "claim": "\"A second IG rating in 3Q24 triggered release of liens on Pacific route authorities\"",
+      "cited_file": "dal_2024_10-k.txt",
+      "issue": "The supplied passages do not mention a second investment-grade rating, released liens, or Pacific route authorities.",
+      "evidence_check": "Searched for each event and entity; the passages discuss fuel and regulatory risks instead."
+    },
+    {
+      "claim": "\"A second IG rating in 3Q24 ... swapped restrictive covenants for lighter ones\"",
+      "cited_file": "dal_2024_10-k.txt",
+      "issue": "The supplied passages contain no covenant change tied to an investment-grade rating.",
+      "evidence_check": "Searched for investment-grade triggers and covenant amendments; no match."
+    },
+    {
+      "claim": "\"Reported total debt and finance leases fell from ~$21.4B at the 2022 peak (longTermDebt $21,444M, 6/30/22)\"",
+      "cited_file": "dal_balance_sheet.json",
+      "issue": "The evidence labels $21,444M as longTermDebt, not total debt and finance lease obligations; the claim conflates different measures.",
+      "evidence_check": "Verified the 6/30/22 JSON field: it is explicitly \u201clongTermDebt\u201d: 21444000000."
+    },
+    {
+      "claim": "\"Interest expense, net fell $834M (2023) -> $747M (2024) -> $679M (2025)\"",
+      "cited_file": "dal_2024/2025_10-k.txt",
+      "issue": "The supplied passages contain balance-sheet data but none of the claimed interest-expense figures.",
+      "evidence_check": "Searched for $834M, $747M, $679M, and \u201cinterest expense, net\u201d; no match."
+    },
+    {
+      "claim": "\"dividend reinstated 2023\"",
+      "cited_file": "dal_2025_10-k.txt",
+      "issue": "The supplied passages concern environmental regulation and do not mention dividend reinstatement.",
+      "evidence_check": "Searched for dividend, reinstated, and 2023; no match."
+    },
+    {
+      "claim": "\"ZERO shares repurchased through 3/31/26\"",
+      "cited_file": "dal_2026q1_10-q.txt",
+      "issue": "The supplied passages do not discuss the repurchase program or the number of shares repurchased.",
+      "evidence_check": "Searched for repurchase, buyback, and zero shares; no match."
+    },
+    {
+      "claim": "\"Gross leverage is 2.4x against a stated 1x long-term target\"",
+      "cited_file": "dal_2026-01-13_8-k.txt, dal_2026-03-17_8-k.txt",
+      "issue": "The supplied passages show a prior \u201cless than 2.5x\u201d FY2025 guide but do not contain the claimed 2.4x actual or 1x target.",
+      "evidence_check": "Searched the claim-specific passages for 2.4x and 1x; neither appears."
+    },
+    {
+      "claim": "\"main-cabin capacity actually CONTRACTING 3% in 1Q26\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The supplied passages show total capacity up 1% but do not contain the separate 3% main-cabin capacity contraction.",
+      "evidence_check": "Searched for \u201cmain cabin capacity\u201d and \u201ccontracted by 3 percent\u201d; no match."
+    },
+    {
+      "claim": "\"industry supply rationalization\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The attributed quoted phrase is absent from the supplied evidence.",
+      "evidence_check": "The local search returned no match for the quote."
+    },
+    {
+      "claim": "\"9M2025 GAAP operating margin was DAL 9.2% vs UAL 7.6%, AAL 2.5%, LUV 0.2%\"",
+      "cited_file": "dal/ual/aal/luv_income_statement.json",
+      "issue": "The claim-specific passages only provide selected Southwest quarterly figures and do not contain the four nine-month margin values.",
+      "evidence_check": "Searched for DAL 9.2%, UAL 7.6%, AAL 2.5%, and LUV 0.2%; none appears."
+    },
+    {
+      "claim": "\"Delta pulled its full-year 2025 outlook early in 2025 on macro/tariff uncertainty\"",
+      "cited_file": null,
+      "issue": "The supplied passages contain no guidance withdrawal or macro/tariff explanation.",
+      "evidence_check": "Searched for withdrew/pulled guidance, tariffs, and macro uncertainty; only unrelated balance-sheet records appear."
+    },
+    {
+      "claim": "\"Delta's $501M operating income\"",
+      "cited_file": "dal_income_statement.json",
+      "issue": "The supplied passages do not contain the claimed $501M operating-income figure and are not from the cited income-statement extract.",
+      "evidence_check": "Searched for 501 and 1Q26 operating income; no match in the claim-specific passages."
+    },
+    {
+      "claim": "\"United has no refinery diluting its GAAP revenue\"",
+      "cited_file": null,
+      "issue": "The supplied evidence discusses Delta but contains no information establishing that United has no refinery.",
+      "evidence_check": "Searched for United/UAL and refinery ownership or revenue; no supporting match."
+    },
+    {
+      "claim": "\"The FY2025 margin lead over UAL (9.2% vs 7.6%) compressed and, in 1Q26, inverted.\"",
+      "cited_file": "dal/ual_income_statement.json",
+      "issue": "The passages provide UAL quarterly data but do not contain FY2025 UAL 7.6%, Delta 9.2%, or the complete comparison needed to establish inversion.",
+      "evidence_check": "Searched for both FY2025 margins and Delta's 1Q26 margin; they are absent."
+    },
+    {
+      "claim": "\"pre-tax profit to ~$1B\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The supplied passages do not contain the approximately $1B pre-tax-profit outlook.",
+      "evidence_check": "Searched for \u201cpre-tax profit,\u201d \u201caround $1 billion,\u201d and \u201c$1B\u201d; no match."
+    },
+    {
+      "claim": "\"a lever peers lack\"",
+      "cited_file": null,
+      "issue": "No evidence is supplied about peers lacking the refinery or fuel-strategy lever.",
+      "evidence_check": "The local search found no match, and no peer comparison is present."
+    },
+    {
+      "claim": "\"1Q is seasonally Delta's weakest\"",
+      "cited_file": null,
+      "issue": "The passages discuss peak summer travel and 2Q results but do not establish that 1Q is Delta's weakest quarter.",
+      "evidence_check": "Searched for a seasonal ranking of Delta's quarters; no such statement appears."
+    },
+    {
+      "claim": "\"1Q26 OCF: DAL $2.4B vs UAL $4.8B, AAL $4.2B\"",
+      "cited_file": "dal/ual/aal_cash_flow.json",
+      "issue": "The supplied passages are Delta balance-sheet extracts and contain none of the three operating-cash-flow comparisons.",
+      "evidence_check": "Searched for $2.4B, $4.8B, $4.2B, and OCF; no supporting match."
+    },
+    {
+      "claim": "\"the macro scare of 2025 was survived precisely because Amex/loyalty/premium held while main cable sagged\"",
+      "cited_file": null,
+      "issue": "The supplied evidence contains no revenue-stream data supporting this causal characterization; \u201cmain cable\u201d also has no identified financial metric.",
+      "evidence_check": "Searched for macro uncertainty, Amex/loyalty/premium resilience, and main-cabin decline; only unrelated balance-sheet passages appear."
+    },
+    {
+      "claim": "\"equity from $3.8B to $20.4B\"",
+      "cited_file": "dal_balance_sheet.json",
+      "issue": "The claim-specific passages do not contain either stockholders' equity value.",
+      "evidence_check": "Searched the supplied passages for $3.8B, $20.4B, and stockholders' equity; no match."
+    },
+    {
+      "claim": "\"retained earnings from -$0.4B to +$12.9B\"",
+      "cited_file": "dal_balance_sheet.json",
+      "issue": "The claim-specific passages do not contain Delta's retained-earnings values.",
+      "evidence_check": "Searched for -$0.4B, $12.9B, and Delta retained earnings; the passages are unrelated."
+    },
+    {
+      "claim": "\"deferred loyalty revenue $7.9B -> $9.5B\"",
+      "cited_file": "dal_2023_10-k.txt, dal_2026q1_10-q.txt",
+      "issue": "The supplied passages contain neither endpoint of the deferred-loyalty-revenue comparison.",
+      "evidence_check": "Searched for $7.9B, $9.5B, and loyalty deferred revenue; no match."
+    },
+    {
+      "claim": "\"premium at parity with main cabin\"",
+      "cited_file": null,
+      "issue": "No premium-versus-main revenue amounts or parity statement are supplied for this claim.",
+      "evidence_check": "The local search returned no match."
+    },
+    {
+      "claim": "\"guidance was withdrawn in 2025\"",
+      "cited_file": null,
+      "issue": "The supplied passages do not mention withdrawal of guidance.",
+      "evidence_check": "Searched for withdrawn, suspended, or pulled guidance; only unrelated balance-sheet data appears."
+    },
+    {
+      "claim": "\"United out-earned Delta in the latest quarter\"",
+      "cited_file": "dal/ual_income_statement.json",
+      "issue": "The claim-specific passages contain no United-versus-Delta latest-quarter earnings comparison.",
+      "evidence_check": "Searched for UAL and DAL net income or operating income in the supplied passages; no match."
+    },
+    {
+      "claim": "\"the unused $1B buyback\"",
+      "cited_file": "dal_2025_10-k.txt, dal_2026q1_10-q.txt",
+      "issue": "The supplied passages do not contain the $1B authorization or evidence that it remained unused.",
+      "evidence_check": "Searched for buyback, repurchase authorization, $1B, and zero purchases; no match."
+    },
+    {
+      "claim": "\"the \\\"$10B Amex / mid-teens margin / 1x leverage\\\" targets\"",
+      "cited_file": null,
+      "issue": "The supplied passages are balance-sheet data and contain none of the three stated targets.",
+      "evidence_check": "Searched for $10B American Express, mid-teens operating margin, and 1x gross leverage; no match."
+    },
+    {
+      "claim": "\"Amex co-brand contract renewal date and term are NOT in any provided file\"",
+      "cited_file": null,
+      "issue": "The supplied snippets cannot prove a universal absence across all provided files.",
+      "evidence_check": "No term appears in the passages, but the evidence is not an exhaustive file-level result establishing non-disclosure."
+    },
+    {
+      "claim": "\"dal_2025_10-k.txt states only the concentration, not the term\"",
+      "cited_file": "dal_2025_10-k.txt",
+      "issue": "The claim-specific passages contain neither the concentration statement nor contract-term discussion.",
+      "evidence_check": "Searched for American Express, substantially all, contract term, and renewal; no match."
+    },
+    {
+      "claim": "\"1Q26 adjusted-TRASM strength is inflated ~1.6 pts by low-margin third-party MRO\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The passages support a 1.6-point MRO contribution but do not describe third-party MRO as low margin.",
+      "evidence_check": "Searched for MRO margin or \u201clow-margin\u201d; no supporting statement appears."
+    },
+    {
+      "claim": "\"refinery third-party sales gross up GAAP revenue ~$1.65B at near-zero margin\"",
+      "cited_file": "dal_2026-04-08_8-k.txt",
+      "issue": "The supplied passages do not contain the approximately $1.65B refinery-sales figure or establish a near-zero margin.",
+      "evidence_check": "Searched for $1.654B, third-party refinery sales, and near-zero margin; no supporting match in the claim-specific excerpts."
+    },
+    {
+      "claim": "\"No SkyMiles total-member count is disclosed in the provided files\"",
+      "cited_file": null,
+      "issue": "A universal non-disclosure claim cannot be established from a no-match result alone.",
+      "evidence_check": "No local match was found, but the supplied evidence does not demonstrate an exhaustive review of every provided file."
+    },
+    {
+      "claim": "\"Peer OCF comparisons are seasonally distorted in Q1 by air-traffic-liability timing\"",
+      "cited_file": "dal/ual/aal/luv_cash_flow.json",
+      "issue": "The passages do not provide peer Q1 OCF data or evidence connecting comparative OCF differences to air-traffic-liability timing.",
+      "evidence_check": "Searched for peer cash flow, Q1 seasonality, and air-traffic-liability timing; no supporting match."
+    }
+  ],
+  "synthesis_found": "The synthesis: Delta has converted itself into the highest-quality balance sheet and revenue mix in U.S. network aviation, which makes its earnings more RESILIENT than peers' \u2014 but resilient is not the same as durable, and the 2025-26 record shows the difference.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/dal_balance_sheet.json",
+    "financials/cash_flow/luv_cash_flow.json",
+    "financials/income_statement/luv_income_statement.json",
+    "financials/income_statement/ual_income_statement.json",
+    "press_releases/dal_2025-07-10_8-k.txt",
+    "press_releases/dal_2025-10-09_8-k.txt",
+    "press_releases/dal_2026-01-13_8-k.txt",
+    "press_releases/dal_2026-03-17_8-k.txt",
+    "press_releases/dal_2026-04-08_8-k.txt",
+    "sec_filings/10-k/dal_2023_10-k.txt",
+    "sec_filings/10-k/dal_2024_10-k.txt",
+    "sec_filings/10-k/dal_2025_10-k.txt",
+    "sec_filings/10-q/dal_2025q2_10-q.txt",
+    "sec_filings/10-q/dal_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 162,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

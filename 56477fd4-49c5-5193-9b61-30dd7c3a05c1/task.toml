@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage"
+description = "Develop a grounded view on whether CrowdStrike's security-revenue growth and customer retention have proven durable after the July 19, 2024 Falcon outage, given strong ARR and 115% net retention against persistent GAAP losses, incentive costs, and litigation."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "CRWD"]
+
+[metadata]
+uuid = "56477fd4-49c5-5193-9b61-30dd7c3a05c1"
+difficulty_explanation = "The analyst must judge whether re-accelerating ARR and a 115% dollar-based net retention rate genuinely prove customer loyalty, or whether that retention was bought with subscription extensions, discounts and promotional modules disclosed in the risk factors. It requires reconciling record cash-flow generation and non-GAAP profitability against still-negative GAAP margins, while weighing the outage-driven competitive poaching and open litigation. Reaching a defensible verdict on durability demands integrating growth, retention-cost, profitability, and legal signals rather than surveying them separately."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,434 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Channel and Geographic Mix as a Quality-of-Growth Signal",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that FY2026 domestic sales grew only 0.2% while international sales grew 26.8% and concludes that growth had gone essentially entirely international, satisfying the geographic decomposition.",
+        "b": "The agent contrasts wholesale growth of 12.3% with DTC growth of 6.3% and argues that the wholesale shift is lower quality and potentially margin-pressuring. The assertion that DTC is inherently higher-margin and management\u2019s long-term priority was flagged, so this move is tainted.",
+        "c": "The agent notes that gross margin declined from 57.9% to 57.7% and connects the decline to an unfavorable channel mix, tariffs, and wholesale-led growth, directly assessing the mix\u2019s profitability implications."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Divergent Growth Trajectories of HOKA and UGG",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent contrasts HOKA\u2019s FY2026 growth of 15.9% with UGG\u2019s 8.2% and provides sales of about $2.59B and $2.74B, respectively, showing that UGG is larger despite growing more slowly. The supporting brand-sales and concentration figures overlap with flagged claims.",
+        "b": "The agent analyzes quarterly and full-year deceleration, but it does not perform the required comparison of the FY2026 full-year rates against the nine-month rates of 16.3% for HOKA and 8.0% for UGG and standalone fourth-quarter brand growth.",
+        "c": "The agent evaluates HOKA\u2019s international runway, DTC/wholesale dynamics, and store expansion as both potential growth supports and signs of maturation. Parts of that assessment rely on flagged claims about store counts, international disclosures, and management\u2019s channel priority."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Brand Concentration and the Collapsing \"Other\" Portfolio",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent explicitly calculates HOKA plus UGG at $5.326B of $5.472B, or 97.3% of revenue, and states that Other brands fell to $146.2M, leaving Deckers functionally a two-brand company. Those exact concentration and Other-brand figures were flagged.",
+        "b": "The agent connects the shrinking Other portfolio to the Sanuk sale and deliberate wind-downs of Koolaburra and AHNU, including the claimed Ahnu.com closure date, and characterizes the contraction as being by design. Several wind-down details and the Ahnu closure were flagged.",
+        "c": "The agent mentions UGG\u2019s sheepskin and animal-product exposure, but it does not identify the required sourcing dependency\u2014sheepskin sourced primarily from Australia for a significant portion of UGG products\u2014or fully weigh that supply concentration alongside brand concentration."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Seasonality, Competition, and the Durability Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent identifies UGG\u2019s fiscal third quarter as its seasonality-critical period and contrasts that concentration with HOKA\u2019s more evenly distributed, year-round sales, arguing that HOKA mitigates overall seasonality. Both the UGG concentration and HOKA seasonality evidence were flagged.",
+        "b": "The agent discusses intensifying competition, a large incumbent, HOKA\u2019s performance-footwear franchise cycle, UGG\u2019s fashion risk, and the brands\u2019 premium positioning as the basis for defensibility. Key supporting competitor figures, quotations, and franchise-reset claims were flagged.",
+        "c": "The agent identifies the roughly $5B authorization following a $3.5B increase and weighs aggressive repurchases as a way to enhance EPS but also as raising dependence on the two-brand operating engine. Its interpretation relies partly on flagged claims about the buyback-driven EPS wedge, share counts, and free cash flow.",
+        "d": "The agent provides an explicit reconciled verdict integrating divergent brand deceleration, two-brand concentration, international/wholesale mix, UGG seasonality, competition, and buybacks, concluding that growth is durable but no longer merits the prior premium-growth narrative. Because that synthesis materially relies on multiple flagged factual claims across those themes, the move is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Fiscal year ends March 31.",
+      "cited_file": null,
+      "issue": "The supplied passage shows CROX quarterly records dated March 31, not a statement that Deckers' fiscal year ends March 31.",
+      "evidence_check": "Searched the claim passage for a fiscal-year-end statement; none was present."
+    },
+    {
+      "claim": "HOKA fell from a +34.7% peak to the mid-teens",
+      "cited_file": null,
+      "issue": "The passages support mid-teens FY2026 guidance but do not contain the claimed +34.7% peak.",
+      "evidence_check": "Searched for 34.7% in the supplied passages; it did not appear."
+    },
+    {
+      "claim": "the multi-year step-down from ~24% to ~16% and a guide to low-double-digits",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated CROX and Nike income-statement records and do not contain the ~24%, ~16%, or low-double-digit guide.",
+      "evidence_check": "Searched for the claimed percentages and guide in the passages; none was present."
+    },
+    {
+      "claim": "UGG grew every single quarter",
+      "cited_file": null,
+      "issue": "The passages provide a Q3 result and full-year guidance but no complete quarterly series establishing growth in every quarter.",
+      "evidence_check": "Checked for UGG results for all relevant quarters; only Q3 and guidance were present."
+    },
+    {
+      "claim": "its underlying franchise strategy (year-round styles, full-price selling) is working",
+      "cited_file": "deck_2025_10-k.txt",
+      "issue": "No passage was supplied for this claim, so the cited filing evidence does not establish the stated strategy or conclusion.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "its Q3-heavy seasonality",
+      "cited_file": null,
+      "issue": "No passage was supplied for this concrete seasonality assertion.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "In FY2026, HOKA ($2,587.3M) + UGG ($2,738.8M) = $5,326.1M of $5,472.3M total net sales \u2014 97.3% of the company",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages do not contain the claimed brand sales, total sales, sum, or 97.3% share.",
+      "evidence_check": "Searched the supplied passages for 2,587.3, 2,738.8, 5,326.1, 5,472.3, and 97.3%; none appeared."
+    },
+    {
+      "claim": "\"Other brands\" fell to $146.2M, or 2.7%.",
+      "cited_file": null,
+      "issue": "The passages do not contain $146.2M or the 2.7% company share; they show a quarterly Other-brands figure of $23.2M instead.",
+      "evidence_check": "Searched for 146.2 and 2.7% in the supplied passages; neither appeared in support of this claim."
+    },
+    {
+      "claim": "Other brands: $221.2M (FY25)",
+      "cited_file": "deck_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the FY2025 $221.2M figure; the displayed brand table contains $241.891M for FY2024.",
+      "evidence_check": "Searched the claim passages for 221.2 or 221,171; no match was present."
+    },
+    {
+      "claim": "wholesale wound down through FY26",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages do not state that wholesale operations were wound down through FY2026.",
+      "evidence_check": "Searched for a wholesale wind-down or completion statement; none was present."
+    },
+    {
+      "claim": "Ahnu.com closed 10/1/2025",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages do not contain the Ahnu.com closure or the October 1, 2025 date.",
+      "evidence_check": "Searched for Ahnu.com and 10/1/2025; neither appeared."
+    },
+    {
+      "claim": "Teva refocused/shrinking",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages describe Teva products and distribution but do not state that Teva was refocused or shrinking.",
+      "evidence_check": "Searched for 'refocus,' 'shrinking,' or a Teva decline; no supporting statement appeared."
+    },
+    {
+      "claim": "the discarded brands were low-margin or loss-making",
+      "cited_file": null,
+      "issue": "No evidence passage was supplied for the profitability characterization of the discarded brands.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "Sanuk's wholesale segment posted a NEGATIVE $12.8M operating result in FY24",
+      "cited_file": "deck_2024_10-k.txt",
+      "issue": "The passages show Sanuk wholesale net sales of $17.175M, not a negative $12.8M operating result.",
+      "evidence_check": "Searched for -$12.8M, an operating-loss table, or equivalent; none was present."
+    },
+    {
+      "claim": "Sanuk's wholesale segment posted a NEGATIVE $12.8M operating result in FY24, partly an intangible impairment",
+      "cited_file": "deck_2024_10-k.txt",
+      "issue": "Neither the negative $12.8M operating result nor the claimed intangible-impairment explanation appears in the supplied passages.",
+      "evidence_check": "Searched for 12.8M, operating loss, and impairment; no supporting match was found."
+    },
+    {
+      "claim": "HOKA itself is proof that a third brand CAN become a multi-billion engine",
+      "cited_file": null,
+      "issue": "The supplied passages do not provide a multi-billion HOKA revenue figure or evidence that it was a third-brand engine.",
+      "evidence_check": "Searched for a HOKA annual revenue above $2B or equivalent language; none appeared."
+    },
+    {
+      "claim": "\"the growth and visibility of our HOKA brand and UGG brand have attracted competitors specifically targeting the categories in which we operate\"",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The attributed quotation does not appear in the supplied passages.",
+      "evidence_check": "Searched for the quoted wording, including 'attracted competitors' and 'specifically targeting'; no match was present."
+    },
+    {
+      "claim": "97% of revenue in two brands",
+      "cited_file": null,
+      "issue": "The supplied passages are exhibit-index text and do not contain the 97% concentration figure or supporting brand revenue data.",
+      "evidence_check": "Searched for 97% and relevant brand-sales totals; no supporting match was present."
+    },
+    {
+      "claim": "UGG additionally exposed to sheepskin",
+      "cited_file": "deck_2024_10-k.txt",
+      "issue": "The supplied passages do not mention sheepskin or establish the claimed exposure.",
+      "evidence_check": "Searched the claim passages for 'sheepskin'; no match appeared."
+    },
+    {
+      "claim": ">$1B free cash flow",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passages do not contain the claimed free-cash-flow amount.",
+      "evidence_check": "Searched for 'free cash flow,' '$1 billion,' and 'over one billion'; no supporting amount appeared in these passages."
+    },
+    {
+      "claim": "Domestic net sales: +11.3% FY25",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages concern income taxes and do not contain FY2025 domestic net-sales growth of 11.3%.",
+      "evidence_check": "Searched for 11.3% and FY2025 domestic net sales; no match was present."
+    },
+    {
+      "claim": "International net sales: +26.3% FY25",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages do not contain FY2025 international net-sales growth of 26.3%.",
+      "evidence_check": "Searched for 26.3% and FY2025 international net sales; no match was present."
+    },
+    {
+      "claim": "International share of sales climbed 33.2% -> 36.1% -> 41.7%",
+      "cited_file": "deck_2024/2025/2026_10-k.txt",
+      "issue": "Only 33.2% appears in the supplied passages; 36.1% and 41.7% do not.",
+      "evidence_check": "Searched for each percentage in the supplied passages; 33.2% was found, but 36.1% and 41.7% were absent."
+    },
+    {
+      "claim": "peaking at 48.0% of sales in Q1 FY26",
+      "cited_file": "deck_2025q1_10-q.txt",
+      "issue": "The passages provide international and total sales from which a share could be calculated, but the claimed 48.0% number itself does not appear.",
+      "evidence_check": "Searched for 48.0%; no match was present."
+    },
+    {
+      "claim": "HOKA's FY26 growth was explicitly \"led by international sales\"",
+      "cited_file": "deck_2026_10-k.txt; deck_2025q3_10-q.txt",
+      "issue": "The attributed wording does not appear in the supplied passages.",
+      "evidence_check": "Searched for 'led by international sales' and equivalent explicit language; no match was present."
+    },
+    {
+      "claim": "Wholesale mix crept up every year: 56.7% -> 57.3% -> 58.6%",
+      "cited_file": "deck_2024/2025/2026_10-k.txt",
+      "issue": "The supplied passages contain 56.7% but not 57.3% or 58.6%.",
+      "evidence_check": "Searched for all three percentages; only 56.7% appeared."
+    },
+    {
+      "claim": "DTC is the higher-margin, owned-relationship channel",
+      "cited_file": null,
+      "issue": "The passages show DTC growth figures but do not establish that DTC is higher-margin or describe it as an owned-relationship channel.",
+      "evidence_check": "Searched for margin comparisons and owned-customer-relationship language; none was present."
+    },
+    {
+      "claim": "Deckers itself calls its long-term priority",
+      "cited_file": "deck_2025_10-k.txt",
+      "issue": "The claim is incomplete, and the supplied passages do not contain a corresponding statement of a long-term priority.",
+      "evidence_check": "Searched the supplied passages for 'long-term priority' or an equivalent declaration; no match was present."
+    },
+    {
+      "claim": "no single foreign country even reaches the 10% disclosure threshold",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages do not contain a country-level revenue disclosure or a statement about a 10% threshold.",
+      "evidence_check": "Searched for '10%' and country-level concentration language; no supporting statement appeared."
+    },
+    {
+      "claim": "Q4 FY26 DTC comp +8.2%",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passages show full-year DTC comparable growth of 4.6%, not the claimed Q4 8.2% figure.",
+      "evidence_check": "Searched for 8.2% in the claim passages; it did not appear."
+    },
+    {
+      "claim": "the US consumer, the most mature market for both brands, went flat-to-down for a full half-year",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated CROX records and do not establish Deckers' US performance or that the US is the most mature market for both brands.",
+      "evidence_check": "Searched for Deckers domestic half-year results and market-maturity language; neither was present."
+    },
+    {
+      "claim": "UGG's business is heavily concentrated in the Dec (fiscal Q3) quarter",
+      "cited_file": "deck_2026_10-k.txt; deck_2025q1..q3_10-q.txt",
+      "issue": "The supplied passages do not contain quarterly UGG sales across the year or a seasonality statement establishing heavy Q3 concentration.",
+      "evidence_check": "Checked for a full quarterly series or explicit seasonality disclosure; neither was present."
+    },
+    {
+      "claim": "HOKA's genuinely year-round profile \"generally occur[ring] more evenly throughout the fiscal year\"",
+      "cited_file": null,
+      "issue": "The attributed quotation does not appear in the supplied passages.",
+      "evidence_check": "Searched for 'more evenly throughout the fiscal year' and the quoted fragment; no match was present."
+    },
+    {
+      "claim": "HOKA's store count nearly doubled 32 -> 61",
+      "cited_file": "deck_2025q1_10-q.txt; deck_2025q3_10-q.txt",
+      "issue": "Neither store count appears in the supplied passages.",
+      "evidence_check": "Searched for HOKA store counts of 32 and 61; no matches were present."
+    },
+    {
+      "claim": "UGG's stayed roughly flat",
+      "cited_file": "deck_2025q1_10-q.txt; deck_2025q3_10-q.txt",
+      "issue": "The supplied passages do not provide the UGG store counts or other metric needed to support 'stayed roughly flat.'",
+      "evidence_check": "Searched for UGG store-count comparisons; none appeared."
+    },
+    {
+      "claim": "the filings expect seasonality to keep decreasing as HOKA's mix rises",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "The supplied passages describe HOKA as year-round but do not state that seasonality is expected to decrease as HOKA's mix rises.",
+      "evidence_check": "Searched for an expectation concerning reduced seasonality and HOKA mix; no supporting statement appeared."
+    },
+    {
+      "claim": "competitors \"specifically targeting the categories in which we operate\"",
+      "cited_file": "deck_2026_10-k.txt",
+      "issue": "No passage was supplied containing the attributed quotation.",
+      "evidence_check": "Local search returned no match for the quoted language."
+    },
+    {
+      "claim": "Nike revenue eroded from ~$13.39B (qtr ended Nov'23) to ~$12.43B (Nov'25)",
+      "cited_file": "nke_income_statement.json",
+      "issue": "Neither Nike revenue value nor the stated comparison periods appear in the supplied passages.",
+      "evidence_check": "Searched for 13.39B, 12.43B, November 2023, and November 2025; no matches were present."
+    },
+    {
+      "claim": "Crocs is stalling with a large operating loss in the quarter ended Jun'25 (-$427.5M)",
+      "cited_file": "crox_income_statement.json",
+      "issue": "The supplied passages do not contain the Crocs June 2025 operating loss or the -$427.5M figure.",
+      "evidence_check": "Searched for Crocs, June 2025, and -427.5M; no supporting match was present."
+    },
+    {
+      "claim": "the $50B incumbent is shrinking",
+      "cited_file": null,
+      "issue": "The supplied passages do not identify a $50B incumbent or establish that it is shrinking.",
+      "evidence_check": "Searched for a $50B revenue figure and a corresponding decline; neither was present."
+    },
+    {
+      "claim": "HOKA's need to continually reset \"key franchises\" (Clifton/Bondi-type upgrades) with rising promotional activity",
+      "cited_file": "deck_2024q3_10-q.txt; deck_2025q3_10-q.txt",
+      "issue": "The supplied passages contain none of the asserted franchise-reset details, Clifton/Bondi references, or rising promotional-activity evidence.",
+      "evidence_check": "Searched for 'key franchises,' Clifton, Bondi, upgrades, and promotional activity; no matches were present."
+    },
+    {
+      "claim": "FY26 net income rose only +6.0% ($1,024.1M vs $966.1M)",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passage does not contain the net-income amounts or the 6.0% comparison.",
+      "evidence_check": "Searched for 1,024.1M, 966.1M, and 6.0%; no match was present."
+    },
+    {
+      "claim": "the ~5-point wedge is buybacks",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "No passage was supplied supporting the claimed approximately five-point effect or attributing it to buybacks.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "diluted share count 152.7M -> 145.8M",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "No supplied passage contains either diluted share count.",
+      "evidence_check": "Local search returned no match for 152.7M or 145.8M."
+    },
+    {
+      "claim": "FY26 was a record year",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passage lists FY2026 results but does not call the year or those results a record.",
+      "evidence_check": "Searched the claim passage for 'record'; no match was present."
+    },
+    {
+      "claim": "industry-leading ~23% operating margin",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passage contains FY2027 operating-margin guidance of 21.5% and a low-20% framework, not an approximately 23% margin or evidence that it is industry-leading.",
+      "evidence_check": "Searched for 23% and 'industry-leading'; no supporting match appeared."
+    },
+    {
+      "claim": "$1.9B cash",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passages do not contain a $1.9B cash balance.",
+      "evidence_check": "Searched for cash and $1.9B in the supplied passages; no supporting match appeared."
+    },
+    {
+      "claim": "zero debt",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "No evidence passage was supplied for the zero-debt assertion.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "Management RAISED FY26 guidance through the year",
+      "cited_file": "deck_2026-01-29_8-k.txt",
+      "issue": "The supplied passages do not show earlier and later FY2026 guidance values or state that guidance was raised through the year.",
+      "evidence_check": "Searched for a guidance revision history or explicit 'raised' statement; none was present."
+    },
+    {
+      "claim": "both brands sustain high full-price selling",
+      "cited_file": null,
+      "issue": "No evidence passage was supplied for the asserted sustained full-price selling by both brands.",
+      "evidence_check": "Local search returned no match for the claim."
+    },
+    {
+      "claim": "the $1B free cash flow",
+      "cited_file": "deck_2026-05-21_8-k.txt",
+      "issue": "The supplied passages do not contain the claimed free-cash-flow amount.",
+      "evidence_check": "Searched for 'free cash flow' and a $1B amount; no supporting match was present."
+    },
+    {
+      "claim": "none reached the 10% disclosure threshold",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the claimed threshold analysis or identify what entities were tested against it.",
+      "evidence_check": "Searched for a 10% disclosure-threshold statement; no supporting match was present."
+    }
+  ],
+  "synthesis_found": "The DTC recovery in H2 is real and softens the \"quality collapse\" read \u2014 but it does not undo the fact that the US consumer, the most mature market for both brands, went flat-to-down for a full half-year.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/crox_income_statement.json",
+    "financials/income_statement/nke_income_statement.json",
+    "press_releases/deck_2026-01-29_8-k.txt",
+    "press_releases/deck_2026-05-21_8-k.txt",
+    "sec_filings/10-k/deck_2024_10-k.txt",
+    "sec_filings/10-k/deck_2025_10-k.txt",
+    "sec_filings/10-k/deck_2026_10-k.txt",
+    "sec_filings/10-q/deck_2024q1_10-q.txt",
+    "sec_filings/10-q/deck_2024q2_10-q.txt",
+    "sec_filings/10-q/deck_2024q3_10-q.txt",
+    "sec_filings/10-q/deck_2025q1_10-q.txt",
+    "sec_filings/10-q/deck_2025q2_10-q.txt",
+    "sec_filings/10-q/deck_2025q3_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 149,
+  "grounding_claims_no_match": 14,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

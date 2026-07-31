@@ -1,0 +1,63 @@
+[
+  {
+    "symbol": "BA",
+    "cik": "0000012927",
+    "companyName": "BOEING CO",
+    "sic": "3721",
+    "sicDescription": "Aircraft",
+    "exchanges": [
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "ARLINGTON",
+    "stateOrCountry": "VA"
+  },
+  {
+    "symbol": "RTX",
+    "cik": "0000101829",
+    "companyName": "RTX Corp",
+    "sic": "3724",
+    "sicDescription": "Aircraft Engines & Engine Parts",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "ARLINGTON",
+    "stateOrCountry": "VA"
+  },
+  {
+    "symbol": "GE",
+    "cik": "0000040545",
+    "companyName": "GENERAL ELECTRIC CO",
+    "sic": "3600",
+    "sicDescription": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NY",
+    "fiscalYearEnd": "1231",
+    "city": "EVENDALE",
+    "stateOrCountry": "OH"
+  },
+  {
+    "symbol": "LMT",
+    "cik": "0000936468",
+    "companyName": "LOCKHEED MARTIN CORP",
+    "sic": "3760",
+    "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "MD",
+    "fiscalYearEnd": "1231",
+    "city": "BETHESDA",
+    "stateOrCountry": "MD"
+  }
+]

@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Demand Durability and the Quality of Growth
+The bull case rests on volume growth continuing, but headline GBV growth is flattered by ADR and FX while the underlying nights metric grows more slowly.
+[a] Separate volume from price/FX: note that Q1 2026 Nights and Seats Booked grew 9% while GBV grew 19% (13% ex-FX), so ADR and FX — not room-night volume — carry much of the headline growth (press_releases/abnb_2026-05-07_8-k.txt)
+[b] Assess the durability of the demand engine using concrete drivers — app nights growing 22% Y/Y and reaching 63% of total nights, first-time booker growth accelerating to 10%, and expansion markets (India, Brazil) growing roughly twice the core-market rate (press_releases/abnb_2026-05-07_8-k.txt)
+[c] Weigh full-year 2025 deceleration — revenue up 10% to $12.2 billion and GBV up 12% to $91,273 million — against management's Q2 2026 guide for revenue growth of 14% to 16% and a re-accelerating outlook (sec_filings/10-k/abnb_2025_10-k.txt, press_releases/abnb_2026-05-07_8-k.txt)
+Source: sec_filings/10-k/abnb_2025_10-k.txt, press_releases/abnb_2026-05-07_8-k.txt, financials/income_statement/abnb_income_statement.json
+
+2. Take-Rate Expansion and the Single-Fee Transition
+Revenue grew slower than GBV in 2025 (10% vs 12%), implying take-rate pressure, yet management is guiding take rate up as it re-architects its fee structure.
+[a] Identify the take-rate signal: 2025 revenue grew 10% while GBV grew 12%, and reconcile that compression against the Q2 2026 guide that implied take rate will be "up slightly year-over-year" (sec_filings/10-k/abnb_2025_10-k.txt, press_releases/abnb_2026-05-07_8-k.txt)
+[b] Explain the October 2025 shift from a split-fee structure (charging both host and guest) to a single-fee structure (charging only the host), and why this changes reported take-rate optics (sec_filings/10-k/abnb_2025_10-k.txt)
+[c] Connect monetization initiatives to GBV — e.g. Reserve Now, Pay Later accounting for roughly 20% of global GBV in Q1 2026 — and whether new offerings (experiences, services) are yet material to the fee base (press_releases/abnb_2026-05-07_8-k.txt, sec_filings/10-k/abnb_2025_10-k.txt)
+Source: sec_filings/10-k/abnb_2025_10-k.txt, press_releases/abnb_2026-05-07_8-k.txt, financials/income_statement/abnb_income_statement.json
+
+3. Regulatory and Tax Overhang
+Airbnb's model is exposed to city-level short-term-rental restrictions and an expanding web of indirect-tax and payments regulation that can throttle supply and raise costs.
+[a] Ground the short-term-rental regulatory threat in specifics — e.g. New York City's 2023 regulations that resulted in a de facto ban, plus other cities passing onerous restrictions on the right to host (sec_filings/10-k/abnb_2025_10-k.txt)
+[b] Address indirect-tax and reporting exposure — lodging, VAT, digital services taxes, and host-registration/data-sharing obligations that raise host and guest costs and could discourage platform use (sec_filings/10-k/abnb_2025_10-k.txt)
+[c] Flag payments and money-transmission regulation and the customer-funds safeguarding requirements (holding eligible liquid assets equal to at least 100% of amounts held on behalf of customers) as an operational and compliance-cost risk (sec_filings/10-k/abnb_2025_10-k.txt)
+Source: sec_filings/10-k/abnb_2025_10-k.txt, sec_filings/10-q/abnb_2026q1_10-q.txt
+
+4. Cash Generation, Margins, and the Investment Verdict
+Airbnb converts bookings into strong free cash flow ahead of stays, but is reinvesting heavily; the verdict hinges on whether growth and take-rate gains outrun regulatory drag.
+[a] Quantify the cash engine — Q1 2026 Free Cash Flow of $1.7 billion at a 64% FCF margin and trailing-twelve-month FCF of $4.5 billion at a 36% margin, aided by the timing of service-fee collection at booking (press_releases/abnb_2026-05-07_8-k.txt, sec_filings/10-k/abnb_2025_10-k.txt)
+[b] Assess margin trajectory and reinvestment — the 2026 Adjusted EBITDA Margin guide of at least 35% against management's stated priority to reinvest to support growth (press_releases/abnb_2026-05-07_8-k.txt)
+[c] Note international concentration and its two-edged nature — 61% of revenue generated outside the U.S. drives expansion-market upside but also FX dependence and broader regulatory surface area (sec_filings/10-k/abnb_2025_10-k.txt)
+[d] SYNTHESIS: reconcile the bull case (durable nights growth, guided take-rate expansion, elite FCF conversion) against the bear case (nights decelerating below GBV, take-rate optics muddied by the fee-structure change, and structural regulatory/tax overhang) into a single explicit position on whether growth durability and take-rate expansion outweigh regulatory risk
+Source: press_releases/abnb_2026-05-07_8-k.txt, sec_filings/10-k/abnb_2025_10-k.txt, financials/cash_flow/abnb_cash_flow.json

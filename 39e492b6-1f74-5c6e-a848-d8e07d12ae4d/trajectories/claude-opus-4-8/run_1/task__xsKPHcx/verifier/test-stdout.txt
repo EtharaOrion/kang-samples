@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Unit-Revenue Durability as ASMs Grow', 'Premium and Loyalty Mix as Unit-Revenue Defense', 'Cost Trajectory (CASM and Fuel) versus Margin', 'Competitive Capacity Discipline and the Durability Verdict']
+Cited files: 9

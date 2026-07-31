@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Top-Line Growth and the Deliveroo Inorganic Overlay
+Headline growth looks explosive, but the Deliveroo acquisition inflates it; the analyst must separate organic from inorganic to judge the true growth rate.
+[a] Establish Q1 2026 scale — Total Orders of 933 million (up 27%), Marketplace GOV of $31.6 billion (up 37%), and revenue of $4.0 billion (up 33%)
+[b] Separate organic from inorganic — Marketplace GOV grew 24% and revenue grew 21% excluding the impact of Deliveroo
+[c] Note net revenue margin compression, from 13.1% in Q1 2025 to 12.8% in Q1 2026, as a sign of mix/geographic dilution alongside the growth
+Source: press_releases/dash_2026-05-06_8-k.txt, sec_filings/10-k/dash_2025_10-k.txt, financials/income_statement/dash_income_statement.json
+
+2. Margin Inflection: Adjusted EBITDA Versus GAAP Net Income
+The margin-inflection thesis rests on adjusted EBITDA, but GAAP net income is moving the other way; the analyst must confront the divergence.
+[a] Contrast Q1 2026 adjusted EBITDA of $754 million (up 28%) with GAAP net income of $184 million, which decreased 5% year-over-year
+[b] Trace the margin trajectory using the disclosed trend — adjusted EBITDA as a percent of Marketplace GOV moving 2.6% / 2.7% / 3.0% / 2.6% / 2.4% across the five quarters, and contribution profit as a percent of GOV in the 4.4%–5.1% range
+[c] Ground the profitability context in the 10-K's history of net losses — DoorDash incurred net losses each year prior to the year ended December 31, 2024
+Source: press_releases/dash_2026-05-06_8-k.txt, sec_filings/10-k/dash_2025_10-k.txt, financials/income_statement/dash_income_statement.json
+
+3. New-Vertical (Grocery and Retail) Expansion Durability
+New verticals are the future TAM but face entrenched competition; the analyst must judge whether the expansion is durable or margin-dilutive land-grab.
+[a] Establish the new-vertical momentum — strong Y/Y growth in U.S. grocery and retail, expanded selection in newer categories such as apparel and auto parts, and more new consumers attracted to grocery/retail than in any previous quarter
+[b] Weigh the competitive risk the 10-K flags — DoorDash competes with established grocery chains that have strong bargaining power, supplier relationships and their own delivery fleets, plus Amazon, Uber Eats, Prosus and Delivery Hero
+[c] Assess advertising as a high-margin value-added revenue stream that can offset lower new-vertical unit economics across the Marketplaces
+Source: press_releases/dash_2026-05-06_8-k.txt, sec_filings/10-k/dash_2025_10-k.txt
+
+4. International Integration Drag and the Profitable-Scaling Verdict
+International M&A (Deliveroo, Wolt) both extends the runway and dilutes near-term margins; a defensible conclusion must reconcile the inflection against the integration drag.
+[a] Assess the Deliveroo integration — DoorDash expects Deliveroo to contribute approximately $200 million to 2026 adjusted EBITDA, with accelerated Y/Y growth in Deliveroo MAUs, Total Orders and Marketplace GOV in the U.K., France and Italy
+[b] Note the international profitability risk the 10-K raises — increased difficulty achieving profitability, operating leverage and scale across over 40 countries rather than concentrated growth
+[c] Take an explicit position on whether DoorDash's margin inflection is durable as it scales new verticals and integrates international acquisitions, reconciling rising adjusted EBITDA against declining GAAP net income and compressing net revenue margin
+Source: press_releases/dash_2026-05-06_8-k.txt, sec_filings/10-k/dash_2025_10-k.txt, financials/income_statement/dash_income_statement.json

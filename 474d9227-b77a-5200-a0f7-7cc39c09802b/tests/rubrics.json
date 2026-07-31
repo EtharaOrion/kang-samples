@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "Before interpreting disclosures, the process opens document contents or headers to verify each source\u2019s identity, reporting period, and timing relative to the June 30, 2026 cutoff.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early trajectory steps for file reads that confirm filing type, covered period, publication date, or press-release subject before substantive claims are made."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process explores the decision-relevant breadth of the corpus rather than relying on a narrow subset of document types.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect inventory and read/search logs for meaningful coverage of annual filings, quarterly filings, structured Capital One financials, peer or company context, and press releases whose relevance was checked from their contents."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into explicit analytical questions covering credit normalization, purchase accounting, integration execution, and capital or franchise implications.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a research plan, matrix, checklist, or equivalent notes that separately frame the major analytical questions before conclusions are formed."
+    },
+    {
+      "id": "c4",
+      "concern": "grounding_before_claim",
+      "text": "The process maintains traceable evidence records that preserve the period, units, entity or segment scope, and reported-versus-derived status of extracted items.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction tables, notes, or intermediate calculations for metadata attached to metrics and claims rather than decontextualized numbers or search snippets."
+    },
+    {
+      "id": "c5",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves disclosed scope boundaries instead of silently combining consolidated, segment, annual, quarterly, period, or cumulative figures.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect working tables and calculation steps for separate labels and series when metrics differ by organizational scope, time basis, or period-versus-cumulative presentation."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively pairs major preliminary interpretations with the strongest conflicting disclosure, metric, or definitional caveat found in the corpus.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a two-sided test table, hypothesis checks, explicit challenge notes, or revisions prompted by evidence that cuts against an emerging view."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests apparent credit improvement against acquisition mix, denominator changes, delinquency direction, seasoning, and seasonality rather than treating a headline loss rate as self-explanatory.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect credit-analysis steps for comparisons between consolidated and card metrics, sequential and year-over-year periods, and filing explanations of portfolio composition or seasonal effects."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process challenges any integration-cost normalization by examining whether the excluded costs appear temporary or reflect continuing operating complexity.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect expense analysis for period-by-period persistence checks, treatment of amortization or recurring acquisition-related costs, and comparison with disclosed realized benefits or execution delays."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work visibly distinguishes reported figures from analyst-derived calculations and exposes the formula used for each derived result.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect schedules or calculation logs for Reported/Derived labels, formulas for basis-point changes or normalized amounts, and clearly identified input periods and scopes."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "When the available disclosures cannot support a clean organic credit rate, segment allocation, synergy realization, or causal attribution, the process preserves that limitation instead of manufacturing precision.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit unresolved-ambiguity notes, bounded interpretations, omitted unsupported calculations, or statements explaining why a desired adjustment cannot be reliably computed."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process reconciles apparently conflicting evidence by explaining how accounting effects, portfolio economics, timing, and operating execution can produce different signals.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect late-stage reasoning and the final analysis for an integrated explanation that resolves tensions among credit, provision, allowance, integration, funding, and capital evidence rather than merely listing pros and cons."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in an explicit investment-relevant position on whether the evidence more strongly indicates normalization or material integration risk, without requiring any predetermined conclusion.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening and concluding synthesis for a clearly stated directional view whose conditions or uncertainties refine the position rather than replace it with an evenly balanced survey."
+    }
+  ]
+}

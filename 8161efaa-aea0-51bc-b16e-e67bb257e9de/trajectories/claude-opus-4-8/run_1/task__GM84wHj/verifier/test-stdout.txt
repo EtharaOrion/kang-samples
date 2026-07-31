@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Platformization Strategy and the Customer-Financing / Deal-Economics Trade-off', 'Billings / RPO / Deferred-Revenue Durability as a Forward-Demand Signal', 'NGS ARR Growth and the Mix Shift to Subscription & Support', 'Margin / FCF Quality and Competitive Positioning']
+Cited files: 13

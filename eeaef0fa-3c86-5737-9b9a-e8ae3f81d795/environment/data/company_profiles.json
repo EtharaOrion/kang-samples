@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "CAT",
+    "cik": "0000018230",
+    "companyName": "CATERPILLAR INC",
+    "sic": "3531",
+    "sicDescription": "Construction Machinery & Equip",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "IRVING",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "DE",
+    "cik": "0000315189",
+    "companyName": "DEERE & CO",
+    "sic": "3523",
+    "sicDescription": "Farm Machinery & Equipment",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1101",
+    "city": "MOLINE",
+    "stateOrCountry": "IL"
+  },
+  {
+    "symbol": "CMI",
+    "cik": "0000026172",
+    "companyName": "CUMMINS INC",
+    "sic": "3510",
+    "sicDescription": "Engines & Turbines",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "IN",
+    "fiscalYearEnd": "1231",
+    "city": "COLUMBUS",
+    "stateOrCountry": "IN"
+  },
+  {
+    "symbol": "PCAR",
+    "cik": "0000075362",
+    "companyName": "PACCAR INC",
+    "sic": "3711",
+    "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "BELLEVUE",
+    "stateOrCountry": "WA"
+  }
+]

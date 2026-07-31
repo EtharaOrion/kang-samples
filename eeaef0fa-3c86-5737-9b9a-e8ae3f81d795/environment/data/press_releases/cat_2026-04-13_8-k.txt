@@ -1,0 +1,2502 @@
+0001104659-26-042621.txt : 20260413
+0001104659-26-042621.hdr.sgml : 20260413
+20260413160957
+ACCESSION NUMBER: 0001104659-26-042621
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20260407
+ITEM INFORMATION: Other Events
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20260413
+DATE AS OF CHANGE: 20260413
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: CATERPILLAR INC
+ CENTRAL INDEX KEY: 0000018230
+ STANDARD INDUSTRIAL CLASSIFICATION: CONSTRUCTION MACHINERY & EQUIP [3531]
+ ORGANIZATION NAME: 06 Technology
+ EIN: 370602744
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-00768
+ FILM NUMBER: 26857907
+
+ BUSINESS ADDRESS: 
+ STREET 1: 5205 N. O'CONNOR BOULEVARD
+ STREET 2: SUITE 100
+ CITY: IRVING
+ STATE: TX
+ ZIP: 75039
+ BUSINESS PHONE: 9728917700
+
+ MAIL ADDRESS: 
+ STREET 1: 5205 N. O'CONNOR BOULEVARD
+ STREET 2: SUITE 100
+ CITY: IRVING
+ STATE: TX
+ ZIP: 75039
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: CATERPILLAR TRACTOR CO
+ DATE OF NAME CHANGE: 19860623
+8-K
+1
+tm2611571d2_8k.htm
+FORM 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+Date of Report (Date of earliest event reported):
+April 7, 2026
+
+CATERPILLAR
+INC.
+
+(Exact name of registrant
+as specified in its charter)
+
+Delaware1-76837-0602744
+
+(State
+ or other jurisdiction of
+
+ incorporation)(Commission
+ File Number)(I.R.S.
+ Employer
+
+ Identification No.)
+
+5205
+ N. O'Connor Blvd., Suite 100
+
+Irving,
+ Texas75039
+
+(Address
+ of principal executive offices)(Zip
+ Code)
+
+Registrant’s
+telephone number, including area code: (972)
+891-7700
+
+Former name or former
+address, if changed since last report: N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: 
+
+¨Written
+ communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨Soliciting
+ material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨Pre-commencement
+ communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨Pre-commencement
+ communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+Title
+ of each classTrading
+ Symbol (s)Name
+ of each exchange which registered
+
+Common
+ Stock ($1.00 par value)CATThe
+ New York Stock Exchange
+
+5.3%
+ Debentures due September 15, 2035CAT35The
+ New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined by Rule 405 of the Securities Act of 1933 (17 CFR §230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (17 CFR §240.12b-2 of this chapter). 
+
+Emerging
+growth company ¨
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Item 8.01. Other Events.
+
+On April 7, 2026, the board of directors of Caterpillar Inc. (the “Company”)
+determined to nominate Lynn Good to be a director nominee of the Company for election at the Company’s 2026 Annual Meeting of Shareholders,
+with an effective date of appointment of August 1, 2026.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)Exhibits:
+
+The
+ following is furnished as an exhibit to this report:
+
+104The
+ cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+CATERPILLAR
+ INC.
+
+April 13, 2026By:/s/
+ Derek Owens
+
+Derek Owens 
+
+Chief Legal Officer and
+ General Counsel
+
+EX-101.SCH
+2
+cat-20260407.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+00000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+cat-20260407_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+EX-101.LAB
+4
+cat-20260407_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+Class of Stock [Axis]Common Stock [Member]Sec 5. 3 Debentures Due September 152035 [Member]Statement [Table]Statement [Line Items]Document TypeAmendment FlagAmendment DescriptionDocument Registration StatementDocument Annual ReportDocument Quarterly ReportDocument Transition ReportDocument Shell Company ReportDocument Shell Company Event DateDocument Period Start DateDocument Period End DateDocument Fiscal Period FocusDocument Fiscal Year FocusCurrent Fiscal Year End DateEntity File NumberEntity Registrant NameEntity Central Index KeyEntity Primary SIC NumberEntity Tax Identification NumberEntity Incorporation, State or Country CodeEntity Address, Address Line OneEntity Address, Address Line TwoEntity Address, Address Line ThreeEntity Address, City or TownEntity Address, State or ProvinceEntity Address, CountryEntity Address, Postal Zip CodeCountry RegionCity Area CodeLocal Phone NumberExtensionWritten CommunicationsSoliciting MaterialPre-commencement Tender OfferPre-commencement Issuer Tender OfferTitle of 12(b) SecurityNo Trading Symbol FlagTrading SymbolSecurity Exchange NameTitle of 12(g) SecuritySecurity Reporting ObligationAnnual Information FormAudited Annual Financial StatementsEntity Well-known Seasoned IssuerEntity Voluntary FilersEntity Current Reporting StatusEntity Interactive Data CurrentEntity Filer CategoryEntity Small BusinessEntity Emerging Growth CompanyElected Not To Use the Extended Transition PeriodDocument Accounting StandardOther Reporting Standard Item NumberEntity Shell CompanyEntity Public FloatEntity Bankruptcy Proceedings, Reporting CurrentEntity Common Stock, Shares OutstandingDocuments Incorporated by Reference [Text Block]EX-101.PRE
+5
+cat-20260407_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+GRAPHIC
+6
+tm2611571d2_8kimg001.jpg
+GRAPHIC
+
+begin 644 tm2611571d2_8kimg001.jpg
+M_]C_X 02D9)1@ ! 0$ 8 !@ #_VP!# $! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_
+MVP!# 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_P 1" E -T# 2( A$! Q$!_\0
+M'P 04! 0$! 0$ $" P0%!@<("0H+_\0 M1 @$# P($ P4%
+M! 0 %] 0(# 01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$ P$! 0$!
+M 0$! 0 $" P0%!@<("0H+_\0 M1$ @$"! 0#! <%! 0 0)W $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,! (1 Q$ /P#P[_@OM_P<
+ML?MC^$?VP_BK^Q]^PKX^B^ GPY_9V\4ZI\./'/Q/\.:7X?USXC?$[XD:(]M;
+M^,DAU?7].UFT\(>$_!^N0:CX6TK2]!M8=7U*^L]8UK7-8N$N]&T?P[^+7AS_
+M (+=?\%XOV+/&G@G6/B+^T?^TKITGC+POX=^*WACP1^U3X4U#Q)X;^)7PW\2
+MPZE:^'/%NBZ5\4M!74]4\ >)!;:E'IOB3P5J5AI^I7FF3FRU=KW2V-O\*?\
+M!5QF/_!3_P#X*)DGG_AMS]J1^#K"XN;W2O#OQ$\$ZY=^%O%MMHES=A;V;0+W5--?6=!6^+WMKH^IV5I>7
+M6H7%O+J%S_G^_P#!2/\ X.6/^"H/@3]OC]KSP!^SA^T?-X(^"'P[^/?Q"^'/
+MP\\+W'PX^%FLMI>C_#W6IO!-PT>JZAX5U"^OK?4M6T'4=8MKB\O[N=HM00&;
+M8$C3^E'_ (-X_B7J?[&O_!O%\2_CC\0?!^L:-=_L^2_MD_&/4/"?BO3+_P +
+M:AJ:?#ZSU7QE::4;;5;>RO$;7'TJ+2[)UCWS7-PEO;[YE6,?Q)?\$'/V0KO_
+M (* _P#!0/Q-\)=>U!KFZ\1?LM?MF7]_KNLVZ:Q''XI^(GP"\>_";P_XEU6:
+M]CN ;S2?&OQ3TCQ3;Z@X>Z35M+M[J!_M"K*H!_6S_P &UO\ P69_:Y_;WTO_
+M (*!_#[]KKXS)X_^)'PI^$7A3XQ?!+4XO!?A7P[/HN@V-EX_T'XCRW#^'=)T
+MS2[J'3/$-S\*+[38+[3Y[AKB^U5I+B6T5+:+^5:/_@YM_P""U\<4<9_;+U*4
+MQQI&99/A?\'C+(415,DNSP&BF23&^0JB*79MJJ/E'I7_ :Q_'5O@G_P6(^"
+MO@_5C(OAW]HCPA\4?@%XETZYNH[/3KF76_"MSXLT"VUBSNOW6I+)XI\%:5IM
+MOIL\+M+?W\,42F20BOWK_P"#S3X&_!/X/_LQ_L32?"7X-_"GX6R:I\!2"1QD8(Y&1@U^PG_!8?_@N7_P4
+M]_9'Q-\7?'WB[XTZ?
+MXM\9;]5\)7[V4^M6/AK0;::PT^6WTF%-,A:TL;>22Y>?H/\ @RQ^$7PF^+7B
+MC_@H?9_%7X6_#?XFVND>'OV9I](A^(7@7PMXT729;O4_C@EXVE_\))I.IG3A
+M>K;VPO5LS"MX;6T:Y$K6EL8OE;_@\\T31O#?_!3;]G#P_P"'=)TS0=!T3_@G
+MC\(M+T;1-%L+32M(TG3+']H3]J>WLM.TS3;&*"RL+&SMXXX+6TM((K>WA1(H
+M8T154 'P*W_!S=_P6O4E6_;'OP0<$'X7?"#((['_ (H:OZL/^";?_!4C]NOX
+M]_\ !O%_P4W_ &W/BE\=]1\1_M-? WXC_'71?A1\2?\ A$_ FGS^#=*\&_ /
+M]G3Q5X>L[+1--\,VOAV^CL/$7B_Q/JP;6=+U*6:YUNZCG>6TAL[:U]+_ .#<
+M?]J/_@FY\,_^"0?[,_@S]HSXY_L:^"_BQI7B'X^MK_AKXN^-_A!HOCW3[>_^
+M/WQ)U'1FUG3?%=[#KMO%>:-=:?>:8][$$FTN:SDM6:U\K'ZH_P#!5[Q)\"_&
+MW_!$/_@H%XY_9UU/X9>(?AAXR_9B^*FLZ1XK^$,WAJ]\$>*;FUL(?#]]JMCJ
+MGA+=HVK7,#Z+'HES?1RSS+_8Z:?)+ML(XXP#_/!T_P#X.7/^"X&KW*6>D_M;
+MZ[JEY(DKI::?\(_A/>W3I;Q--.Z6]MX"EF9((5:69PA6*-2[E5!-?27[,'_!
+MVK_P55^#'Q*\,:I\>O%O@O\ :9^%<'B"S?QW\/O%W@+PKX,\2ZIX=:YMXM:M
+M_"7CKP3I&B:AX8\206<%S_85]J=AXCT&SU5Q+K7AK6K5);!_!?\ @UX^(W@/
+MX4_\%A/@;XU^)GCWP=\-?!FG_#WX[V^J>*_'GBS0_!?AFT>^^%?B"TL[:]US
+MQ'J&F:5#+>WLMM;VEO-=B2YNGBCA1Y-HKPS_ (.%OB1\#OC!_P %BOVT/'W[
+M./B#P=XP^&&O>+OA]!:>)_A[-87WA/Q)XTTCX._#K0OB=K.D:EI!DTW76U+X
+MEZ=XKFOM?T^:ZM?$&J->ZM!>7B7BW4P!_;K_ ,')O_!5/]I/]E3]C']A?]I/
+M]@SXRW7PVL?VCO&!]0
+MAN9QI[K/%=(UNUT\:R1O_'1:?\'*_P#P7%O[2\O[']K/Q!>V.G(DFHWMI\(?
+MA3&T5DBE=6N'C!6.1@<(Q'[,_P#!QW\-?%OP;_X(<_\
+M!$;X5^/+2>P\:> ]#\&^'/%&GW4>>1!]E6QW+="4^7Y) EPAH \G_X(A?\'1G[8'Q/_;)^"O[*7[>NL>#O
+MBS\//VAO&&A_"+P9\4-.\':=X.^(GP]^*'BZ[ET?X#K"RT'QCX4\8^,
+M-0TGP7KUGJNDV&H: VLZ=XNMO$<.G>'M3T'Q!YI_P7C_ ."Z?_!47]C?_@K%
+M^UK^SG^SQ^TU?> _@[\/+SX)GP;X/7P%\-=:AT1/%?[./P@\:Z['#J6N>$M1
+MU:X2^\3^(M:U5_ME]'QHQMRYDE,FT6_E%BTF_&=S9)_5'_@Z#_P"4Z/[=/_7U^SC_
+M .LC_ 6@#^NS_@IG_P %,OVV?V?/^#=__@G5^VQ\*/C7>^&_VF?C3/\ LH1?
+M$[XFGPOX,U&\\5K\0O@#\1_%_C$W6B:AX?N/#5DVM>(M"TK4ICIFCV2V[6BP
+M62VML3$?._\ @U>_X*I?MV_\%$?C3^UUX<_:]^.=[\6="^&GPO\ A?KG@O39
+M_"G@GPU#HNK:[XP\0V.K7TZI\"!X4\7VFE:%K4VFP
+M^*/VA?A=X/\ $-O_ &;XDTS5](GAU?PUK^KZ1<&>QDEC@O99+66WNEBGC_F[
+M_P"#8K_@L/\ \%$?^"@G_!0KXA_!G]K']H.]^*/PTT#]DSXD?$33/"\O@SP!
+MX=@A\9:1\4_@=X?TO6S?>&?"^DZH\]CI'B?Q!90P&^^QM'JL\D]O+-%:R6_[
+ME?\ !T[_ ,H-?VR_^PE^S3_ZU5\%Z_D!_P"#+O\ Y2M?%S_LQ?XL_P#J[/V<
+M* /]1*OX"?\ @YS_ ."TW[>O[$__ 4&\'_L]_L>_M"7GPC\&:#^SMX*\6>-
+M=)T/0/ _B&34?'7C7Q5XVNGEU<^*?#.N75A=6GA;3/#4EI;VUS;Q266I+<26
+M[&6.5O[]'8(I8C(&.![D#O\ 6O\ (:_X*^?$#3/VK/\ @XO^.S1Z;+=://\
+MMI_!S]G*?1)=]^ER?@M)\-/V>/$4,,%P!'Y&M:SX%UG46LE40&74Y\[P[2N
+M?MA_P; /B3I,5O+?_V?)_;32S6\US#9
+M/#^_'_!T#^W+^U!_P3__ ."?_P )_C5^R7\39_A5\1]?_:[^'OPWUCQ#!X?\
+M->(WO_!.M_!_X\>)=2T-[/Q3I.L6$,=UKGA#PW?M=P6L=ZC:8L$"]8^*'CC]GKQ
+M#&K(49K>[\(^(-2L^3AH9]KJRDH?[%_^#TL$?\$JO@@#R1^WE\* 2.F1\ OV
+MG0>O/YT ?R!:9_PAVIO=:N]-^#?PMO[;2+(1
+MS2&\U2>U^'\L6GVHCM[B3[1=M##L@F;?MBDV_K%_P2%_X.L?VTM1_:N^#GP$
+M_;TUOPA\9O@K\9/&GAOX7GXAVO@K2O!_Q&^&'B?QCK,6B^&_%QG\$:;::5XP
+M\,C6-3MK+Q7H>J:!)JJ:7+%J^A:U:3:--I&NQ_\ !FK^T#\!?@!XK_X*(ZO\
+M>OC7\)O@UH>K>!_V=I=/NOBK\1?"/@&UUJ/0M4^-5YK7]E+XKUC2O[9&E6-S
+M'-J<>G+=M:07MN+A%^VP+-_,;\(/#5I\:?\ @IE\/O#?P'TRYNM$^(_[;OAZ
+MW^%6F:+83QSKX$UL=.)^T6Z66@SVLZ6[L'M8+=ED<&,F@#_1X_X*
+MQ?MW_M/_ QU_P"*'C#X;^-=<\.?"CX+_M/:3^R%IGPL^'VL>*?"7BCQSX^A
+M_8'^(/[=OQ ^+7CCQY\-/AA\9/BK'IFGZ!I?@SX6?##P%X6\(:5X3L+^X\9?
+M$KXK:CK>A#2&\"?J[_P3<^,_Q@^(7A+QE\._C3XDM?B'K7P]\-? CQSX-^*3
+M:EX:U/Q5XM^&G[0/PHTOXG>&=%^).I>!=&T/X;^*_B'\.]1N/$/@G6/B?\-M
+M*T/P9\6M(TK0/B%9^%/"6I:]JNA6C?VH/^":G@7]H7XIR_&SPK\0M8^$?Q"U
+M:.QB\;P-X'\ ?%?X<_$&_P!*^'GCCX0:-XUU_P"''Q)T;5-)L?B9HGP?^)_Q
+M&^%6F_$'PQ?:'K%YX \87'AWQ(OB"TT'P@GASZ$_9%_9"^'/['?PZN/ O@.\
+MUCQ'JNMS:#?>-_B'XL_LJ3Q=XUU'POX0T#X?^%XKR+0M+T+P]X?\+>"O ?A3
+MPQX'^'W@3PMHVD^%/!'A'0=/T;1=.C"W5S=@'^-E_P %7/\ E)]_P42_[/=_
+M:D_]77XUK_5F_P""C7_!;C]CG_@D[J_P2\&?M1Z/\:[_ %+XR^"=8\3^$;GX
+M5>"/#_BS3X;#PE<:'I.IPZU/K'C;PK<6E]+<:Q;/9Q6MI?0O;PSO<7-O(8(9
+MO\KK_@L!X5U_P?\ \%5/^"B&B>)=,N-*U23]L;]H/74L[C8)&TGQ;\2?$7BO
+MPY?@JS(;?5/#^M:5JMNX;YK6\B8X)('ZW?\ !QK_ ,%+/V_86M_V
+M*;?XG?$#4_!'P8U#0/$.@:E\/-=TGQ-'\2_BCX@\/2V?PFTGP\L%UJ?BCQKX
+M=?0!::S<^$TU_P (:G?:MIUMX/\ $GB/;>RP-*[2[NP?UV\^OI_6A_2W_P %
+MFO\ @KO\#/VP?^#>7XX_M#?LZ6_CC2/!_P"T1\6/#G[*^@6?Q/TRP\&^+Y]1
+MTOQMIGB/QOE:!XE\2VT]E/X:\+:I'&DNJ,+K39;V&_L[<%HV_ S_@@1_P
+M26_;JNK#7/VRKW]J/XN?\$U_@Y\5OAM?^#?AKXX^'^B6E[\;?CW;:S<:5K?A
+M[5_#O@W68XEM_@-H>O:?X=\8^(_%6IRZ;+XZL=,L_#?@/S+?6[KQIX9_>W]@
+M3_@EAX%^#W_!-_\ 8B^ /_!0CX?:3\0_B;\%?BW\5_VKKK]E/6KS2O$?PNTO
+MXF_$ETL?AM)\>8(+>:W\47GPV\%3ZF+SX61:C=^$]?\ $7BN^T[Q;_;.C:.J
+MO^J_B7Q/K_B[6+SQ!XDU.;5=6NWW2W-P454B0'R[:UMU"Q6EE""1;6MND44>
+MYG$8D=RW^9YNZ^5Y TY4Y
+M**IX_,U:23P,:L7&EAE)+FQM:#A-IPP]&M[U6'^:E^TQ^R]^U]_P18_X*'?!
+MGXJ_'#0;3QCK7@#XY^"OVEO@W\8-"EN+GX3?M'V7P^^).B^/9]8\->(8;:W6
+M.2^OX+>P\<>#[V*T\0^%)=6CM]3TW^S=2T;4-3_K-_X/5?$.A^+OV/\ _@GU
+MXK\,ZC;:QX;\4?%_QSXC\/:M9[_LFJ:'KGPRT?5-)U&U\Q(Y#;WMA=6]S"71
+M&,>';TPP>*? _
+MB%(;F'3_ (C_ F\42I)<^!/B+H(N99;#5+![>RU>-[C1M?6?2-3U%)?P"_X
+M.C_@WK7P\_X)-_\ !,+P#H7C#7OCAX3_ &=O'NH?"+6/C#/X5_L-HM.TCX86
+M?ASX=Q^/K73)M0TKPSXEOO#^C66EW"W%U:6^MZOIM[>Z=;P0W45I%^T?18^E
+M_P"'WTGN'J<,O>'X7\1\IP4)\4\!8O&1GB:;I1A'$9SPYB*SI3S_ (!SO#4*D*&89C\[QOP#F_!6-E'$*6,RFO4:P&;4Z?+1K*2YH4,
+M3"+DL)C(QO&5*5_P8X?\ (Y?\%'_^Q9_9>_\ 3K\=:^)O
+M^#U;_E*;\ _^S /A9_ZT5^U57VS_ ,&.'_(Y?\%'_P#L6?V7O_3K\=:^)O\
+M@]6_Y2G? +_LP#X6?^M%?M5?2OZU/A3\L_V/O^#?+_@IU^W9^S]X*_:>_9N^
+M$_@7Q9\'_B#=>*K/PQK>L?&/X;^%=2N9_!?BW6_!&O)=:!K^OV>K6'V?Q!X>
+MU.W@^UVT1NK:.&]@#6US [_W,Z_^R]\9?V+_ /@U+^.'[,W[0'A[3O"WQ<^&
+M/['OQ_L_&&AZ3K^C^*-/T^YUOQ]XS\2Z?'#KV@7=[I%^TVD:U87,S65S-'!-
+M+) \C2QN!^+W_!%?_@YM_8&_X)Q?\$Y?@?\ LB?&[X5?M<^*OB5\.-6^+FI>
+M(-9^%?P_^#NM^!YXO'GQ>\<>.]&ATG5/%WQY\$:[=2P:'XBTZ+4OM7AJPCAU
+M-;NWMGO+:&*]G_]TJS\"_$'XC:;-H9TKQII5O%&[J
+M&2[,4=S-:Q,TZ>LMH?QW_P""*'_!21M!^,7PB^"/Q+^-?[)OQ$T"^U3P'\2-
+M#@^)WPD\3)=:;HOC'PUXFT2/4K33IO+U[PIK6D>)? ?BN33=.\3^$KK4M-\0
+MVMAHGBO2;==/_0[_ (-/O^4UG[/O_9//C_\ ^JA\3UP__!TN /\ @N?^VI_U
+MY_LT_K^R;\#B?S- ']!W_!W/\;?#W[2G_!,__@E[^T'X3M)+#PU\;/&__"T=
+M%L)IC.*..147^-[]C
+M;_@G-^WE^W9H/Q&U#]C?X(^-OC#H?P_O?#VD?$<>%-?\.Z1;Z7=^*K+6[C0+
+M74K77?$6AM?KJ%IHVM!3#!=PPI"\<[QFZB23^FG_ (+W_P#*OU_P08_[$CP%
+M_P"LZZ/7VS_P8Z_\DP_X**?]CY^S9_ZCOQCH ^0?^"&O_!L/^VMX6_;.^"7[
+M5?[=O@?2?@7\(OV=?'&@_%SP]\/+_P 5Z#XC^)?Q.^)?@J\77_ASI\6E^$=1
+MUO2O"OA#P[XQT_2?$_B[4/%&I17VM6FD6_A'2/#E];^)=2\2>%OQY_X.@_\
+ME.C^W3_U]?LX_P#K(_P%K_8"K_']_P"#H/\ Y3H_MT_]?7[./_K(_P !: /W
+M[_X+._\ *IK_ ,$F?^OO]AW_ -9=^+M>0_\ !D+_ ,G!_MZ_]D:^#/\ ZG/B
+MBO7O^"SO_*IK_P $F?\ K[_8=_\ 67?B[7XM_P#!N'_P5S_9?_X)+?%/]I[Q
+MM^TWX=^,OB'2OC'\/_AYX6\*0?!WPIX4\4WUOJ'A;Q)K>KZG+KOY
+M ?\ @R[_ .4K7Q<_[,7^+/\ ZNS]G"OV(_X*I_\ !:3]D[_@KE_P0^_X*8VG
+M[,GA;XZ^&Y?@9;_@I9^S[_P2M_;<\?\ [1O[2.B_%'7O
+M OB3]F?QS\(M+L/A'X;\.^)_$W_"5^)?B1\(?%5A-=6'B?QCX(TZ#1H])\#:
+MV+J\35IKI+QM/@CL)8[F:XM0#_8 \2:[IGA;P]KGB?6KD6>C>&](U'7]7NV&
+M5MM+T:TFU+4)R"R#$5I;3..?$GC35[#0- DTO\ X6C?_%3Q'J>M:KJUW:6-E%<6UI=R
+MYN;N,//+';HYEDC5O[N_%7_!R=^QK^W#^Q-_P4MA_9CT'X^>"/'7P+_8=^+/
+MQ'76/C?X(\"^%_#-Q>^)(;?X6>$=*TN\\)?$[QWJ%QK^H^-_&_ARSM+6ZTZQ
+MM'%UO6^\V(Q'_.&_8C_88_:3_P""AGQM'[//[*W@[3?''Q//A+Q!XYETG5O%
+M'ASPAIT'AGPN]A#JVHW&N>*=0TS2H!#/JVGVT,+70GN)[R*.)&)8J ??M=^/OA+XH\'>-]'L_VE?#G[1?ACQ)X,UK3/$'A75M7^(FD^
+M"_C[(_%=YIVL/;S3K'K-MJ$$H$L4B+_9G_P 'A?BRT\>?
+M\$;?V6O'-A-;W-CXS_;$^ ?BRRN+219;6>T\1?LT_M(:Q;36TJ%DDMY8;Q)(
+M9%9E>-E9200:_P _G]NK]@/]I[_@G'\8M*^!'[6'@W2? _Q(UGP'H_Q'T[2]
+M$\7>&O&MA-X3U_5_$&BZ?=_VUX3U'5-*2Y?4O#>KPSZ>]T+RW2*":6%8+JV>
+M3^M+_@KO\;;?]H+_ (-+_P#@D9\0;>.9#IOQD_9W^$E[)<7$UW/>:U^SW\"?
+MVKO@#K^I3W%PHFEGU76OAG?ZE,9"^)+M@)9E D< _F__ ."77_!'/]I__@K?
+M+\?+']F7Q=\%?#VL?L^>'_!NO^(M(^+WB;QAX7G\4CQV_C�-*\'7?AOP%X
+MSTV34Y+OP9=VMR?$U[X9TRW?4=.D.I-#]MDL_6?^")/[:FM_\$T/^"F?PMNO
+M&7P8^'/BNXU?XJV7[/WQ)F\9>#]+UKXG_"JU\5:[:;+L\2^'EUOPIJ$W]DZW=Y_H+_P"#'( _$?\ X*-9'_,D_LR_
+M^G[XVG^8!_"OY.O%//\ P50\1^__ 4!U?MQ_P G%W';I^% '^WHA.&##&UB
+MHP, KP5(_P" D ^A!';)?35Z'_>?_P!"-.H _!3_ (*G?\&\G[$?_!53QSHW
+MQE^(-]XZ^"GQZT_3;30=>^*_PB;P_#??$+PYIL*6NB:=\0M \1Z3JVD>(-2\
+M.6D*Z;H'BB%=.\1V^C&+0]3U'5M)TS0+/1\'_@FI_P &Z_[&O_!,#5_%GQ)^
+M&?B'QC\5?V@?$*G2?"_QT^+.C>#-6\2_"7PU/;&UU'3?A5HMCHMKH7A;6M1>>)KO3Y6T:UOK#1;K5M/U4HKBS' X?,\OQN6XIXA87,,+7P.)>$
+MQN-R[%?5\73EAJZP^/R[$X+,,%6E1K5(PQ6"QF%Q=!R]IA\11JQC4AI2FZ=6
+MG4BHN5.<9QYX0J1YH-2BY4ZD9TYI2C%\LX3B[6E&2T?Z8O\ L=:)<22W%Q\0
+M/$]Q<74DESYGDDF=W=F8ECE#^QGX=
+M /\ Q77B#CC']FZ0.O/_ #R..OOW]:**_EJK] WZ(]:K4K5O!3(*U:K5JU:M
+M6KG7&M6K5JUJLZM6K5J5>-*E2K4J5)SG4J5*E2I.'RV$(Q@E"$8PAED(Q48^[%1BDEHDEH(/V-?#P)(\=>(,G
+M<"?[,T%O#OB+P)X]\.7+$SZ1XCT"_MI;*[4$>997HB2_TV?%Q97$,V6)17IY%]
+M#3Z-' N:X/C#@[PMR_AKB?AZI_:.39YE'$'&N$S# 8NA!SA.E6AQBU.G)0]C
+M7PM>GB,'BL-4KX3%X3%87$5L//GK^(W&N:X>K@,QSZOC<'B^6EB,-B,+EM2E
+M5IR;TDGER:DK)PG"4*E.24J=2$DF?(G_ 2__P""*?[-W_!*#XG?M/\ CO\
+M9M\:?$F]\*_M+W/@ID^&OC>]TW6]*^%^D>!M0\9:GHN@>%_$AM(_%&MV,!\:
+MZA8+=^+-0U?5WT^RTX7VHW^H)>:C>_.W_!6?_@W:_9__ ."N/[1W@S]I'XK_
+M !^^,7PKU_P5\$_#GP0LO#OP\TKP5>:/>:/X:\>?$KQU!K5U<>)-*U"^&I75
+M[\2=1L9H89$M%M=.LG1/.>9F**_IV+;BFVVVM6W=OYO[O1);)'SA^7W_ !!'
+M_L7_ /1Y'[3_ /X(?A3_ /,U7ZY_LM_\$#_@E^RK_P $X_VMO^";?A/X\?%C
+MQ%\.?VN-<\6:[XF^(6O:/X*C\:^$I/%W@CP+X&U&VT&UL=*AT.[B33_ ]I
+70A=+58((
+MBB@#Z _; _X-^O@I^V7^PY^Q9^PUX]_:%^+^@>#_ -BK3++2?"/COP_HW@E_
+M%GC6TTSP='X)T_\ X2:VU'2[G2+::WTJ"W9I-+MX?.G1GD7+@I[5_P $?_\
+M@C!\(?\ @CQH/QW\/_"3XP_$KXM6GQYU?X?:QK4GQ&T[PII\N@S_ ]L?%EA
+M9)I7_"+Z;IZS+J47BRX:^:]$I5[*V,&PR7!D** /V7K^7+_@H7_P:R_LR_\
+M!1/]L7XR?MD_$/\ :9^._@+Q=\99_ TVJ^$?!FC?#^?P[H__ @OPT\&?#*Q
+M33KG7-%OM3E%YIO@NSU&Z-S.VV]O+E(0D"Q*"B@#[3_:M_X(@?!S]K/_ ()I
+M?LQ?\$R_%GQK^)_A?XV-M%!)]G>=)/Q<_X@C_V+_\ H\C]I_\ \$/P
+MI_\ F:HHH ^PO@W_ ,&K/[,_P7_9,_;*_9&T/]J'X\:MX/\ VST^ (/"*_ /XHVOQ3T8^&EM-#@LYWU_4K2+3-5&JQW4-O8CS;*%+DN[_'O
+M_$$?^Q?_ -'D?M/_ /@A^%/_ ,S5%% 'T/\ "/\ X-'OV7O@Y\(OVJ/@]X=_
+M:T_:&N]%_:P^&?@+X7>,]5O]!^&XU70-$\!_'/X9_':VNO#[VFB6\1O-4UOX
+M8:7H%^E^ES:-HFJ:HIMWN6MI8/K7_@D]_P &Z?[/G_!)7]H[QA^TE\*OC]\8
+M_BGXB\7_ 6\3?!:Z\/?$+2_!%EHUEI'B;QI\/?&EUK-I/X;TBPO_P"U+:Z^
+M'EC8V\;S&U^RZC>LZ-(L6"B@#H/^"MO_ ;W_L\?\%<_C1\.?C=\4OC3\5?A
+M)XD^'?PW;X9I:_#C2O!M[;:_I2>(]4\265[JD_B72M0N5NK&?6KZUACMW6#R
+M'5@J2>89/-O%O_!MG\#_ !I_P3%^&'_!+C6_VH_CI/\ "3X2?M-ZA^TGX0\=
+M?V)X /C6SN=2\-?$/1[GP +=](;0D\--KGQ.\4>+#>1V2ZH=2NC;&;[*[@E%
+M 'T!_P $@_\ @A?\%?\ @COX@^.WB#X1?&SXI_%A_CSH_P /-'URU^(VF>$;
+M&/1$^'FH>+K^QN-+D\,:;I[ROJ!\774-TEV'6-;6%HB2S ?F?X__ .#/?]D_
+MQ?\ M!>-_P!HC0/VN?VD/ WBGQ1\9/$WQIT/2],T/X8ZKIG@[7M;\;WOCG2]
+M/L'U;P]/=ZG8^';^Y@MK:34I'GOH+-'O&,DLE%% ']>5I%+#;PQ33M=31QHD
+?URZ+&UQ*B*CS-&GR1M*RF1DCPBLQ" +@"Q110!__V0$!
+
+end
+XML
+8
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Apr. 07, 2026
+
+Document Type8-K
+
+Amendment Flagfalse
+
+Document Period End DateApr. 07, 2026
+
+Entity File Number1-768
+
+Entity Registrant NameCATERPILLAR
+INC.
+
+Entity Central Index Key0000018230
+
+Entity Tax Identification Number37-0602744
+
+Entity Incorporation, State or Country CodeDE
+
+Entity Address, Address Line One5205
+ N. O'Connor Blvd.
+
+Entity Address, Address Line TwoSuite 100
+
+Entity Address, City or TownIrving
+
+Entity Address, State or ProvinceTX
+
+Entity Address, Postal Zip Code75039
+
+City Area Code972
+
+Local Phone Number891-7700
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Entity Emerging Growth Companyfalse
+
+Common Stock [Member]
+
+Title of 12(b) SecurityCommon
+ Stock ($1.00 par value)
+
+Trading SymbolCAT
+
+Security Exchange NameNYSE
+
+Sec 5. 3 Debentures Due September 152035 [Member]
+
+Title of 12(b) Security5.3%
+ Debentures due September 15, 2035
+
+Trading SymbolCAT35
+
+Security Exchange NameNYSE
+
+XML
+9
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+10
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+12
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.26.1html3231false20false0falsefalseR1.htm00000001 - Document - CoverSheethttp://cat.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportscat-20260407.xsdcat-20260407_def.xmlcat-20260407_lab.xmlcat-20260407_pre.xmltm2611571d2_8k.htmtm2611571d2_8kimg001.jpghttp://xbrl.sec.gov/dei/2025truefalseJSON
+14
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "tm2611571d2_8k.htm": {
+ "nsprefix": "CAT",
+ "nsuri": "http://cat.com/20260407",
+ "dts": {
+ "schema": {
+ "local": [
+ "cat-20260407.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "cat-20260407_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "cat-20260407_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "cat-20260407_pre.xml"
+ ]
+ },
+ "inline": {
+ "local": [
+ "tm2611571d2_8k.htm"
+ ]
+ }
+ },
+ "keyStandard": 23,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 0,
+ "memberStandard": 1,
+ "memberCustom": 1,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 3,
+ "entityCount": 1,
+ "segmentCount": 2,
+ "elementCount": 65,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 26
+ },
+ "report": {
+ "R1": {
+ "role": "http://cat.com/role/Cover",
+ "longName": "00000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "AsOf2026-04-07",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "tm2611571d2_8k.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "AsOf2026-04-07",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "tm2611571d2_8k.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentDescription": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentDescription",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Description",
+ "documentation": "Description of changes contained within amended document."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AnnualInformationForm": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AnnualInformationForm",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Annual Information Form",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_AuditedAnnualFinancialStatements": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AuditedAnnualFinancialStatements",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Audited Annual Financial Statements",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "auth_ref": []
+ },
+ "us-gaap_CommonStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "CommonStockMember",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Common Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CountryRegion": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CountryRegion",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Country Region",
+ "documentation": "Region code of country"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentAccountingStandard": {
+ "xbrltype": "accountingStandardItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAccountingStandard",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Accounting Standard",
+ "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentAnnualReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAnnualReport",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Annual Report",
+ "documentation": "Boolean flag that is true only for a form used as an annual report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r11",
+ "r13",
+ "r14"
+ ]
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "xbrltype": "fiscalPeriodItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalPeriodFocus",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Period Focus",
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "xbrltype": "gYearItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalYearFocus",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Year Focus",
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodStartDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodStartDate",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period Start Date",
+ "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentQuarterlyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentQuarterlyReport",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Quarterly Report",
+ "documentation": "Boolean flag that is true only for a form used as an quarterly report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r12"
+ ]
+ },
+ "dei_DocumentRegistrationStatement": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentRegistrationStatement",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Registration Statement",
+ "documentation": "Boolean flag that is true only for a form used as a registration statement."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_DocumentShellCompanyEventDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyEventDate",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Event Date",
+ "documentation": "Date of event requiring a shell company report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentShellCompanyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyReport",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Report",
+ "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentTransitionReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentTransitionReport",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Transition Report",
+ "documentation": "Boolean flag that is true only for a form used as a transition report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r15"
+ ]
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentsIncorporatedByReferenceTextBlock": {
+ "xbrltype": "textBlockItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentsIncorporatedByReferenceTextBlock",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Documents Incorporated by Reference [Text Block]",
+ "documentation": "Documents incorporated by reference."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCountry": {
+ "xbrltype": "countryCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCountry",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Country",
+ "documentation": "ISO 3166-1 alpha-2 country code."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityBankruptcyProceedingsReportingCurrent": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityBankruptcyProceedingsReportingCurrent",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Bankruptcy Proceedings, Reporting Current",
+ "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityCommonStockSharesOutstanding": {
+ "xbrltype": "sharesItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCommonStockSharesOutstanding",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Common Stock, Shares Outstanding",
+ "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCurrentReportingStatus": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCurrentReportingStatus",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Current Reporting Status",
+ "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityExTransitionPeriod": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityExTransitionPeriod",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Elected Not To Use the Extended Transition Period",
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+ }
+ }
+ },
+ "auth_ref": [
+ "r19"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityFilerCategory": {
+ "xbrltype": "filerCategoryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFilerCategory",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Filer Category",
+ "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInteractiveDataCurrent": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInteractiveDataCurrent",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Interactive Data Current",
+ "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r16"
+ ]
+ },
+ "dei_EntityPrimarySicNumber": {
+ "xbrltype": "sicNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPrimarySicNumber",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Primary SIC Number",
+ "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_EntityPublicFloat": {
+ "xbrltype": "monetaryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPublicFloat",
+ "crdr": "credit",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Public Float",
+ "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityShellCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityShellCompany",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Shell Company",
+ "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntitySmallBusiness": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitySmallBusiness",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Small Business",
+ "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityVoluntaryFilers": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityVoluntaryFilers",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Voluntary Filers",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityWellKnownSeasonedIssuer": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityWellKnownSeasonedIssuer",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Well-known Seasoned Issuer",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+ }
+ }
+ },
+ "auth_ref": [
+ "r17"
+ ]
+ },
+ "dei_Extension": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Extension",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Extension",
+ "documentation": "Extension number for local phone number."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_OtherReportingStandardItemNumber": {
+ "xbrltype": "otherReportingStandardItemNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "OtherReportingStandardItemNumber",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Other Reporting Standard Item Number",
+ "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r7"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r9"
+ ]
+ },
+ "CAT_Sec5.3DebenturesDueSeptember152035Member": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://cat.com/20260407",
+ "localname": "Sec5.3DebenturesDueSeptember152035Member",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Sec 5. 3 Debentures Due September 152035 [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_Security12gTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12gTitle",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(g) Security",
+ "documentation": "Title of a 12(g) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_SecurityReportingObligation": {
+ "xbrltype": "securityReportingObligationItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityReportingObligation",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Reporting Obligation",
+ "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r10"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r8"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_StatementLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementLineItems",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Statement [Line Items]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_StatementTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementTable",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Statement [Table]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://cat.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r18"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-23"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "g"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12, 13, 15d"
+ },
+ "r7": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r8": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r9": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r10": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "15",
+ "Subsection": "d"
+ },
+ "r11": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-K",
+ "Number": "249",
+ "Section": "310"
+ },
+ "r12": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-Q",
+ "Number": "240",
+ "Section": "308",
+ "Subsection": "a"
+ },
+ "r13": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 20-F",
+ "Number": "249",
+ "Section": "220",
+ "Subsection": "f"
+ },
+ "r14": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 40-F",
+ "Number": "249",
+ "Section": "240",
+ "Subsection": "f"
+ },
+ "r15": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Forms 10-K, 10-Q, 20-F",
+ "Number": "240",
+ "Section": "13",
+ "Subsection": "a-1"
+ },
+ "r16": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Regulation S-T",
+ "Number": "232",
+ "Section": "405"
+ },
+ "r17": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "405"
+ },
+ "r18": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ },
+ "r19": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Section": "B",
+ "Subsection": "2"
+ }
+ }
+}
+ZIP
+15
+0001104659-26-042621-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001104659-26-042621-xbrl.zip
+M4$L#!!0 ( #R!C5R=*IG4J , -T- 0 8V%T+3(P,C8P-# W+GAS
+M9+56VY+:.!!]WZK\@]:O4[X 89(AD!0+-0E53)(%E@
+M-++(F]?/_B+X=?^V;7+-( H[9"@">\3GXA5Y3V/HD+? 05(MY"ORF4:IL8AK
+M%H$D Q$G$6C B=Q3AUPZ;4IL^PC9S\!#(3]-1I7LK=:)ZKCNWTO$_%_XD^C%[\+AZW^P#TQ?W_[;BFR_!N]QE5P6W$%.">\%5
+MSS+Y%>DM6XZ0"[?I>0WWZ\UXFN&L'-A918S?[8(WKJZNW&RVA-:0*U]&I73+
+M-=,^55 IXRP[@&=<:&5 DRF(CA01S#!H8@9X
+M &OJQNX.!+8/B["P9^7#-9U2*80YXRSS6IRU!K'-R4I- 7D,/<@$9!&IU%?8SO$+.PEVM86]SRR$U@3K*CVC'U
+MT;,4,[W2*FRW$N8]"]?;+G?R.V;M8.64"./@P$G-MFA[H0J_I02504VEUDE0
+M1"0@->1,&_K'-3?$^%$6Q"#*I Q3S9Y<\VYCL
+M1A,[K;-2X6.DIP3QN RG!5'RS@ABST6WR[_:!S<#4TSM8YWNN3 /.MW)<2'2
+MJK2<'<+Z]?H_8LAD3@KB]W?VOG!^Q\S^U5E%$(B4:_EP2B&L4\J?\W;C\6%T
+MW$:4^'P3S%OI7+=G5$'=^=X2*-Y5^;.E/_L^A:#MM(;@HS'%>VR8PA02#;$/
+MLM%N>JWV33:VLJA[U@EX%N$U9+JGEJEIJ.9MW<%&RT0XRZZ#,)596OB^O4_/_[@Z7\?_]5N>U<$TV#D77"_/64+_HOW
+M%:WQR/L-,RR0XN(7[QNBH3G"KPC%PIOP]89BA?47<<4C[_W9$'GM=H5BOV$6
+M,/Z(G+A[DF<_7U0J<*:1"N2^MN^TF_^+PCY2P
+MAY'Y,4<2>UHN)D=;2@D]+9EZR_#=0^( L>=N(OLU!24'2&M"0C
+M&;7D,_>1BCI(*2,/1)C?VBFL;0ZU>_WVH'>VE4$K]2D26W"*;_'"BQ09J=U&
+M=SI)3)]I)<=6 B_.6YJ4+J?_OONN^[,IY:<)USVYY9EXW4'V;#7.=(>..=Y)
+M,)UX'9 U9J:?M[RDHBR[?2F$J8Z&=A),
+MQUK Z_/>5]8.^!J1$TD?1SM@'-747N/UW%A[$MU\Z.MS192>QC *>'U>C*OQ
+MJ=32&*=]$B]02-5W=\HT/,]9'R:,F"'NL_XUQQMOE;[BX"!E;@HL'%F28*(,
+M+KF4]+RVN>Z$FH;2'V-DPB#E0+F?JYB:09>+8\5DVM0%DO.HO:%L+Q'::.WZ
+MPPZF2J9'S/ 8*Y@V
+M(*NM)M+RN BPT#.U[C,7RB4.SEM*A)8F.S9H0I&4UXN9XO[#>$NJ]*[CD!>U
+MS7H9+;,IKSY@$=16BUMOY4N6XD5R088,L6%?U(GCN4&9#:#"O)0Y9$6_VTPO
+M[GL6XB]E1WI5_*>CVW?[%;4.LFSP=I;Q]9JSB.>79(H(.G8(?07#\I-5P(R"
+MDX%78 P.8=\[AAUG:>.[^QGVAV>#"SS7G2846%Z$>(8W*J+1&_:[@R&HMPZO
+M&GUO.]EK8<&IC0!'LQ>YLDCLGRWY8R? )#XK](?GDT'_I;24/ROW!(*D:-6./) Z%K+7T@:U-]1SGO)%%$[L]CL:PC<1=:P0U2M];:2
+M!75VE.C&I-);'TR9!75%6N>1#=#;0AC4W%&"&Q.;:/H"T2D+\/9WO"L2_0#:
+M -5MC$'9'26V,;,;0=9([&;$+Q]8#K$-$-Y*&53>438;4[M#VVF@&T$6)%Z+
+M6FX $-( 'XJ8@W8X2F=CAE/F<['AF?O=$Q[JLW8WX4'A): PL '6E/,'#7*4
+M\\8\QT$@L)3)?Z9=O2);+/ &F &Q!A^ .C_R:9L
+M=FK#-T?_8]J@"XZRYJ1'F-LHT+*K'*366A\S!>5UE!J;:\Y88 1WZRRBWN(>
+M$@6U=93G?N;FJH6FML)0OJ["I=-?OK)#@\[+^NM;)YEI"D+[./
+MH5S2/P51FH]9WQ^RY X2\.3/"JVUU#!C4'9'*>>,4^)KA=CRBVZ'((C:-3_&
+MU5IP@"ZHMJ/L\D9@TP>PGN1'B^',)EUQO5A (S6,K[7Z);1!%QREF0?TIE*&
+M6)SJQ5%4DQRQDP=]<91RSK ?ZH%RU^O/[\Q.=& D.D#56G(
+M+3&\HL.&K+78(&%09YO/ MJPT5B^;-%8O*XS5CC+-E%2\4%^?=]=S2I8(
+MWA%8$- (]2'>D!&V-KV&$?%^+?,.-K&.6%WI#W8+K-!:BP\S!F5WM14V#(C"
+M04SPBC#$?)W,[1L%W"$HBZJW&57(@[XX?4[Z)Z;T=\:?V PCR1D.XL2BZ&D%
+M$%)K1\J9@W8X?7+ZC=.0*22B);<".#>LT ;(;V,,RN[T(6FRK'Q_Y8I?SEFD
+MOCVB 284$ >]V",:X$4!<= +IPN/HQ-UHMNS
+MY,5K!W+ !BA_S!<4W.EZX]D:4?HIE+H!LG#\R0$;(/@Q7U!PIRN*+]=8+/4P
+M^)O@3VJ5;.0M$MX:T #8-Z@$4Y7#E]NGU\L$.]J+'3A"-T$"^RD(?V'CK?-
+MCGW?+#6)YP0L0 )P ,;7VH,2VJ +CM+D:[7"(CLKBZB9QA0M!"F+JK4CE2B\+&=PM=8>H NJ[30+O@GGE/A7E*/">7\&U@"M#]F"4CO-?#\A
+M]B#"C?)W-X+[&)L'0W)_3E9(OBH5T ![JK<#-,[M5MSGUZC.5DA@>1VJZ,^E
+M:+:%-RX*XAI@4RE]T!W'KZ*2SUOVEX;7V
+MZK16@)9E4N^/G8,&ZNH?]'?)1O4$L#!!0 ( #R!C5Q(4!$=
+MUPL +B/ 4 8V%T+3(P,C8P-# W7VQA8BYX;6S-G6%OV[@9Q]\/V'?@
+MO#<;4,>)?>G07'N'U$D.P:5)5KN];8>AH&7:$2*+ 24GSK_[S;).B1L"RFZ8?!T<'A )$THLLX77\8?)D-3V?3
+MR\L!RG*<+G%"4_)AD-+!SS_]^4^(_WG_E^$07<0D69Z@,QH-+],5_1%=XPTY
+M0;^0E#"<4_8C^HJ3K=A"+^*$,#2EFX>$Y(3O* Y\@MX>'&,T'/8H]BM)EY1]
+M^7Q9%7N7YP_9R6CT]/1TD-)'_$39?780T4V_ F)_0R4;BDW#H_%P[QIEE4$C
+MUV9O"8OI\CQ]G6L]VI-]_MUA^1^H0#W>>17F-,?)J\S7(YW;OB:O.^/[./=G
+MFG?SY'5GNA;Y?[&=FY9??'KMYS41&Z_XIX9%LLOY $:6RJ0HHJ4'ED>0 T-9
+M=E4ZC1KE)J(WI\RLNQ@999DKG"UDP=MLN,;X@1]@?#PB29ZI+4.Q19Z$A&^8G33RT9YSF@/\;=D495?G&1N :A(0\9(1K!/.+1\?APH%RY%7@:TAD'K*"85WC%JM64 HT3H
+M=RD+" @^?R.7_&/GA*[X R)5I?W^>]S0%#>DLK"1(:QPU\R@^\
+M% >_2/#:8E_;[ZJ)K;94&S=V!M'(-D=Z*U<:)$2^FOF,9!&+'\1]T+9Z-&3.
+M&]UBTFC[FB8L!$QC, DUK:>._3-9QUG.Y(WQ:L1IZ<8 O>NNO]6V/A98Q4%
+MT\:"L#9^FS#4U-I,Z+'5-4(Q8C(%H%%I4B#T1
+M\<\M9CEAR7,G%(;2-1> 51T-3184'79O(""5W"\CY0;&+7M,"&=5Y,95#$@/9 9F0$
+M*D/"P>;\4I_P&+;;^*G$P2*D.^Q)D0Q#(LX32;7G-SH8,I2N
+MZ0&LZMQHLJ"(L7L#62GD2.K]0W*>+GLA4NG\ *+9M.-1B@*$H^FL"PVN]@G&
+M19Q%."F\7/!M^L\K'5K7@(!V=4@,85"@0.Y 6(H Q8P,\0K,OPEF_7"I*?W
+M8EBUHU+) @1%]]:%B=![@62Z9:SA&AYQ8*DK3+K,*DX@71"@=)@S'C8JY U0
+M/(U YVD>Y\]B'<+UUO+4D5WBB@W(G&)"WQ\$"X IG8%"AH0.%4(O+:]^)4AS
+ML?H#K(XN,S&<7*9+LON5/(/U,G1N
+MF0!L-J'01 %187<&8%&*D50C+O<"QBV+-Y@]S^*H8Z@PA6[1@(PVV=!5 <$!
+M6 /H*-5H=CGU.9+,\>YRR4&-5W&QD*Z#$E#O%I8.VTUF '% Z+0[! CB0:@9
+MY1.DRS2B[('6'G>8TBWO )^G= G/4#JBW$+5JPI-M%I# @*LCT\ LT;HF^*9
+M%$3%^F=9 !(E>"'N=+GD)RHK_[F*4W($UM^J=4M7B]TF4Q9A0"3![@!^2N4;
+M]0&)&'23A@+-^ 55'?N'9MP7FG'0T(Q? \W\B08"S>0%59WXAV;2%YI)T-!,
+M7@4-;WBO?S@;5'I!QK1J!68O"P\7PUL7+") S&=$B$],Y,3J
+MAMTR^ABG$3QEAN1>@ %,6ZG1M.&A8S?8Q4\U(59Q7ON:8E+>^251,C^]3-.D
+MO8LI-.%!TC36V;D4:I](W-(LQ\E_XH?6"W&[V L>5L-62!K*\%"QV>L"IHA!
+M/,C'A76)J_A!P[J43-OO[-=FFZWJ)^;ZSB @L#DR,U<4=T\*D>MF%HPR@H$>
+MH;G;62-;3%5M7-L71A.;AHP6EM]KKO'Q119I\9+;.YK"#PB8$E]XL: )DG[*J7$'08E%Q8)$$@0+L
+M2Z?AFJ)2B@JMC^Q4#;.6ZFC[70%@M:6:OK$SB$:W.3*^_(VV]M3EG^^B.VZ*
+M L2[#+77;_-I-[]US5!(-!BS)*T5DJ1TOI8D+ ?LM;=DX"UMTG NF,2L YQ
+M$K#N.PE8>YL$J,,6*4)XOW2S2.(U!I(3MJI=0]%B6>?#(@T*%=@?V&=4(6@?
+MXSJCI4QQ)MYKQ#;R^!?\@Z66@,Y93LLVFU522YLH"$;:G!EI+8ND'>*,EI[F*W Z]&$PU,^D@5,1IG(95H'[
+M5)>N;Z47#V#\1I+DUY0^I3.",YJ297$OQ?9+4;O>[1,S';:;#\T XB!PZN,0
+M>'1&! WO11128>6=,"\D?:7)-LTQDVO)F:UG G1NR0%L-HG11 &18G<&$%*)
+M4:'VLT"[R!Y13;**%S:"%83DCI=KMYK65FU;M0$QTVH06L-=YOS8SXV+*$]+
+M+'/"<)3'C^0,Y[CT!M87DKM>5-EF6E]-:=,&A%"K07#]9!4C4L5@Q92WE#%L
+MRJ=::]KRE+BF$K?GP]@NC3_E=F9\5K!N@=LM&J^4F
+M(U9I0*RT^0.842&HB%$I=?W L]LG%"^R+,(UM4@=8P.:U9@Q="$! YDS:$E(
+M).ZW7-,D2,QM";6+G;QT!
+M#1OO'C&408#4:0]^#TD5@52(8VIN.,.L?ATG38AWZ8&K';I#7!'4U[SBJ$L?
+M!$T]3>I,R;#FQ;4,E.]%])G-J)[<'I[B-42.9\86@]K$N*8(@A'0%C0MKK\K
+MP$_NO.TBB:.+A&+X+DM#XSACGFE/2Y:W%P1$@.D*2I$GA4@JO;3_1YS>L^U#
+M'CW?,AH1(IZRRJK>JNO^6\]HM\R\J$I-FGJ%!L392_P"!.Z+0+4RWM1&+)\W
+M\\1#XR*;&XWN9W>8G\";;9Z)$90;@^^"MP8Y_GFA1P6T'QE:(@)"KX=-Z <'
+M&8EDZ!M4!*-:M*?KLVR?!9 L/SY_)BO"Q+J#.=GE'_F![ENN,'K$NKYZZUT=
+M_6*N,S ("%_J%KK4RU"] +00SXB51:#?12%(EF)[?WE]TQ7_Q#>K3?RO!)"2Y82YW24/NKNU+1M@"
+M-!$2(]D!_OM*QA# EKRT/=;-0\XQ*VF_GY6%UI9\9^_G$QZ\4*69%.>U=J-5
+M"Z@(9<3$Z+SVI5^_Z'=[O5J@8R(BPJ6@YS4A:^]_^_&'P/R<_52O!S>,\N@T
+MN))AO2>&\EWPF4SH:?"!"JI(+-6[X"OAB3TC;QBG*NC*R933F)H/E@V?!F\:
+MQR2HUP'5?J4BDNK+0V]=[3B.I_JTV9S-9@TA7\A,JF?=".4$5F$_)G&BU[6U
+MYJWL9UG\C#/Q?&I_#8BF@<$E].E8?GV[[X9A.
+M2)T)BRVDM54I6TM1N?;)R4DS_71EFK.<#Q1?M7'47+FSKME\RCSV&YYH=JI3
+M]VYE2.(TZJ7-!$X+^U=]95:WI^KM3OVHW9CKJ+:"GQ)4DM,'.@Q2F:?Q8FIZ
+MDF:V(]2R;V8V
+MS:T6IXIJ*N)4Y*TYL=4TG<>F(]%HU;BMQEMW5IC%UB[K(>V@;KM3,C'-F,.E
+M9>;#R@LNPZV&N<4NU;;H51=.X6H:-D;RI1E19B!WCNV!17*^90 YAOV")S=W#UP]]P/PM IP(!Z'*B
+M]=VP'\OP^6+.(''(%_D_AB.O8GU98 5ETZ4K.2%,N*-19%NQ,+BZUDY$BI1D
+MH<"+A)Q,I$A=^D0G@]>OU8) Y$W+XK"^_+]3!-S]:!>]2^9&'_E' 
+MG_HT/&X<7=&!49 8)%<)[=-IG#;&D@_B,\_'O)^6\BLN?$
+M;359?#0U%L_;MBV S+\7$M2^Q!>S_0!2*11H@'.F(V^["NK#7XAPQ'$>QQ>Z]!Q"L;
+M*1070B2$/]"I5"41V+8$@O^E$N"+1"+Q_CTA*J:*+R#(<\9 ZL>5H.Z0BC4K
+M441H9D%!R.>M@>C?5 *]2RP2^_Z8,F
+MN"5:#TR^FRBUY8QWP'%;0]GCIK9E:@\,_UK$+%[8A1B?$\=M86.6MX+"QDUG
+M7>I0(*]N9HC8KC3Q@=ZUA,+&S6)]*E& =XW#BO">B.C\(UWXB.=,HO
+M3A3F]XI-B%KT65@^GN1MH=1QBXS;;,B6R[C*Z3N+0(. F[""
+M=*/$HB="J:9RXZYU5R;F"EUT9>0=]DL*0N."F\GNP0 E.A=19+CI[!^KI.V+
+M2:$Y^"E6!2+AT5L1_IW]^'?@_'$SW%*]%>%_M!__(SA_W"RW5"\F_ZXYO%./
+M2LH8-P,FEEZ=
+M!V;>EYR%+&9B],EXKACAQ<"+[*"T<=-(M\(#H[Y7U(:AA*H_]!!$P\2,B(MV9_!H]V,[
+M!J"<%10Z;C+I4G=@R)_EHR+V-1#]Q60@N7MG3:$A%#5NZNC1>&#:6WX4<]XQ
+M@1+&S1D+=2$-%]?S<$S$B+H78Q1;0DGCYI ^E6CC\P@T/H_V')]Q=X"X+U*E4#OT7SH[9'IMBG[.B$U2?VX,0?%_!VF4/+(
+M6U%].@_-/(E83*.E2S=,$!&:'&TMPW$#H+P4-!+(>U6!ZE&>.WRCG'\46)PJ70UK')<%0Y3*/LJ/.]TZ,19
+M@+I&H!J;&!U*SYP".[B,56;LZ[4&>N^
+M;PU'>2EH.' 38:AZG"_BC;+^'M^R@X*N0\A8IQ-F E@PX"V^X)-[Y_989
+M%'05\ML"?2B<+XEX5LDT#A?W2H:4VNGW] 3(L8 70V%0A\]V+"Z) JN]CBD<[C
+M2]/0LW\J!2@.#50UW@D%YE$0K[-F3J!I\ME\FGUB?]G_I<"<^1M02P,$%
+M @ /(&-7%=]Z%A0$P 6G0 !( !T;3(V,3$U-S%D,E\X:RYH=&WM'6MS
+MVKCV>WZ%+O?N;3H;P#9ODG"'\$AI'B1 FK2S,XRP!2@QMN-' OWU]TBVP8!Y
+MA$"2;K>SV\;6T=%YZ^A(5H[^-QRHZ(F8%M6UXT]B3/B$B";K"M5ZQY^*S5*M
+M]NE_A;VCO@U@ *I9QY&^;1OY>/SY^3GVG(CI9B\NYG*Y^)#!1%R@_# 43A($
+M,7YW<=Z4^V2 HU2S;*S)9-Q)I=K#8ORL=0S:,54Z!^(,DXG.HH569= @"
+MI^-NXQ2H'0J:E(2,\OH<"'&'8:+8$5&,W!([DX:YQ-P.QQ^ AJW
+M3:Q97=T<8!M4R#"EHH(4E=(!)%&+R%.(X#G6TY]6XLE&$Z*/9TXYTYRRY@ZV
+MQA)7R(RX_3&A 7I(*1_0L:(]C(TQ=0D]B&ZQ .21T-E>(AJ9?Y#
+M6Y J[9OF'U+YM%B\@G\8X2@:7;-S(M,&[MH>5VV?J_41)$OC3AOT3N7:!"P+
+MR(;_B@.B*?"_755QK]W%JD5>@*D4P%310/RC$J RL5K3%#(\(Z.VP/Z(62DA
+MK(\V([6;]7;+1?M7F1AVE8*YP@-E_H>R\-,9*NDL%J,6&1@JMHGUUY]__@D-
+MC7J=]:RHA'$%/\'KO\JZ[+#'FC9VVW/PYII-!E8,QK36)RY] IHOM\6V%Z]<
+M*N'5"U ?WUL$JLMM7ET=G%8_-T+T)09)5<>JL0<08MP=W1EA"Q[I)+C2!=<
+M(8]$P;!1BPX XI(\HX8^P-J!^^( QC=IEWF<0I_\;@JU0.BC/-)TC; V.LPS
+M[R$FN"1_H(I"-.:?[ F@+D'^)I5=WQO:#=(]CA2M>I>9;U2 B *!GRK'D2J6
+M;6XSB0C2@&D8B]#\E)5&"MQ,C^)3F%\S5C(X5J@=1PH30PX;.![DF9%ADBXQ
+M(3T@%F]G(3]O\;D:-,
+M(79'LG3'] 8"(*[UO,<[YW.&=R]J^I"$\^N_'+^F"FOH4F(B3C<)G15+M;-I
+MTK*' F0EYAV&7R[,*'>QS-IF^T%EK*@C]\R0U)P=/^=
+M)[Z%(JV:^F RP.2GMC<3MTOZ8*!K35N7'R[(H$/,]Q'[1):DQ_QG\MYK48"2
+MH:%2F=HNG4@!M]=XCAOQF,DW;1 ;ZUY2L07&Q-DJ#JD5*?@@<_P>Q4/1!PB+
+MAU+VNQB*[%@V3/Y-(J=BB3+I +\.N'+9(4V8\+BLQ)0D)%)_:_.!/"B_K@A^
+M8XMR-.J:$TSKLY8P(-@"L16\Z3\/(#XJOVD*/\,5CMS-)!;A]YCG,!L.,$E7
+M9@>!W *L;TZ@K">?9K&MFW/&MS[OL^2%X R,6"::/J#:BC%7RF-VT!"T?G.0
+M_5DQ>K/^9))WDPTOVSJ*0]_"WM[>D>$G9P-L]JB61T*D\-]_BVGA\"AN%!8
+M>$V!=+/AJ"1ZA7M\&1#,^=Q>45LW\BAA0$[JO>CH-@0R[]TS5>P^2RB%/R)3
+MO3NZ"?2ZO4]4+#\@"7).2U>IV$+<:Z]W>
+M@_@4"T'&F5]%L4I[P+P,X8"88RXX8<(<4PMEN&[B[&,$5 * \S3 (+J%&XN
+M:ZU*&35;Q5:E>=0Q(>%K5DHWC5JK5FFBXF495>Y*7XJ7IQ54JE] U34>S>Z$405F%A#OGN%H==IL'<=A1H&5@+(HYV\8"JL$!:@3MHV0(S
+M;3"%:KUQL>=B9$&3K?5R0H6OM*-1?R7+*AEM>5P%F-0#?CZ<$D']*@[2"85)
+M?*,5D2@$5T3!,2.%;/1L=@5T%&?4%ER3\W[<4-@K%1P2>5S!S:D@*%;?!-Z+
+MN$X!?+E1N6RA1N6JWFB%>>>V0\J58UH.UFQDZ]!19D4/)":0;B(QM:]\1GH7
+MV7W"FAR3VI18>Y6AW,<:Q,VB;+-F,9=(O@6EOG9V/!++P!A;#6+HIHWV_6>"
+M8;XEEHW($T BDS<3Y7-^S@LS,UYXQ?.WBIO(BQ2*ADE5E#E ;)2%'KP5\;_-I#FC
+MFQ-/-V[]ID%ZU&*%>IN5SL)54[\>715S7TO92BX2%CF2GNMN&D2E^;+2-%E\
+M_5-I7-7.SXN-O=IE*3:OE]>'U(WFKV#PW*\,@27."W,7<\S#'K:091"9K1D5
+M1$$;MH4@A(#WF)^W2O8F\=W&'94 BZH*;V6V2Q>!:8T]&UA1_.>7DA7(<,>)
+MJZRK*C8LH,;_B:]OCFPOT3^R%7^<)V+:5,:JKP%WFIA*!')L%@F;:KRA$](?
+M6\XX9EU)F'*EFB;K)H1$7C;G:_F2NZE3TI4%GO7C:F16OPXO<":S:=!C&W%L
+MJ6T3P]2?F.W-1;W$O'\MI15F *+B9XB?ZR0PMC*G/$\!X?)?8HXAJ&;M /*'
+M#8Q@E>K8O@GPV"%FN)Z>?K9N[2]9*7$O1;9C3!N&RI *_(3V2$&,9M+9I4I[
+M6VUM[+7S"LM.*:R%AS6O"B=S&UZF/0.GY&]B2C=S\OMJ+S6OO06,1 J)3%1(
+M"U(FF5Q/GW$WB*X32]?TH6T&SWT>8SAAD%?KD$^;Z![2:4NA;L*M=]U%.H.@
+MP>#T.WBNL;%4D;"N 6JP$S*EC?HQ<[?]]>:[%&K%FC%-6&1BJ/B+F1._3
+MCH N]5B(('P[C_.TI?!/QK14O4L";3(7'FC+4X&VJ"@FL2SO'W880 P/LE?U
+MJ_/N/7[,99+O&V33\T$VA(E((24)*2[#RQBJ?RKIF@:1Z41]4D(6%USY!VA6
+M5.D5HI+"127FZMF6G&S\D+*AZZE7L9]9AWTI4F@ZU":N<8/%+9MCQOX98BQB
+MF 1*\&/=;.G/6CC_]\-A.9NM#H7Z*RIOV85\3H:/%&KF$[CC(H6Z7,VP5 IC
+MB4]?=?,*4FR8G19D\\6>_GCCC'ZV:GB'V7QN(>,S1$8*+3+$UCNF@V'19]T4
+M<2I*K>-W5SK(3?U!C<7+K?+-L%1+I@7R(_NN,4H2%NIPBHM((9,2$KF%&OQ5
+MDC^/-S?]ZR+#!/.D!E81&1+9L>D3JY? O$^LW60^Z]AAB%RV*@-0*2>+Z?6#
+MIC7O4#*;U/G^^^^L)&8.K3V;J,3HZQI!&D^&#]AZ0'586H6P23!XF0+]83+:
+M7Q2ZV0Q0!-#%D6!D&=\SP[J8?4AL[L53U>3@F)%"+B.M43OIK)#.YX7;6^%\QT,NPIS
+M.JQQW5JPR:=X8NYA-Q""27>1NX4$,8K-U4C%EK^CPFW[,E[<>DW[W45W[UBP
+MOANMHJ/4)_(#WW/#!J1!,%VP#:B./D0=HNK/3'BLD8D89:-GJ$M5%ARH!9'"
+M)IH"0K5UD.O 46VL$=VQU!&R8%%I=4>\I]=![P!9V"L_\(9)R1XY@ <4IHW\
+MMBXLP/1GUH^E9I2MVZW\#D3VMUF0+DLR5-*=Y'A"+$6U^2POY\6Z6Y/:H%96
+M+G$TKSA@A0>\[\7[Z]Y3\6PTO ]/\&Y!%DP>UNN2N>"F8T?758(U?M9Z)G1.
+M%=Y#V7#5F3U*]**/;9N;BT(1T9@YYP=)G)-,RFE7.^9V3;GN^7[
+M8@:5J@TD)808 "[)A$(L:M:"-E^A;-AQ"6VKK'W>OOU"2U/GIS3!*B\@SD&P
+M4\.-6]6JWT]*U1*M]#Z"<4]M1JP^K67];H??V?[3X?9?LRR'F"N]0/_V
+MI9C+W+0:MYF/X 7I)5XPQ]'?VQ<2))K>H2=G+MVE
+M&3%A<6?,']CT]#,)5-ZB#122G^+YMUV>+7&VR)Q'ON!#@Y7G.5+;/H758E^O
+M^[5D@N4^DMGW4JL.)6V3)V'K/)E8\?/0YFC0T56TSXKA;\?2UM7$#FY.:8GX
+M4?*Y3^%QXM"S; ;FXA=9;?B4,9F5B_Z"RXTJ(U'J<%L*G87]+U0!?-%G>0&8
+MN<\ZVS\KPDGM.5U^K WISC>;-OC,=GJ.G]HUGI5/I.!V=ZV3X4#[_Q%C@H ,
+M;*(GK#IL1V/]^7[]W:?Y%87G**Z/[$9Q->)C\U=HIE^7KVCR_EPEPN*+](
+MH=5W(RACYKMN/GC.YP,M4^ZN8FAEZS'4_<";8USK\^;VSTSK]/[$NGO\GA+?
+MSP1>^EWZE/(3PO)X"RC_X)J9($:*PXJI'FHOWTVQKU02J5U[>7:[P??E&D]4
+ME9^-;B=ACW9_<&-'&A>7!^K=*[&ZDU#]ZIGZL]W?
+MD_6!P?9S,<12TJ4:41@V5MU!22$U_YEGX.O.Q+BJPP22.>2[5WX?RK_E,MBW
+M7&RKGR.$4!Z50E#Z2MX+?#DZBYO5C2;= ]AC'T4;NZTEF;37M]FN<"9%M; *
+MTS3-''P5Q17/%O9<6T">+7B,+/TVR.]ZRGN6W(X+/BGOR/WLX*YV5WQ84;C=
+M09TV$?*95RCM*TNTO^&1DUIW2<1@)]!"PP^=.S72A^!"5"+;$%PTG5Z\-4S"W2'7$!G^F8* L4&G KV[NF>2)6M /0A;69+9!
+MB65^720#9G>2*MA4+/=4BK*T/)K8Q]/ET6#A.H86EW\"=NO;SO9MY=U#T<1F
+MW^^VET#U+K2Z)X56]UYUV\NF4MKF=2%A,F>T'@+TH\-V:H!)3CC/A.=%N+ &
+M&E20*(5H*,V3R/E+?X(B-3R!SH]N$OP0[1#P8*#0X!0'1TR'#,BH>.&(03TN
+M5N%[WS_ R[[LKE"4C0EB#-5Y;E9AET58L2W>6K'3:Q/&<:>NH:FK( YXQ.SH
+M$&Q99J90$V*K;EKLH<2.CAA45;&):IH<0_L,EAUIEH3#DI]KP)-X^'E/(0 \
+MX/DG1&COKBN"SD>:ADYUG;_M$(3'0[@PA/CYI(>03QM\LF%3";:#;?YI:DXY
+M*FJ: ]/&!2%\S@ T_':QOJZ"ZU@'>]Z,@TBWR[ ]$:1X5WY@P]"I9K.U'WLL
+M.CT0#Q)=B<2VK,\=&6..&V-U/'N.5[-LE:# '-BG';I3"]U@_X\%"3 KE79,
+M>H"^$/6)L.(=# ?)0W3K!S3%+6_#[RNAGY$P@;"WQQ%IR6=W6Z/"
+MMZO\BK+L7,<-)+5UT:^)<#.)+D>^(Q']DI:\==%O2HA?LYH<@J<6ZCJF1JT^
+MS&/8+;BX%L_F+UZW\#YG^,?^W]K^ R?KI<#1^G=QAP]*2V;+M(A"\IUBA.^:
+M,KOGGR]!4-?4!ZX+EAS39+F;=Y4;Y(G^5S,'7EG)=F^DJO%?VX'8[PV(+:TX
+MOTGZOBKQ>?':4?IG[;C&VO&%8G^;&U^;M=/+8NNF46FN2- _#O7C-63P:DFW
+M4OCHP*+.77PLWAT(WBMYL!=28E0<=81D[+"R8&"J]5:.%A !#;I[SUR']+':
+M995+AH@?6O4 8'5.' WZ<'38L?NZ"8%%6;:N>XV0/^@R*/Q&@NUF!:%G+[9Z
+MW"YX0R(CQ+TE\<4'ZWSF7__M?4 *V\B!5A+J8UE$0Z!]T\,QGJ&EMGO\TZTR
+MB0G_QM'%680__E:'/QGEEXTY,T=V9N=(_YZ.+9\?I86X%?>.P)CD =6?B<:N
+M,EEN++OW[3?&N^4X$9 E^D>$&XFPU*>DB\Y)#ZNHSB\M,5D9D5-Q2C1BPGMV
+MEZ9%U!>=W%@_Y5CZ]478UTEOGVXG#E'=X%_2Y-$YN]G@@V3?;Y0+K_-;R;(G
+M;;XCS.\1F/PR,_)U6+W_)IP]WQ>O^Y7X=7TT3%4'XOT)D3JJ:E;.U*^5;E&4
+MU-M2Y_S'4U(9-9[P[7-#37Y3!UUUT#^A->TK3C?TSKU.A[U[0>R<)97K9/_A
+MQ\_K0:XF2G8E7DH,:XYT;WP;)KI6^29>NR"#[R/U]$KMRZFT.,3FR<6YT;Q(
+MG5[HW_6F4_N>ZEN-[M7MS<^J>H>_#F\OF_W6\_>T\>.[6,]B^THZL[336X/<
+M*3Z>)ZVOZ(_,H)HR;W)E
+M>6E4$VFT;1"120@S"D(: 4&9G!"5(0X-" A1:4%!2"LJDQAM0**&E(* B)!6
+MU+0@1$5$18@(2,N0&,+0B@HR&X1,K=?;Y]SMD;5,,J$FIH;['?O!J49PVW]^^A^]?B[R/UU#3?4"
+M9ZB%L\>-JJLMQRTP5%,W5%.UX0@XG)K&_WD ]W]?:@O4%VHLTM32UM'%'J@W
+MP"U04U=?L%!=0V/A0NQN.G8?M]!0P\AFS=9%QKL/:BX_:;+V_)4[6K;;:GBF
+M>]Z!=NL._9&AK6-FOF2IA?T*!\>5J]:[;_#8N&GS]E]]_?QW! 2&_K8W+'S?
+M_HB8PT>.QL;%)R2GI)Y*HYX^DWDA*SOG8NZEJX77KM]@_G6SZ&[9O?+[%0\>
+M/GI:6U?_K.'OYXVM_+;VCLY_7K[J[>L?&!P:?B\02Z3_?OPT_GEB$OKZ[?NL
+M? [^,?\3EQI._3^@_Z>X##%<"Q8N5%^H^1.7VH*TGP\8+M2P6;/(:.MNS8,G
+MC9>O/:]ELNW*G1J>MNVZ/:#IH3_>Z9C9K1?;0S^A_6]D_W_ ,OY;R/X#V/_#
+M)< M5E?##D_=$$?$@3+8K0%95J.(@?WE?+A20:"WU()/S29F!6Z;F_#LRY@!"JMSZ (P-[OUON2TT/G._>
+M-UC_YI#8]7L2@<_-BUZFPF6, CPJ]U"W!=5A'YRG\$=[&U-*UX+<'+H3-89'
+MJ"=EN>.-J!1).!\PXC^,@)/;&UVO0T%;HTB_@9JY&L_*K8LE)(V$, MZ^>G[
+M(49ZBBO:._L,@Z\*L"F=D?YE)7P'B
+MF?*7=>F;H5^NGC0V#2@YD+789)'&.6(-";93X69D![$M79474!UT: TU8N3%
+MO I7D.3>@N_DZ#_Y^WE+;[,G9,S;_%&8U1R9=/? :%9+\9:6@?5#@RFF'+>S
+MB663I\*8S(BL]N;&K.X?J K'VX'%]I$!K\*?)U(8@F\O"+4Y,P2/#!\MFB<\
+M!^F*N_G=NA]H&^']CY\QRQ#OP?M@,-__T:2U:;\;NVK6)7)K?VI>8EZ7XKG
+M9:M:\>\[^N9WJW"95-1^$JAA(Y;MD)N4T4;0G+)P%T[_<)LIA!B[0-:E[UTJ
+MG&Z"11'-IW: =B2^W#(I;.P59'D@?96+Z\M![V\'/MBW<'YWU"J4\V'CVWD!=T]D'A!F=IP\T9VM5N$6#V%I'@436B# (6_D\
+MXJ.LYJQS8*!VM)6PKYATF;RP?F.SN9BLWWWW\X8-T<0>NFW7"=2J-^6-ZZ35
+MNC8/HHY;W;!;W8\O%A+%WGA7^[K?GN7]"&.@^DG8)
+MA0+;5H()78W*#'G>6- =\IP9"59UYZW733KT=FHNXNI+"4LC/B*)4^SEVBL4
+M\DT"#_]Y23F%9?R-SR+$&"8JUJ!MO31[V .L$!\KJNC$7PPKNB;41ZVHGKQP
+M\\%39'R="E?S?K1;7&6YLTCR5GCJ4-U5OP:_?<.^C8XW<<1;?2J31+B10FZ0A+(EP*66 9D^7ATZ%^5CT
+M)-U_TO>QH?=@\%JSNIJ&JT%,UFT,AC/=D+8"KI.SQ )MJH",V!6%W$\1GWDF;YT]]MJ)FI1D\6_@X(T.
+MM^M_=^DC=8*<=O2E=!(&Q
+MO*+A:5_=FPT=CLZ/G8_-2 MT(X-V+&]HR#)RC/EU[RXUT G@O1&"$;/VD?).
+M[L)E!G1SVB__V&)5?_H)K0 %>X"Z441#=7K;;8$\?(4*#SG\71=L =_ \>*4\!OBW:#?!Y;
+M[N^=77GT^>"7LI*/==EO!4.]6'X_ (&JOT<[$:U-17KX'7RR_"XP@)VDW1<
+MEQ 856PX42++1PWB.-Y],S*42 OH3SDZF"(T'>-7C[2?+HN*GRN*&6LS2G)-
+MW.2ROXKVF/X HW]XTI)?5$3 %
+MZX&;DE'=\Y4?RDL+%9%3C>7_YCJ5WV>!#+'W3%]Y<_#Z+S?D8PMN'-UA$W8C
+M5BO,L;_I^J[@='O%:H GX()[R9D$H^8UCVAG($J&"A?/RCI!S7B#I(&*]K$%
+M(#O3*^@1-;4Z23)8A=A+V0LG+%;<$3.,ML9J=,M-Y14')=Z+NO>>=*T75R4,
+MV#\!-# N1?O84O%B$F)F+*+DTU=0YWA"/=K2"L0;EE$>4=F=IQ?V$<>S&V7!;'CJ8/\[#^
+M>TE9YY6NV AG\L96PP?9U";Q=[-2!_BL>];+X:Y44- I+X!N"2JG>N#85@MDS Y.9]-6UD$5V564QTAP.5SPMH-*V)7]
+MZ61%8[=IKWM3E%>B'05)B0!XKU0X\$"D(JA+01!TMYD_V_R'75'^3$4K(>QUD&^;%2E_6,3@A&&=.R,MV9S5\M+XI+=;N6WA*,CG09!5"2
+M%__9F'WYTAP>7CL=SU9@;234O(T0F[0H2)A1,_D)\4N!RE6X5B[\P=WF]/@5
+MS?=AG7^,:I.8__YIWVJ!^PK R\T1JZ6*WVDDY5.Z#OJ*W%!=(Y+E$?'$.,J2
+M.$"K>2FT/00\52*2763AZ8[4QB]1!/%KYDO1E*Z+9H>/"<2X[*[GP#LS6UIY
+M;SC!0CUQ5;._?HEXAK05TBS") !638T ^!MY6(CJM"LBT+= ;>>,>[J(
+MF,G%N_EHLQ;!WC0-<"@BYU>2*?J6J.656-VI7UY-#=H]4&VD:$.7#]:'*X[,
+M=OF[(S7;WHW8K6Y'2M$N2UME/?>H#/:-.)I+3'"[H,X/5KOV.H:4%TVP6-/@
+M>OC:R[K('[YY =RE']X[S/JC^IDJW+7/Z"AQ=E:Q486;LD4T;N.G:E&=6(Q=
+M:Y7/@-ANV - M0<4QVB.\-!9,5<0*]VIPCV]0#;FK&#IPNMV-T,1R#98'2*T
+MHVL\(K!:4##T]F^HE[CH!O;?WWR4<-FR5K7OYE8F8I:%[W;%AAT4U))S&MGCL?;S=14Q[!F/6"7"?LQ ^/H]H!BB#Z.VXMHZ":
+M;HG$P&*!Q!W]N2\
+M+Z^T(R F0[[?Y4A#X[X*Q@],%F0>XHJ>8'3?38 ='1 3)PF!Q\(J)[,%+@/[
+MMB@+?>QHO_9YN;EE>JF)AVV@&U<@DB@MYWO+,2$UMG4^Y,&WX0EK!TCCVFI+
+M64W=F<=?213G=Q$O*0IL.&N&J'"O](!C7(4V_0UQ?H"L,?5##=O1587[Z$0V
+M)TZWH\XJW.2T\I:CNO+72E@;NW<+(UB=L($]3<).)DL+67H;
+M?3NF \7FIY3@MX#$BX?[::E2LBE5,/%QH/L2;5UUU+ZH"&KD3K#_Q@WYT 8H
+MX,A#E[8;TT<*PE"E5<;*0VL7;;3^5U^%BU#A;-BPTWB;WCKY8VS'/-1S_9EC
+M#1%>*MPS%J_[_:MTHZBYB3_HN@%@GYP*F:SFG5A(]ZM_#)OO[X]X^=N6(_WC
+M;\$9IW/T88#70 "C""-\>35VD,74-#E%60O$<0T0,DAL%V9PS5-8.:5+."#[
+M7$J0BZ>$G7EL/7#I!L[-0ZO?
+M>Q&Y!# %/].EV 7PB%A"6"J<-NI.?PD8Q\)[(0)968U:(QZ#7MLUF_*S* SM9JZG9\VDZ;Q..V!X!!OV<3B.6T',%:A/VF
+M\@C@R0:^<'%\X[W-UGD@"=7QA]SDJ4W],;$*+VO=01]'JE1^!EJ<\,_NHC%9
+MJ\\O_8]_;(R+%4R^"B1,DU%\T$* MXJCI?Z2T,!L/;=CX@JH*R_19!-+<, O
+M$;'(,BQ#2?6>,P3Y8\BG*O:.H'@T01:,B:IGZ,B.IX9O;)H''.IAP#DB
+M_4'!F(14%U6W>CKCJ/#9R@UH#<"S 413A)&@W#?XSZ.Z9Z&;Z^
+M%1VH29@WJX_?D+_A2G4GIBX2T!ZB&AU'9:,ZMI7(&7@(+!8-YE12"?)33%(C
+M7 F9M_JHU0^6]=23\L.+AN1[8/:^7NXSO^LQR+H,5C1W^3Y@,*7Z2O_33U*\Q0'(?/",5A-^\.DY9-B=\ 4IHQ-?A8
+MBH3^[OB-B,7RVO*F)V?WN;P_?")FQ3GB.^G/-IJ&8JIQ<2JFAZQ7PQ1I5#*?
+MI>.CB_8)2--9]VG.U6Q33@UI1:4=9"..4\+FL0OKLT&'21EBG"PE=N O1AM!
+M3#XWW\>N'LZIHGF#0R\8RV /26%"M$4_LE#'W$FJ#>/8?]]HN*HF1 /PDI^U@;'N5;6"/C\U^.+0UXD;+H\]A^<%N&7'*"FM>5)=(,U6[7%W7>(A\GO
+M,4LUG09.2E]PU)L'O?P?327'>8QYP#F2[NF'7E'2*/]6U*#'AP!'._U3Y^*V
+M#9S+05Q$;#4XE&^M":>+2+IQ E*6EZ'82I/TKBYJ\^J&<(_?"=(C/YTH-E18
+M .]7[O0/-!WC'B3$LV.X+&PSBL>JM&1!6\'O@+BP9;:CA
+M0RDL8ZRX)8R+7MXNK-8D!WZ7QF"%A&$!IWY7BW_\
+M 0[&9I!60IK@64D2-C*,J(RDZ2?KJWN_3!.&*#XH$CS;3$$=?[M#'WZJWD-5IMR+9_'<6/M[D62[E,9'7,;SH2=
+MEY"-1DA'B-G-+H_\+8(>K6[L.]*2C;[]8);/52>*SA/ ,K(HTG^ >53-I!
+MS&.!P4 FRY1C288]Q.P"'\+G&TRN)=U[)-'#(JQ!/$/F<_0&8W*34/6X,W*6
+M6+@$9K1'W&H\QME,>(B(:X61C9C \X"OY-@^YSS=#S \U#A#KF=(X*[
+M&#D"4ALQEZM!=T'"E975W"/>"=\"(4+KC)N$TL8,(F3WTDYGZ)ZN0G:?!D=X
+MH9.'OHD/1^0+?_YQP9!:K0B!*/*W^66/N)/<7!J)#3?M:X8T<]TWU4=%S,P%
+M)9_8O7?Y%EI38F2JKFGYM5^N)"4>O^)K_>GDDBL?&G[POW.4MV_9BSR&J,9\
+MQG3I1NBH^\J>U[9[2(369GS7'N.V4(G.WUY1&D6Q7R['!K+T?U_S4&0?=2CY
+MP_$%Y./Z"U]USBPI
+M;F-PQ6)OB['9?4 1[I(E256#F]S8HH8G4&>F[% =A,^R'RAKZ/\N
+MG!X-\NMW)TYYH/B]D'Z.1#:LPJ':LQ+NXLD-@LYL9#<$=/K8@O*J6.YTT?V<
+M:MK:=[/!#KOKOQEMTFN9R1IH>6W_;DGGJB^^F]3EVZ7FK<0,H&Z
+MWLQT/75,ZCQYX!H_I'R#R[M ^6\
+M!7Y:7EN.J8><57NO)>66!4N?YH97G'\+]J_:EGWP+T1F">I3>/O>^QN47WZ5
+MV)^H5AQ:T>7W].JGK,4[E__[Y*]_.J#K*U]N>WQG4\\MZ9N0TG!DB5B%LV4B
+M)@#:SGI_5H4+X5HE2BBP=R2ZIQC$HZ_5Q;%H7?C,7O(QK ,4$+YN GC^*MST
+M?B63^WT*&N2LP%3- /?C2B&.._W"QPR8\J4/D /1>A\3I%;)X(J$;O#*H9GW
+M"B+525ZJ+.88P^;M+$WTEU'JHVZ^Q5@-Q!!SLU*=;B+FDE$*S^)K5)P%RHVM
+MW)?.:K.V[I\1*:+J_"8%&RF_ZR4EJW/GUK'1+N%2X!#F7]W=I#G3;Q1;J&=#
+MP(;V[FQBC:Q305P2=R:$6P:7D?J^I'()U.ZV1MJ)*8'&Z)S\IU>^\W%-R1QB2$;UDY3GN:);9#"$?![3[0X=LBQR??ALI[7GNSN]J21SVFG0KRG5V8)PL>YSO5L]-:%U
+M8ZI[4\.SLUUQAUI8&A\::] 8&LEDG]4N?4(]/+G5]O?O#
+MFT3C]1-3+G>0-"QH1X 78+D5;@?S1(PV;C[PE-(6O$#Q&TAHR]?'YPJUO78R
+M(X[G20EZU.)?&7OJ^NY_G97I)$;XY](T)<_7CWJVH4:-_75" \%P7*E3;](0
+M28FIX4P2]Z,[JU:F+.QFJ'#S#VBD T3$RA6'[3>."EBSXXKU*/%
+MT).&6'5#F'2LJT",B:CV6<56.*0W"*]'.P9Q$1JJAH/M#PLW5A6X.N+>G!C*+"#Q\Q'Q:DXHF$]?E@H
+M8N1S5G\&\#*:]SV:O[7)$.)Y+W(BC;[JZ>"7];I1@4-1D%GVT-2#B#A!3^AB
+M\Q.M?S8G-Q^=M"N<_ZG YC"GP26#6QD*(R\-S$M-E0V-$,$8-E*(AQTKE Q6
+M;2Q:QEWR6?U? FS#1BSQBD1JI/PM;*_8BXYR-'OI&LAR90GMY&WD #C'[U+A
+M3#_[V,),R%-"SF";D^'DBO9RV'_WX'>V#KR=SUG3]YUE##?M@OS*3>7U\?:7DB679F6P
+MLPQYE(BUNILJ')L[C/%C?YIDANZ"??]O PGOL?8N%ECDTO
+M9PU6,*?%%)VM8%IKJ0D4/,NY(Z88)9[A5+@V$"XUGQ;M.S83/;+K662 BT._
+M?1'9^W#V![]\1\TYM_^*EW.2VZ(Z%1C_[RD+N:)J,KA=!J_,KYA^*:84<"R9
+MHB.=TR=/2W[XK(6)/(Y9MMS-$ATD+TZJR^HAM *&7E3*X8S@10K%5C=FT&HG
+M0=VBB<. VP\*MM5IKJ@<8RIBU"#_ *EP,Y:*'9^Y)JFR!7"A/!;J;G5QY8L)
+MV8BG!# &6L,EY%R"%FWO0?>!G%PD1I2_6<_"V^&%8+BQ.3@B\5YSDH_6M'W!
+MI\2\77@Y#EK1=)\:R1>,Y\Y67HDMHU)V]*RPT:"WE6MZ*_7_LXLV97]U(V5(HQ[C25[0__P& V*V_Y."(!T*)S1>8,@)+D*8TMH 5(@Z/Y
+M6WKL>E4X<9P0^0VRKJA*:*P?+<^_%FXVR/SCTZ8"+_8
+MRBFH&62VR:PFS2W0,BE@"?_QMG=P*J2F[F1J"Z5Y^+(_(N8>(@['R NQ8+-I
+M283:[NDJT8Q')\&X^T+S5NG-E)+(=NME8':)9C;-56XP*"XIV;ZS][9!
+M=V6\O*=U:-O97-GR KM#^QYH?F"!$4$L/<0(6VR,/D3W@8,D#$VJT+]664[;
+MI/"%8]I*%P_6=1M0P\,&T.7Q/KJPXH]GC6\+O='B=/>&BTCXZ8I$/&7]E'5M
+MTH.MCD;MR]WDL1BKLN"G?9TLT$_X/K%S@W'DAV&X6]X&:TJZG/("S"+WSWCY
+M8OVGUZ*];K#WSN&K8_LH1CL.AQVAOM\?L!"3OT362*5<75F!#0I@21W[/*$^
+M)S.%I8[L&*1IEB'^?74MQNUC%E#5A3'CH5G (*XQ72@?NC!K%1H8Q.QO]JCD
+M^Y3.;?LZNCPC_N ^UZI2TE00JB.#G@GE&1C=@C#C?85ED"2]J5\,%1:X0N6H$FDSWU(.GGB;GSL0"H[.VW^6L!QKL3%5C*7VWQ0?!K9XW4*79.Y
+MI;?9*DW,5:-V!Q>&7I7QF*<:'-J&.$O[7(2[^^YM+MPN?^^LC$6U"A4)B0 8
+MC(=7LEI'V$MI2^!D25,^65+%G%9"*RA+J<2@08X#LJH>"FLZ"7:W"]BM)/,#
+M8SR'\UY1]X,JQR*FF$7'FKR"Q!\'D94/@I6%5:/C\[H8X&7GB(98U&7["=_L
+MT-?<>3HL /[2!-G_3K5CZH;WFY>_#*.[VH#BI KG8'YRI$*\A3#S^8(XLG<8@)QID*@-?,JB$@IJ&=FSTZ
+MR!<]QC;#*Z$I4E_2>JNS$F[K"A#Q$!HT;[K?>J-Q10FDNP6R+JR,M_ZEOWE3
+MO,Y$H^8EFRC/ME/S:_*V]\]:10;TK=?U)FBBV@^Q[CB%=G#!G7KD=I81?2F<
+MTT$T!>((!@][:6Y0G^1MONA-9!M7F^;N75/?GR+,BG IR$N\0XV,&+*](;%*
+M[HCV'<^M_OXCTJ^>\^3=\?HDXE[':N=.]9S77Y'CD9>H65FO5]>#&YD7.J1_
+M3(IW\$TS.@Z>3%G6O?GOU=BT4T?M"W:A'70K
+M;"ZWITKT-W;*C_^Y^9L*YU6P63$W>_<2&E'Y76_>=K!R3SU%8ZW.P*.!RK"J
+MB.=#%C]_)]3^_'"=VEL>6+_JMUOC>\H#KZ\*2<;>W!M?V36APDE64<]K.F[/
+MK;DFQI\RJ,CI.JC5H;W-\++-C6UK=C.:3)?3_7QMD683*]AG:MGZ%%9+S@>W#R)!Y]PT6+GF!6<#W([H\U
+MV<5F;:E0_T#-N@EKVQZWF?*G3;O\;QXYLSQ(N8%V8/^![1OV70NON)*NYY._
+M3+=(!/,SFUVZX,1<^$R%O""X],BRK1U_[^2KY=W1W!AR/>YD7FB%/3Z&K!M=
+M:JMYB?\;^T*[>,V^ [['O'Y,P5@?J[:N5E_372D]0>5$[+N\P5;W1G]YV*WB
+MWH"/+Q\Z.6BW[GH8$A!8LB-@!2T7&Z%@(E5@>B:F)=6B8QGH")3P)G#E97CIBI+\1K;6U_3>Z?DB"2:^D#-7^Y0=_6HW-^09>*T@T/&1^G@W
+MO&((L=138%:+MYZ;"*C1A\AZQ'AR 6#@%2KR)G3,NS1<:$Z\BW@_ ^4/DZ0,
+M[EQ\LC+]:F)AD%1HP%E!6ZH3IKL%+^F_Z:!>Z6
+MC1A+NF>N0+KRZ_ ,J&@7FMN "R.X%VA+RQ#O1G#L!IV N(,Y?,]%?EOET9I0-8#@&,*ZMI-MC5*XYHA1#!0BF^C9T7QK).!7($'?4.
+M;4F>K46T1DRHX8_1]A\\7!2.+)\_7EKK6FZ>YVKQ@_UK>?2K8=Z3ER<..][&
+MOS^#'N"*[@!@HMLT)CHUC)4U]+7T]T2#G_^_*T 70&D=^Q&]#95BPJ(X(7X<
+M_()I="TW/FD1;6U-\.;Q ^\H]9M\/Q6+FKS]/G]X.T*AN.XQ^-,Y4,=1?88H
+M:$"USH/)\EHLUGCZ:S*XDVM&2X198B"'4+M8J#G>XV-+30X"KY6Z0[MA;U#8
+MSM+[_M=LDTMH2%//3,S L>:]/@\!94F2R96QX1'?A:S8T[VD]FXX@RC'] 
+M/TI,XX';0>QZ\Q$&Y0E'#V-#);&6R />KY._4EZI(PIRI!U56+)'O'W4.J5N
+M1I.->/X5"5Z+_8)X:0/7Y'N,N+RN1U1;,JL,['59M]?B<=JND6'&AEZB8H$\WE (DD
+M@87,5_G89RFL*TZ[/!NIU!3_/9"B9_P"6(8N14X]:P05@K@;D.6;T$CX8/EG
+M\PDZ?^YUWN=X6S\3U1G!%IY#NPF8+L\GZ-,]:'O@/BA<[)#K8X5X4++C$T%I
+M()@T\XQ;[G!QEF2T/WJR$&8&]KN&37:D)\P/+ID9_?VKU;Y5 9^6>HVT<\$D
+MU@L5S@+@K:$O 7BN[EP!0WI/A=/V,:+WG:(*7;U
+MA#.E#1=]#&G'X KH(.KU&:/R^O0_AB0;;HHMEWS_%3[]@-J(=DB#"OD6QTN_
+MJ-R]@T.FEV\^EKS$X"Q5-0-O"=B::LSSU?AXO+5Y<^5][ST)"P3
+MVF'(HZ,$']2WGIB]N?JF:.9L)-0B*TAI\>'-4O"DM(?#\"GTDVYBO/M*Z[.?
+MG=_)EKQTOK9["V'H^KT]?,KBT)"A4'\+NR'7/,L#@1__%U!+ 0(4 Q0 ( #R!C5R=*IG4J , -T- 0
+M " 0 !C870M,C R-C T,#'-D4$L! A0#% @ /(&-
+M7(&J"FCH" 7&@ !0 ( !U@, &-A="TR,#(V,#0P-U]D
+M968N>&UL4$L! A0#% @ /(&-7$A0$1W7"P N(\ !0
+M ( !\ P &-A="TR,#(V,#0P-U]L86(N>&UL4$L! A0#% @ /(&-7(>/
+M6[8T" ]F( !0 ( !^1@ &-A="TR,#(V,#0P-U]P&UL4$L! A0#% @ /(&-7%=]Z%A0$P 6G0 !( ( !
+M7R$ '1M,C8Q,34W,60R7SAK+FAT;5!+ 0(4 Q0 ( #R!C5S$M?B;4B4
+M '\G 8 " =\T !T;3(V,3$U-S%D,E\X:VEM9S P,2YJ
+8<&=02P4& 8 !@"* 0 9UH
+
+end
+XML
+16
+tm2611571d2_8k_htm.xml
+IDEA: XBRL DOCUMENT
+00000182302026-04-072026-04-070000018230us-gaap:CommonStockMember2026-04-072026-04-070000018230CAT:Sec5.3DebenturesDueSeptember152035Member2026-04-072026-04-07false00000182308-K2026-04-07CATERPILLAR INC.DE1-76837-06027445205 N. O'Connor Blvd.Suite 100IrvingTX75039972891-7700falsefalsefalsefalseCommon Stock ($1.00 par value)CATNYSE5.3% Debentures due September 15, 2035CAT35NYSEfalse

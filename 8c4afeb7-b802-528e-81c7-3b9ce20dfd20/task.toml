@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/ba-2026-06-30-recovery-credibility-cash-burn-and-737-787-execution"
+description = "Take a clear position on whether Boeing's recovery is credible, weighing FAA-gated 737 and 787 production ramps and a record backlog against still-negative free cash flow, a heavy debt load, and recurring program charges."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "BA"]
+
+[metadata]
+uuid = "8c4afeb7-b802-528e-81c7-3b9ce20dfd20"
+difficulty_explanation = "The analyst must distinguish genuine recovery signals (first positive operating cash flow, climbing 737/787 rates, a record backlog) from persistent distress (still-negative free cash flow, $54.1 billion of debt, recurring 777X reach-forward charges, negative commercial margins). Production rates are quantitative but every increase is gated by FAA concurrence and the door-plug accident, so momentum must be discounted for regulatory and execution risk. Reconciling the strategic Spirit reintegration and asset sales with the ongoing cash burn into a single credibility verdict requires weighing many partially offsetting data points rather than a one-sided read."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

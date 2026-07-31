@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "UAL",
+    "cik": "0000100517",
+    "companyName": "United Airlines Holdings, Inc.",
+    "sic": "4512",
+    "sicDescription": "Air Transportation, Scheduled",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "CHICAGO",
+    "stateOrCountry": "IL"
+  },
+  {
+    "symbol": "DAL",
+    "cik": "0000027904",
+    "companyName": "DELTA AIR LINES, INC.",
+    "sic": "4512",
+    "sicDescription": "Air Transportation, Scheduled",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "ATLANTA",
+    "stateOrCountry": "GA"
+  },
+  {
+    "symbol": "AAL",
+    "cik": "0000006201",
+    "companyName": "American Airlines Group Inc.",
+    "sic": "4512",
+    "sicDescription": "Air Transportation, Scheduled",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "FORT WORTH",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "LUV",
+    "cik": "0000092380",
+    "companyName": "SOUTHWEST AIRLINES CO",
+    "sic": "4512",
+    "sicDescription": "Air Transportation, Scheduled",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "TX",
+    "fiscalYearEnd": "1231",
+    "city": "DALLAS",
+    "stateOrCountry": "TX"
+  }
+]

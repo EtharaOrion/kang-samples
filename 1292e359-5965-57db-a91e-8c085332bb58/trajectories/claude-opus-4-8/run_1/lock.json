@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-07-30T18:22:01.719187Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "harbor",
+        "run",
+        "-p",
+        "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/task",
+        "-a",
+        "claude-code",
+        "-m",
+        "claude-opus-4-8",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/hb_overlay.yaml",
+        "-o",
+        "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "AgentTimeoutError",
+            "RewardFileEmptyError",
+            "VerifierTimeoutError",
+            "RewardFileNotFoundError",
+            "VerifierOutputParseError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:67a71d86c239bf889acfcced6db14aeb4f2b715df2281d418f49831d925185f3",
+                "path": "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "claude-code",
+                "model_name": "claude-opus-4-8",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-07-30__23-51-58/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/hb_overlay.yaml",
+                    "digest": "sha256:e0f95c664a509e4387e2af75ea8f1383865d5224c91a4e66ad147a79f200bd3c"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

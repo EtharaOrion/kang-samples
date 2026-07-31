@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth"
+description = "Develop a grounded, position-taking view on whether Chipotle's restaurant traffic and restaurant-level margins are durable as its U.S. unit base matures toward the 7,000-restaurant goal."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "CMG"]
+
+[metadata]
+uuid = "5d759f8f-c103-5412-8d21-83a3483ccdb0"
+difficulty_explanation = "The analyst must decompose comparable sales into transactions versus price, trace a multi-line restaurant-level margin bridge, and connect an aggressive new-unit pipeline to average-unit-volume dilution and capital intensity — data that is scattered across the 10-K MD&A, the latest 10-Q, and the income and cash-flow statements. The signals conflict: 2025 shows falling traffic and margin deleverage, while early 2026 shows a modest traffic inflection, so a defensible answer must reconcile opposing data points rather than list them. Judging durability also requires weighing competitive and macro demand risks from the risk factors and benchmarking against quick-service peers, without over-relying on any single metric."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

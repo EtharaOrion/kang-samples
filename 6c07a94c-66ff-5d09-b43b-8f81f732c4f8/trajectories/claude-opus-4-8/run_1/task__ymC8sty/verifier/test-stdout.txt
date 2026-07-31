@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Organic Revenue Growth Deceleration Beneath Acquisition Optics', 'Restructuring-Driven Operating-Margin Expansion and Its Limits', 'Agentforce, Data 360 and the Forward Re-Acceleration Bet', 'Capital Return, Cash Flow and the Profitable-Growth Trade-off']
+Cited files: 14

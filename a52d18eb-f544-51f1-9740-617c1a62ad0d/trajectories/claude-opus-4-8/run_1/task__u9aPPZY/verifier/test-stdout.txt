@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['U.S. Reacceleration vs. International Deceleration in Same-Store Sales', 'Unit-Growth Durability, Fortressing, and the Master-Franchise Engine', 'Aggregator Channel, Loyalty, and the "Hungry for MORE" Sales Model', 'Economic Engine and Competitive Position: Does the Recovery Hold?']
+Cited files: 11

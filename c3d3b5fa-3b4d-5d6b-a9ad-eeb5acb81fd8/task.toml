@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/ma-2026-06-30-cross-border-volume-durability-and-value-added-services-growth"
+description = "Develop a grounded, position-taking view on the durability of Mastercard's high-margin cross-border volume and whether value-added-services growth structurally diversifies its revenue mix."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "MA"]
+
+[metadata]
+uuid = "c3d3b5fa-3b4d-5d6b-a9ad-eeb5acb81fd8"
+difficulty_explanation = "The analyst must value cross-border volume's premium economics against its travel- and geopolitics-driven cyclicality, assess whether faster value-added-services growth truly diversifies or is itself volume-correlated, and strip currency and rising customer-incentive effects out of headline growth. The difficulty is reconciling a cyclical engine with a diversifier and judging how much reported net-revenue growth is durable versus FX- and incentive-flattered."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,553 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Net-Flow Durability and Organic Base-Fee Growth",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent quantifies Q1 2026 net inflows at $130B, LTM inflows at $744B, and Q1/LTM organic base-fee growth at 8%/10%, although it does not provide the rubric's $14.0T total-AUM context. The $744B figure and portions of the organic base-fee growth sequence were flagged as unsupported, so this hit is tainted.",
+        "b": "The agent discusses iShares and ETFs generally but does not provide the required 2025 ETF inflows of $527B, the $289B equity/$175B fixed-income decomposition, or record Q1 2026 iShares inflows of $132B.",
+        "c": "The agent explicitly says raw flows and organic asset growth are inferior lenses to organic base-fee growth because fee mix determines the economic value of new assets. Its supporting reconciliation relies on flagged implied fee rates and product fee ranges, so the move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Fee-Rate Mix and the Index-vs-Private-Markets Divergence",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives the institutional-index split of roughly 29% of AUM and 6% of base fees, but omits the required equity split of 61%/50% and ETF split of 42%/45%. Its alternative implied-rate calculations do not replace the full disclosed comparison required by the move.",
+        "b": "The agent argues that private markets have premium fee density, but it does not provide the required institutional-active comparison of 19% of AUM versus 24% of base fees or clearly establish the specified flat-AUM mix-shift conclusion using that disclosure.",
+        "c": "The answer connects product mix to flow economics, arguing that low-fee index assets and higher-fee private-market, active, and iShares assets have very different effects on base-fee growth. However, the numerical fee-rate ranges and implied index/private-market rates supporting this argument were flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "The Private-Markets Buildout and Acquisition Integration",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent identifies HPS, GIP, Preqin/eFront, and ElmTree and states that HPS added $118B of fee-paying AUM and GIP added $70B, satisfying the transaction-grounding move. Multiple transaction dates, consideration details, and AUM figures used in this discussion were flagged as unsupported, so the move is tainted.",
+        "b": "The agent mentions roughly $91B of private-markets commitments not yet fee-paying, but it omits the required 2025 private-markets inflows of $36B, realizations of $29B, and Q1 2026 inflows of $9B.",
+        "c": "The agent discusses acquisition-related GAAP distortion and integration risk, but it does not provide the required Q1 2026 comparison of GAAP operating income up 66%, GAAP diluted EPS up 46%, and adjusted operating income up 31%. Its broader annual margin discussion is not an equivalent presentation of that specified counter-evidence."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Revenue Quality, Technology, and the Investment Verdict",
+      "moves_hit": [
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Q1 2026 revenue grew 27%, but it does not report the required Q1 technology-services and subscription growth of 22% or technology-services ACV growth of 14%; instead it cites different FY2025 ACV measures.",
+        "b": "The agent distinguishes GAAP from adjusted performance generally, but it omits the required Q1 2026 EPS values of $14.06 GAAP and $12.53 adjusted, the greater-than-100-basis-point adjusted-margin expansion, and adjusted EPS growth of 11% tied to share count and tax rate.",
+        "c": "The agent explicitly uses blk_income_statement.json and other reported financial statements to corroborate revenue, balance-sheet, and cash-flow trends rather than relying solely on earnings-release commentary. Some associated revenue comparisons, including the Q1 2026 $6.7B figure, were flagged as unsupported, so the move is tainted.",
+        "d": "The answer gives an explicit bullish position and repeatedly reconciles opposing evidence: durable inflows and organic fee growth versus low-fee index exposure, and private-markets/technology expansion versus dilution, integration costs, and GAAP accounting noise. The synthesis relies materially on flagged fee-rate, organic-growth, adjusted-margin, dilution, and acquisition-accounting claims, so it is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "\"commoditized, ~3-basis-point institutional index mandates\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The cited evidence contains no fee-rate figure or quoted characterization.",
+      "evidence_check": "Searched for 3 basis points, institutional index fee rates, and the quoted wording; no local match was found."
+    },
+    {
+      "claim": "\"~80-90 bps private-markets fees\"",
+      "cited_file": "blk_2025-07-15_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The passages do not contain an 80-90 bps rate or the fee/AUM inputs needed to derive it.",
+      "evidence_check": "Searched the supplied passages for 80, 90, bps, and corresponding private-markets fee-rate calculations; none appeared."
+    },
+    {
+      "claim": "\"organic base fee growth: 6% -> 6% -> 10% -> 12% across the four quarters of 2025, then 8% in Q1 2026\"",
+      "cited_file": "blk_2025-04-11_8-k.txt; blk_2025-07-15_8-k.txt; blk_2025-10-14_8-k.txt; blk_2026-01-15_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The retrieved passages are balance-sheet and cash-flow records and do not contain the claimed quarterly growth sequence.",
+      "evidence_check": "Checked for 6%, 10%, 12%, 8%, and organic base fee growth; the supplied passages contain none of that sequence."
+    },
+    {
+      "claim": "\"~9% share dilution\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The cited figures do not establish approximately 9% dilution. FY diluted shares increased from 151.6M to 160.9M, about 6%, while shares outstanding increased about 5%.",
+      "evidence_check": "Compared all share counts shown in the passages; none gives a like-for-like increase of approximately 9%."
+    },
+    {
+      "claim": "\"BlackRock printed back-to-back record years: $641B of total net inflows in FY2024 and $698B in FY2025 ($567B long-term)\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain any of the asserted inflow figures or the record-year characterization.",
+      "evidence_check": "Searched the company-profile and balance-sheet passages for 641, 698, 567, net inflows, and record; no support was present."
+    },
+    {
+      "claim": "\"The last-twelve-months figure through Q1 2026 is $744B\"",
+      "cited_file": "blk_2026-04-14_8-k.txt; blk_2026q1_10-q.txt",
+      "issue": "The supplied evidence contains only balance-sheet and cash-flow data, not the $744B LTM flow figure.",
+      "evidence_check": "Searched the passages for 744 and last-twelve-month net inflows; no result."
+    },
+    {
+      "claim": "\"-$47.8B (Q2'25)\"",
+      "cited_file": "blk_2025-07-15_8-k.txt",
+      "issue": "The supplied passages show a year-to-date institutional index outflow of $93.3B, not the claimed Q2-only $47.8B figure.",
+      "evidence_check": "Checked the displayed institutional index rows; the visible value is (93,300), with no Q2-only (47,755)/(47.8B) value."
+    },
+    {
+      "claim": "\"-$14.4B (Q3'25)\"",
+      "cited_file": "blk_2025-10-14_8-k.txt",
+      "issue": "The passages only show the institutional index result rounded to negative $14B; the specific $14.4B amount is absent.",
+      "evidence_check": "Searched for 14.4, 14,4xx, and an exact Q3 institutional-index flow; only the rounded (14) billion value appears."
+    },
+    {
+      "claim": "\"-$11.6B (Q4'25)\"",
+      "cited_file": "blk_2026-01-15_8-k.txt",
+      "issue": "The passages show negative $11.417B for non-ETF index, not the claimed negative $11.6B institutional-index amount.",
+      "evidence_check": "Checked all visible Q4 index-flow rows; found (11,417) for non-ETF index but no (11,570) or $11.6B figure."
+    },
+    {
+      "claim": "\"an implied ~2.9 bps\"",
+      "cited_file": "blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not contain the $255M fee and $3.564T AUM inputs needed for the implied-rate calculation.",
+      "evidence_check": "Searched the cited evidence for 255, 3,564, and 2.9 bps; none appeared."
+    },
+    {
+      "claim": "\"private markets, active, iShares \u2014 carry 15-90 bps\"",
+      "cited_file": null,
+      "issue": "No relevant source evidence supports the claimed 15-90 bps range across these product categories.",
+      "evidence_check": "The supplied passages are unrelated T. Rowe data and BlackRock AUM/nonoperating tables; no 15-90 bps range appears."
+    },
+    {
+      "claim": "\"T. Rowe Price, the pure traditional active manager, grew revenue only ~6% over two years \u2014 $1,750M in Q1'24 to $1,857M in Q1'26\"",
+      "cited_file": "trow_income_statement.json",
+      "issue": "The Q1 2026 revenue is shown, but the supplied passages do not contain the asserted Q1 2024 revenue of $1,750M.",
+      "evidence_check": "Found $1.857B for Q1 2026; searched the supplied passages for $1.750B/Q1 2024 and did not find it."
+    },
+    {
+      "claim": "\"No BlackRock filing prints a consolidated effective fee rate in basis points\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "This exhaustive negative assertion cannot be verified from the supplied no-match result.",
+      "evidence_check": "The local search returned no match, but that does not establish that no BlackRock filing contains such a disclosure."
+    },
+    {
+      "claim": "\"they disclose base fees and AUM by product, and a \\\"% of base fees vs. % of AUM\\\" mix table\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The passages show an AUM-by-product table but not the claimed base-fee table or percentage-of-base-fees versus percentage-of-AUM mix table.",
+      "evidence_check": "Reviewed the supplied 10-K excerpts for base-fee amounts and the quoted mix-table headings; those items were absent."
+    },
+    {
+      "claim": "\"A private-markets dollar is worth roughly 28x an index dollar in fees.\"",
+      "cited_file": "blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not show the private-markets fee amount needed to calculate the approximately 28x ratio.",
+      "evidence_check": "Found index fee/AUM values and private-markets AUM component data, but no private-markets base-fee value in these passages."
+    },
+    {
+      "claim": "\"private markets alone went from 7% to 12% of base fees while still only ~2% of average AUM\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied evidence is unrelated balance-sheet and Blackstone data and contains none of the claimed mix percentages.",
+      "evidence_check": "Searched for 7%, 12%, 2%, private-markets base fees, and average AUM; no supporting values appeared."
+    },
+    {
+      "claim": "\"the private-markets fee rate itself is DRIFTING DOWN, from ~93 bps (Q2'25) to ~82 bps (Q1'26)\"",
+      "cited_file": "blk_2025-07-15_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The retrieved passages do not contain either quarter's private-markets fee and AUM inputs.",
+      "evidence_check": "The evidence consists of unrelated balance-sheet and T. Rowe cash-flow excerpts; neither 93 nor 82 bps is supported."
+    },
+    {
+      "claim": "\"by Q1 2026 private credit ($147.0B) is the largest private-markets sub-book, larger than infrastructure ($111.9B)\"",
+      "cited_file": "blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not contain the $147.0B and $111.9B sub-book balances.",
+      "evidence_check": "Searched the Q1 2026 excerpts for private-credit and infrastructure balances; only total private-markets AUM and flow commentary appear."
+    },
+    {
+      "claim": "\"GIP (Global Infrastructure), closed Oct 1, 2024\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The cited passages do not mention GIP or the October 1, 2024 closing date.",
+      "evidence_check": "Reviewed the supplied balance-sheet and cash-flow excerpts; no GIP transaction date appears."
+    },
+    {
+      "claim": "\"~$12.9B total \u2014 ~$3B cash + 6,908,416 shares (~$5.9B) + ~$4.2B all-stock contingent consideration payable through Dec 31, 2028\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "None of the transaction consideration amounts, share count, or payment date appears in the supplied evidence.",
+      "evidence_check": "Searched the balance-sheet and cash-flow passages for 12.9, 3.0, 6,908,416, 5.9, 4.2, and 2028; no matches."
+    },
+    {
+      "claim": "\"Added $70B fee-paying AUM ($116B client).\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain either the $70B fee-paying AUM or $116B client-assets figure.",
+      "evidence_check": "Searched the excerpts for 70, 116, fee-paying AUM, and client AUM; none was present."
+    },
+    {
+      "claim": "\"\u00a32.5B / ~$3.2B ALL CASH (debt-funded).\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The \u00a32.5B/$3.2B cash price is supported, but the additional assertion that it was debt-funded is not in the supplied passages.",
+      "evidence_check": "Found the all-cash acquisition price; searched for debt funding or use of note proceeds for Preqin and found no support."
+    },
+    {
+      "claim": "\"No AUM added\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The cited search produced no passage establishing that the Preqin transaction added no AUM.",
+      "evidence_check": "Searched for an explicit no-AUM statement or acquisition AUM impact; no local match was found."
+    },
+    {
+      "claim": "\"HPS (private credit), closed Jul 1, 2025\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025q3_10-q.txt; blk_2025-07-01_8-k.txt",
+      "issue": "The supplied evidence contains no HPS description or July 1, 2025 closing date.",
+      "evidence_check": "Reviewed the balance-sheet and cash-flow excerpts; HPS and the closing date are absent."
+    },
+    {
+      "claim": "\"~$12.2B, funded PREDOMINANTLY WITH EQUITY \u2014 ~8.5M Subco Units (~$8,452M) + ~$3.4B all-stock contingent.\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025q3_10-q.txt; blk_2025-07-01_8-k.txt",
+      "issue": "The passages show share-count effects but not the $12.2B total, $8.452B closing value, or $3.4B deferred consideration.",
+      "evidence_check": "Searched the supplied excerpts for 12.2, 8,452, and 3,400; none appeared."
+    },
+    {
+      "claim": "\"Added $165B client AUM / $118B fee-paying AUM.\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025q3_10-q.txt; blk_2025-07-01_8-k.txt",
+      "issue": "The supplied passages do not contain the HPS $165B client-AUM or $118B fee-paying-AUM figures.",
+      "evidence_check": "Reviewed all three excerpts; they cover pre-HPS AUM tables and Preqin revenue, with no 165/118 figures."
+    },
+    {
+      "claim": "\"Goodwill ~$6.8B\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025q3_10-q.txt",
+      "issue": "The supplied passages do not contain the $6.8B HPS goodwill amount.",
+      "evidence_check": "Searched the excerpts for 6.8, 6,841, HPS goodwill, and purchase accounting; no match."
+    },
+    {
+      "claim": "\"plus $3.0B of INDEFINITE-lived management-contract intangibles.\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025q3_10-q.txt",
+      "issue": "The $3.0B indefinite-lived management-contract asset is absent from the supplied evidence.",
+      "evidence_check": "Searched for $3.0B and indefinite-lived HPS management contracts; no supporting passage appeared."
+    },
+    {
+      "claim": "\"HPS was folded into a new \\\"Private Financing Solutions\\\" platform with ~$190B of combined private-credit assets.\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2025-07-01_8-k.txt",
+      "issue": "Neither the named platform nor the approximately $190B combined asset figure appears in the supplied passages.",
+      "evidence_check": "Searched for Private Financing Solutions, 190, combined private credit, and HPS integration; no result."
+    },
+    {
+      "claim": "\"ElmTree (net-lease real estate, ~$3B AUM, Sep 2, 2025).\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The passages support $3B of ElmTree AUM in September 2025, but not the exact September 2 date or the net-lease-real-estate description.",
+      "evidence_check": "Found ElmTree adding $3B in September 2025; searched for September 2 and net lease, which were absent."
+    },
+    {
+      "claim": "\"total private-markets AUM went from $212B (Q1'25) to $321B (Q3'25, +$101B HPS) to $320B (Q1'26)\"",
+      "cited_file": "blk_2025-04-11_8-k.txt; blk_2025-10-14_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages are unrelated balance-sheet and T. Rowe cash-flow data and do not contain the asserted AUM sequence.",
+      "evidence_check": "Searched for 212, 321, 320, private-markets AUM, and HPS; no support in the supplied excerpts."
+    },
+    {
+      "claim": "\"the contingent-consideration liability roughly doubled to $8.4B at year-end 2025 ($4.8B GIP + $3.5B HPS)\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The $8.4B, $4.8B, and $3.5B balances are supported, but the prior-period value needed for 'roughly doubled' is not shown.",
+      "evidence_check": "Found the year-end 2025 balances; no prior-year aggregate contingent-consideration balance appears in the supplied passages."
+    },
+    {
+      "claim": "\"HPS ~$225-230M of base fees per quarter by Q3'25/Q1'26\"",
+      "cited_file": "blk_2025-10-14_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages contain no HPS quarterly base-fee contribution figures.",
+      "evidence_check": "Reviewed the balance-sheet and T. Rowe cash-flow excerpts for 225, 230, HPS, and base fees; none appeared."
+    },
+    {
+      "claim": "\"total equity jumped from $51.6B (Q2'25) to $61.9B (Q3'25)\"",
+      "cited_file": "blk_balance_sheet.json",
+      "issue": "The passage shows Q2 2025 total equity of $51.602B but not the Q3 2025 comparison value of $61.9B.",
+      "evidence_check": "Found totalEquity 51,602,000,000 for Q2; the supplied excerpt does not show the Q3 totalEquity field."
+    },
+    {
+      "claim": "\"noncontrolling interest from $2.5B to $6.3B\"",
+      "cited_file": "blk_balance_sheet.json",
+      "issue": "The supplied passages do not contain the relevant BlackRock noncontrolling-interest comparison.",
+      "evidence_check": "The evidence is T. Rowe data, a BlackRock earnings release, and a 2024 business passage; no $2.5B-to-$6.3B balance-sheet comparison appears."
+    },
+    {
+      "claim": "\"intangible amortization rose from $291M to $775M\"",
+      "cited_file": "blk_2026-01-15_8-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages only show quarterly amortization figures and do not contain the FY2024 $291M and FY2025 $775M comparison.",
+      "evidence_check": "Searched the excerpts for 291 and 775; neither annual amount appears."
+    },
+    {
+      "claim": "\"acquisition-related compensation (retention RSUs) ran $738M in FY2025\"",
+      "cited_file": "blk_2026-01-15_8-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied evidence contains no $738M acquisition-related compensation amount.",
+      "evidence_check": "Reviewed the balance-sheet and cash-flow passages for 738, retention, RSUs, and acquisition compensation; no support."
+    },
+    {
+      "claim": "\"contingent-consideration fair-value adjustments were a $720M EXPENSE\"",
+      "cited_file": "blk_2026-01-15_8-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied income-statement excerpts do not show the separate $720M contingent-consideration expense line.",
+      "evidence_check": "Searched the passages for 720 and contingent consideration; no match."
+    },
+    {
+      "claim": "\"HPS replaced GIP as the auditor's Critical Audit Matter\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The passages establish that HPS was a 2025 critical audit matter but do not establish that it replaced GIP from the prior year.",
+      "evidence_check": "Found the HPS CAM heading; no prior-year GIP CAM comparison appears."
+    },
+    {
+      "claim": "\"with no assurance BlackRock can integrate, retain talent, or realize benefits\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the asserted integration, talent-retention, or benefit-realization warning.",
+      "evidence_check": "Searched the supplied 10-K excerpts for integrate, retain talent, no assurance, and realize benefits; no relevant text appeared."
+    },
+    {
+      "claim": "\"As-ADJUSTED operating margin \u2014 which strips amortization, contingent marks and retention comp \u2014 barely moved: 44.5% (FY2024) to 44.1% (FY2025), and 44.5% in Q1'26\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied evidence is balance-sheet and cash-flow data and contains none of the stated adjusted-margin values or exclusions.",
+      "evidence_check": "Searched for 44.5%, 44.1%, adjusted operating margin, amortization, and contingent marks; no support."
+    },
+    {
+      "claim": "\"~$8.7B of new acquisition DEBT in 2024\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain an $8.7B debt figure or debt issuance breakdown supporting it.",
+      "evidence_check": "Reviewed the balance-sheet and cash-flow excerpts for 8.7, acquisition debt, and note issuances; no match."
+    },
+    {
+      "claim": "\"$3.0B March notes for GIP\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not mention the March notes or their $3.0B amount.",
+      "evidence_check": "Searched the earnings-release excerpts for $3.0B, March notes, borrowing, and GIP funding; none appeared."
+    },
+    {
+      "claim": "\"$2.5B July notes for Preqin\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain a $2.5B July note issuance or state that it funded Preqin.",
+      "evidence_check": "Searched for July notes, $2.5B, debt issuance, and Preqin funding; no result."
+    },
+    {
+      "claim": "\"plus \u20ac1.0B in April 2025\"",
+      "cited_file": "blk_2025-03-26_8-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages contain no \u20ac1.0B April 2025 issuance.",
+      "evidence_check": "Reviewed the balance-sheet and cash-flow excerpts for \u20ac1.0B, April, and notes; no support."
+    },
+    {
+      "claim": "\"net interest income of +$229M (FY2024)\"",
+      "cited_file": "blk_2024_10-k.txt",
+      "issue": "The supplied 2024 10-K passages do not contain the $229M net-interest-income figure.",
+      "evidence_check": "Searched all displayed excerpts for 229 and net interest income; no match."
+    },
+    {
+      "claim": "\"a real ~$290M swing in cash earnings\"",
+      "cited_file": "blk_2024_10-k.txt; blk_2025_10-k.txt",
+      "issue": "The supplied passages do not show the underlying FY2024 +$229M and FY2025 -$60M net-interest values needed for this comparison.",
+      "evidence_check": "Reviewed the income-statement and earnings-release excerpts for 229, negative 60, and a 290 swing; no support."
+    },
+    {
+      "claim": "\"GIP contingent stock runs to 2028\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied excerpts do not state the 2028 deadline for GIP contingent stock.",
+      "evidence_check": "The GIP acquisition passage is truncated before any payment date, and the other passages are unrelated."
+    },
+    {
+      "claim": "\"HPS retention to 2030\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied passages do not state that HPS retention awards run through 2030.",
+      "evidence_check": "Searched for HPS retention vesting and 2030; only intangible amortization through 2030 and unrelated material appears."
+    },
+    {
+      "claim": "\"all goodwill tested clean at 7/31\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the July 31 goodwill impairment-test result.",
+      "evidence_check": "Searched the provided 10-K excerpts for goodwill testing, July 31, and no impairment; no relevant passage appears."
+    },
+    {
+      "claim": "\"27% year-over-year to $6.7B in Q1'26\"",
+      "cited_file": "blk_2026-04-14_8-k.txt",
+      "issue": "The passages support 27% revenue growth but do not show the asserted $6.7B revenue comparison value.",
+      "evidence_check": "Found the 27% headline; searched the supplied passages for total revenue of $6.698B/$6.7B and did not find it."
+    },
+    {
+      "claim": "\"Performance fees swung $272M (Q1'26) vs $754M (Q4'25) vs $60M (Q1'25)\"",
+      "cited_file": "blk_2026-04-14_8-k.txt; blk_2026-01-15_8-k.txt; blk_2025-04-11_8-k.txt",
+      "issue": "The supplied passages are unrelated balance-sheet and T. Rowe cash-flow records and contain none of the three performance-fee values.",
+      "evidence_check": "Searched for 272, 754, 60, and performance fees; no support in the provided evidence."
+    },
+    {
+      "claim": "\"~6% of revenue\"",
+      "cited_file": "blk_2026-04-14_8-k.txt; blk_2026-01-15_8-k.txt; blk_2025-04-11_8-k.txt",
+      "issue": "The supplied passages do not identify the item claimed to represent approximately 6% of revenue or provide a supporting calculation.",
+      "evidence_check": "Reviewed the excerpts for a 6%-of-revenue disclosure; only organic base-fee growth and unrelated mix data appear."
+    },
+    {
+      "claim": "\"the stock-settled contingent consideration is now a mark-to-market on BlackRock's OWN share price that runs through the P&L\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not describe the contingent consideration's valuation dependence on BlackRock's share price or its P&L treatment.",
+      "evidence_check": "Searched for own share price, mark-to-market, fair-value changes, and income-statement treatment; no relevant evidence appears."
+    },
+    {
+      "claim": "\"It was a $720M expense in FY2025 but a $549M BENEFIT in Q1'26\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "Neither the $720M FY2025 expense nor the $549M Q1 2026 benefit appears in the supplied passages.",
+      "evidence_check": "Reviewed the balance-sheet and cash-flow excerpts for 720, 549, and contingent consideration; no matches."
+    },
+    {
+      "claim": "\"a ~$645M favorable swing quarter-to-quarter\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not contain the quarter-to-quarter contingent-consideration amounts required for this calculation.",
+      "evidence_check": "Searched for 645 and the relevant Q4 2025/Q1 2026 fair-value adjustments; no support."
+    },
+    {
+      "claim": "\"HPS added 7.6M Subco Units with up to ~4.4M more deferred\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The passages support up to approximately 4.4M deferred units but do not contain the claimed 7.6M closing-unit count.",
+      "evidence_check": "Found the 2.8M-to-4.4M deferred-unit range; searched for 7.6M/7,606,927 closing units and found no match."
+    },
+    {
+      "claim": "\"That is ~9% share-count growth funding the buildout\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not contain a like-for-like share-count comparison yielding approximately 9%.",
+      "evidence_check": "Reviewed the excerpts for relevant beginning and ending share counts; no 9% calculation is supported."
+    },
+    {
+      "claim": "\"T. Rowe Price is net SHRINKING its count\"",
+      "cited_file": "trow_cash_flow.json",
+      "issue": "The cited cash-flow file passages do not contain share-count data.",
+      "evidence_check": "Local search returned no match, and the provided cash-flow evidence has no weighted-average or outstanding-share fields."
+    },
+    {
+      "claim": "\"~9% more shares against 19-27% revenue growth\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not provide the complete like-for-like share and revenue comparisons needed for this statement.",
+      "evidence_check": "Found partial quarterly share data only; the relevant 9% share comparison and 19-27% paired revenue figures are not all present."
+    },
+    {
+      "claim": "\"~doubling private-markets base fees\"",
+      "cited_file": "blk_2026-01-15_8-k.txt",
+      "issue": "No passage was retrieved showing the private-markets base-fee comparison.",
+      "evidence_check": "Local search found no match for the claimed doubling or its underlying annual values."
+    },
+    {
+      "claim": "\"Blackstone collapsed to $629M revenue in Q2'22\"",
+      "cited_file": "bx_income_statement.json",
+      "issue": "The supplied passages do not contain Blackstone's Q2 2022 revenue or a $629M figure.",
+      "evidence_check": "Reviewed the company-profile, T. Rowe cash-flow, and BlackRock earnings excerpts; no Blackstone Q2 2022 result appears."
+    },
+    {
+      "claim": "\"organic base fee growth accelerated 6% -> 12% through 2025 and printed 8% in Q1'26\"",
+      "cited_file": "blk_2025-04-11_8-k.txt; blk_2026-01-15_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages are balance-sheet and cash-flow records and contain none of the claimed growth rates.",
+      "evidence_check": "Searched for 6%, 12%, 8%, and organic base fee growth; no support in the provided excerpts."
+    },
+    {
+      "claim": "\"the deliberate rotation out of ~3 bps index into ~82 bps private markets nearly doubled private-markets base fees\"",
+      "cited_file": "blk_2026-04-14_8-k.txt; blk_2026-01-15_8-k.txt",
+      "issue": "The passages do not contain the 3 bps and 82 bps rates or evidence that the shift was a deliberate rotation.",
+      "evidence_check": "Reviewed the cited excerpts for index/private fee rates, rotation language, and the base-fee doubling comparison; none was present."
+    },
+    {
+      "claim": "\"as-adjusted margins held ~44% straight through the most acquisitive year in the company's history\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not show adjusted-margin figures or establish the 'most acquisitive year' comparison.",
+      "evidence_check": "Searched for approximately 44%, adjusted margin, and most acquisitive year; no supporting text appears."
+    },
+    {
+      "claim": "\"as-adjusted margin flat and as-adjusted EPS +10%\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026-01-15_8-k.txt",
+      "issue": "The supplied passages are balance-sheet and cash-flow data and contain neither the adjusted-margin comparison nor adjusted EPS growth.",
+      "evidence_check": "Searched the provided excerpts for adjusted margin, adjusted EPS, and 10%; no relevant support."
+    },
+    {
+      "claim": "\"$35B goodwill / $8.4B contingent liability\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied passages do not contain either the goodwill balance or contingent-consideration liability.",
+      "evidence_check": "Reviewed the 10-K excerpts for 35, 35.3, 8.4, goodwill, and contingent liability; none appears."
+    },
+    {
+      "claim": "\"No impairment through Q1'26\"",
+      "cited_file": "blk_2025_10-k.txt; blk_2026q1_10-q.txt",
+      "issue": "The supplied passages do not address BlackRock impairment testing or Q1 2026 impairment charges.",
+      "evidence_check": "The evidence consists of unrelated T. Rowe cash-flow and income-statement records; no BlackRock impairment disclosure appears."
+    },
+    {
+      "claim": "\"The private-markets fee rate is compressing (93 -> 82 bps)\"",
+      "cited_file": "blk_2025-07-15_8-k.txt; blk_2026-04-14_8-k.txt",
+      "issue": "The supplied passages do not contain the Q2 2025 and Q1 2026 private-markets fee/AUM inputs needed to derive 93 and 82 bps.",
+      "evidence_check": "Searched for 93, 82, private-markets fee rates, and corresponding fee/AUM values; the required data are absent."
+    },
+    {
+      "claim": "\"retention comp to 2030\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The passages do not state that acquisition retention compensation runs through 2030.",
+      "evidence_check": "Searched for retention compensation vesting dates; 2030 appears only in unrelated fundraising, credit-facility, and debt-maturity contexts."
+    },
+    {
+      "claim": "\"contingent stock to 2028-2030\"",
+      "cited_file": "blk_2025_10-k.txt",
+      "issue": "The supplied passages do not establish contingent-stock payment periods running from 2028 through 2030.",
+      "evidence_check": "Searched for contingent stock, deferred consideration, 2028, 2029, and 2030; the visible dates concern a credit facility and intangible amortization, not contingent stock."
+    }
+  ],
+  "synthesis_found": "Net: the organic engine is accelerating and higher-quality than the headline flows, the acquisitions are integrating on the metrics that matter, and the reported ugliness is accounting, not economics.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/balance_sheet/blk_balance_sheet.json",
+    "financials/cash_flow/blk_cash_flow.json",
+    "financials/cash_flow/kkr_cash_flow.json",
+    "financials/cash_flow/trow_cash_flow.json",
+    "financials/income_statement/blk_income_statement.json",
+    "financials/income_statement/bx_income_statement.json",
+    "financials/income_statement/kkr_income_statement.json",
+    "financials/income_statement/trow_income_statement.json",
+    "press_releases/blk_2025-04-11_8-k.txt",
+    "press_releases/blk_2025-07-01_8-k.txt",
+    "press_releases/blk_2025-07-15_8-k.txt",
+    "press_releases/blk_2025-10-14_8-k.txt",
+    "press_releases/blk_2026-01-15_8-k.txt",
+    "press_releases/blk_2026-04-14_8-k.txt",
+    "press_releases/blk_2026-06-30_8-k.txt",
+    "sec_filings/10-k/blk_2024_10-k.txt",
+    "sec_filings/10-k/blk_2025_10-k.txt",
+    "sec_filings/10-q/blk_2025q3_10-q.txt",
+    "sec_filings/10-q/blk_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 144,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

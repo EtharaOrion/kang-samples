@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "DASH",
+    "cik": "0001792789",
+    "companyName": "DoorDash, Inc.",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "UBER",
+    "cik": "0001543151",
+    "companyName": "Uber Technologies, Inc",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "CART",
+    "cik": "0001579091",
+    "companyName": "Maplebear Inc.",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  }
+]

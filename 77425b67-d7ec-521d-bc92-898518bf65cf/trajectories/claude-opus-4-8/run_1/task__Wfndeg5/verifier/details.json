@@ -1,0 +1,560 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Top-Line Growth Durability and Net Retention",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent explicitly argues that growth re-accelerated, citing FY2025 revenue of $2,167.9 million at roughly 30% growth and Q1 2026 revenue of $639.8 million at 34%, and tests durability through the quarterly trajectory and usage-based caveats. The cited FY2025 and Q1 2026 revenue and growth figures were flagged as unsupported.",
+        "b": "The agent tracks DBNR from 111% through 120% and then 118%, characterizing it as a trough-and-turn while acknowledging the latest sequential decline and the less predictable usage-based tail. The 118%-120% DBNR range was among the flagged claims, so this move is tainted.",
+        "c": "The agent discusses expansion within large enterprise accounts but does not decompose total growth between the rubric's FY2025 40% increase in paying customers and expansion of existing customers. It therefore does not assess explicitly how much durability depends on new logos versus land-and-expand."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Operating-Leverage Inflection: GAAP Losses vs Non-GAAP and Free-Cash-Flow Profitability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent directly confronts widening GAAP operating losses, stating that FY2024's roughly $155 million loss widened to about $207 million in FY2025 and that the quarterly loss widened from about $53 million to $62 million. Several of these FY2025 and Q1 2026 figures were flagged as unsupported.",
+        "b": "The answer explicitly reconciles positive FCF and non-GAAP profitability with the GAAP loss and identifies SBC as a major excluded non-cash item, concluding that cash generation is real even though operating leverage is not yet proven. The FCF amounts and margins, non-GAAP results, and several SBC-related calculations used to support this move were flagged.",
+        "c": "The agent analyzes substantial gross-margin compression, attributes it to GPU investment supporting the AI developer platform, and concludes that this cost is consuming operating-expense leverage before it reaches operating income. The gross-margin series and attributed GPU-investment quotation were flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Enterprise Mix and RPO Backlog Quality",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent tracks the over-$100,000 customer cohort to 4,416 in Q1 2026 from 3,527 a year earlier and interprets the trend as evidence of deeper enterprise penetration and expansion. Its comparison of large-customer growth with 34% revenue growth was flagged, and it omits the specific December 2025 count of 4,298, but the underlying analytical move is present.",
+        "b": "The answer lays out an RPO progression from roughly $2.50 billion at FY2025 year-end to about $2.54 billion in Q1 2026, discusses the approximately 63%-64% near-term conversion share, and treats backlog as forward visibility. The Q1 RPO amount, RPO growth rates, and conversion percentages were flagged as unsupported.",
+        "c": "The agent contrasts usage-based products and flexible pool-of-funds arrangements with the apparent contractual visibility of RPO, and explicitly tests backlog growth against revenue growth. The asserted RPO growth rates and pool-of-funds evidence used for this assessment were flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "AI Developer Platform Monetization and Competitive Moat",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent characterizes Workers AI as serverless inference on GPUs across Cloudflare's platform and evaluates it against hyperscalers with greater capital, silicon, bundling, and pricing advantages. Supporting claims about undercutting public-cloud pricing and GPU investment were flagged.",
+        "b": "The answer explicitly connects AI/GPU infrastructure investment to gross-margin compression while framing AI as the same engine behind stronger revenue, retention, and backlog. The claimed margin decline and GPU-investment evidence were flagged.",
+        "c": "The agent makes a clear moat judgment: the platform is described as genuine and monetizing, but increasingly capital-intensive, usage-sensitive, and exposed to hyperscaler competition rather than a costless software extension. Several supporting assertions, including pricing and incremental-cost claims, were flagged.",
+        "d": "The unified conclusion explicitly reconciles re-accelerating growth, stronger retention, backlog, and positive FCF with widening GAAP losses and gross-margin compression, concluding that durable growth is real but operating leverage is not yet proven because the AI bet carries near-term margin costs. Many of the quantitative premises supporting this synthesis\u2014including growth, FCF, RPO, gross-margin, and restructuring claims\u2014were flagged."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Management's May 2026 decision to cut ~20% of its workforce",
+      "cited_file": "net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The retrieved passages contain balance-sheet data but no workforce-reduction decision or 20% figure.",
+      "evidence_check": "Searched the supplied passages for May 2026, workforce, reduction, and 20%; no relevant match."
+    },
+    {
+      "claim": "Q1'25 +27%",
+      "cited_file": "net_2025-05-08_8-k",
+      "issue": "The passages do not report Q1 2025 growth of 27%.",
+      "evidence_check": "The only relevant growth figure shown is FY2024 revenue growth of 29%; no Q1 2025 27% result appears."
+    },
+    {
+      "claim": "Q2'25 +28%",
+      "cited_file": "net_2025-07-31_8-k",
+      "issue": "The passages do not report Q2 2025 revenue growth of 28%.",
+      "evidence_check": "The displayed 28% figures concern FY2024 G&A expense and interest income, not Q2 2025 revenue."
+    },
+    {
+      "claim": "Q3'25 +31%",
+      "cited_file": "net_2025-10-30_8-k",
+      "issue": "The passages provide balance-sheet values but no Q3 2025 growth rate of 31%.",
+      "evidence_check": "Searched for a Q3 2025 revenue comparison and 31%; none appears."
+    },
+    {
+      "claim": "Q4'25 +33.6%",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The passages do not contain a Q4 2025 growth rate or the value 33.6%.",
+      "evidence_check": "Retrieved text concerns competition and FY2024 results; no Q4 2025 33.6% result appears."
+    },
+    {
+      "claim": "Q1'26 +34%",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages do not contain the Q1 2026 revenue comparison or 34% growth figure.",
+      "evidence_check": "Searched the supplied balance-sheet and historical passages for the asserted Q1 2026 growth; no match."
+    },
+    {
+      "claim": "FY2025 revenue $2,167.9M, +29.8% YoY",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "Neither FY2025 revenue of $2,167.9 million nor 29.8% growth appears in the passages.",
+      "evidence_check": "The passages show balance-sheet data and only a partial Q3 2025 income-statement record."
+    },
+    {
+      "claim": "Q1'26 revenue $639.8M, +34%",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The claim-specific passages do not show $639.8 million or the 34% comparison.",
+      "evidence_check": "Searched the supplied excerpts for 639.8/639,755 and 34%; no relevant match appears."
+    },
+    {
+      "claim": "NET: +34% growth",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "The passages identify NET and provide balance-sheet data but do not report 34% growth.",
+      "evidence_check": "No income-statement comparison establishing 34% growth appears in the supplied passages."
+    },
+    {
+      "claim": "DDOG: +32.2%",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Datadog financial result or 32.2% growth rate is present.",
+      "evidence_check": "The passages only identify DDOG's company profile and contain unrelated Cloudflare filing text."
+    },
+    {
+      "claim": "DDOG: +32.2% (re-accelerating from +24.6% in Q1'25)",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "Neither 32.2% nor the Q1 2025 comparison value of 24.6% appears.",
+      "evidence_check": "Searched the supplied passages for both percentages and Datadog revenue comparisons; none found."
+    },
+    {
+      "claim": "DDOG ... on 79% gross margin",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Datadog gross-margin data is shown.",
+      "evidence_check": "The passages identify DDOG but contain only Cloudflare non-GAAP and stock-compensation text."
+    },
+    {
+      "claim": "AKAM: +5.8% growth",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Akamai revenue comparison or 5.8% growth rate is present.",
+      "evidence_check": "The passages identify AKAM but otherwise contain unrelated Cloudflare disclosures."
+    },
+    {
+      "claim": "FSLY: +19.8% growth",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Fastly revenue comparison or 19.8% growth rate is present.",
+      "evidence_check": "The passages identify FSLY but contain unrelated Cloudflare financing text."
+    },
+    {
+      "claim": "FSLY: +19.8% growth off a tiny ~$173M/q base",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "Neither 19.8% growth nor a roughly $173 million quarterly revenue base is established.",
+      "evidence_check": "No Fastly income-statement values appear in the supplied passages."
+    },
+    {
+      "claim": "FSLY ... still deeply GAAP-unprofitable (-13.8% operating margin)",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Fastly operating-income or revenue figures support the -13.8% margin.",
+      "evidence_check": "The only financial excerpt shown is a Cloudflare Q2 2024 gross-margin discussion."
+    },
+    {
+      "claim": "FY24 $166.9M (10.0% margin)",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The passages do not contain $166.9 million or a 10.0% metric tied to it.",
+      "evidence_check": "Retrieved figures include operating cash flow and GAAP results, but not the asserted FY2024 amount and margin."
+    },
+    {
+      "claim": "FY25 $260.6M (12.0%)",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "Neither $260.6 million nor 12.0% appears in the passages.",
+      "evidence_check": "The excerpts concern FY2024 results and unrelated disclosures."
+    },
+    {
+      "claim": "Q1'26 FCF $84.1M (13%)",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages do not contain Q1 2026 free cash flow of $84.1 million or a 13% margin.",
+      "evidence_check": "Searched the supplied balance-sheet and historical income-statement excerpts; no FCF result appears."
+    },
+    {
+      "claim": "$52.9M (11%) in Q1'25",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages do not show $52.9 million or an 11% Q1 2025 metric.",
+      "evidence_check": "The Q1 2025 income-statement excerpt contains revenue and GAAP operating figures only."
+    },
+    {
+      "claim": "Q4'25 hit 16.2%",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "No Q4 2025 metric of 16.2% appears.",
+      "evidence_check": "Searched the supplied passages for 16.2% and a Q4 2025 result; none found."
+    },
+    {
+      "claim": "Q1'26 $94.0M, +61% YoY",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "Neither $94.0 million nor 61% year-over-year growth appears in the passages.",
+      "evidence_check": "The supplied excerpts contain balance-sheet data and unrelated debt disclosures."
+    },
+    {
+      "claim": "non-GAAP EPS $0.25 vs $0.16",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages contain no non-GAAP EPS figures.",
+      "evidence_check": "Searched for $0.25, $0.16, EPS, and a period comparison; no relevant result appears."
+    },
+    {
+      "claim": "FY25 non-GAAP EPS $0.93 vs $0.75",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "Neither non-GAAP EPS value appears.",
+      "evidence_check": "The passages concern financing and accounting for convertible notes, not FY2025 EPS."
+    },
+    {
+      "claim": "FY25 -$207.2M (-9.6%)",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The FY2025 amount and margin do not appear.",
+      "evidence_check": "The supplied excerpts show FY2024 operating loss of $154.761 million but no FY2025 $207.2 million result."
+    },
+    {
+      "claim": "Q1'26 GAAP operating loss -$62.0M",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The claim-specific passages do not show Q1 2026 operating income of approximately -$62.0 million.",
+      "evidence_check": "Only balance-sheet and unrelated historical filing excerpts were retrieved."
+    },
+    {
+      "claim": "Q1'25 GAAP operating loss -$53.2M",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The passages do not contain the Q1 2025 operating-loss figure.",
+      "evidence_check": "The supplied excerpts are FY2024 filing text and do not show Q1 2025 -$53.2 million."
+    },
+    {
+      "claim": "GAAP net loss FY25 -$102.3M",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The passages do not show FY2025 net loss of $102.3 million.",
+      "evidence_check": "Only FY2024 net loss of $78.8 million is shown."
+    },
+    {
+      "claim": "FY24 13.8%",
+      "cited_file": "net_2025-02-06_8-k; net_2026-02-10_8-k",
+      "issue": "The precise 13.8% figure does not appear in the supplied passages.",
+      "evidence_check": "The passages show rounded FY2024 non-GAAP operating margin of 14% and underlying values, but not the claimed 13.8% figure."
+    },
+    {
+      "claim": "FY25 14.0% ($303.85M / $2,167.9M)",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The FY2025 numerator, denominator, and 14.0% calculation are absent.",
+      "evidence_check": "The supplied excerpts contain FY2024 data only."
+    },
+    {
+      "claim": "That is ~20bps of expansion on a full year of ~30% growth.",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The passages do not provide the compared margin values or the asserted 20-basis-point expansion.",
+      "evidence_check": "Only balance-sheet values are shown; no relevant full-year margin comparison appears."
+    },
+    {
+      "claim": "Q1'26 non-GAAP operating margin was 11.4%",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "No Q1 2026 non-GAAP operating margin of 11.4% appears.",
+      "evidence_check": "The supplied excerpts contain balance-sheet data and FY2024 disclosures only."
+    },
+    {
+      "claim": "Q1'25 non-GAAP operating margin was 11.7%",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "No Q1 2025 non-GAAP operating margin of 11.7% appears.",
+      "evidence_check": "The supplied excerpts contain FY2024 results but no Q1 2025 non-GAAP reconciliation."
+    },
+    {
+      "claim": "GAAP gross margin fell 77.5% (Q1'24)",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The Q1 2024 gross-margin value of 77.5% is absent.",
+      "evidence_check": "The passages show annual rounded gross margin of 77%, not the claimed Q1 value."
+    },
+    {
+      "claim": "75.9% (Q1'25)",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The Q1 2025 value of 75.9% does not appear.",
+      "evidence_check": "No Q1 2025 gross-margin calculation is supplied in the passages."
+    },
+    {
+      "claim": "74.0% (Q3'25)",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The Q3 2025 value of 74.0% does not appear.",
+      "evidence_check": "The excerpts contain FY2024 material only."
+    },
+    {
+      "claim": "71.2% (Q1'26)",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The Q1 2026 value of 71.2% does not appear.",
+      "evidence_check": "No Q1 2026 gross-profit and revenue comparison is present in the supplied passages."
+    },
+    {
+      "claim": "non-GAAP gross margin 77.1% \u2192 72.8% over the last year",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "Neither endpoint of the claimed non-GAAP gross-margin comparison appears.",
+      "evidence_check": "The supplied passages discuss non-GAAP measures generally and FY2024 rounded GAAP metrics only."
+    },
+    {
+      "claim": "NET is adding \"servers with graphics processing units (GPUs) to support our AI-related developer platform products\"",
+      "cited_file": "net_2026q1_10-q.txt; net_2025_10-k.txt",
+      "issue": "The attributed quotation is not present in the passages.",
+      "evidence_check": "Searched the supplied excerpts for servers, GPUs, and AI-related developer platform products; no quoted text appears."
+    },
+    {
+      "claim": "Q1'26 operating loss was -$62.0M",
+      "cited_file": "net_income_statement.json",
+      "issue": "The claim-specific passages do not contain the Q1 2026 operating-loss value.",
+      "evidence_check": "Only balance-sheet and unrelated FY2024 filing excerpts are shown."
+    },
+    {
+      "claim": "Q1'26 pre-tax loss was only -$21.4M",
+      "cited_file": "net_income_statement.json",
+      "issue": "The claim-specific passages do not show Q1 2026 income before tax of -$21.4 million.",
+      "evidence_check": "Searched the supplied excerpts for -21.4/-21,401; no match."
+    },
+    {
+      "claim": "a ~$40.6M swing from net non-operating (interest) income",
+      "cited_file": "net_income_statement.json",
+      "issue": "No passages were retrieved and the specific $40.6 million swing is not established.",
+      "evidence_check": "The evidence reports no local match; no operating-loss and pre-tax-loss bridge is provided."
+    },
+    {
+      "claim": "The same ~$40M gap recurs in Q3'25",
+      "cited_file": "net_income_statement.json",
+      "issue": "The Q3 2025 operating-to-pre-tax gap is not established by the passages.",
+      "evidence_check": "The retrieved $40.0 million mention concerns FY2023 lease payments, not Q3 2025 non-operating income."
+    },
+    {
+      "claim": "Q2'25 FCF margin fell to just 6%",
+      "cited_file": "net_2025-07-31_8-k",
+      "issue": "No Q2 2025 free-cash-flow margin appears.",
+      "evidence_check": "The passages concern leases, stock compensation, competition, and FY2024 percentage data."
+    },
+    {
+      "claim": "SBC was ... 17.9% of revenue in Q1'26",
+      "cited_file": "net_2026q1_10-q.txt",
+      "issue": "The passages do not contain the SBC amount and revenue needed for the 17.9% calculation.",
+      "evidence_check": "The supplied excerpts show unrelated intangible-asset, legal, and liquidity disclosures."
+    },
+    {
+      "claim": "SBC was ... 19.9% in Q1'25",
+      "cited_file": "net_2026q1_10-q.txt",
+      "issue": "The supplied passages do not include Q1 2025 revenue alongside SBC to establish 19.9%.",
+      "evidence_check": "The cash-flow excerpt shows SBC of $95.535 million, but no revenue value or stated 19.9%."
+    },
+    {
+      "claim": "non-GAAP net income (+61%) is growing far faster than revenue (+34%)",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages do not provide either asserted growth rate for the compared non-GAAP net income and revenue metrics.",
+      "evidence_check": "No Q1 2026 earnings-release comparison appears in the supplied excerpts."
+    },
+    {
+      "claim": "on May 7, 2026 NET announced a ~20% workforce reduction",
+      "cited_file": "net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The announcement date and workforce-reduction figure are absent from these claim-specific passages.",
+      "evidence_check": "The excerpts only identify NET and show balance-sheet records."
+    },
+    {
+      "claim": "$140\u2013150M of charges",
+      "cited_file": "net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The restructuring charge range is not present in the supplied passages.",
+      "evidence_check": "The $150 million references concern potential revolving-credit-facility expansion, not restructuring charges."
+    },
+    {
+      "claim": "\"may not realize the expected operating efficiencies, cost savings, or other expected benefits... if at all\"",
+      "cited_file": "net_2026q1_10-q.txt",
+      "issue": "The attributed quotation is not present in the evidence.",
+      "evidence_check": "The evidence reports no local match for the quoted wording."
+    },
+    {
+      "claim": "~$1.05B of unrecognized RSU/PSU SBC",
+      "cited_file": "net_2026q1_10-q.txt",
+      "issue": "No $1.05 billion unrecognized-compensation amount appears.",
+      "evidence_check": "The passages show filing metadata and stockholders' equity but no unrecognized RSU/PSU compensation balance."
+    },
+    {
+      "claim": "basic shares up from 338.6M (Q1'24) to 352.6M (Q1'26)",
+      "cited_file": "net_income_statement.json",
+      "issue": "Neither weighted-average share value appears in the supplied passages.",
+      "evidence_check": "The excerpts contain balance-sheet history and an unrelated stock-performance table."
+    },
+    {
+      "claim": "Large-customer count growth (~25%) trails revenue growth (34%)",
+      "cited_file": "net_2024q2_10-q.txt; net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The claim-specific passages do not supply the Q1 2026 large-customer counts or 34% revenue comparison needed for this conclusion.",
+      "evidence_check": "The only 25% figure shown concerns FY2024 total paying-customer growth."
+    },
+    {
+      "claim": "RPO grew +48% YoY in Q4'25",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "No Q4 2025 RPO values or 48% growth figure appear.",
+      "evidence_check": "The passages concern company profiles, international operations, and fair-value data."
+    },
+    {
+      "claim": "total RPO ~+36% in Q1'26",
+      "cited_file": "net_2025-10-30_8-k",
+      "issue": "No Q1 2026 RPO comparison or 36% growth rate appears.",
+      "evidence_check": "The supplied excerpts contain profiles, historical balance sheets, and stockholders' equity."
+    },
+    {
+      "claim": "The portion of RPO expected to convert within 12 months ... 63\u201364% (FY25 / Q1'26)",
+      "cited_file": "net_2025_10-k.txt; net_2026q1_10-q.txt",
+      "issue": "Neither 63% nor 64% RPO-conversion percentage appears in the claim-specific passages.",
+      "evidence_check": "The supplied evidence consists of profiles and balance-sheet excerpts."
+    },
+    {
+      "claim": "NET's largest deals use \"pool of funds\" arrangements",
+      "cited_file": "net_2025_10-k.txt",
+      "issue": "The supplied passages do not mention pool-of-funds arrangements.",
+      "evidence_check": "Searched the claim-specific excerpts for 'pool of funds'; no match."
+    },
+    {
+      "claim": "a \"serverless architecture means we can add products on our platform to solve new network challenges without significantly increasing our incremental costs\"",
+      "cited_file": "net_2019_s-1.txt",
+      "issue": "The exact quotation is absent from the retrieved S-1 passages.",
+      "evidence_check": "The evidence reports no local match for the quoted sentence."
+    },
+    {
+      "claim": "NET explicitly claims it can undercut public-cloud pricing because of network efficiency",
+      "cited_file": "net_2025_10-k.txt",
+      "issue": "No statement about undercutting public-cloud pricing or the claimed reason appears.",
+      "evidence_check": "The supplied excerpts are filing metadata and risk summaries."
+    },
+    {
+      "claim": "The CEO calls AI \"the biggest tailwind we've ever seen in Cloudflare's history\"",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The attributed CEO quotation is absent.",
+      "evidence_check": "The passages only show company-profile and balance-sheet data."
+    },
+    {
+      "claim": "NET is now investing \"substantial\" capital in GPU servers",
+      "cited_file": "net_2025_10-k.txt; net_2026q1_10-q.txt",
+      "issue": "The passages do not mention substantial investment in GPU servers.",
+      "evidence_check": "Searched the supplied excerpts for substantial, GPU, and server investment; no match."
+    },
+    {
+      "claim": "the 79%\u219271% gross-margin slide",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "Neither the 79% starting value nor the 71% ending value appears in the supplied passages.",
+      "evidence_check": "The excerpts discuss non-GAAP limitations and stock compensation, not the claimed margin series."
+    },
+    {
+      "claim": "Datadog's ~79% gross margin",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Datadog gross-margin values are present.",
+      "evidence_check": "The passages identify DDOG but otherwise contain Cloudflare disclosures."
+    },
+    {
+      "claim": "AI re-accelerated revenue to +34%",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "Neither the 34% revenue result nor evidence attributing re-acceleration to AI appears.",
+      "evidence_check": "The supplied passages are company-profile and balance-sheet records."
+    },
+    {
+      "claim": "lifted DBNR to ~118\u2013120%",
+      "cited_file": "net_2025_10-k.txt; net_2026q1_10-q.txt",
+      "issue": "The asserted DBNR range is absent from the claim-specific passages.",
+      "evidence_check": "The excerpts shown are unrelated FY2024 filing sections."
+    },
+    {
+      "claim": "$2.54B RPO",
+      "cited_file": "net_2026q1_10-q.txt",
+      "issue": "The supplied passages do not contain the $2.54 billion RPO amount.",
+      "evidence_check": "The excerpts show filing metadata, organization notes, fair-value methodology, and investment balances."
+    },
+    {
+      "claim": "compressing gross margin (79%\u219271%)",
+      "cited_file": "net_2026-05-07_8-k; net_income_statement.json",
+      "issue": "The claimed gross-margin endpoints are absent.",
+      "evidence_check": "No 79%-to-71% gross-margin comparison appears in the supplied excerpts."
+    },
+    {
+      "claim": "FCF (12% margin)",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "No free-cash-flow margin of 12% appears.",
+      "evidence_check": "The claim-specific passages contain balance-sheet values only."
+    },
+    {
+      "claim": "non-GAAP net income (+61%)",
+      "cited_file": "net_2026-05-07_8-k",
+      "issue": "The passages do not report non-GAAP net-income growth of 61%.",
+      "evidence_check": "No relevant non-GAAP quarterly earnings figures appear."
+    },
+    {
+      "claim": "~$40M/quarter of interest income",
+      "cited_file": "net_income_statement.json",
+      "issue": "No quarterly interest-income value of approximately $40 million is present.",
+      "evidence_check": "The retrieved $40 million references concern lease payments and other unrelated items."
+    },
+    {
+      "claim": "management is now cutting 20% of headcount",
+      "cited_file": "net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The supplied passages do not mention a 20% headcount reduction.",
+      "evidence_check": "Searched for cutting, workforce, headcount, and 20%; no relevant match."
+    },
+    {
+      "claim": "non-GAAP operating margin ... stalled ~14%",
+      "cited_file": "net_2026-02-10_8-k",
+      "issue": "The passages establish FY2024 non-GAAP operating margin of 14% but provide no FY2025 value or trend showing it stalled.",
+      "evidence_check": "Only the FY2024 14% figure and earlier-year comparisons appear."
+    },
+    {
+      "claim": "the $140\u2013150M restructuring benefit is management estimate, not realized result",
+      "cited_file": "net_2026q1_10-q.txt; net_2026-05-07_8-k",
+      "issue": "The source describes $140\u2013150 million as estimated restructuring charges, not a restructuring benefit; the claim mislabels the amount.",
+      "evidence_check": "The supplied evidence for this claim does not contain the restructuring disclosure, while the cited filing excerpt elsewhere states the range consists of charges."
+    }
+  ],
+  "synthesis_found": "Reconciling all four themes into one view: Cloudflare has won the durability argument and lost (so far) the operating-leverage argument, and both outcomes trace to the SAME cause \u2014 the AI developer platform.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/balance_sheet/net_balance_sheet.json",
+    "financials/income_statement/net_income_statement.json",
+    "sec_filings/10-k/net_2024_10-k.txt",
+    "sec_filings/10-k/net_2025_10-k.txt",
+    "sec_filings/10-q/net_2024q2_10-q.txt",
+    "sec_filings/10-q/net_2024q3_10-q.txt",
+    "sec_filings/10-q/net_2025q1_10-q.txt",
+    "sec_filings/10-q/net_2025q2_10-q.txt",
+    "sec_filings/10-q/net_2025q3_10-q.txt",
+    "sec_filings/10-q/net_2026q1_10-q.txt",
+    "sec_filings/s-1/net_2019_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 127,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

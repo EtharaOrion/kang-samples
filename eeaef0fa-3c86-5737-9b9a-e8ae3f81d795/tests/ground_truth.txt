@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Backlog Durability and Its Concentration in Power & Energy
+Firm order backlog more than doubled from $30.0 billion at year-end 2024 to $51.2 billion at year-end 2025 and rose to $62.7 billion by the first quarter of 2026, but the largest increases came from Power & Energy rather than the core construction franchise, so headline backlog strength may not be a construction-cycle signal.
+[a] Trace the backlog trajectory across periods ($30.0 billion at year-end 2024, $51.2 billion at year-end 2025, $62.7 billion at the end of Q1 2026) and recognize that management attributes the largest increase in each period to Power & Energy, not Construction Industries.
+[b] Assess the tenor/quality of the backlog by noting the long-dated portion not expected to be filled within twelve months ($19.3 billion at year-end 2025, $24.8 billion at Q1 2026), and reason about what a growing long-dated share implies for near-term construction demand versus multi-year power projects.
+[c] Distinguish backlog driven by AI/data-center power generation and oil & gas from genuine construction-cycle demand, testing whether the record headline figure overstates the durability of the construction cycle specifically.
+Source: sec_filings/10-k/cat_2025_10-k.txt, sec_filings/10-q/cat_2026q1_10-q.txt
+
+2. Construction Industries Cycle — Dealer Restock versus End-User Demand
+Construction Industries sales fell about 2 percent in 2025 on unfavorable price realization, then jumped 38 percent in Q1 2026, but the Q1 surge leaned heavily on a dealer inventory build, so the analyst must separate channel restocking from underlying end-user demand.
+[a] Contrast the 2025 full-year Construction Industries weakness (sales down about 2 percent to roughly $25 billion, driven by unfavorable price realization) with the 38 percent Q1 2026 sales jump, and attribute the Q1 jump substantially to a Construction Industries dealer inventory increase of about $1.5 billion versus a slight decrease a year earlier.
+[b] Evaluate the total dealer inventory swing ($2.0 billion increase in Q1 2026 versus about $100 million a year earlier; machine dealer inventory fell about $500 million in 2025) and flag the risk that a seasonal, expectations-driven restock inflates reported sales beyond true retail demand.
+[c] Weigh the durability of the end-market drivers management cites for construction — IIJA infrastructure funding and accelerating data-center-related construction spending — against the caveat that dealers are independent and set inventory on their own demand expectations and delivery times.
+Source: sec_filings/10-k/cat_2025_10-k.txt, sec_filings/10-q/cat_2026q1_10-q.txt, financials/income_statement/cat_income_statement.json
+
+3. Backlog Pricing Power versus Tariff and Manufacturing-Cost Drag
+A record backlog did not protect 2025 margins — enterprise and operating profit fell as higher tariffs and unfavorable price realization bit, with Construction Industries profit down 24 percent — so the question is whether backlog-embedded pricing can absorb a multi-billion-dollar 2026 tariff cost.
+[a] Show that 2025 operating profit declined about 15 percent primarily on unfavorable manufacturing costs (largely reflecting higher tariffs) and unfavorable price realization, with Construction Industries profit down 24 percent.
+[b] Quantify the forward tariff overhang (management's roughly $2.6 billion 2026 estimate in the 10-K, revised to roughly $2.2 billion to $2.4 billion in the Q1 2026 10-Q), note its allocation skew toward Construction Industries, and account for the legal uncertainty from the February 20, 2026 Supreme Court IEEPA ruling (which held that IEEPA-based tariffs were unauthorized).
+[c] Test whether backlog pricing holds by contrasting 2025 unfavorable price realization with the return to favorable price realization in Q1 2026, judging whether price can outrun tariff and manufacturing-cost inflation.
+Source: sec_filings/10-k/cat_2025_10-k.txt, sec_filings/10-q/cat_2026q1_10-q.txt
+
+4. Through-Cycle Cash Generation and a Reconciled Verdict on Backlog Durability
+Despite the profit decline, Caterpillar generated strong operating cash flow and reaffirmed a 5 to 7 percent growth target on backlog strength, so the analyst must reconcile the bull case (record backlog, cash generation, secular power and infrastructure tailwinds) with the bear case (mix-shifted backlog, dealer-restock-driven Construction Industries, tariff margin drag) into a single position.
+[a] Establish the cash and financial-strength counterweight: enterprise operating cash flow of about $11.7 billion in 2025 and management's reaffirmed 2026 target to grow sales around the top end of the 5 to 7 percent CAGR, supported by the strong backlog.
+[b] Confront the strongest counter-evidence directly — that headline backlog is concentrated in Power & Energy, that the Q1 2026 Construction Industries surge leaned on dealer restock, and that tariffs are compressing margins — rather than listing bull and bear points in parallel.
+[c] Cross-check against peers using the income statement and cash flow data (e.g., DE, CMI, PCAR) to judge whether CAT's construction-cycle exposure is company-specific or industry-wide.
+[d] Deliver an explicit synthesis that reconciles these opposing data points into a single, defensible position on whether CAT's backlog is a durable through-cycle demand signal or a late-cycle mix shift masking construction-cycle softness.
+Source: sec_filings/10-k/cat_2025_10-k.txt, sec_filings/10-q/cat_2026q1_10-q.txt, financials/income_statement/cat_income_statement.json, financials/cash_flow/cat_cash_flow.json

@@ -1,0 +1,181 @@
+EX-5.1
+2
+d108689dex51.htm
+EX-5.1
+
+Exhibit 5.1 
+
+SKADDEN, ARPS, SLATE, MEAGHER & FLOMLLP
+
+ONE MANHATTAN WESTFIRM/AFFILIATE OFFICES
+
+NEW YORK, NY 10001——————
+
+——————BOSTON
+
+TEL: (212) 735-3000CHICAGO
+
+FAX: (212) 735-2000HOUSTON
+
+www.skadden.comLOS ANGELES
+
+PALO ALTO
+
+WASHINGTON, D.C.
+
+WILMINGTON
+
+——————
+
+ABU DHABI
+
+BEIJING
+
+BRUSSELS
+
+June 30, 2026FRANKFURT
+
+HONG KONG
+
+LONDON
+
+MUNICH
+
+PARIS
+
+SÃO PAULO
+
+SEOUL
+
+SINGAPORE
+
+TOKYO
+
+TORONTO
+
+BlackRock, Inc.
+
+50 Hudson Yards
+
+New York, NY 10001
+
+RE: Registration Statement on Form S-3
+
+Ladies and Gentlemen: 
+
+We have acted as special
+United States counsel to BlackRock, Inc., a Delaware corporation (the “Company”), in connection with the offering by the Company of up to 12,035,866 shares (the “Shares”) of common stock, par value $0.01 per
+share (the “Common Stock”), of the Company that may be issued to the holders of Class B-2 membership units (“SubCo Units”) of BlackRock Saturn Subco, LLC, a Delaware
+limited liability company and consolidated subsidiary of the Company (“Subco”), from time to time upon redemption of such SubCo Units pursuant to the Amended and Restated Operating Agreement of Subco, dated as of July 1, 2025
+(the “LLC Agreement”), by and among the Company and each of the Members thereto. We have been advised that the Shares consist of (i) up to 7,606,927 shares of Common Stock issuable upon redemption of 7,606,927 SubCo Units
+(the “Closing Consideration Units”) that were issued as closing date consideration for the Company’s acquisition of 100% of the business and assets of HPS Investment Partners (“HPS Transaction”) at the
+closing of the HPS Transaction on July 1, 2025 pursuant to that certain Transaction Agreement, dated as of December 3, 2024 (the “Transaction Agreement”), by and among the Company, Subco and certain other parties thereto
+and (ii) up to 4,428,939 shares of Common Stock issuable upon redemption of up to an additional 4,428,939 SubCo Units (the “Deferred Consideration Units”) that may be issued in the future as deferred consideration for the HPS
+Transaction pursuant to the Transaction Agreement. Pursuant to the LLC Agreement, the Company may elect to assume and perform Subco’s redemption obligations by effecting the exchange of SubCo Units for Common Stock through a direct exchange of
+such Common Stock with a redeeming member of Subco in exchange for such member’s SubCo Units (a “Direct Exchange”). 
+
+BlackRock, Inc. 
+
+June 30, 2026 
+
+ Page
+ 2
+ 
+
+This opinion is being furnished in accordance with the requirements of Item 601(b)(5) of
+Regulation S-K under the Securities Act of 1933 (the “Securities Act”). 
+
+In
+rendering the opinion stated herein, we have examined and relied upon the following: 
+
+(a) the registration statement on Form S-3 (File No. 333-286025) of the Company relating to Common Stock and other securities of the Company filed on March 21, 2025, with the Securities and Exchange
+Commission (the “Commission”) under the Securities Act allowing for delayed offerings pursuant to Rule 415 of the General Rules and Regulations under the Securities Act (the “Rules and Regulations”), including
+the information deemed to be a part of the registration statement pursuant to Rule 430B of the Rules and Regulations (such registration statement being hereinafter referred to as the “Registration Statement”); 
+
+(b) the prospectus, dated March 21, 2025 (the “Base Prospectus”), which forms a part of and is included in the
+Registration Statement; 
+
+(c) the prospectus supplement, dated June 30, 2026 (together with the Base Prospectus, the
+“Prospectus”), relating to the offering of the Shares, in the form filed with the Commission pursuant to Rule 424(b) of the Rules and Regulations; 
+
+(d) an executed copy of the Transaction Agreement; 
+
+(e) an executed copy of a certificate of R. Andrew Dickson III, Managing Director and Corporate Secretary of the Company and Managing Director
+and Secretary of Subco, dated the date hereof (the “Secretary’s Certificate”); 
+
+(f) a copy of the Company’s
+Amended and Restated Certificate of Incorporation, as amended, certified pursuant to the Secretary’s Certificate as being in effect on the date of the resolutions referred to below; 
+
+(g) a copy of the Company’s Restated Certificate of Incorporation certified by the Secretary of State of the State of Delaware as of
+June 29, 2026 and certified pursuant to the Secretary’s Certificate as being in effect on the date hereof (the “Certificate of Incorporation”); 
+
+(h) a copy of the Company’s Amended and Restated Bylaws, certified pursuant to the Secretary’s Certificate as being in effect on
+the date of the resolutions referred to below and as of the date hereof (the “Bylaws”); 
+
+(h) a copy of certain
+resolutions of the Board of Directors of the Company adopted on November 19, 2024, certified pursuant to the Secretary’s Certificate (the “Transaction Resolutions”); and 
+
+(l) a copy of the LLC Agreement, certified pursuant to the Secretary’s Certificate as being in effect on the date hereof. 
+
+BlackRock, Inc. 
+
+June 30, 2026 
+
+ Page
+ 3
+ 
+
+We have also examined originals or copies, certified or otherwise identified to our
+satisfaction, of such records of the Company and such agreements, certificates and receipts of public officials, certificates of officers or other representatives of the Company and others, and such other documents as we have deemed necessary or
+appropriate as a basis for the opinion stated below. 
+
+In our examination, we have assumed the genuineness of all signatures, including
+electronic signatures, the legal capacity and competency of all natural persons, the authenticity of all documents submitted to us as originals, the conformity to original documents of all documents submitted to us as facsimile, electronic,
+certified or photocopied copies, and the authenticity of the originals of such copies. In addition, we have assumed that the consideration for the Closing Consideration Units set forth in the Transaction Agreement approved by the Board of Directors
+in the Transaction Resolutions has been received in full by the Company and the consideration for the Deferred Consideration Units set forth in the Transaction Agreement approved by the Board of Directors will be received in full by the Company. As
+to any facts relevant to the opinion stated herein that we did not independently establish or verify, we have relied upon statements and representations of officers and other representatives of the Company, Subco and others and of public officials,
+including the facts and conclusions set forth in the Secretary’s Certificate and the Certificate of Incorporation. 
+
+We do not
+express any opinion with respect to the laws of any jurisdiction other than the General Corporation Law of the State of Delaware (the “DGCL”). 
+
+As used herein, “Organizational Documents” means the Certificate of Incorporation and the Bylaws. 
+
+Based upon the foregoing with respect to the DGCL and subject to the qualifications and assumptions stated herein, we are of the opinion that
+the Shares have been duly authorized by all requisite corporate action on the part of the Company under the DGCL and, when the Shares are issued in a Direct Exchange in accordance with the terms of the LLC Agreement upon the redemption of SubCo
+Units, will be validly issued, fully paid and nonassessable. 
+
+In addition, in rendering the foregoing opinion we have assumed that: 
+
+(a) the Company’s issuance of the Shares does not and will not (i) except to the extent expressly stated in the opinion contained
+herein, violate any statute to which the Company or such issuance is subject, or (ii) constitute a violation of, or a breach under, or require the consent or approval of any other person under, any agreement or instrument binding on the Company
+(except that we do not make this assumption with respect to the Organizational Documents or those agreements or instruments expressed to be governed by the laws of the State of New York which are listed in Part II of the Registration Statement or
+the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, although we have assumed compliance with any covenant, restriction or provision with respect to financial ratios or
+tests or any aspect of the financial condition or results of operations of the Company contained in such agreements or instruments), and we have further assumed that the Company will continue to have sufficient authorized shares of Common Stock;
+
+BlackRock, Inc. 
+
+June 30, 2026 
+
+ Page
+ 4
+ 
+
+(b) the Company’s authorized capital stock is as set forth in the Certificate of
+Incorporation, and we have relied solely on the certified copy thereof issued by the Secretary of State of the State of Delaware and have not made any other inquiries or investigations; and 
+
+(c) the Deferred Consideration Units will be issued in accordance with the terms of the Transaction Agreement and the LLC Agreement. 
+
+This opinion letter shall be interpreted in accordance with customary practice of United States lawyers who regularly give opinions in
+transactions of this type. 
+
+We hereby consent to the filing of this opinion with the Commission as an exhibit to the Company’s
+Current Report on Form 8-K being filed on the date hereof and incorporated by reference into the Registration Statement. In giving this consent, we do not thereby admit that we are within the category of
+persons whose consent is required under Section 7 of the Securities Act or the Rules and Regulations. This opinion letter is expressed as of the date hereof unless otherwise expressly stated, and we disclaim any undertaking to advise you of any
+subsequent changes in the facts stated or assumed herein or of any subsequent changes in applicable laws. 
+
+Very truly yours,
+
+/s/ Skadden, Arps, Slate, Meagher & Flom LLP
+
+MSH

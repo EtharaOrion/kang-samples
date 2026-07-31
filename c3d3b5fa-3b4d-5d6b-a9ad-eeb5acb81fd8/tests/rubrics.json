@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory creates a document-role map from direct inspection of the available company mapping, filings, releases, and structured financial statements rather than assigning roles from filenames alone.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reconnaissance steps for opened-file notes identifying document periods, exhibit or filing types, statement schemas, units, and intended analytical uses across the source folders."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process records a question tree that separates operating momentum, service diversification, revenue-quality effects, and external validation into distinct analytical workstreams.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an explicit research plan, question tree, or equivalent decomposition created before detailed analysis, with separate lines of inquiry for the major economic issues."
+    },
+    {
+      "id": "c3",
+      "concern": "grounding_before_claim",
+      "text": "The trajectory inspects relevant source content and reporting context before using that source to formulate an analytical claim.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "For sampled claims, inspect whether preceding steps opened the pertinent filing section, release table, or JSON fields and recorded the associated period, basis, or definition."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Evidence collection materially spans the decision-relevant source families rather than relying on a narrow subset of releases or a single financial statement.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect search and reading steps for coverage of operating disclosures, annual and quarterly filings, Mastercard structured statements, historical risk material, and peer income-statement or cash-flow data."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Quantitative comparisons use aligned periods, units, accounting bases, and currency conventions, with unalignable comparisons withheld rather than forced.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation notes or tables for matched current and prior-year periods, consistent quarterly versus annual treatment, basis labels, and explicit rejection or qualification of incompatible inputs."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process visibly distinguishes company-disclosed figures from analyst-derived arithmetic throughout its quantitative work.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for reported-versus-derived labels beside growth differentials, margins, cash-conversion measures, incentive calculations, or other computed outputs, with formulas or inputs shown for derived values."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process applies a consistent peer-comparison method while explicitly accounting for material business-model differences among the selected companies.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect peer-selection and benchmarking steps for a stated comparison basis, matched metrics or periods, and caveats explaining limits to comparability rather than selective use of whichever peer appears favorable."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "Each major favorable proposition is actively tested against the strongest relevant contrary evidence found in the corpus.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for paired proposition-objection notes or equivalent stress tests addressing cyclicality, travel sensitivity, shared volume dependence, incentives, pricing pressure, competition, or alternative payment rails."
+    },
+    {
+      "id": "c9",
+      "concern": "synthesis_presence",
+      "text": "When releases, filings, and structured statements appear inconsistent, the process investigates definitional or period causes before synthesizing them.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect discrepancy-resolution steps for checks of period scope, quarterly versus year-to-date presentation, currency basis, rounding, GAAP versus adjusted treatment, taxonomy, or changed category definitions."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves unresolved ambiguity explicitly instead of inventing a bridge, dependency, denominator, or harmonized definition unsupported by the inspected material.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity or limitations log and for places where calculations or causal claims are withheld or qualified because category dependence, gross-to-net economics, foreign-exchange effects, or comparability cannot be established."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The reasoning integrates operating momentum, service diversification, revenue-quality effects, and peer or cash-generation checks into one causal assessment rather than presenting disconnected summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the final reasoning sequence for explicit links showing how evidence from the separate workstreams changes the overall durability assessment and how contrary evidence affects confidence or horizon."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in a directional durability thesis that resolves the expected role of value-added services during a cross-border slowdown.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a concise thesis or concluding judgment that commits to a position\u2014rather than merely listing pros and cons\u2014on whether diversification can offset, partly absorb, or fail to absorb weaker cross-border activity."
+    }
+  ]
+}

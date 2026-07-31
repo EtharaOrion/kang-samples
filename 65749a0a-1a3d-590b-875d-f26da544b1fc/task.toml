@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability"
+description = "Develop a grounded view on whether DoorDash's adjusted-EBITDA margin inflection is durable as it scales grocery/retail verticals and integrates international acquisitions, reconciling rising adjusted EBITDA against declining GAAP net income and compressing net revenue margin."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DASH"]
+
+[metadata]
+uuid = "65749a0a-1a3d-590b-875d-f26da544b1fc"
+difficulty_explanation = "The analyst must strip the Deliveroo acquisition out of headline GOV and revenue growth to see the true organic rate, then confront the tension between rising adjusted EBITDA and a GAAP net income that fell year-over-year with a compressing net revenue margin. Judging new-vertical durability requires weighing genuine grocery/retail momentum against entrenched competitors with their own delivery fleets, and the margin dilution international M&A imposes. A defensible verdict must integrate the organic-growth, margin-inflection, new-vertical and integration-drag signals rather than list them."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

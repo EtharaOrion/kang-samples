@@ -1,0 +1,294 @@
+BOEING (BA): RECOVERY CREDIBILITY, CASH BURN, AND 737/787 EXECUTION
+An investment analysis as of the Q1 2026 report (filed 2026-04-22)
+
+=====================================================================
+THESIS
+=====================================================================
+Boeing's recovery is real where it is hardest to fake — production rates,
+deliveries, and cash burn — and manufactured where it is easiest to fake:
+the reported bottom line. The operational turnaround has crossed the
+credibility threshold on survival and factory throughput. It has NOT
+crossed it on earnings power. In fiscal 2025 Boeing reported its first
+net profit since 2018 (+$2,235M) and its first positive stockholders'
+equity in the dataset (+$5,454M) — yet its core airplane business lost
+$7,079M building airplanes, and the only reason the year was "profitable"
+was a $9,566M one-time gain on selling Jeppesen (ba_2025_10-k.txt). Boeing
+did not earn its way back; it sold and diluted its way back. That is a
+legitimate and probably necessary bridge — but it is a bridge, not a
+destination. My position: constructive on the operational trajectory,
+skeptical of the headline financials, and unwilling to underwrite the
+equity as a clean turnaround until Boeing proves it can convert its record
+backlog into positive free cash flow WITHOUT another multibillion-dollar
+program charge. On the evidence, that proof is still one to two years away.
+
+=====================================================================
+1. 737 AND 787 PRODUCTION RAMP AND CERTIFICATION EXECUTION
+=====================================================================
+POSITION: The narrow-body/wide-body ramp is the most credible part of the
+story. The certification pipeline is the least credible.
+
+The 737 ramp is verifiable and FAA-sanctioned, not just management talk.
+After the January 2024 Alaska Airlines 737-9 door-plug blowout, the FAA
+capped 737 output at 38/month and barred new lines "until Boeing has
+complied with required quality and safety standards" (ba_2024_10-k.txt).
+The dataset shows the cap being worked off in real time: the rate "recovered
+from below 38 aircraft per month at the beginning of the year to 42 per
+month during the fourth quarter" of 2025, and in October 2025 "the FAA and
+Boeing jointly agreed... an increase of the 737 production rate to 42 per
+month," with a stated plan to reach 47 in 2026 and add a fourth line
+(ba_2025_10-k.txt; ba_2026q1_10-q.txt). Deliveries corroborate the rate:
+737 deliveries ran 105 → 104 → 121 → 117 → 114 across 25Q1–26Q1
+(ba_2025q3_10-q.txt; ba_2026-01-27_8-k.txt; ba_2026-04-22_8-k.txt), and
+full-year commercial deliveries jumped from 348 in 2024 to 600 in 2025 —
+"the highest annual totals since 2018" (ba_2026-01-27_8-k.txt). This is the
+single hardest datum to manipulate: a delivered airplane is a cash event
+witnessed by a customer and a regulator.
+
+The 787 ramp is real but shallower and choppier. The rate progressed from
+below 5/month in 2024 to 7/month in 2025 and "began increasing... to eight
+per month during the fourth quarter of 2025" (ba_2025_10-k.txt). Crucially,
+the 787's quality drag is genuinely receding: abnormal production costs
+fell from $1,014M (2023) to $256M (2024) to just $30M (2025)
+(ba_2025_10-k.txt) — the "shadow factory" of rework is being emptied. But
+the Q1 2026 filing concedes the 787 is still "work[ing] toward stabilizing
+the production rate at eight per month" amid "supply-chain shortages"
+(ba_2026q1_10-q.txt), and 787 deliveries actually dipped to 15 in 26Q1 from
+27 in 25Q4 (ba_2026-04-22_8-k.txt). The ramp is directionally right but not
+yet locked in.
+
+CERTIFICATION IS THE WEAK LINK, AND IT IS THE STRONGEST COUNTER-EVIDENCE TO
+THE "EXECUTION IS FIXED" NARRATIVE. Two derivatives that should already be
+flying for cash are not: "We continue to expect certification [of the 737-7
+and 737-10] to occur in 2026" (ba_2025_10-k.txt) — with ~35 already-built
+-7/-10 airframes sitting in inventory (ba_2025_10-k.txt) as trapped working
+capital. And the 777X is a governance red flag: launched in 2013, its first
+delivery slipped across the filings from 2025 (ba_2024q2_10-q.txt) to 2026
+(ba_2024_10-k.txt) to 2027 (ba_2025_10-k.txt) — a 14-year development cycle
+with the finish line still receding. Boeing can now build 737s on schedule;
+it still cannot reliably certify new aircraft on schedule. Given that new
+programs are where Boeing has historically destroyed the most capital, this
+matters for the verdict.
+
+=====================================================================
+2. CASH BURN, LIQUIDITY, AND DEBT LOAD
+=====================================================================
+POSITION: The liquidity crisis is over. The cash-generation problem is not.
+
+The cash-burn improvement is the clearest evidence that the operational
+recovery is real. First-quarter operating cash flow went from -$3,362M
+(24Q1) to -$1,616M (25Q1) to -$179M (26Q1) (ba_cash_flow.json); nine-month
+operating cash flow improved from -$8,630M in 2024 to -$266M in 2025
+(ba_2025q3_10-q.txt); and full-year 2025 operating cash flow turned
+positive at +$1.1B versus -$12.1B in 2024 — a $13.1B swing "primarily
+driven by higher commercial airplane deliveries" (ba_2025_10-k.txt). This
+trajectory is largely independent of asset sales and is the best single
+argument for the bulls.
+
+But two facts keep me from calling Boeing self-funding. First, that +$1.1B
+of 2025 operating cash flow was flattered by a $10.9B favorable swing in
+inventories (ba_2025_10-k.txt) — i.e., Boeing was delivering airplanes it
+had already built and paid for, a non-repeatable tailwind as the shadow
+factory drains. Second, after $2.9B of capex, free cash flow for 2025 was
+still NEGATIVE at -$1,877M (ba_2026-01-27_8-k.txt), and Q1 2026 free cash
+flow was -$1,454M (ba_2026-04-22_8-k.txt) with the company explicitly
+guiding that "capital expenditures [will] grow in 2026" (ba_2025_10-k.txt).
+Boeing has stopped hemorrhaging cash; it has not started generating it.
+
+Liquidity, by contrast, is now genuinely comfortable — but only because of
+extraordinary financing. The October–November 2024 capital raise brought in
+$18.2B of common stock and $5.7B of mandatory convertible preferred, net of
+costs (~$24B) (ba_2025_10-k.txt), which reset the balance sheet. As of Q1
+2026 Boeing held $9.4B cash + $11.5B short-term investments (~$20.9B) plus
+$10.0B of undrawn revolvers (ba_2026q1_10-q.txt; ba_2026-04-22_8-k.txt).
+Debt tells the deleveraging story: total debt rose to $57.9B during the
+2024 crisis (ba_2024q2_10-q.txt), sat at ~$54B through 2025, then dropped
+sharply to $47.2B in Q1 2026 after a $6,950M repayment
+(ba_2026q1_10-q.txt). All three rating agencies affirmed investment grade
+with stable outlooks by late 2025 (Fitch/S&P BBB-, Moody's Baa3)
+(ba_2025_10-k.txt) — a real vote of confidence versus Moody's April-2024
+downgrade to Baa3/P-3 with negative outlook (ba_2024_10-k.txt).
+
+The catch: that $6.95B debt paydown was funded not by operations but by the
+$10.55B Jeppesen/Digital Aviation Solutions sale (see Theme 4). So the
+liquidity repair is real but purchased — with $24B of dilutive equity and
+the sale of the crown-jewel software unit. The crisis is over; the bill was
+paid with the balance sheet, not the income statement.
+
+=====================================================================
+3. PROGRAM LOSSES, BACKLOG, AND RECOVERY CREDIBILITY
+=====================================================================
+POSITION: This is where the bull and bear cases collide, and where I come
+down net-cautious. The backlog is genuinely extraordinary; the program-loss
+machine is genuinely still running; and the reported "profit" is genuinely
+an illusion.
+
+THE ILLUSION FIRST. Reconciling the conflicting headline numbers is the
+crux of recovery credibility. Boeing reported FY2025 net earnings of
++$2,235M and diluted EPS of +$2.48 (ba_2025_10-k.txt), its first profit
+since 2018. But the nine months through Q3 2025 were a net LOSS of $5,982M
+(ba_2025q3_10-q.txt). The entire swing came in Q4, which posted +$8,220M of
+net income (ba_2026-01-27_8-k.txt) — and Q4 contained the $9,566M pre-tax
+gain on the Digital Aviation Solutions divestiture, which by itself
+"increased earnings per share by $11.83" (ba_2026-01-27_8-k.txt). Strip out
+that one asset sale and Boeing lost roughly $7.3B in 2025. Confirming this
+from the segment data: Commercial Airplanes — the actual core business —
+posted a $7,079M operating LOSS in 2025, barely better than its $7,969M
+loss in 2024 (ba_2025_10-k.txt). Boeing did not make money building
+airplanes in 2025. It reported a profit because it sold a software company.
+
+The same reconciliation explains the equity swing that looks like organic
+healing but isn't. Stockholders' equity went from -$8,250M (25Q3) to
++$5,454M (FY2025), a ~$13.7B improvement in one quarter (ba_balance_sheet.
+json). That reconciles almost exactly to Q4 net income of +$8,220M (mostly
+the DAS gain, which lifted retained earnings from $9,118M to $17,252M) plus
+~$4.7B of Boeing stock issued to acquire Spirit (ba_2025_10-k.txt). Positive
+book equity was engineered by a divestiture gain and a stock-funded
+acquisition — not by retained profits.
+
+THE PROGRAM-LOSS MACHINE. The strongest evidence against recovery
+credibility is that reach-forward losses have not stopped; they have
+rotated. The pattern across the filings: 777X/767 charges of $4,079M in
+2024 (ba_2024_10-k.txt) and $5,283M in 2025 (ba_2025_10-k.txt), including a
+single $4,899M 777X charge in Q3 2025 that drove that quarter's $5,337M net
+loss almost by itself (ba_2025q3_10-q.txt). Three consecutive years of
+multibillion charges on the same program, each accompanied by a further
+delivery slip, is not "one-time" — it is chronic mis-estimation of Boeing's
+own costs, and it is why the auditor flagged 777X (and 737, and the
+fixed-price defense contracts) as Critical Audit Matters (ba_2025_10-k.txt).
+Any model of Boeing's earnings must assume the next charge is a question of
+when, not if.
+
+THE COUNTER-EVIDENCE I MUST WEIGH — and it is strong. (a) The backlog is
+staggering and growing: total company backlog reached a record $682,207M at
+year-end 2025 and $694,709M by Q1 2026, "over 6,100 commercial airplanes"
+(ba_2025_10-k.txt; ba_2026-04-22_8-k.txt), up from $521,336M in 2024
+(ba_2024_10-k.txt) — roughly seven-plus years of production visibility, with
+record net orders of 1,173 commercial airplanes in 2025 (ba_2026-01-27_8-k.
+txt). (b) Defense genuinely turned: BDS fixed-price development-program
+losses collapsed from $5,013M in 2024 (KC-46A $2,002M, T-7A $1,770M,
+Starliner $523M, VC-25B $379M, MQ-25 $339M) to just $802M in 2025 (mostly
+KC-46A $714M), and BDS's full-year operating loss shrank from -$5,413M to
+just -$128M (ba_2025_10-k.txt). (c) Global Services is a steady profit
+engine (BGS core operating margins ~18-20%, e.g. 18.1% in 26Q1)
+(ba_2026-04-22_8-k.txt). The bull case — that a record backlog plus a
+de-risked defense book plus a rising delivery rate must eventually flow to
+margins — is not naive.
+
+RECONCILIATION. Both stories are true, and they resolve into a single
+conclusion. Boeing has fixed the things that nearly killed it (liquidity,
+737 line stability, defense charges, the 787 rework backlog) but has NOT
+yet fixed the thing that makes it an investment (converting deliveries into
+profit and cash without a fresh charge resetting the clock). The backlog
+guarantees demand; it does not guarantee margin. Recovery credibility
+should therefore be extended on survival — high confidence — and withheld
+on earnings power — until at least a few clean quarters without a
+reach-forward loss, which the data does not yet show (26Q1 was clean, but
+it is one quarter, and core EPS was still negative at -$0.20)
+(ba_2026-04-22_8-k.txt).
+
+=====================================================================
+4. PORTFOLIO RESHAPING AND THE INVESTMENT VERDICT
+=====================================================================
+POSITION: The portfolio moves are strategically coherent and correctly
+sequenced, but they trade long-term earnings quality for near-term control
+and cash — and they confirm that the "profit" is borrowed from the balance
+sheet.
+
+The reshaping has two legs, and together they are internally consistent.
+Leg one: re-insourcing Spirit AeroSystems, completed December 8, 2025 for
+~$4.7B of Boeing stock (total consideration $8,371M including debt
+settlement) (ba_2025_10-k.txt), bringing ~15,000 employees and the fuselage
+production for the 737 back in house (ba_2025-12-08_8-k.txt). This undoes
+the 2005 Spirit spinoff and attacks the root cause of the Alaska door-plug
+failure — a supplier Boeing did not control. It is defensible on
+quality-first logic. But it is vertical re-integration of a low-margin,
+capital-intensive, labor-heavy manufacturing operation, and it added
+~$3.6B of assumed debt (of which $2.26B was immediately repaid)
+(ba_2025_10-k.txt). Leg two: selling the Digital Aviation Solutions
+business (Jeppesen, ForeFlight, AerData, OzRunways) to Thoma Bravo for
+$10.55B all-cash, closed October 31, 2025 (ba_2025-04-24_8-k.txt;
+ba_2025_10-k.txt). The proceeds funded the debt paydown and the Spirit
+integration. The logic is clean: sell a high-margin software annuity to buy
+back control of quality-critical hardware and deleverage.
+
+The cost of that logic is honest to state: Boeing shed a recurring,
+high-margin, counter-cyclical software business (the sale removed ~$305M of
+quarterly revenue and ~$79M of quarterly earnings, per the 26Q1
+comparatives, ba_2026q1_10-q.txt) precisely to double down on the hard,
+low-margin manufacturing that has been the source of its losses. In a
+crisis that is the right trade — control and cash now — but it narrows the
+profit diversification that had been cushioning the airplane losses, and it
+means future earnings must come almost entirely from executing the very
+manufacturing ramp that remains unproven.
+
+THE INVESTMENT VERDICT. Weighing it all:
+
+- What is de-risked (high confidence): bankruptcy/liquidity risk (ample cash,
+  IG ratings affirmed, debt down to $47.2B); 737 line stability (42/month,
+  FAA-blessed, heading to 47); the 787 rework overhang (abnormal costs
+  down to $30M); defense charges (down ~84% year-over-year); and demand
+  (record $695B backlog). (ba_2026q1_10-q.txt; ba_2025_10-k.txt)
+
+- What is NOT de-risked (the reason I stop short of a clean bull call):
+  Boeing still does not generate free cash flow (-$1.9B in 2025, -$1.5B in
+  26Q1); its core airplane unit still loses money (-$7.1B BCA operating loss
+  in 2025); its reported net income is an asset-sale artifact; new-program
+  certification keeps slipping (737-7/-10 to 2026, 777X to 2027); and the
+  reach-forward-loss pattern shows management still cannot reliably price its
+  own programs. The per-share recovery is also diluted: shares outstanding
+  rose from ~613M (24Q1) to ~788M (26Q1) (ba_income_statement.json), with the
+  mandatory convertible preferred still to convert by October 2027
+  (ba_2025_10-k.txt).
+
+- The peer contrast sharpens the verdict. While Boeing burned free cash and
+  reported profits only via a divestiture, every major peer generated real
+  operating cash and returned capital in the same period: GE Aerospace grew
+  Q1 operating cash flow to $1,823M (26Q1) while repurchasing $2,399M of
+  stock (ge_cash_flow.json); RTX produced $1,855M and LMT $220M of Q1
+  operating cash flow (rtx_cash_flow.json; lmt_cash_flow.json); and RTX
+  (~$2.06B), GE (~$1.9B) and LMT (~$1.49B) each earned ~$1.5-2B of net
+  income in 26Q1 versus Boeing's -$4M (rtx/ge/lmt_income_statement.json;
+  ba_income_statement.json). Boeing remains the sick asset of the sector,
+  trading on recovery optionality rather than earnings.
+
+BOTTOM LINE: Boeing is a credible operational turnaround wrapped around a
+still-unproven financial one. The right stance is constructive but patient:
+the survival trade is won, but the equity is not yet a "quality compounder"
+— it is a "show-me" story whose reported 2025 profitability is a mirage
+created by selling Jeppesen. I would want to see (1) at least two to three
+consecutive quarters of positive free cash flow, (2) 737-7/-10 certified and
+delivering, and (3) one full year with no fresh reach-forward loss, before
+underwriting the earnings-power thesis. Until then, the backlog and the
+delivery ramp justify optimism about the trajectory, but the chronic charge
+history and the manufactured bottom line justify discipline on price. Real
+recovery is visible on the factory floor and in the cash-burn curve; it is
+not yet visible in the profit-and-loss statement — and the market should
+pay for the former, not the latter.
+
+=====================================================================
+KEY AMBIGUITIES AND DATA CAVEATS (noted, not smoothed over)
+=====================================================================
+- The dataset's quarterly cash-flow detail for Boeing is sparse: only Q1
+  operating/investing/financing lines are populated for most fiscal years
+  (ba_cash_flow.json), so the intra-year 2025 burn path is reconstructed
+  from 10-Q year-to-date figures and the 8-K free-cash-flow disclosures
+  rather than from the cash-flow JSON alone.
+- "Free cash flow" is a non-GAAP measure Boeing reports in its earnings
+  releases (e.g., FY2025 -$1,877M) but does NOT define in the 10-K/10-Q
+  MD&A; I have used the 8-K figures (ba_2026-01-27_8-k.txt) and cross-checked
+  against operating cash flow minus capex from the filings.
+- Minor reported-figure discrepancies exist between the press releases and
+  the financial-statement JSON (e.g., 25Q3 net loss shown as $5,337M in
+  ba_income_statement.json vs $5,339M in ba_2026-01-27_8-k.txt, a
+  rounding/attributable-vs-total distinction); these do not affect the
+  analysis.
+- The commonly cited "~10% / ~17,000-job" workforce reduction is NOT
+  quantified as a percentage anywhere in the filings; the 10-K discloses
+  only "plans to reduce our overall workforce" and $295M of severance
+  (ba_2024_10-k.txt). I have therefore not relied on the headline figure.
+- Whether the Q3 2025 777X charge is truly the last one is unknowable from
+  the data; I treat the risk of a further charge as elevated given the
+  2023→2027 delivery slippage and the three-year charge pattern, but the
+  26Q1 filing recorded no new reach-forward loss (ba_2026q1_10-q.txt), which
+  is the first tentative evidence the bleeding on that program may be
+  slowing.

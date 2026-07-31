@@ -1,0 +1,371 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "737 and 787 Production Ramp and Certification Execution",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent tracks the 737 recovery from below 38 per month to an FAA-agreed 42 per month in Q4 2025 and identifies the plan to reach 47 in 2026, while repeatedly framing rate increases as FAA-sanctioned or FAA-gated.",
+        "b": "The agent states that the 787 moved to seven per month in 2025 and began increasing to eight per month in Q4, while discussing stabilization and the receding rework burden. These production-rate and stabilization claims are among the flagged unsupported claims, so the move is tainted.",
+        "c": "The agent treats certification as a major execution risk, gives 2026 certification expectations for the 737-7 and 737-10, and notes the 777X delivery slip to 2027. However, it does not state the required 2027 first-delivery timing for the 737-7 and 737-10, so the full move is not present."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cash Burn, Liquidity, and Debt Load",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent explicitly contrasts 2025 operating cash flow of positive $1.1 billion with the $12.1 billion use in 2024, then notes Q1 2026 operating cash flow of negative $179 million and free cash flow of negative $1.454 billion, demonstrating that burn persisted.",
+        "b": "The agent gives Q1 2026 liquidity, $47.2 billion of debt, and $10.0 billion of undrawn revolvers, but it does not identify the required sequential Q1 decline in cash and marketable securities. Therefore, it does not complete the specified liquidity framing.",
+        "c": "The answer does not provide the required roughly $15.5 billion of principal due over three years or $15.2 billion of airplane financing commitments. It also emphasizes stable investment-grade ratings rather than fully weighing the specified rating risk and commitment overhang."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Program Losses, Backlog, and Recovery Credibility",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent identifies the $4.899 billion 777X charge in 2025 and discusses combined 777X and 767 charges, but it does not separately state the required $3.5 billion 777X loss for 2024 or clearly present continued 767 losses in the specified comparison.",
+        "b": "The agent reports the record backlog rising from $682.207 billion to $694.709 billion and over 6,100 commercial airplanes, but it omits that roughly 85% of the Commercial Airplanes backlog is held by non-U.S. airlines.",
+        "c": "The agent mentions negative Q1 2026 core EPS of $0.20, but it does not provide the required $22.217 billion revenue, 14% growth, 143 commercial deliveries, GAAP loss per share of $0.11, or Commercial Airplanes operating margin of negative 6.1%."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Portfolio Reshaping and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "d"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent assesses the December 2025 Spirit acquisition for approximately $4.7 billion in Boeing stock as vertical reintegration for quality control and contrasts it with the $10.55 billion cash sale of Digital Aviation Solutions.",
+        "b": "The answer discusses FAA dependence and general supply-chain concerns, but it does not address the China delivery pause caused by tariffs, the IAM 751 stoppage and resulting labor instability, or reliance on U.S. government appropriations.",
+        "c": "The agent never corroborates the required full-year revenue comparison of $89.463 billion in 2025 versus $66.517 billion in 2024 against the income-statement and cash-flow files.",
+        "d": "The agent explicitly reconciles opposing evidence rather than merely listing it: it concludes that Boeing has achieved a credible operational and survival turnaround, supported by backlog, rising production, improved operating cash flow, and Spirit reintegration, but has not yet established earnings power because free cash flow remains negative, debt is heavy, program charges recur, and certification and ramps remain execution risks."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "In fiscal 2025 Boeing reported its first net profit since 2018 (+$2,235M)",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The $2,235M profit is supported, but the passages only compare 2025 with 2024 and 2023 and do not establish that it was the first profit since 2018.",
+      "evidence_check": "Found 2025 net earnings attributable to Boeing shareholders of $2,235M and losses for 2024 and 2023; no 2018-2022 earnings history was present."
+    },
+    {
+      "claim": "its first positive stockholders' equity in the dataset (+$5,454M)",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The +$5,454M equity figure is supported, but the claim that it is the first positive value in the dataset is not established.",
+      "evidence_check": "Found 2025 shareholders' equity of $5,454M and 2024 deficit of $3,908M; no full-dataset equity history was provided."
+    },
+    {
+      "claim": "add a fourth line",
+      "cited_file": "ba_2026q1_10-q.txt",
+      "issue": "The retrieved evidence for this claim contains no supporting passage.",
+      "evidence_check": "Local search returned no match for the claimed fourth production line."
+    },
+    {
+      "claim": "737 deliveries ran 105 \u2192 104 \u2192 121 \u2192 117 \u2192 114 across 25Q1\u201326Q1",
+      "cited_file": "ba_2025q3_10-q.txt; ba_2026-01-27_8-k.txt; ba_2026-04-22_8-k.txt",
+      "issue": "None of the five quarterly 737 delivery values appears in the supplied passages.",
+      "evidence_check": "The retrieved passages were unrelated cash-flow records and did not contain the sequence 105, 104, 121, 117, 114."
+    },
+    {
+      "claim": "The rate progressed from below 5/month in 2024 to 7/month in 2025",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The cited passages do not identify the program or contain the below-5 and 7-per-month rates.",
+      "evidence_check": "Searched the supplied passages for the stated production rates; only unrelated workforce and risk disclosures were present."
+    },
+    {
+      "claim": "\"began increasing... to eight per month during the fourth quarter of 2025\"",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The attributed quote is absent from the supplied passages.",
+      "evidence_check": "The passages contain the 10-K cover and unrelated introductory material, not the quoted production-rate statement."
+    },
+    {
+      "claim": "the Q1 2026 filing concedes the 787 is still \"work[ing] toward stabilizing the production rate at eight per month\"",
+      "cited_file": "ba_2026q1_10-q.txt",
+      "issue": "The attributed quote and the eight-per-month production statement are absent from this claim's passages.",
+      "evidence_check": "The supplied excerpts discuss the balance sheet, 787 inventory and capital expenditures but not stabilization at eight per month."
+    },
+    {
+      "claim": "amid \"supply-chain shortages\"",
+      "cited_file": "ba_2026q1_10-q.txt",
+      "issue": "The attributed phrase is unsupported by the retrieved evidence.",
+      "evidence_check": "Local search returned no match for \"supply-chain shortages.\""
+    },
+    {
+      "claim": "launched in 2013",
+      "cited_file": null,
+      "issue": "The event and year are not present in the supplied passages for this claim.",
+      "evidence_check": "The retrieved passages were unrelated cash-flow records and did not mention a program launch in 2013."
+    },
+    {
+      "claim": "its first delivery slipped across the filings from 2025",
+      "cited_file": "ba_2024q2_10-q.txt",
+      "issue": "The supplied passages do not contain a first-delivery forecast of 2025.",
+      "evidence_check": "Searched the excerpts for a 2025 first-delivery date; only Spirit closing expectations and T-7A contract-option timing appeared."
+    },
+    {
+      "claim": "to 2026",
+      "cited_file": "ba_2024_10-k.txt",
+      "issue": "The passages do not show a relevant first-delivery forecast moving to 2026.",
+      "evidence_check": "The supplied excerpts mention union expirations, 767 production timing and Spirit repayment dates, but not the claimed delivery forecast."
+    },
+    {
+      "claim": "a 14-year development cycle",
+      "cited_file": "ba_2024q2_10-q.txt; ba_2024_10-k.txt; ba_2025_10-k.txt",
+      "issue": "The start and end dates needed to support the 14-year calculation are absent from this claim's passages.",
+      "evidence_check": "The retrieved material did not establish a 2013 launch and 2027 first delivery for the relevant program."
+    },
+    {
+      "claim": "the company explicitly guiding that \"capital expenditures [will] grow in 2026\"",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The attributed guidance is absent from the supplied passages for this claim.",
+      "evidence_check": "The excerpts contain the filing cover, workforce information, competition discussion and production-rate risk, but no capex-growth statement."
+    },
+    {
+      "claim": "(~$24B)",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The standalone approximately-$24B figure is not supported or identifiable in context from the supplied passages.",
+      "evidence_check": "The only nearby $24B figure concerns NASA appropriations, not an evident basis for this claim."
+    },
+    {
+      "claim": "As of Q1 2026 Boeing held $9.4B cash + $11.5B short-term investments (~$20.9B)",
+      "cited_file": "ba_2026q1_10-q.txt; ba_2026-04-22_8-k.txt",
+      "issue": "The supplied passages for this claim do not contain the cash or short-term-investment balances.",
+      "evidence_check": "Found only a cash-flow JSON entry with operating, investing and financing cash flows; no $9.4B, $11.5B or $20.9B balances."
+    },
+    {
+      "claim": "sat at ~$54B through 2025",
+      "cited_file": null,
+      "issue": "The supplied passages contain no 2025 debt balances establishing this statement.",
+      "evidence_check": "The retrieved evidence consists of cash-flow records without total-debt values."
+    },
+    {
+      "claim": "All three rating agencies affirmed investment grade with stable outlooks by late 2025",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The supplied passages do not mention any rating-agency affirmations or outlooks.",
+      "evidence_check": "Searched the provided excerpts for Fitch, S&P, Moody's, investment grade and stable outlook; none appeared."
+    },
+    {
+      "claim": "Moody's April-2024 downgrade to Baa3/P-3 with negative outlook",
+      "cited_file": "ba_2024_10-k.txt",
+      "issue": "Only a partial statement that Moody's downgraded ratings to Baa3 is visible; the April 2024 date, P-3 rating and negative outlook are absent.",
+      "evidence_check": "Found text ending at \"downgraded our short term and long term credit ratings to Baa3\" but no support for the other specified details."
+    },
+    {
+      "claim": "that $6.95B debt paydown was funded not by operations but by the $10.55B Jeppesen/Digital Aviation Solutions sale",
+      "cited_file": null,
+      "issue": "The causal funding assertion is not established by the supplied evidence.",
+      "evidence_check": "The passages show a $10.55B purchase price in the sale agreement but do not connect those proceeds to the later $6.95B debt repayment."
+    },
+    {
+      "claim": "its first profit since 2018",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The supplied passages do not provide the historical annual earnings needed to establish this as the first profit since 2018.",
+      "evidence_check": "The excerpts are unrelated tax, program and legal disclosures and contain no 2018-2025 profit history."
+    },
+    {
+      "claim": "Strip out that one asset sale and Boeing lost roughly $7.3B in 2025.",
+      "cited_file": null,
+      "issue": "No passage supports a $7.3B adjusted net loss, and directly subtracting a pre-tax disposition gain from after-tax net earnings does not by itself establish that figure.",
+      "evidence_check": "The supplied passages contain no adjusted-loss calculation or tax-adjusted reconciliation."
+    },
+    {
+      "claim": "Stockholders' equity went from -$8,250M (25Q3) to +$5,454M (FY2025)",
+      "cited_file": "ba_balance_sheet.json",
+      "issue": "Neither equity value appears in the supplied passages for this claim.",
+      "evidence_check": "The retrieved evidence consists of unrelated cash-flow JSON excerpts rather than balance-sheet equity records."
+    },
+    {
+      "claim": "a ~$13.7B improvement in one quarter",
+      "cited_file": "ba_balance_sheet.json",
+      "issue": "The retrieved evidence contains no values from which the claimed quarterly improvement can be verified.",
+      "evidence_check": "Local search returned no match."
+    },
+    {
+      "claim": "the DAS gain, which lifted retained earnings from $9,118M to $17,252M",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The ending retained-earnings value is present, but the $9,118M starting value and the attribution of the entire increase to the DAS gain are absent.",
+      "evidence_check": "Found retained earnings of $17,252M at year-end 2025; did not find $9,118M in the supplied passage."
+    },
+    {
+      "claim": "Three consecutive years of multibillion charges on the same program",
+      "cited_file": null,
+      "issue": "No program-specific three-year series of multibillion charges is present in the supplied passages.",
+      "evidence_check": "The retrieved material was an unrelated transaction agreement and contained no such charge history."
+    },
+    {
+      "claim": "each accompanied by a further delivery slip",
+      "cited_file": null,
+      "issue": "The supplied evidence does not identify the charges or corresponding delivery-date changes.",
+      "evidence_check": "Local search returned no match."
+    },
+    {
+      "claim": "the auditor flagged 777X (and 737, and the fixed-price defense contracts) as Critical Audit Matters",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the auditor's Critical Audit Matters section or identify these matters as CAMs.",
+      "evidence_check": "Found general business and risk disclosures mentioning the programs, but no auditor CAM designation."
+    },
+    {
+      "claim": "roughly seven-plus years of production visibility",
+      "cited_file": null,
+      "issue": "No production-rate and backlog calculation supporting seven-plus years is present in the supplied evidence.",
+      "evidence_check": "Local search returned no match."
+    },
+    {
+      "claim": "This undoes the 2005 Spirit spinoff",
+      "cited_file": null,
+      "issue": "The supplied passages discuss the 2025 acquisition but do not mention a 2005 spinoff.",
+      "evidence_check": "Searched the acquisition-release excerpts for 2005 and spinoff history; neither appeared."
+    },
+    {
+      "claim": "it added ~$3.6B of assumed debt",
+      "cited_file": "ba_2025_10-k.txt",
+      "issue": "The supplied passages for this claim do not contain an assumed-debt amount.",
+      "evidence_check": "The excerpts show operating results and non-GAAP reconciliations, not the claimed $3.6B debt assumption."
+    },
+    {
+      "claim": "closed October 31, 2025",
+      "cited_file": "ba_2025-04-24_8-k.txt; ba_2025_10-k.txt",
+      "issue": "The supplied passages for this claim do not contain the October 31, 2025 closing date.",
+      "evidence_check": "The retrieved evidence consists of cash-flow JSON records and does not mention the transaction closing."
+    },
+    {
+      "claim": "The proceeds funded the debt paydown and the Spirit integration.",
+      "cited_file": null,
+      "issue": "The use-of-proceeds assertion is not stated or demonstrated in the supplied passages.",
+      "evidence_check": "The excerpts describe the Spirit acquisition and integration but do not say DAS sale proceeds funded debt repayment or integration costs."
+    },
+    {
+      "claim": "defense charges (down ~84% year-over-year)",
+      "cited_file": "ba_2026q1_10-q.txt; ba_2025_10-k.txt",
+      "issue": "The supplied passages contain no comparable defense-charge values supporting an approximately 84% decline.",
+      "evidence_check": "The retrieved material is unrelated transaction and financial-position text without the required year-over-year charge figures."
+    },
+    {
+      "claim": "shares outstanding rose from ~613M (24Q1) to ~788M (26Q1)",
+      "cited_file": "ba_income_statement.json",
+      "issue": "The 26Q1 value of 788M is present, but the claimed 24Q1 value of approximately 613M is absent.",
+      "evidence_check": "Found 788M weighted-average shares for 26Q1 and 602.2M for 23Q1; no 24Q1 613M figure was supplied."
+    },
+    {
+      "claim": "RTX (~$2.06B), GE (~$1.9B) and LMT (~$1.49B) each earned ~$1.5-2B of net income in 26Q1",
+      "cited_file": "rtx/ge/lmt_income_statement.json",
+      "issue": "The supplied passages do not show the 26Q1 net-income figures for RTX, GE and LMT.",
+      "evidence_check": "The excerpts are from LMT's income-statement file and do not contain the complete claimed three-company comparison."
+    },
+    {
+      "claim": "only Q1 operating/investing/financing lines are populated for most fiscal years",
+      "cited_file": "ba_cash_flow.json",
+      "issue": "The claimed dataset-wide population pattern is not shown in the supplied evidence.",
+      "evidence_check": "Local search returned no match and no systematic year-by-year field-presence summary was provided."
+    },
+    {
+      "claim": "but does NOT define in the 10-K/10-Q MD&A",
+      "cited_file": null,
+      "issue": "The supplied excerpts do not establish the asserted absence of a free-cash-flow definition throughout the 10-K and 10-Q MD&A.",
+      "evidence_check": "The evidence consists of cash-flow JSON records, not a search or complete review of the relevant MD&A sections."
+    },
+    {
+      "claim": "vs $5,339M in ba_2026-01-27_8-k.txt",
+      "cited_file": "ba_2026-01-27_8-k.txt",
+      "issue": "The supplied passages do not contain a $5,339M loss.",
+      "evidence_check": "Found fourth-quarter and full-year 2025 results, but no $5,339M figure in the provided excerpts."
+    },
+    {
+      "claim": "The commonly cited \"~10% / ~17,000-job\" workforce reduction",
+      "cited_file": null,
+      "issue": "Neither the 10% figure nor approximately 17,000 jobs appears in the supplied passages.",
+      "evidence_check": "The retrieved evidence contains unrelated cash-flow records and no workforce-reduction quantification."
+    },
+    {
+      "claim": "is NOT quantified as a percentage anywhere in the filings",
+      "cited_file": null,
+      "issue": "The supplied passages do not support a comprehensive claim about what appears nowhere in the filings.",
+      "evidence_check": "The excerpts are from an unrelated transaction agreement and do not constitute a complete filing search."
+    },
+    {
+      "claim": "the 2023\u21922027 delivery slippage",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain either the original 2023 delivery forecast or the later 2027 forecast.",
+      "evidence_check": "The retrieved evidence consists of unrelated cash-flow records."
+    },
+    {
+      "claim": "the three-year charge pattern",
+      "cited_file": null,
+      "issue": "No three-year charge series appears in the supplied evidence.",
+      "evidence_check": "Local search returned no match."
+    },
+    {
+      "claim": "the 26Q1 filing recorded no new reach-forward loss",
+      "cited_file": "ba_2026q1_10-q.txt",
+      "issue": "The supplied excerpts do not establish the absence of any new reach-forward loss throughout the filing.",
+      "evidence_check": "The passages show financial statements, cash flow, backlog and unallocated items but no comprehensive reach-forward-loss disclosure or explicit statement of none."
+    }
+  ],
+  "synthesis_found": "Boeing has fixed the things that nearly killed it (liquidity, 737 line stability, defense charges, the 787 rework backlog) but has NOT yet fixed the thing that makes it an investment (converting deliveries into profit and cash without a fresh charge resetting the clock).",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/ba_cash_flow.json",
+    "financials/cash_flow/ge_cash_flow.json",
+    "financials/cash_flow/lmt_cash_flow.json",
+    "financials/cash_flow/rtx_cash_flow.json",
+    "financials/income_statement/ba_income_statement.json",
+    "financials/income_statement/lmt_income_statement.json",
+    "press_releases/ba_2025-04-24_8-k.txt",
+    "press_releases/ba_2025-12-08_8-k.txt",
+    "press_releases/ba_2026-01-27_8-k.txt",
+    "press_releases/ba_2026-04-22_8-k.txt",
+    "sec_filings/10-k/ba_2024_10-k.txt",
+    "sec_filings/10-k/ba_2025_10-k.txt",
+    "sec_filings/10-q/ba_2024q2_10-q.txt",
+    "sec_filings/10-q/ba_2025q3_10-q.txt",
+    "sec_filings/10-q/ba_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 127,
+  "grounding_claims_no_match": 7,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

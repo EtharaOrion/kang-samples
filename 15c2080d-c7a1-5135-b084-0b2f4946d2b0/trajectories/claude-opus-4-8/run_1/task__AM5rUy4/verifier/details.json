@@ -1,0 +1,428 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Franchise Growth and Fundraising Momentum",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports approximately $758B of AUM, $614.8B of fee-paying AUM with 17% growth, and $127B of LTM fundraising, but it omits the required 14% AUM growth and $28B quarterly capital raise. It therefore does not complete the specified fee-base and fundraising-growth quantification.",
+        "b": "The agent identifies Arctos as an inorganic acquisition, but characterizes its AUM as roughly $16B and perpetual, a flagged claim, and does not surface the 10-K warning that perpetual capital is not necessarily permanent and may be reduced or removed.",
+        "c": "The agent calls management fees the \u201cpurest annuity\u201d and states that they reached $4.1B in FY2025 and grew year over year, explicitly connecting the expanding fee base to FRE's largest recurring revenue source. The cited approximately 18.5% growth rate was flagged as unsupported, so this move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Fee-Related Earnings Durability and Operating Leverage",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent argues generally that FRE exhibits operating leverage and cites 25.4% growth in Q2 2024, but it does not establish the required current-quarter growth of roughly 24%, LTM growth of about 14%, or compare those figures directly with AUM growth. The alternative 25.4% evidence was also flagged as unsupported.",
+        "b": "The answer discusses management fees, cyclical transaction and monitoring fees, and fee-related compensation, but it does not provide the required full decomposition including fee-related performance revenues and other operating expenses. Its compensation and transaction-fee evidence is also among the flagged claims.",
+        "c": "The agent never assesses FRE per adjusted share or uses per-share growth to demonstrate improving per-unit economics."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Insurance Earnings Engine and Spread Economics",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent explicitly frames insurance as spread economics, stating that net investment income increased but net cost of insurance rose faster because of higher crediting rates and runoff of older low-rate business. This captures the required relationship between portfolio income, funding costs, and spread pressure.",
+        "b": "The agent compares Q1 2026 Insurance Operating Earnings with Q1 2025, which is year over year rather than the required roughly flat quarter-over-quarter comparison. It also attributes 14% LTM growth to \u201ctotal insurance economics\u201d rather than clearly to Insurance Operating Earnings, although it does provide the $220B AUM, $164B credit AUM, and 3.5 million policyholder scale figures.",
+        "c": "The answer identifies downgrade and actuarial or reserve-assumption risks, but it does not identify disruption to third-party distribution as a distinct insurance-specific risk. Thus it does not complete the enumerated risk set."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Earnings-Mix Quality and a Defensible Position on Durability",
+      "moves_hit": [
+        "a",
+        "b",
+        "d"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent reconciles management's approximately 85% durable-and-recurring claim with a quality ranking in which FRE is the stronger growing annuity and insurance spread earnings are flatter and more rate-sensitive. Supporting assertions that insurance was \u201cflat organically,\u201d that the combined core was about $4.8B LTM, and that it never went negative were flagged as unsupported, making the move tainted.",
+        "b": "The agent weighs insurance's benefit as an asset-gathering, float, and fee-pull-through engine against its interest-rate, spread, downgrade, liability, and GAAP-volatility exposures, while ranking the fee stream as more durable. This analysis relies in part on flagged intersegment-fee, insurance-liability, and other insurance-economics claims, so the move is tainted.",
+        "c": "The peer comparison is limited to observing that BX, ARES, and CG have also reported negative GAAP quarters. The agent expressly declines to test whether KKR's insurance tilt is an advantage or drag and does not use peer income statements and cash flows to compare earnings mix.",
+        "d": "The answer repeatedly commits to a reconciled conclusion that the fee annuity\u2014not the standalone insurance spread\u2014is KKR's more durable earnings driver, while treating insurance chiefly as a feeder into that fee engine. Several factual premises used to support this conclusion, including flat organic insurance growth and parts of the fee and insurance history, were flagged as unsupported, so the move is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "KKR has built the most durable earnings base in its 50-year history",
+      "cited_file": null,
+      "issue": "The passages provide quarterly income-statement data but no historical durability comparison or management statement supporting this superlative.",
+      "evidence_check": "Checked the supplied KKR income-statement excerpts; no reference to a 50-year durability record appears."
+    },
+    {
+      "claim": "the market is right to underwrite roughly four-fifths of its earnings as recurring",
+      "cited_file": null,
+      "issue": "No evidence is supplied for what the market underwrites or for this market-attributed conclusion.",
+      "evidence_check": "The claim's evidence reports no local match and contains no market valuation or underwriting data."
+    },
+    {
+      "claim": "the insurance spread \u2014 that is the softest link in the \"recurring\" chain and is currently not growing organically",
+      "cited_file": null,
+      "issue": "The evidence supports KKR's characterization of TOE as durable and recurring, but not the specific assertion that insurance spread is currently not growing organically.",
+      "evidence_check": "Searched the supplied passages for insurance spread, organic growth, and softest link; none appears."
+    },
+    {
+      "claim": "~93% of it in ten-year drawdown private-equity funds",
+      "cited_file": "kkr_2010_s-1.txt",
+      "issue": "The source says 93% of AUM had a contractual life at inception of at least ten years; it does not say all of that amount was in drawdown private-equity funds.",
+      "evidence_check": "The passage expressly includes private-equity and co-investment vehicles as well as specialty-finance and structured-finance capital."
+    },
+    {
+      "claim": "$470.6B (2021)",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain KKR's 2021 AUM or the claimed $470.6 billion figure.",
+      "evidence_check": "Checked the Ares and Blackstone income-statement excerpts supplied for this claim; they contain no KKR AUM data."
+    },
+    {
+      "claim": "$552.8B (2023",
+      "cited_file": "kkr_2023_10-k.txt",
+      "issue": "The supplied 2023 Form 10-K excerpts do not contain the claimed AUM figure.",
+      "evidence_check": "Searched the provided excerpts for 552.8, 552,800, and AUM; no supporting value appears."
+    },
+    {
+      "claim": "$637.6B (2024)",
+      "cited_file": null,
+      "issue": "The passages supplied for this claim are peer income-statement excerpts and do not contain KKR's 2024 AUM.",
+      "evidence_check": "No $637.6 billion KKR figure appears in the supplied evidence."
+    },
+    {
+      "claim": "$743.9B (2025)",
+      "cited_file": null,
+      "issue": "The passages supplied for this claim are peer income-statement excerpts and do not contain KKR's 2025 AUM.",
+      "evidence_check": "No $743.9 billion KKR figure appears in the supplied evidence."
+    },
+    {
+      "claim": "$757.9B (Q1 2026",
+      "cited_file": "kkr_2026q1_10-q.txt",
+      "issue": "The supplied excerpts are filing-cover and table-of-contents material and do not contain the claimed $757.9 billion value.",
+      "evidence_check": "Searched the claim's passages for 757.9, 757,877, and AUM; none appears."
+    },
+    {
+      "claim": "Fee-paying AUM reached $614.8B in Q1 2026",
+      "cited_file": "kkr_2026-05-05_8-k.txt",
+      "issue": "The supplied passages for this claim do not show fee-paying AUM or $614.8 billion.",
+      "evidence_check": "Checked the provided opening sections of the release; the claimed metric is absent."
+    },
+    {
+      "claim": "~$16B of perpetual sports-franchise AUM at closing",
+      "cited_file": "kkr_2026-02-05_8-k.txt",
+      "issue": "The cited announcement says Arctos managed approximately $15 billion of total AUM. It does not describe that AUM as entirely perpetual, entirely sports-franchise AUM, or $16 billion at closing.",
+      "evidence_check": "Found approximately $15 billion of Arctos AUM and a separate statement about KKR's post-transaction long-duration mix; no claimed $16 billion perpetual sports-only amount appears."
+    },
+    {
+      "claim": "lifting perpetual-and-long-dated capital to 53% of AUM",
+      "cited_file": "kkr_2026-05-05_8-k.txt",
+      "issue": "The supplied May 2026 passages do not contain the claimed 53% figure.",
+      "evidence_check": "Searched the claim's excerpts for 53% and perpetual-and-long-dated capital; no match appears."
+    },
+    {
+      "claim": "FY2023 was a trough at roughly $70B versus ~$81B in FY2022",
+      "cited_file": "kkr_2023_10-k.txt",
+      "issue": "Neither comparison value appears in the supplied passages, and the metric being compared is not identified by the evidence.",
+      "evidence_check": "Checked the passages for $70 billion, $81 billion, and a related annual table; none appears."
+    },
+    {
+      "claim": "PE new capital collapsed to just $7B in FY2023",
+      "cited_file": "kkr_2023_10-k.txt",
+      "issue": "The supplied excerpts do not contain a private-equity new-capital table or the $7 billion value.",
+      "evidence_check": "Searched the passages for new capital raised and $7 billion; no supporting entry appears."
+    },
+    {
+      "claim": "Capital invested fell from $71.4B (FY2022) to $44.0B (FY2023)",
+      "cited_file": "kkr_2023_10-k.txt",
+      "issue": "The passages do not contain either annual capital-invested figure. The visible $44.0 million relates to yen-denominated notes, not capital invested.",
+      "evidence_check": "Checked for $71.4 billion and $44.0 billion in a capital-invested context; no such comparison appears."
+    },
+    {
+      "claim": "Even in the FY2023 trough, Real Assets and Credit kept raising ($16B and $47B respectively",
+      "cited_file": "kkr_2023_10-k.txt",
+      "issue": "The supplied passages do not show new-capital figures of $16 billion for Real Assets and $47 billion for Credit.",
+      "evidence_check": "Searched the provided excerpts for those values and business-line fundraising; no supporting table appears."
+    },
+    {
+      "claim": "total AUM still grew $49B",
+      "cited_file": null,
+      "issue": "The supplied passages do not show a $49 billion AUM increase or the beginning and ending AUM required for the comparison.",
+      "evidence_check": "The evidence contains Q3 2025 results and unrelated financial data, but no $49 billion growth calculation."
+    },
+    {
+      "claim": "$3,268M (FY2024)",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied excerpts for this claim do not contain FY2024 FRE of $3,268 million.",
+      "evidence_check": "Checked the passages, which show private-equity and real-assets metrics but not the claimed FRE value."
+    },
+    {
+      "claim": "up ~18.5% YoY",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The evidence does not contain an 18.5% year-over-year growth calculation for the relevant metric.",
+      "evidence_check": "The only visible 18.5 figure is part of a valuation-input range, not a YoY growth rate."
+    },
+    {
+      "claim": "FRE margin was 69% LTM at both Q3 2025 and Q1 2026",
+      "cited_file": "kkr_2025-11-07_8-k.txt; kkr_2026-05-05_8-k.txt",
+      "issue": "The supplied evidence for this claim consists of Ares and Blackstone income-statement excerpts, not KKR FRE-margin disclosures.",
+      "evidence_check": "No KKR FRE margin or 69% value appears in the claim's passages."
+    },
+    {
+      "claim": "FRE grew +25.4% in Q2 2024",
+      "cited_file": "kkr_2024q2_10-q.txt",
+      "issue": "The supplied passages do not contain Q2 2024 FRE values or a 25.4% growth calculation.",
+      "evidence_check": "Searched the excerpts for FRE, 25.4%, and comparative quarterly figures; none appears."
+    },
+    {
+      "claim": "management fees grew only +13.1%",
+      "cited_file": "kkr_2024q2_10-q.txt",
+      "issue": "The supplied passages do not provide the relevant management-fee values or a 13.1% growth rate.",
+      "evidence_check": "No supporting Q2 2024 management-fee comparison appears."
+    },
+    {
+      "claim": "fee-related compensation actually FELL year-over-year",
+      "cited_file": "kkr_2024q2_10-q.txt",
+      "issue": "The supplied passages discuss macroeconomic conditions and do not show fee-related compensation for either comparative period.",
+      "evidence_check": "Searched the excerpts for fee-related compensation and comparative values; none appears."
+    },
+    {
+      "claim": "The fee-related comp ratio has since held near 17.5%",
+      "cited_file": "kkr_2026q1_10-q.txt",
+      "issue": "The cited excerpts do not contain a fee-related compensation ratio near 17.5%. Visible 17.5 figures concern fund returns or insurance expense assumptions.",
+      "evidence_check": "No fee-related compensation-ratio calculation appears in the supplied passages."
+    },
+    {
+      "claim": "total transaction & monitoring fees, net, fell to $252.7M in Q1 2026 from $261.5M a year earlier",
+      "cited_file": "kkr_2026q1_10-q.txt",
+      "issue": "The supplied passages for this claim are cover-page and table-of-contents excerpts and do not contain either fee value.",
+      "evidence_check": "Searched the claim's passages for 252.7, 261.5, and transaction and monitoring fees; none appears."
+    },
+    {
+      "claim": "fee income \"varies\" with transaction pace",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The quoted wording is not contained in the supplied passages.",
+      "evidence_check": "Searched for the quoted phrase and discussion of transaction pace; no match appears."
+    },
+    {
+      "claim": "Capital Markets (~$0.9B of gross fees)",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain KKR Capital Markets fees of approximately $0.9 billion.",
+      "evidence_check": "Checked the peer income statement and KKR release excerpts supplied for this claim; no supporting amount appears."
+    },
+    {
+      "claim": "a management-fee-driven core of roughly $3B+ that has never declined",
+      "cited_file": null,
+      "issue": "The evidence does not provide the historical series needed to establish that the core never declined.",
+      "evidence_check": "The passages show selected recent KKR metrics but no complete historical management-fee series supporting 'never declined.'"
+    },
+    {
+      "claim": "~$0.7B/year of intersegment fees",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The visible $0.7 billion amounts in the supplied evidence are geographic fee totals for Asia-Pacific, not intersegment fees.",
+      "evidence_check": "No intersegment-fee disclosure of approximately $0.7 billion appears in the claim's passages."
+    },
+    {
+      "claim": "Most of the FY2023->FY2024 step-up is a consolidation artifact, not spread improvement",
+      "cited_file": "kkr_2024_10-k.txt; kkr_2025_10-k.txt",
+      "issue": "The supplied evidence consists of peer income-statement excerpts and does not contain KKR insurance consolidation or spread data supporting this attribution.",
+      "evidence_check": "Searched the claim's passages for Global Atlantic ownership, consolidation, spread, and the FY2023-FY2024 comparison; none appears."
+    },
+    {
+      "claim": "The gross spread (NII minus net cost) was ~$1,995M in FY2025",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the NII and net-cost figures needed for this calculation.",
+      "evidence_check": "No $1,995 million spread or component values appear in the claim's excerpts."
+    },
+    {
+      "claim": "actually BELOW the ~$2,095M of FY2023",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied passages do not show a FY2023 gross spread of approximately $2,095 million.",
+      "evidence_check": "Searched for 2,095 and the NII-minus-net-cost calculation; no supporting figures appear."
+    },
+    {
+      "claim": "it fell from $27.1B (FY2024) to $21.0B (FY2025)",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "Neither comparison value appears in the supplied passages, and the metric referred to by 'it' is not substantiated there.",
+      "evidence_check": "Searched for $27.1 billion and $21.0 billion in the excerpts; no matching annual comparison appears."
+    },
+    {
+      "claim": "$200.4B of invested assets",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The evidence's $200.4 million figure is the 2009 sale price of co-investments in the 2010 S-1, not $200.4 billion of insurance invested assets.",
+      "evidence_check": "Found $200.4 million in an unrelated 2009 transaction; no $200.4 billion invested-assets disclosure appears."
+    },
+    {
+      "claim": "$205.6B of gross policy liabilities",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "No evidence passage contains the claimed $205.6 billion gross policy-liability amount.",
+      "evidence_check": "The claim reports no local match, and no gross policy-liability table is supplied."
+    },
+    {
+      "claim": "$157.8B net",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied passage contains $157.8 million of derivative collateral payable, not $157.8 billion of net policy liabilities.",
+      "evidence_check": "The only 157.8 figure found is explicitly denominated in millions and concerns collateral."
+    },
+    {
+      "claim": "Global Atlantic book value grew to $11.7B (Q1 2026) from $9.5B a year earlier",
+      "cited_file": "kkr_2026-05-05_8-k.txt",
+      "issue": "The supplied passages for this claim do not contain either Global Atlantic book-value figure.",
+      "evidence_check": "Searched the provided release excerpts for $11.7 billion, $9.5 billion, and Global Atlantic book value; none appears."
+    },
+    {
+      "claim": "a permanent $220B balance sheet",
+      "cited_file": null,
+      "issue": "The evidence does not support describing $220 billion as a balance sheet, and no passage establishes that the entire amount is permanent.",
+      "evidence_check": "The supplied material contains insurance financial data but no statement identifying a permanent $220 billion balance sheet."
+    },
+    {
+      "claim": "FRE plus Insurance Operating Earnings \u2014 roughly $4.8B LTM",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied passages do not contain an LTM total of approximately $4.8 billion or the component values needed to derive it.",
+      "evidence_check": "Checked the claim's excerpts for FRE, Insurance Operating Earnings, LTM, and $4.8 billion; no supporting calculation appears."
+    },
+    {
+      "claim": "did not go negative in any period, even the quarters when GAAP net income did",
+      "cited_file": "kkr_2025_10-k.txt; kkr_income_statement.json",
+      "issue": "The evidence does not provide a complete period-by-period series for the metric claimed never to have gone negative.",
+      "evidence_check": "The supplied passages show selected non-GAAP and GAAP periods but not all periods necessary to establish 'any period.'"
+    },
+    {
+      "claim": "Insurance spread / Operating Earnings (~$1.1B LTM)",
+      "cited_file": "kkr_2026q1_10-q.txt; kkr_2025_10-k.txt",
+      "issue": "The supplied passages for this claim do not contain the approximately $1.1 billion LTM amount.",
+      "evidence_check": "Searched the excerpts for insurance operating earnings and an LTM $1.1 billion total; no match appears."
+    },
+    {
+      "claim": "currently FLAT organically",
+      "cited_file": "kkr_2026q1_10-q.txt",
+      "issue": "The cited passages do not contain an organic-growth calculation or characterization of insurance earnings as flat organically.",
+      "evidence_check": "Searched the supplied excerpts for organic growth and flat; no supporting statement appears."
+    },
+    {
+      "claim": "Capital-markets transaction fees inside FRE (~$0.9B)",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The passages supplied for this claim concern debt obligations and do not show approximately $0.9 billion of Capital Markets transaction fees.",
+      "evidence_check": "No $0.9 billion Capital Markets fee figure appears in the claim's evidence."
+    },
+    {
+      "claim": "the drawdown-fund, carry-dependent firm of the 2010 S-1, whose ENI was two-thirds carried interest",
+      "cited_file": "kkr_2010_s-1.txt",
+      "issue": "The supplied S-1 excerpts do not contain an ENI composition showing that two-thirds was carried interest.",
+      "evidence_check": "Searched the passages for ENI, economic net income, two-thirds, and carried-interest proportions; none appears."
+    },
+    {
+      "claim": "the data set does NOT contain peer segment/insurance detail",
+      "cited_file": null,
+      "issue": "The supplied passages do not establish the contents or absence of content across the entire data set.",
+      "evidence_check": "Only KKR release excerpts are supplied; they cannot verify a dataset-wide absence of peer segment or insurance detail."
+    },
+    {
+      "claim": "a $158B net insurance liability that injects GAAP volatility",
+      "cited_file": "kkr_2025_10-k.txt",
+      "issue": "The supplied evidence does not show a $158 billion net insurance liability. Visible 158 figures are in millions and relate to fair-value activity.",
+      "evidence_check": "Searched for a $158 billion policy-liability balance; no such amount appears."
+    },
+    {
+      "claim": "\"insurance book value\" ($11.7B)",
+      "cited_file": "kkr_2026-05-05_8-k.txt",
+      "issue": "The supplied passages do not contain an $11.7 billion insurance book-value figure.",
+      "evidence_check": "The excerpts concern older equity-compensation and valuation disclosures; no Q1 2026 insurance book value appears."
+    },
+    {
+      "claim": "peer insurance/segment economics are absent",
+      "cited_file": null,
+      "issue": "No evidence is supplied that inventories all peer files or proves the asserted dataset-wide absence.",
+      "evidence_check": "The claim has no local match and the supplied passages do not address peer-data coverage."
+    },
+    {
+      "claim": "the FRE + insurance core has never gone negative",
+      "cited_file": "kkr_2025_10-k.txt; kkr_income_statement.json",
+      "issue": "The passages do not provide a complete historical quarterly series for FRE plus insurance earnings, so 'never' is unsupported.",
+      "evidence_check": "Checked the supplied excerpts for all-period FRE and insurance operating earnings; only selected periods are shown."
+    },
+    {
+      "claim": "the whole-year 10-K denominator can be read to yield a few points lower depending on which fee-related revenues are included",
+      "cited_file": null,
+      "issue": "The supplied evidence contains no KKR denominator analysis or alternative fee-related-revenue definitions supporting this statement.",
+      "evidence_check": "The passages are unrelated Ares income-statement excerpts; no KKR margin calculation appears."
+    },
+    {
+      "claim": "the press-release figure and the 10-K component math agree at the LTM level",
+      "cited_file": null,
+      "issue": "No press-release figure, 10-K component calculation, or LTM reconciliation is supplied for this claim.",
+      "evidence_check": "The evidence consists of unrelated Ares income-statement data and contains no KKR agreement check."
+    },
+    {
+      "claim": "no standalone Global Atlantic GAAP equity line is disclosed",
+      "cited_file": null,
+      "issue": "The absence of a disclosure cannot be verified from the supplied evidence, which contains no relevant financial-statement presentation.",
+      "evidence_check": "The claim reports no local match and no Global Atlantic equity-line excerpts are supplied."
+    }
+  ],
+  "synthesis_found": "The lumpiness is real but it is increasingly confined to the shrinking PE slice, while the majority of the base is perpetual or long-dated.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/ares_income_statement.json",
+    "financials/income_statement/bx_income_statement.json",
+    "financials/income_statement/cg_income_statement.json",
+    "financials/income_statement/kkr_income_statement.json",
+    "press_releases/kkr_2025-11-07_8-k.txt",
+    "press_releases/kkr_2026-02-05_8-k.txt",
+    "press_releases/kkr_2026-05-05_8-k.txt",
+    "sec_filings/10-k/kkr_2023_10-k.txt",
+    "sec_filings/10-k/kkr_2024_10-k.txt",
+    "sec_filings/10-k/kkr_2025_10-k.txt",
+    "sec_filings/10-q/kkr_2024q2_10-q.txt",
+    "sec_filings/10-q/kkr_2025q3_10-q.txt",
+    "sec_filings/10-q/kkr_2026q1_10-q.txt",
+    "sec_filings/s-1/kkr_2010_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 175,
+  "grounding_claims_no_match": 20,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

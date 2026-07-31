@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "Creates an inspection-based corpus map before substantive analysis, identifying each available file's entity, document type, covered period, publication date, and likely analytical use from the file contents rather than its filename.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early trajectory steps for an inventory spanning company profiles, BlackRock and peer financial JSONs, press releases, annual filings, and quarterly filings; look for opened headers or schemas, verified identities, period metadata, and exclusion of material after June 30, 2026."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Decomposes the assignment into linked, independently testable analytical questions that can later support a single investment conclusion.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a question tree or equivalent planning artifact covering flow persistence, conversion into fees, product fee mix, organic versus acquired private-market expansion, technology revenue quality, and GAAP, adjusted, cash-flow, and per-share consequences."
+    },
+    {
+      "id": "c3",
+      "concern": "grounding_before_claim",
+      "text": "Maintains a metric-level evidence ledger that records the source inspected, period, units, definition, and reported-versus-calculated status for evidence used in the analysis.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction notes or structured tables for rows tied to specific corpus paths, with period and unit labels and distinctions such as quarterly versus annual, total versus long-term flows, reported versus adjusted, and company-reported versus analyst-derived."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Constructs a period-aware AUM roll-forward that distinguishes organic flows from each separately disclosed non-flow driver instead of treating all non-flow growth as one economic source.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for beginning and ending AUM, categorized net flows, and separate treatment of market appreciation or depreciation, foreign exchange, acquisitions, distributions, and other disclosed components; if the sources do not permit a complete split, the remaining residual should be visibly retained as unresolved rather than silently attributed."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Builds a quantitative fee-monetization evidence set that tests whether asset and flow growth converts into recurring base-fee economics.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction tables and notes for period-specific base fees, organic base-fee growth, effective fee-rate disclosures, securities-lending treatment, and product shares of long-term AUM versus long-term base fees; proxy fee-intensity measures should be visibly distinguished from disclosed fee rates."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Keeps economically distinct private-market measures separate when tracing the buildout and its acquisition contribution.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for separate records of total AUM, fee-paying AUM, unfunded or non-fee-paying commitments, fundraising or inflows, deployment, realizations, acquired AUM, transaction dates, and consolidation periods rather than substitution of one measure for another."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Separates acquired technology-platform contribution from organic recurring technology-services performance wherever the available disclosures permit that distinction.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect notes on technology-services revenue, subscription or annual contract measures, recurring-revenue descriptions, transaction timing, and consolidation changes for an explicit attempt to isolate or bound acquired versus organic growth."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "Performs an explicit adversarial test of the emerging interpretation using the strongest plausible contrary explanation supported by the inspected evidence.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a challenge memo or equivalent reasoning steps that test issues such as low-fee flow concentration, market- or acquisition-driven AUM, realization effects, integration exposure, acquired technology growth, accounting exclusions, financing, dilution, or weak cash conversion, and that state what evidence would weaken the favored case."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Maintains a reproducible quantitative layer that separates copied figures from derived calculations and reconciles flows, fees, profitability, cash generation, and per-share effects where definitions permit.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables or logs for source cells, formulas, units, period alignment, GAAP-to-adjusted bridges, EPS and share-count effects, cash-flow conversion, acquisition funding indicators, and investigated rather than discarded reconciliation residuals."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "Preserves unresolved measurement uncertainty instead of inventing precision or forcing unlike measures into agreement.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit labels such as unavailable, non-comparable, period mismatch, definition change, approximation, unsplit residual, or uncertain organic-versus-acquired contribution, especially for product fee rates, peer comparisons, AUM bridges, and consolidation-period effects."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "Synthesizes the gathered evidence into a causal explanation linking flow durability to fee mix, private-market and technology expansion, and reported economic outcomes.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the concluding reasoning for an explicit chain from the source and composition of flows through base-fee conversion, product economics, organic and acquired expansion, recurring technology contribution, and GAAP, adjusted, cash-flow, or per-share consequences, with favorable and adverse evidence weighed rather than merely listed."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "States one directional position and identifies the observable future conditions that would cause that position to change.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look at the thesis and closing section for a clear directional judgment, the principal reason it carries greater weight than the contrary case, and concrete monitoring conditions involving flows, fee conversion, private-market organic progress, integration, cash realization, or per-share outcomes."
+    }
+  ]
+}

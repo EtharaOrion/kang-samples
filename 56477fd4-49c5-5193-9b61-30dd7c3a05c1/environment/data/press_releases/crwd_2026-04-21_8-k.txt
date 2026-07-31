@@ -1,0 +1,306 @@
+EX-10.1
+2
+crwd-20260420exx101special.htm
+EX-10.1
+
+CROWDSTRIKE HOLDINGS, INC.
+
+2019 EQUITY INCENTIVE PLAN
+
+PERFORMANCE UNIT AGREEMENT
+
+Unless otherwise defined herein, the terms defined in the CrowdStrike Holdings, Inc. 2019 Equity Incentive Plan (the “Plan”) will have the same defined meanings in this Performance Unit Agreement, which includes the Notice of Performance Unit Grant (the “Notice of Grant”), the Terms and Conditions of Performance Unit Grant, attached hereto as Exhibit A, the Vesting Conditions, attached hereto as Exhibit B, and all other exhibits and appendices hereto (all together, the “Award Agreement”).
+
+NOTICE OF PERFORMANCE UNIT GRANT
+
+Participant: Michael Sentonas (“Participant”)
+
+Address: [__]
+
+CrowdStrike Holdings, Inc. (the “Company”) hereby grants Participant the right to receive an award of Performance Units (the “Award”), subject to the terms and conditions of the Plan and this Award Agreement, as follows:
+
+Grant Number:
+
+Grant Date:
+
+4/16/2026
+
+Number of Performance Units:
+
+100,000 (at target)
+
+Vesting Conditions:
+
+Except as otherwise provided in the Plan or this Award Agreement, the Performance Units will vest and become payable in accordance with, and subject to, the terms of Exhibit A and Exhibit B attached hereto.
+
+If Participant does not wish to accept this Award Agreement and the Performance Units granted hereunder, Participant must inform the Company in writing (by writing to stockadmin@crowdstrike.com) within forty-five (45) days after the Grant Date, in which case the Company will cancel this Award and the Performance Units granted hereunder will be immediately forfeited and canceled in their entirety without any payment or consideration being due from the Company. If, during such period, Participant does not inform the Company in writing of his refusal to accept this Award of Performance Units, then Participant will be deemed to have accepted this Award of Performance Units and, by accepting, to: 
+
+•agree that this Award of Performance Units is granted under and governed by the terms and conditions of the Plan and this Award Agreement, including the Terms and Conditions of Performance Unit Grant, attached hereto as Exhibit A, and the Vesting Conditions, attached hereto as Exhibit B, all of which are made a part of this document; 
+
+•acknowledge receipt of a copy of the Plan; 
+
+•acknowledge that Participant has reviewed the Plan and this Award Agreement in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Award Agreement, and fully understands all provisions of the Plan and this Award Agreement; 
+
+•agree to accept as binding, conclusive, and final all decisions or interpretations of the Administrator upon any questions relating to the Plan and the Award Agreement; and 
+
+•agree to notify the Company upon any change in his or her residence address. 
+
+EXHIBIT A
+
+TERMS AND CONDITIONS OF PERFORMANCE UNIT GRANT
+
+1. Grant of Performance Units. The Company hereby grants to the individual (the “Participant”) named in the Notice of Performance Unit Grant of this Award Agreement (the “Notice of Grant”) under the Plan an Award of Performance Units, subject to all of the terms and conditions in this Award Agreement (including Exhibit B) and the Plan, which is incorporated herein by reference. Subject to Section 21(c) of the Plan, in the event of a conflict between the terms and conditions of the Plan and the terms and conditions of this Award Agreement, the terms and conditions of the Plan shall prevail.
+
+2. Company’s Obligation to Deliver and Settle. Each Performance Unit represents the right to receive one Share, subject to the terms of this Award Agreement (including Exhibit B). Unless and until the Performance Units will have vested in the manner set forth in Exhibit B, Participant will have no right to settlement of any such Performance Units. Prior to actual settlement of any Vested Performance Units (as defined in Exhibit B), such Performance Units will represent an unsecured obligation of the Company, payable (if at all) only from the general assets of the Company.
+
+3. Vesting. The Performance Units awarded by this Award Agreement will be earned and will vest in accordance with, and subject to the terms of, Exhibit B. 
+
+4. Settlement after Vesting.
+
+(a) General Rule. Subject to Section 6, any Vested Performance Units will be settled to Participant (or in the event of Participant’s death, to his properly designated beneficiary or estate) in whole Shares to be delivered on the later of (i) the fifth business day following the Vesting Date (as defined in Exhibit B) or (ii) the end of the deferral period specified by Participant if Participant elects to defer receipt of Shares in settlement of Vested Performance Units pursuant to a deferral election form to be provided by the Company to Participant, with the timing of such deferral election to be compliant with Section 409A of the Code (a “Deferral Election”). To the extent Participant does not make a Deferral Election, the Shares will be delivered in accordance with clause (i) above and in no event will they be delivered later than the date that is two and one-half months following the end of the fiscal year of the Company in which the Performance Units cease to be subject to a substantial risk of forfeiture within the meaning of Section 409A of the Code. 
+
+(b) Discretionary Acceleration. The Administrator, in its discretion, may accelerate the vesting of the balance, or some lesser portion of the balance, of the unearned or unvested Performance Units at any time, subject to the terms of the Plan. If so accelerated, such Performance Units will be considered as having been earned or vested as of the date specified by the Administrator. If Participant is a U.S. taxpayer, the payment of Shares vesting pursuant to this Section 4(b) shall in all cases be paid at a time or in a manner that is exempt from, or complies with, Section 409A of the Code and, to the extent a Deferral Election is made, in accordance with the terms of such Deferral Election. The prior sentence may be superseded in a future agreement or amendment to this Award Agreement only by direct and specific reference to such sentence. 
+
+5. Death of Participant. Any distribution or delivery to be made to Participant under this Award Agreement will, if Participant is then deceased, be made to Participant’s designated beneficiary (to the extent such designation is permitted by the Company and the Company has determined it to be valid under applicable law), or if no beneficiary has been validly designated or no beneficiary survives Participant, the administrator or executor of Participant’s estate. Any such transferee must furnish the Company with (a) written notice of his or her status as transferee, and (b) evidence satisfactory to the Company to establish the validity of the transfer and compliance with any laws or regulations pertaining to said transfer.
+
+6. Tax Obligations.
+
+(a) Responsibility for Taxes. Participant acknowledges that, regardless of any action taken by the Company or, if different, Participant’s employer (the “Employer”) or Parent or Subsidiary to which Participant is providing services (together, the Company, Employer and/or Parent or Subsidiary to which Participant is providing services, the “Service Recipient”), the ultimate liability for any income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to Participant’s participation in the Plan and legally applicable to Participant (collectively, the “Tax Obligations”), is and remains Participant’s responsibility and may exceed the amount, if any, actually withheld by the Company or the Service Recipient. Further, if Participant is subject to Tax Obligations in more than one jurisdiction, Participant acknowledges that the Company and/or the Service Recipient (or former employer, as applicable) may be required to withhold or account for Tax Obligations in more than one jurisdiction. If Participant fails to make satisfactory arrangements for the payment of any required Tax Obligations hereunder at the time of the applicable taxable event, Participant acknowledges and agrees that the Company may refuse to issue or deliver the Shares or proceeds from the sale of Shares. 
+
+(b) Tax Withholding and Default Sell-to-Cover Method of Tax Withholding. Prior to any relevant taxable or tax withholding event, as applicable, Participant agrees to make adequate arrangements satisfactory to the Company and/or the Service Recipient to satisfy all Tax Obligations. Subject to Section 6(c), the Tax Obligations which the Company determines must be withheld with respect to this Award (“Tax Withholding Obligation”) will be satisfied with consideration received under a formal, broker-assisted cashless program adopted by the Company in connection with the Plan pursuant to this authorization (the “Sell-to-Cover Method”). In addition to Shares sold to satisfy the Tax Withholding Obligation, additional Shares will be sold to satisfy any associated broker or other fees. Only whole Shares will be sold through the Sell-to-Cover Method to satisfy any Tax Withholding Obligation and any associated broker or other fees. Any proceeds from the sale of Shares in excess of the Tax Withholding Obligation and any associated broker or other fees generated through the Sell-to-Cover Method will be paid to Participant in accordance with procedures the Company may specify from time to time. By accepting this Award, Participant expressly consents to the sale of Shares to cover the Tax Withholding Obligation (and any associated broker or other fees) through the Sell-to-Cover Method.
+
+(c) Administrator Discretion. Notwithstanding the foregoing Sections 6(a) and 6(b), if the Administrator determines it is in the best interests of the Company for Participant to satisfy Participant’s Tax Withholding Obligation by a method other than through the default Sell-to-Cover Method described in Section 6(b), it may permit or require Participant to satisfy Participant’s Tax Withholding Obligation, in whole or in part (without limitation), if permissible by Applicable Laws, with (i) cash in U.S. dollars, (ii) check designated in U.S. dollars, (iii) withholding from Participant's wages or other cash compensation paid to Participant by the Company and/or the Service Recipient, (iv) withholding in Shares otherwise issuable upon settlement of the Vested Performance Units or (v) any other method (or combination thereof) approved in the sole discretion of the Administrator. 
+
+Depending on the withholding method, the Company and/or the Service Recipient may withhold or account for the Tax Withholding Obligation by considering minimum statutory withholding rates or other withholding rates, including maximum applicable rates in Participant’s jurisdiction, in which case Participant may receive a refund of any over-withheld amount in cash and will have no entitlement to the equivalent in Shares. If the Tax Withholding Obligation is satisfied by withholding in Shares, for tax purposes, Participant will be deemed to have been issued the full number of Shares subject to the Vested Performance Units, notwithstanding that a number of Shares are held back solely for the purpose of satisfying the Tax Withholding Obligation. 
+
+7. Rights as Stockholder. Neither Participant nor any person claiming under or through Participant will have any of the rights or privileges of a stockholder of the Company in respect of any Shares deliverable hereunder unless and until certificates representing such Shares (which may be in book entry form) will have been issued, recorded on the records of the Company or its transfer agents or registrars, and delivered to Participant (including through electronic delivery to a brokerage account). After such issuance, recordation, and delivery, Participant will have all the rights of a stockholder of the Company with respect to voting such Shares and receipt of dividends and distributions on such Shares.
+
+8. Grant Is Not Transferable. Except to the limited extent provided in Section 5, Section 14 of the Plan will govern the transferability of the Performance Units. 
+
+9. Nature of Grant. In accepting the grant, Participant acknowledges, understands and agrees that:
+
+(a) the grant of Performance Units is exceptional, voluntary and occasional and does not create any contractual right to receive future grants of Performance Units, or benefits in lieu of Performance Units, even if Performance Units have been granted in the past;
+
+(b) the Plan is operated and the grant of Performance Units is granted by the Company, and only the Company is a party to this Award Agreement; accordingly, any rights Participant may have under this Award Agreement, including related to the Performance Units, may only be asserted against the Company and not any Parent or Subsidiary (including, but not limited to, the Employer); 
+
+(c) all decisions with respect to future grants of Awards, if any, will be at the sole discretion of the Company;
+
+(d) Participant is voluntarily participating in the Plan;
+
+(e) the future value of the Shares underlying the Performance Units is unknown, indeterminable and cannot be predicted with certainty;
+
+(f) for purposes of the Performance Units, Participant’s status as a Service Provider will be considered terminated as of the date Participant is no longer actively providing services to the Company or any Parent or Subsidiary (regardless of the reason for such termination and whether or not later found to be invalid or in breach of employment laws in the jurisdiction where Participant is a Service Provider or the terms of Participant’s employment or service agreement, if any), and unless otherwise expressly provided in this Award Agreement (including by reference in the Notice of Grant to other arrangements or contracts) or determined by the Administrator, Participant’s right to vest in the Performance Units under the Plan, if any, will terminate as of such date and will not be extended by any notice period (e.g., Participant’s period of service would not include any contractual notice period or any period of “garden leave” or similar period mandated under employment laws in the jurisdiction where Participant is a Service Provider or the terms of Participant’s employment or service agreement, if any, unless Participant is providing bona fide services during such time); the Administrator shall have the exclusive discretion to determine when Participant is no longer actively providing services for purposes of the Performance Units grant (including whether Participant may still be considered to be providing services while on a leave of absence and consistent with local law); 
+
+(g) unless otherwise agreed with the Company, the Performance Units and Shares subject to the Performance Units, and the income from and value of the same, are not granted as consideration for, or in connection with, the service Participant may provide as a director of a Subsidiary; and
+
+(h) for Participants who reside outside the United States, the following additional provisions shall apply:
+
+(i) the Performance Units and any Shares acquired under the Plan are not intended to replace any pension rights or compensation;
+
+(ii) the Performance Units and any Shares acquired under the Plan, and the income from and value of same, are not part of normal or expected compensation for any purpose, including, without limitation, calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, long-service awards, pension or retirement, or welfare benefits or similar payments;
+
+(iii) no claim or entitlement to compensation or damages shall arise from (a) the forfeiture of the Performance Units resulting from the termination of Participant’s status as a Service Provider (for any reason whatsoever, whether or not later found to be invalid or in breach of employment laws in the jurisdiction where Participant is employed or the terms of his or her employment or service agreement, if any) and/or (b) the forfeiture, cancellation of the Performance Units or recoupment of any Shares, cash or other benefits acquired upon 
+
+settlement of the Performance Units resulting from the application of any Company recoupment policy or any recovery or clawback policy otherwise required by law; and
+
+(iv) neither the Company, the Employer nor any Subsidiary shall be liable for any foreign exchange rate fluctuation between Participant’s local currency and the United States Dollar that may affect the value of the Performance Units or of any amounts due to Participant pursuant to the settlement of Performance Units or subsequent sale of Shares acquired upon settlement. 
+
+10. Tax Consequences and Acknowledgements. 
+
+(a) Participant has reviewed with his or her own tax advisors the U.S. federal, state, local and non-U.S. tax consequences of this investment and the transactions contemplated by this Award Agreement. With respect to such matters, Participant relies solely on such advisors and not on any statements or representations of the Company or any of its agents, written or oral. Participant understands that Participant (and not the Company) shall be responsible for Participant’s own tax liability that may arise as a result of this investment or the transactions contemplated by this Award Agreement.
+
+(b) Participant acknowledges that the Company and/or the Service Recipient (i) make no representations or undertakings regarding the treatment of any Tax Obligations in connection with any aspect of the Performance Units, including, but not limited to, the grant, vesting or settlement of the Performance Units, the subsequent sale of Shares acquired pursuant to such settlement and the receipt of any dividends or other distributions, and (ii) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Performance Units to reduce or eliminate Participant’s liability for Tax Obligations or achieve any particular tax result.
+
+11. Data Protection. 
+
+(a) Data Processing. By participating in the Plan, Participant understands and acknowledges that it is necessary for the Company, Parent and any of their Subsidiaries or affiliates to collect, use, disclose, hold, transfer and otherwise process certain personal information about Participant as described in Section 28 of the Plan. This personal data (hereinafter “Data”) includes but is not limited to, Participant’s name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number, salary, nationality, job title, any Shares or directorships held in the Company, details of all Performance Units or any other entitlement to Shares awarded, canceled, vested, unvested or outstanding in Participant’s favor, which the Company receives from Participant or the Employer. This may include the international transfer of Participant’s Data to a jurisdiction that might have enacted data privacy laws that are less protective or otherwise different from those applicable in the Participant's country of residence.
+
+(b) Necessary Disclosure of Data. Participant understands that providing the Company with Data is necessary for performance of the Award Agreement and that Participant’s refusal to provide the Data would make it impossible for the Company to perform its contractual obligations and legitimate interests and may affect Participant’s ability to participate in the Plan.
+
+(c) Data Processing and Transfer Consent. Notwithstanding the foregoing, if Participant is located in a jurisdiction for which the lawful bases for processing and transferring personal data described in the Plan are not recognized, then, to the extent applicable, Participant hereby unambiguously consents to the collection, use and transfer, in electronic or other form, of his or her Data, as described above and in any other grant materials, by and among, as applicable, the Employer, the Company and any affiliate for the exclusive purpose of implementing, administering and managing Participant’s participation in the Plan. Participant understands that he or she may, at any time, refuse or withdraw the consents herein, in any case without cost, by contacting in writing his or her human resources representative. If Participant does not consent or later seeks to revoke his or her consent, Participant’s employment status or service with the Employer will not be affected; the only consequence of refusing or withdrawing consent is that the Company would not be able to grant Performance Units or other Awards to Participant under the Plan or administer or maintain such Awards. 
+
+Therefore, Participant understands that refusing or withdrawing consent may affect his or her ability to participate in the Plan. For more information on the consequences of refusal to consent or withdrawal of consent, Participant should contact his or her local human resources representative.
+
+12. No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding Participant’s participation in the Plan, or Participant’s acquisition or sale of the underlying Shares. Participant should consult with his or her own personal tax, legal and financial advisors regarding his or her participation in the Plan before taking any action related to the Plan.
+
+13. Address for Notices. Any notice to be given to the Company under the terms of this Award Agreement will be addressed to the Company at CrowdStrike Holdings, Inc., 206 E. 9th Street, Suite 1400, Austin, TX 78701 United States or at such other address as the Company may hereafter designate in writing.
+
+14. Language. Participant acknowledges that he or she is sufficiently proficient in English, or has consulted with an advisor who is sufficiently proficient in English, so as to allow Participant to understand the terms and conditions of the Award Agreement. If Participant has received the Award Agreement or any other document related to the Plan translated into a language other than English, and if the meaning of the translated version is different than the English version, the English version will control, unless otherwise required by Applicable Laws. 
+
+15. Successors and Assigns. The Company may assign any of its rights under this Award Agreement to single or multiple assignees, and this Award Agreement shall be binding upon and inure to the benefit of any assignee or successor of the Company. Subject to the restrictions on transfer set forth herein and in the Plan, this Award Agreement shall be binding upon Participant and his or her heirs, executors, administrators, successors and assigns. The rights and obligations of Participant under this Award Agreement may only be assigned with the prior written consent of the Company.
+
+16. Interpretation. The Administrator will have the power to interpret the Plan and this Award Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules (including, but not limited to, the determination of whether or not any Performance Units have vested). The Administrator’s decisions, determinations and interpretations will be final and binding on Participant and any other holders of the Performance Units or other interested persons. Neither the Administrator nor any person acting on behalf of the Administrator will be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or this Award Agreement.
+
+17. Captions. Captions provided herein are for convenience only and are not to serve as a basis for interpretation or construction of this Award Agreement.
+
+18. Agreement Severable. In the event that any provision in this Award Agreement will be held invalid or unenforceable, such provision will be severable from, and such invalidity or unenforceability will not be construed to have any effect on, the remaining provisions of this Award Agreement. 
+
+19. Imposition of Other Requirements. The Company reserves the right to impose other requirements on Participant’s participation in the Plan, on the Performance Units and on any Shares acquired under the Plan, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing. 
+
+20. Insider Trading Restrictions/Market Abuse Laws. Participant may be subject to insider trading restrictions and/or market abuse laws in applicable jurisdictions including, but not limited to the United States and Participant’s country, the broker's country or the country in which the Shares are listed (if different), which may affect his or her ability to accept, acquire, sell or otherwise dispose of Shares or rights to Shares or rights linked to the value of Shares during such times as Participant is considered to have “inside information” regarding the Company (as defined by the laws or regulations in applicable jurisdictions). Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company 
+
+insider trading policy. Participant acknowledges that it is Participant’s responsibility to comply with any applicable restrictions and Participant should consult his or her personal legal advisor on this matter. 
+
+21. Clawback. Participant hereby acknowledges and agrees that Participant and the Performance Units are subject to the terms and conditions of Section 24 (Forfeiture Events) of the Plan. Without limiting the foregoing sentence, by accepting this Award Agreement and the benefits provided hereunder, Participant hereby acknowledges and agrees that Participant, the Performance Units, any other award granted to Participant under the Plan and any other incentive-based compensation (including any equity-based awards or cash-based awards) provided to Participant shall be subject to the CrowdStrike Holdings, Inc. Compensation Recovery Policy (as may be amended from time to time, the “Clawback Policy”) or any other clawback or recoupment arrangements or policies the Company has in place from time to time, in each case, subject to the terms and conditions thereof. Accordingly, Participant agrees and acknowledges that the Performance Units, any other award granted to Participant under the Plan and any other incentive-based compensation provided to Participant (as well as any other payments or benefits derived from such amounts, including any Shares issued or cash received upon vesting, exercise or settlement of any such awards or sale of Shares underlying such awards), which may include awards and other incentive-based compensation provided to Participant prior to the date of this Award Agreement, may be subject to forfeiture and/or recoupment in accordance with the terms of the Clawback Policy or such other applicable clawback or recoupment arrangements or policies.
+
+22. Foreign Asset/Account, Exchange Control and Tax Requirements. Participant acknowledges that, depending on his or her country, there may be certain foreign asset and/or account reporting requirements or exchange control restrictions which may affect Participant’s ability to acquire or hold Shares or cash received from participating in the Plan (including proceeds from the sale of Shares and dividends paid on Shares) in, to and/or from a brokerage or bank account or legal entity outside Participant’s country. Participant may be required to report such accounts, assets or related transactions to the tax or other authorities in his or her country. Participant also may be required to repatriate sale proceeds or other funds received as a result of participating in the Plan to Participant’s country through a designated bank or broker and/or within a certain time after receipt. Participant acknowledges that he or she is responsible for ensuring compliance with any applicable foreign asset/account, exchange control and tax reporting requirements and should consult his or her personal legal and tax advisors on this matter.
+
+23. Amendment, Suspension or Termination of the Plan. By accepting this Award, Participant expressly warrants that he or she has received an Award of Performance Units under the Plan, and has received, read and understood a description of the Plan. Participant understands that the Plan is discretionary in nature and may be amended, suspended or terminated by the Company at any time.
+
+24. Modifications to the Award Agreement. Participant expressly warrants that he or she is not accepting this Award Agreement in reliance on any promises, representations or inducements other than those contained herein. Subject to Sections 15 and 21 of the Plan, modifications to this Award Agreement or the Plan can be made only in an express written contract executed by a duly authorized officer of the Company. Notwithstanding anything to the contrary in the Plan or this Award Agreement, the Company reserves the right to revise this Award Agreement as it deems necessary or advisable, in its sole discretion and without the consent of Participant, to comply with Section 409A of the Code or to otherwise avoid imposition of any additional tax or income recognition under Section 409A of the Code in connection with this Award of Performance Units.
+
+25. No Waiver. Either party’s failure to enforce any provision or provisions of this Award Agreement shall not in any way be construed as a waiver of any such provision or provisions, nor prevent that party from thereafter enforcing each and every other provision of this Award Agreement. The rights granted to both parties herein are cumulative and shall not constitute a waiver of either party’s right to assert all other legal remedies available to it under the circumstances.
+
+26. Governing Law and Venue. This Award Agreement and the Performance Units will be governed by the laws of the State of Delaware, without giving effect to the conflict of law principles thereof. For purposes of litigating any dispute that arises under these Performance Units or this Award Agreement, the parties hereby submit to and consent to the jurisdiction of the State of Delaware, and agree that such litigation will be conducted in any 
+
+United States federal court located in the State of Delaware or any other state court in the State of Delaware, and no other courts. 
+
+27. Electronic Delivery and Participation. The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. Participant hereby consents to receive such documents by electronic delivery and agrees to participate in the Plan through an online or electronic system established and maintained by the Company or a third party designated by the Company, now or in the future.
+
+28. Waiver of Jury Trial. Each of the parties hereto hereby irrevocably waives any and all right to trial by jury in any legal proceeding arising out of or related to this Award Agreement or the transactions contemplated hereby.
+
+29. Adjustment. This Award shall be subject to adjustment in accordance with Section 15(a) of the Plan, the terms of which are incorporated herein by reference. 
+
+30. Entire Agreement. The Plan is incorporated herein by reference. The Plan and this Award Agreement (including the appendices and exhibits referenced herein) constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Participant with respect to the subject matter hereof, and may not be modified adversely to Participant’s interest except by means of a writing signed by the Company and Participant. 
+
+EXHIBIT B
+
+VESTING CONDITIONS
+
+1.Performance Goals. The percentage of the target number of Performance Units listed in the Notice of Grant to which this Exhibit B is attached that will be earned under this Award will be determined based on the Company’s level of achievement of the TSR Performance Percentile Rank (as defined below), which represents the Company’s cumulative total shareholder return (“TSR”) in relation to the TSRs of the constituent companies in the S&P 500 Index (the “TSR Performance”) over the Performance Period (as defined below) as set forth in the table below (such TSR Performance Percentile Rank hurdles, the “Performance Goals”).
+
+Level of Achievement
+
+TSR Performance Percentile Rank
+
+% of Target Performance Units earned
+
+(linear interpolation between stated percentile ranks above Threshold and below Maximum)
+
+# of Performance Units earned
+
+(linear interpolation between stated percentile ranks above Threshold and below Maximum)
+
+Maximum
+
+90th percentile or greater
+
+200%
+
+200,000
+
+Above Target
+
+75th percentile
+
+150%
+
+150,000
+
+Target
+
+55th percentile
+
+100%
+
+100,000
+
+Threshold
+
+25th percentile
+
+50%
+
+50,000
+
+Minimum
+
+less than 25th percentile
+
+0%
+
+0
+
+“TSR Performance Percentile Rank” means the Company’s TSR Performance (as defined below) compared to that of the Peer Companies (as defined below) expressed as a percentile rank, which shall be calculated as follows, where N is equal to the total number of companies (including the Company), such that the company with the highest TSR is ranked number one:
+
+“TSR Performance” for the Company and each of the Peer Companies shall be calculated as follows:
+
+((Ending Average Share Price – Starting Average Share Price) + Dividends Reinvested)
+
+divided by
+
+Starting Average Share Price
+
+Where:
+
+“Starting Average Share Price” for both the Company and each of the Peer Companies means the average closing price over each trading day in the 45 trading-day period starting on the first trading day of the Performance Period (inclusive of such trading day).
+
+“Ending Average Share Price” for the Company and each of the Peer Companies means the average closing price over each trading day in the 45 trading-day period ending on the last trading day of the Performance Period (inclusive of such last trading day).
+
+“Performance Period” means the three-year period commencing on December 22, 2025 and concluding on December 22, 2028.
+
+The “Peer Companies” or “Peer Group” means those companies (other than the Company) comprising the S&P 500 Index as of the first day of the Performance Period, adjusted as follows in the event of certain corporate events in connection with the Peer Companies:
+
+Merger with Company in Peer Group
+
+In the event of a merger, acquisition or business combination transaction of a Peer Company with or by another Peer Company, the surviving entity shall remain a Peer Company.
+
+Merger with Company not in Peer Group Where Peer Company Survives
+
+In the event of a merger of a Peer Company with an entity that is not a Peer Company, or the acquisition or business combination transaction of a Peer Company by an entity that is not a Peer Company, in each case where the Peer Company is the surviving entity and remains publicly traded, the surviving entity shall remain a Peer Company.
+
+Merger with Company not in Peer Group Where Peer Company is not the Survivor/Peer Company Taken Private
+
+In the event of a merger or acquisition or business combination transaction of a Peer Company by or with an entity that is not a Peer Company or a “going private” transaction involving a Peer Company where the Peer Company is not the surviving entity or is otherwise no longer publicly traded, the company shall no longer be a Peer Company.
+
+Bankruptcy, Liquidation or Delisting
+
+In the event of a bankruptcy, liquidation or delisting of a Peer Company at any time during the Performance Period, such company shall remain a Peer Company and be assigned a TSR of -100%. Delisting shall mean that a company ceases to be publicly traded on a national securities exchange as a result of any involuntary failure to meet the listing requirements of such national securities exchange, but shall not include delisting as a result of any voluntary going private or similar transaction.
+
+Spin-off Transaction
+
+In the event of a stock distribution from a Peer Company consisting of the shares of a new publicly-traded company (a “spin-off”), the Peer Company shall remain a Peer Company and the stock distribution shall be treated as a dividend from the Peer Company based on the fair market value of the distribution on the date of such distribution; the performance of the shares of the spun-off company shall not thereafter be tracked for purposes of calculating TSR.
+
+Dividends Reinvested for both the Company and the Peer Companies shall mean dividends paid with respect to an ex-dividend date that occurs beginning from the date when the Starting Average Share Price is measured through the end of the Performance Period (whether or not the dividend payment date occurs during this period), which shall be deemed to have been reinvested in the underlying Shares or common shares, as applicable.
+
+Should the Company achieve a TSR Performance level that falls between percentile rankings above Threshold and below Maximum (as set forth in the schedule above), the percentage of the target that shall be earned will be based upon linear interpolation between such percentile rankings, rounded down to the nearest whole Share.
+
+2.Determination and Approval of Final Payout. Within 30 days following the last day of the Performance Period, the Administrator shall determine achievement in respect of the Performance Goals (the date of such determination, the “Determination Date”) and shall calculate and approve the total number of Performance Units that have been earned (such earned Performance Units, the “Earned Performance Units”). Any Performance Units that are determined not to be Earned Performance Units by the Administrator under such Award will be forfeited as of the Determination Date and the Participant will have no further rights to such Performance Units.
+
+3.Service-Based Vesting of Earned Performance Units. Unless otherwise provided in Section 5 below, the Earned Performance Units, if any, shall be subject to an additional one-year service-based vesting requirement as follows: the Earned Performance Units shall vest in four equal installments (25% each) on each of 
+
+March 20, 2029, June 20, 2029, September 20, 2029 and December 20, 2029 (each a “Vesting Date” and the last such Vesting Date, the “Final Vesting Date”), in each case, subject to the Participant’s continuous employment through the applicable Vesting Date (any Earned Performance Units that vest in accordance with the foregoing, the “Vested Performance Units”).
+
+4.Change in Control. Notwithstanding anything to the contrary in this Award Agreement, in the event of the consummation of a Change in Control prior to the Final Vesting Date, the following subsections (a) through (d) shall apply:
+
+(a)Performance Measurement on Change in Control. 
+
+a.To the extent that the Change in Control occurs following the end of the Performance Period, the number of Earned Performance Units shall be determined (or have been determined) pursuant to Section 2 above and shall continue to vest in accordance with Section 3 above.
+
+b.To the extent that the Change in Control occurs prior to the end of the Performance Period, the Ending Average Share Price used to determine the Company’s TSR shall be the price per Share (plus the per share value of any other consideration) received by the Company’s stockholders in connection with such Change in Control (the “CIC Price”) and the Ending Average Share Price used to determine the TSRs of the Peer Companies shall be measured using the 45 trading-day average closing prices ending on and including the public announcement date of the Change in Control. The Administrator shall certify the resulting percentile rank and payout percentage promptly before the consummation of such Change in Control.
+
+(b)Conversion of Earned Performance Units; Continued Service-Based Vesting. Upon the consummation of the Change in Control, unless otherwise provided in clause (d) below, the number of Earned Performance Units (if any) determined pursuant to Section 4(a) shall be converted into the same form of consideration of equivalent value based on the CIC Price (including cash, stock, equity-based awards or a combination thereof) as applicable to the common stockholders of the Company in connection with such Change in Control (such converted or replacement awards, the “Converted Awards”), which shall remain outstanding and continue to vest solely based on continued service through the Final Vesting Date.
+
+(c)Double-Trigger Acceleration. If the Participant’s employment is terminated by the Company without Cause (as defined in the Plan) or by the Participant for Good Reason (as defined below) following such Change in Control shall constitute Good Reason) within three (3) months prior to or twenty-four (24) months following a Change in Control (a “Change in Control Related Termination”), any Converted Awards shall vest in full as of the date of such termination, with such date, a Vesting Date. 
+
+(d)Other Treatment of Performance Units. If the surviving company in a Change in Control does not assume, continue or substitute the Converted Awards pursuant to clause (b) above, the Converted Awards will vest upon the consummation of the Change in Control.
+
+5.Termination of Employment. 
+
+(a)Termination of Employment Prior to the End of Performance Period. Except as expressly provided in this Section 5 or Section 4 (Change in Control), in the event the Participant ceases to be a Service Provider for any reason prior to the end of the Performance Period (including voluntary resignation other than for Good Reason, termination for Cause, death or disability), all of the Performance Units shall be forfeited and cancelled in their entirety without any payment to Participant. Notwithstanding anything to the contrary in this Award Agreement or the Plan, subject 
+
+to Section 4(c) above, in the event Participant ceases to be a Service Provider due to a termination by the Company without Cause or Participant’s resignation for Good Reason that is not a Change in Control Related Termination (such qualifying termination, a “Non-Change in Control Termination”), the Performance Units shall be treated as follows:
+
+i.Performance Measurement as of Termination Date. The Company’s TSR Performance and TSR Performance Percentile Rank shall be measured as of the Participant’s termination date using the same methodology set forth in this Exhibit B, except that the “Ending Average Share Price” for the Company and the Peer Companies shall be determined as soon as practicable (but in any event within 60 days following the Participant’s termination date) using the 45 trading-day period ending on and including the Participant’s termination date. The date on which the Administrator determines achievement in respect of the Performance Goals pursuant to this Section 5(a)(i) shall be deemed the Determination Date.
+
+ii.Determination of Earned Performance Units. The number of Performance Units earned pursuant to a termination described in this Section 5(a) shall equal the product of: (x) the number of Performance Units earned based on the methodology described in Section 5(a)(i), multiplied by, (y) a fraction (not to exceed 1), (A) the numerator of which is the number of days elapsed from the first day of the Performance Period through the Participant’s date of termination and (B) the denominator of which is the total number of days from December 22, 2025 to December 20, 2029 (the “Pre-Performance Period Prorated Earned Performance Units”).
+
+(b)Termination of Employment Following the End of Performance Period. Except as expressly provided in this Section 5 or Section 4 (Change in Control), in the event the Participant ceases to be a Service Provider following the end of the Performance Period but prior to the Final Vesting Date (including voluntary resignation other than for Good Reason, termination for Cause, death or disability), the number of Performance Units earned shall be determined in accordance with Section 2. Any Vested Performance Units as of the termination date shall be retained by the Participant and settled in accordance with the terms of this Award Agreement. Any portion of the Earned Performance Units that has not become Vested Performance Units as of the termination date shall be forfeited and cancelled in their entirety without any payment to Participant. Notwithstanding anything to the contrary in this Award Agreement or the Plan, subject to Section 4(c) above, in the event Participant incurs a Non-Change in Control Termination prior to the Final Vesting Date, a number of Earned Performance Units shall vest on a pro rata basis such that the total number of Vested Performance Units as of the termination date (taking into account any Performance Units accelerated pursuant to Section 5(c) below) shall equal the product of: (i) the total number of Earned Performance Units, multiplied by (ii) a fraction (not to exceed 1), (x) the numerator of which is the number of days elapsed from the first day of the Performance Period through the Participant’s date of termination and (y) the denominator of which is the total number of days from December 22, 2025 to December 20, 2029 (such product less any Earned Performance Units that became Vested Performance Units prior to the termination date, the “Post-Performance Period Prorated Earned Performance Units”). 
+
+(c)Acceleration and Vesting. The Pre-Performance Period Prorated Earned Performance Units or the Post-Performance Period Prorated Earned Performance Units, as applicable, shall vest in full as of the Participant’s termination date and such termination date shall be a Vesting Date. Any unvested Performance Units that do not become Pre-Performance Period Prorated Earned Performance Units or Post-Performance Period Prorated Earned Performance Units, as applicable, pursuant to this Section 5 shall be forfeited and cancelled as of the Participant’s termination date without consideration. 
+
+6.Capitalization Adjustments. The Performance Units, the target number of Performance Units, and any share prices or numerical thresholds used in determining TSR Performance shall be subject to adjustment in accordance with the adjustment provisions of the Plan to reflect any stock split, reverse stock split, stock dividend, recapitalization or similar transaction, so as to prevent dilution or enlargement of the benefits intended to be provided under this Award.
+
+7.Interpretation. The Administrator, acting in good faith, shall have sole and exclusive authority and discretion to make all determinations and resolve all ambiguities, questions and disputes relating to the satisfaction of the Performance Goals, including, but not limited to, the extent of achievement, and any adjustments to the calculation of TSR of the Company or the Peer Companies, as necessary to reflect extraordinary corporate events not otherwise addressed herein, consistent with the intent of this Award. Determinations made by the Administrator will be final and binding on all parties and will be given the maximum discretion permitted by law.
+
+8.Definition. For purposes of this Agreement, “Good Reason” shall mean, without the Participant’s consent, (i) a material diminution in the Participant’s title, duties, or responsibilities, (ii) a material reduction in the Participant’s base salary or target annual bonus opportunity (other than pursuant to an across-the-board reduction applicable to all senior executives of the Company), (iii) the failure of the Company to pay any compensation when due, or (iv) the relocation of the Participant’s principal place of employment more than thirty-five (35) miles from its then current location. Notwithstanding the foregoing, (A) during the term of the Participant’s employment with the Company, in the event that the Company reasonably believes that the Participant may have engaged in conduct that could constitute Cause hereunder, the Company may, in its sole and absolute discretion, suspend the Participant from performing his duties for a period of up to sixty (60) days, and in no event shall any such suspension constitute an event pursuant to which the Participant may terminate employment with Good Reason; provided, that no such suspension shall alter the Company’s obligations (including, without limitation, its obligations to provide the Participant compensation and benefits as required pursuant to the terms of the Participant’s offer letter) during such period of suspension. Notwithstanding the foregoing, the Participant may terminate his employment with Good Reason by providing the Company thirty (30) days’ advance written notice setting forth in reasonable specificity the event that constitutes Good Reason, which written notice, to be effective, must be provided to the Company within thirty (30) days of the occurrence of such event. During such thirty (30) day notice period, the Company shall have a cure right (if curable), and if not cured within such period, the Participant’s termination will be automatically effective upon the expiration of such cure period. If the Company timely cures the Good Reason event, the Participant must either withdraw the notice of termination prior to the end of such thirty (30) day notice period or convert it into a notice of resignation without Good Reason, which would be effective at the end of such thirty (30) day notice period. Notwithstanding the foregoing, solely for purposes of Section 4, the Participant’s failure to serve as the president (or equivalent role) of the publicly traded successor corporation (or if no publicly traded successor exists, the surviving entity) following such Change in Control shall constitute Good Reason.

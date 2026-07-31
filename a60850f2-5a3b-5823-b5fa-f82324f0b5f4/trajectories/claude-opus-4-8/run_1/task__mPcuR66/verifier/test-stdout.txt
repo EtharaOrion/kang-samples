@@ -1,0 +1,5 @@
+Score: 1/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Channel and Geographic Mix as a Quality-of-Growth Signal']
+Themes missed: ['Divergent Growth Trajectories of HOKA and UGG', 'Brand Concentration and the Collapsing "Other" Portfolio', 'Seasonality, Competition, and the Durability Verdict']
+Cited files: 13

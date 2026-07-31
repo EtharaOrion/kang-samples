@@ -1,0 +1,277 @@
+DECKERS BRANDS (DECK) — HOKA AND UGG GROWTH DURABILITY AND BRAND CONCENTRATION
+An analyst's view. Fiscal year ends March 31. All figures traced to files in /app/data/.
+
+============================================================================
+POSITION (stated up front, not hedged)
+============================================================================
+
+Deckers' growth is durable in the narrow sense that the company will keep
+growing — but the bull thesis of a 20%-compounding, brand-momentum machine is
+already broken, and the data show it breaking in real time. What is left is a
+high-single-digit, two-brand, internationally-driven, wholesale-weighted
+business whose double-digit EPS growth is increasingly manufactured by
+buybacks rather than earned by operating momentum. Management's framing —
+"the continued momentum of HOKA and the enduring strength of UGG"
+(deck_2026-05-21_8-k.txt) — is technically true and materially misleading:
+HOKA's momentum is decelerating, UGG's "enduring strength" is decelerating
+faster in its most important quarter, and the growth that remains is lower in
+quality than the growth of two years ago. The company's own FY2027 guide and
+FY2028–FY2030 framework codify the slowdown (deck_2026-05-21_8-k.txt). I read
+the durability verdict as: yes to survival and steady compounding, no to the
+premium growth narrative that the "records every quarter" headlines imply.
+
+============================================================================
+THEME 1 — DIVERGENT GROWTH TRAJECTORIES OF HOKA AND UGG
+============================================================================
+
+The headline divergence everyone cites — HOKA fast, UGG slow — is real but is
+the wrong frame. The more important fact is that BOTH brands are decelerating
+and CONVERGING toward the same low-double/high-single-digit zone.
+
+HOKA quarterly net-sales growth (YoY), from the 10-Qs:
+  Q1 FY25 (Jun'24)  +29.7%   (deck_2024q1_10-q.txt)
+  Q2 FY25 (Sep'24)  +34.7%   (deck_2024q2_10-q.txt)  <- peak
+  Q3 FY25 (Dec'24)  +23.7%   (deck_2024q3_10-q.txt)
+  Q1 FY26 (Jun'25)  +19.8%   (deck_2025q1_10-q.txt)
+  Q2 FY26 (Sep'25)  +11.1%   (deck_2025q2_10-q.txt)  <- trough
+  Q3 FY26 (Dec'25)  +18.5%   (deck_2025q3_10-q.txt)
+Full-year HOKA: +27.9% FY24 -> +23.6% FY25 -> +15.9% FY26
+  (deck_2024_10-k.txt; deck_2025_10-k.txt; deck_2026_10-k.txt).
+
+UGG quarterly net-sales growth (YoY):
+  Q1 FY25 +14.0% / Q2 FY25 +13.0% / Q3 FY25 +16.1%
+  Q1 FY26 +18.9% / Q2 FY26 +10.1% / Q3 FY26 +4.9%
+  (deck_2024q1..q3_10-q.txt; deck_2025q1..q3_10-q.txt).
+Full-year UGG: +16.1% FY24 -> +13.1% FY25 -> +8.2% FY26
+  (deck_2024_10-k.txt; deck_2025_10-k.txt; deck_2026_10-k.txt).
+
+The takeaway: HOKA fell from a +34.7% peak to the mid-teens, and UGG fell from
+mid-teens to +8.2% full-year — with UGG's most important quarter, the Dec
+holiday quarter, slowing to just +4.9% (deck_2025q3_10-q.txt). Management's
+own guidance ratifies the convergence: FY2027 calls for HOKA "low-double-digit"
+and UGG "mid-single-digit," and the FY2028–FY2030 framework repeats exactly
+those rates (deck_2026-05-21_8-k.txt). This is management telling you the
+20%-HOKA era is over.
+
+AMBIGUITY, stated plainly: HOKA's path is NOT a clean line down. It troughed at
++11.1% in Q2 FY26 and then re-accelerated to +18.5% in Q3 FY26
+(deck_2025q2_10-q.txt; deck_2025q3_10-q.txt). Part of that jaggedness is
+mechanical, not demand: Q1 FY26 wholesale was inflated by "earlier shipments
+related to the transition of our European 3PL" — a pull-forward
+(deck_2025q1_10-q.txt) — which then depressed the following comparisons. So the
+precise slope of HOKA's deceleration is genuinely uncertain quarter to quarter;
+what is not uncertain is the direction and the multi-year step-down from ~24%
+to ~16% and a guide to low-double-digits.
+
+STRONGEST COUNTER-EVIDENCE, engaged: UGG actually looks MORE durable than HOKA
+on this record, which cuts against the reflexive "UGG is the old fashion brand
+that will fade" view. UGG grew every single quarter, held +13.1% in FY25, and
+its underlying franchise strategy (year-round styles, full-price selling) is
+working (deck_2025_10-k.txt, MD&A). The reconciliation: UGG's durability is
+real but decelerating on the same trajectory, one lap behind HOKA — and its
+Q3-heavy seasonality (Theme 4) means the +4.9% Q3 FY26 print carries far more
+weight than a soft off-season quarter would. Two brands sliding toward the same
+high-single/low-double-digit rate is the unified story, not "one engine, one
+anchor."
+
+============================================================================
+THEME 2 — BRAND CONCENTRATION AND THE COLLAPSING "OTHER" PORTFOLIO
+============================================================================
+
+Deckers is now, functionally, a two-brand company, and it is becoming more so
+by design. In FY2026, HOKA ($2,587.3M) + UGG ($2,738.8M) = $5,326.1M of
+$5,472.3M total net sales — 97.3% of the company (deck_2026_10-k.txt). "Other
+brands" fell to $146.2M, or 2.7%.
+
+The "Other" collapse is not noise — it is a deliberate amputation of the
+diversification cushion:
+  Other brands: $241.9M (FY24) -> $221.2M (FY25) -> $146.2M (FY26)
+    (deck_2025_10-k.txt; deck_2026_10-k.txt), and the FY26 quarterly declines
+    accelerated: -19.0%, -26.5%, -55.5% (deck_2025q1..q3_10-q.txt).
+  Drivers: Sanuk sold 8/15/2024 (deck_2025_10-k.txt); Koolaburra standalone
+    operations phased out, Koolaburra.com closed 3/31/2025 and wholesale wound
+    down through FY26 (deck_2025_10-k.txt; deck_2026_10-k.txt); AHNU phased out,
+    Ahnu.com closed 10/1/2025 (deck_2026_10-k.txt); Teva refocused/shrinking
+    (deck_2026_10-k.txt, MD&A). Deckers explicitly says it "may seek to sell one
+    or more brands" as portfolio strategy (deck_2025_10-k.txt).
+
+My position: management sells this as healthy "streamlining," and on margins it
+is — the discarded brands were low-margin or loss-making (Sanuk's wholesale
+segment posted a NEGATIVE $12.8M operating result in FY24, partly an intangible
+impairment; deck_2024_10-k.txt). But streamlining and concentration are the
+same act. The concern is not this year's mix; it is that Deckers has emptied
+its incubator. HOKA itself is proof that a third brand CAN become a multi-
+billion engine — but there is now no next HOKA in the portfolio to mature when
+HOKA plateaus, the way HOKA arrived just as UGG matured. The optionality that
+made the last decade work has been sold and wound down.
+
+Concentration risk is not merely brand-count. The filings frame it through the
+competition lens: "the growth and visibility of our HOKA brand and UGG brand
+have attracted competitors specifically targeting the categories in which we
+operate" (deck_2026_10-k.txt), and the fashion/trend risk that "our brands may
+fall out of favor" (deck_2024_10-k.txt). With 97% of revenue in two brands and
+UGG additionally exposed to a "trend to eliminate the use of certain animal
+products" (sheepskin; deck_2024_10-k.txt), a single-brand stumble now maps
+almost one-for-one onto the whole company.
+
+COUNTER-EVIDENCE / RECONCILIATION: The bull says concentration in two winning,
+premium, high-full-price brands is a feature — focus, not fragility — and the
+57.7% gross margin and >$1B free cash flow (deck_2026-05-21_8-k.txt) vindicate
+it. Fair. I reconcile it this way: concentration has been accretive to margin
+and returns to date, but it converts a growth question into a binary. The
+portfolio no longer diversifies away a HOKA or UGG deceleration; it amplifies
+it. That is precisely why Themes 1 and 3 matter more now than they did when
+"Other" was a real hedge.
+
+============================================================================
+THEME 3 — CHANNEL AND GEOGRAPHIC MIX AS A QUALITY-OF-GROWTH SIGNAL
+============================================================================
+
+This is the strongest evidence for my position, and it is where the "record
+quarter" headlines are most misleading. The COMPOSITION of FY2026 growth is
+distinctly lower quality than FY2025's.
+
+(a) Geography — growth has gone ENTIRELY international; the US has stalled.
+  Domestic net sales:      +11.3% FY25 -> +0.2% FY26 (deck_2026_10-k.txt).
+  International net sales:  +26.3% FY25 -> +26.8% FY26 (deck_2026_10-k.txt).
+  Quarterly, domestic actually turned NEGATIVE in H1 FY26: -2.8% (Q1),
+    -1.7% (Q2), then only +2.7% (Q3) (deck_2025q1..q3_10-q.txt).
+  International share of sales climbed 33.2% -> 36.1% -> 41.7%
+    (deck_2024/2025/2026_10-k.txt), peaking at 48.0% of sales in Q1 FY26
+    (deck_2025q1_10-q.txt).
+The home market — where both brands are most penetrated — has stopped growing
+for HOKA and UGG combined. That is a maturation signal the international
+top-line masks. HOKA's FY26 growth was explicitly "led by international sales"
+(deck_2026_10-k.txt; deck_2025q3_10-q.txt).
+
+(b) Channel — growth has shifted to WHOLESALE while DTC stalled.
+  Full-year FY26: Wholesale +12.3% vs DTC +6.3%, DTC COMPARABLE only +4.6%
+    (deck_2026-05-21_8-k.txt).
+  Quarterly DTC comparable went NEGATIVE in H1 FY26: -2.2% (Q1), -2.9% (Q2),
+    before recovering to +7.3% (Q3) (deck_2025q1..q3_10-q.txt).
+  Wholesale mix crept up every year: 56.7% -> 57.3% -> 58.6%
+    (deck_2024/2025/2026_10-k.txt).
+DTC is the higher-margin, owned-relationship channel Deckers itself calls its
+long-term priority, warning that a heavier wholesale mix "could pressure our
+margins" (deck_2025_10-k.txt). FY26 delivered exactly that pressure: gross
+margin slipped 57.9% -> 57.7% with MD&A citing "a slightly unfavorable channel
+mix" alongside tariffs (deck_2026_10-k.txt). Growth leaning on wholesale — and
+on distributor/3PL shipment timing (deck_2025q1_10-q.txt) — is less controlled
+and less visible than DTC-led growth.
+
+Corroborating quality signal — VOLUME vs PRICE: unit growth decelerated sharply
+in FY26 (units sold +15.7% Q1, +6.6% Q2, +4.8% Q3; deck_2025q1..q3_10-q.txt),
+faster than revenue growth. FY26 growth was increasingly price/mix, not
+volume — i.e., the brands are pushing price into a slowing volume base.
+
+STRONGEST COUNTER-EVIDENCE, engaged fairly: (1) International is a legitimate,
+long runway, not a gimmick — HOKA and UGG are genuinely under-penetrated
+abroad, and no single foreign country even reaches the 10% disclosure threshold
+(deck_2026_10-k.txt), so there is room. (2) The DTC weakness partly reversed:
+Q3 FY26 DTC comparable was +7.3% and Q4 FY26 DTC grew +13.2% (comp +8.2%),
+outpacing wholesale +7.1% (deck_2025q3_10-q.txt; deck_2026-05-21_8-k.txt). (3)
+Management attributes H1 DTC softness to timing — "earlier wholesale channel
+shipments" and consumers "shifting toward multi-brand shopping experiences"
+(deck_2025q2_10-q.txt) — not lost demand.
+
+RECONCILIATION: I weight the domestic stall as the durable signal and the
+channel wobble as partly-but-not-entirely timing. The DTC recovery in H2 is
+real and softens the "quality collapse" read — but it does not undo the fact
+that the US consumer, the most mature market for both brands, went flat-to-down
+for a full half-year. International can carry the top line for years; it cannot
+by itself prove the brands are still gaining share at home. The honest synthesis:
+growth is still happening, but it migrated to the lower-quality, less-penetrated,
+timing-noisier corners of the business — a classic late-cycle signature for a
+brand, not an early-cycle one.
+
+============================================================================
+THEME 4 — SEASONALITY, COMPETITION, AND THE DURABILITY VERDICT
+============================================================================
+
+SEASONALITY: UGG's business is heavily concentrated in the Dec (fiscal Q3)
+quarter — the filings now name it explicitly: "the highest percentage of net
+sales occurring in the third fiscal quarter" (deck_2026_10-k.txt;
+deck_2025q1..q3_10-q.txt). The magnitude is stark in the data: UGG did
+$1,305.5M in Q3 FY26 versus just $265.1M in Q1 FY26 (deck_2025q3_10-q.txt;
+deck_2025q1_10-q.txt). This concentration is why UGG's +4.9% Q3 FY26 print is
+the single most important durability data point in the file — it is UGG's Super
+Bowl, and it slowed to low-single-digits. HOKA's genuinely year-round profile
+"generally occur[ring] more evenly throughout the fiscal year" is a real
+structural positive and a growing one — HOKA's store count nearly doubled 32 ->
+61 while UGG's stayed roughly flat (deck_2025q1_10-q.txt; deck_2025q3_10-q.txt),
+and the filings expect seasonality to keep decreasing as HOKA's mix rises
+(deck_2026_10-k.txt). So seasonality risk is falling — but only because HOKA is
+diluting UGG, which loops back to concentration in the two brands.
+
+COMPETITION: Deckers concedes its own success is drawing entrants — "certain
+competitors have entered the marketplace specifically in response to the
+success of our brands" (deck_2024_10-k.txt) and competitors "specifically
+targeting the categories in which we operate" (deck_2026_10-k.txt). The filings
+name no competitor, but the peer data show a maturing, share-shifting category:
+Nike revenue eroded from ~$13.39B (qtr ended Nov'23) to ~$12.43B (Nov'25)
+(nke_income_statement.json), and Crocs is stalling with a large operating loss
+in the quarter ended Jun'25 (-$427.5M; crox_income_statement.json). Deckers has
+been the share-taker against a fading Nike — bullish — but a category where the
+$50B incumbent is shrinking is a maturing category, and HOKA's need to
+continually reset "key franchises" (Clifton/Bondi-type upgrades) with rising
+promotional activity to do it (deck_2024q3_10-q.txt; deck_2025q3_10-q.txt) is
+the fashion-cycle risk (deck_2024_10-k.txt) showing up in the numbers.
+
+THE TELL — WHERE THE QUALITY QUESTION BECOMES UNDENIABLE: In Q4 FY2026, net
+sales rose +9.6% to a record $1,119.4M, yet operating income FELL to $156.7M
+from $173.9M and diluted EPS FELL to $0.96 from $1.00, as SG&A jumped to
+$487.9M from $405.8M (deck_2026-05-21_8-k.txt). A record top line that produces
+lower profit and lower EPS is the definition of deteriorating growth quality —
+tariffs plus SG&A deleverage eating the growth.
+
+And the EPS math for the full year exposes how the double-digit-EPS story is
+now engineered: FY26 net income rose only +6.0% ($1,024.1M vs $966.1M) but
+diluted EPS rose +10.9% ($7.02 vs $6.33) — the ~5-point wedge is buybacks
+(diluted share count 152.7M -> 145.8M) (deck_2026-05-21_8-k.txt). Management
+then increased the repurchase authorization by $3.5B to ~$5B and explicitly
+guides FY2027 EPS ($7.30–$7.45, +4–6%) "assum[ing] the repurchase of shares
+with a value equal to approximately 80% of the projected fiscal year 2027 free
+cash flow" (deck_2026-05-21_8-k.txt). The FY2028–FY2030 framework likewise
+promises "low-double-digit diluted EPS growth WHEN COMBINED WITH a continuation
+of the share repurchase program" (deck_2026-05-21_8-k.txt). Read literally:
+operating growth is high-single-digit; the extra points of EPS are bought.
+
+STRONGEST COUNTER-EVIDENCE to my whole thesis, stated at full strength: This is
+still an exceptional business. FY26 was a record year — revenue +9.8% to
+$5.47B, EPS +11% to $7.02, gross margin ~57.7%, industry-leading ~23% operating
+margin, >$1B free cash flow, $1.9B cash and zero debt (deck_2026-05-21_8-k.txt).
+Management RAISED FY26 guidance through the year (deck_2026-01-29_8-k.txt) and
+both brands sustain high full-price selling. Nothing here is distressed.
+
+RECONCILIATION INTO A UNIFIED VERDICT: All of that is true and none of it
+refutes the deceleration; it describes a high-quality business growing more
+slowly. The four themes reconcile cleanly: (1) both brands are decelerating and
+converging to high-single/low-double-digit growth; (2) the portfolio has been
+concentrated into just those two brands with no successor incubating; (3) the
+growth that remains has migrated to lower-quality international and wholesale
+channels while the US and DTC stalled; and (4) the seasonality-critical UGG
+holiday quarter slowed to +4.9%, competition is intensifying in a maturing
+category, and the headline double-digit EPS is increasingly a buyback
+construction rather than operating momentum — with Q4 FY26's falling profit on
+record sales the clearest tell.
+
+DURABILITY VERDICT: Durable, but re-rated. Deckers will very likely keep
+compounding — its own multi-year framework of high-single-digit revenue and
+buyback-levered low-double-digit EPS (deck_2026-05-21_8-k.txt) is credible and
+probably conservative. But "durable" here means a steady high-single-digit,
+two-brand, internationally-driven compounder returning cash via buybacks — NOT
+the 20%+ brand-momentum growth story that drove the stock. The durability is in
+the cash flows and the brands' premium positioning; the fragility is that the
+entire company now rides on two brands both past their growth peak, in a
+maturing category, with the diversification and volume-led, DTC-led,
+domestically-led quality of the prior era already gone. The bull's "momentum and
+enduring strength" is real; it is just worth a lot less than the last five years
+of prints implied.
+
+----------------------------------------------------------------------------
+Note on data limits: brand-level detail exists only for DECK; peer files
+(NKE, CROX) provide consolidated income/cash-flow only, so competitive claims
+rest on total-revenue trends plus DECK's own risk-factor language. No filing
+names a specific competitor or quantifies any single foreign country
+(none reached the 10% disclosure threshold), so "international" cannot be
+decomposed into Europe vs China from the data provided.

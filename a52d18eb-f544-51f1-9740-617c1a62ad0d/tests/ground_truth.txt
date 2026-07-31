@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. U.S. Reacceleration vs. International Deceleration in Same-Store Sales
+The "recovery" is not uniform: U.S. same-store sales are reaccelerating while international same-store sales are fading, and a durable thesis must decide whether the U.S. momentum can offset a stalling international comp.
+[a] Contrast the FY2025 comps — U.S. same store sales up 3.0% versus international up 1.9% (excluding foreign currency) — against the sharp Q1 2026 split where U.S. rose 0.9% (rolling over a 0.5% decline) but international declined 0.4% (rolling over a 3.7% gain)
+[b] Attribute the U.S. gain to its stated drivers (higher customer transaction counts and higher average ticket, aided by product launches such as Parmesan Stuffed Crust) rather than treating the comp as a single undifferentiated number
+[c] Assess whether a low-single-digit U.S. comp against an increasingly hard international rollover (3.7% prior-year base) supports management's "recovery" framing or signals a decelerating global trend
+Source: sec_filings/10-k/dpz_2025_10-k.txt, sec_filings/10-q/dpz_2026q1_10-q.txt, press_releases/
+
+2. Unit-Growth Durability, Fortressing, and the Master-Franchise Engine
+Net store growth is the second lever of retail sales, but the durability of the ~776-store 2025 build depends on fortressing cannibalization, international closure risk, and reliance on master franchisees like DPC Dash in China.
+[a] Quantify the unit engine — FY2025 net store growth of 776 (172 net U.S. openings) versus Q1 2026 net store growth of 180 (19 U.S., 161 international) — and note that international carries the vast majority of gross additions
+[b] Weigh the fortressing strategy's tension: building additional stores in existing markets to capture demand while the filing concedes it may negatively impact sales at existing stores and drive closures if executed too rapidly
+[c] Evaluate the master-franchise/international dependency, including the DPC Dash (China master franchisee) equity investment and the risk that international net growth slows if a decelerating international comp erodes franchisee unit economics
+Source: sec_filings/10-k/dpz_2025_10-k.txt, sec_filings/10-q/dpz_2026q1_10-q.txt, press_releases/
+
+3. Aggregator Channel, Loyalty, and the "Hungry for MORE" Sales Model
+The Hungry for MORE strategy leans on the third-party order aggregation marketplace (Uber, DoorDash) and loyalty to grow transactions, but aggregator orders carry a distinct store-level profitability profile that complicates the comp-quality story.
+[a] Establish the aggregator build-out — the multinational agreements with Uber Technologies and DoorDash and the third-party order aggregation marketplace — as a transaction-count driver within the Hungry for MORE framework
+[b] Engage the filing's own caveat that aggregator-marketplace orders may not have the same level of store-level profitability as orders through owned channels, and consider carryout-versus-delivery mix and the loyalty (rewards) program as offsetting demand levers
+[c] Judge whether transaction growth sourced through aggregators represents durable, high-quality comp or lower-margin volume that flatters headline same-store sales without proportionate profit
+Source: sec_filings/10-k/dpz_2025_10-k.txt, sec_filings/10-q/dpz_2026q1_10-q.txt
+
+4. Economic Engine and Competitive Position: Does the Recovery Hold?
+The asset-light royalty-plus-supply-chain model only compounds if same-store sales and unit growth translate into franchisee profitability while Domino's defends share against pizza and broader QSR competitors — this theme forces a single reconciled verdict.
+[a] Connect retail sales to Domino's revenue mechanics — franchise royalties, advertising, and supply chain revenue driven by both same-store sales and net store growth — using consolidated revenue growth of 3.5% in Q1 2026 and the food-basket pricing increase of 2.6% as the supply-chain lever
+[b] Situate the recovery competitively: Domino's competes primarily against Pizza Hut, Papa John's and Little Caesars plus order-and-delivery aggregation companies, and management claims continued U.S. QSR pizza market-share gains; test that claim against the peer income-statement and cash-flow data for Yum, Restaurant Brands (QSR) and Wingstop
+[c] Reconcile the opposing signals — reaccelerating U.S. comp and continued unit growth versus international comp deceleration, hard rollovers, and margin-dilutive aggregator mix — into an explicit position on whether the same-store-sales recovery and unit-growth durability are real and self-sustaining or fragile and reliant on management framing
+Source: sec_filings/10-k/dpz_2025_10-k.txt, sec_filings/10-q/dpz_2026q1_10-q.txt, financials/income_statement/dpz_income_statement.json, financials/cash_flow/dpz_cash_flow.json, press_releases/, company_profiles.json

@@ -1,0 +1,450 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Competitive and AI Durability \u2014 A Position on Growth-and-Margin Sustainability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent treats Snowflake Intelligence and broader Snowflake AI adoption as product-velocity evidence and concludes that new AI workloads are currently adding more consumption than efficiency gains remove. This is an assessment of AI features as an incremental consumption catalyst, even though it does not specifically discuss Cortex Agents' general availability.",
+        "b": "The agent explicitly identifies AWS, Azure, and GCP as both infrastructure suppliers and competitors and explains that their pricing, bundling, and privileged interoperability can pressure Snowflake's gross margin and competitive position.",
+        "c": "The conclusion explicitly reconciles improving NRR, expansion among $1M-plus customers, and RPO demand signals with GAAP losses, SBC dilution, and supplier-competitor margin pressure, then takes the clear stance that growth is durable but the margin story is not yet credible. This synthesis relies materially on flagged NRR, RPO, dilution, buyback, and peer-comparison claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Consumption-Revenue Growth Durability and Net Revenue Retention",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent tracks the annual decline from 126% to 125%, contrasts it with Q1 FY27 NRR of 126%, and concludes that NRR has bottomed and ticked upward. The claimed quarterly trajectory and conclusion that NRR had stopped falling were flagged as unsupported.",
+        "b": "The agent explicitly explains that consumption-based recognition provides less timing visibility than subscription revenue and notes that holidays, optimization, compression, and other efficiency gains can reduce or delay consumption. Its principal quotation about lacking revenue-recognition visibility was flagged as unsupported.",
+        "c": "The agent assesses breadth through growth in the $1M-plus customer cohort and argues that growth is broad-based rather than concentration-dependent. It does not provide all rubric figures, including the approximately 68% product-revenue concentration, 13,328 total customers, and 97% capacity-arrangement share, while its alternative no-customer-over-10% concentration claim was flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Bookings and RPO Quality Versus Recognized Revenue",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent compares fiscal year-end RPO of about $9.77 billion with April RPO of about $9.21 billion and attributes the sequential decline partly to Q4 renewal and bookings seasonality rather than automatically treating it as backlog erosion. Both RPO values and the asserted trajectory were flagged as unsupported.",
+        "b": "The agent explains that customer-controlled consumption and rollover can make RPO convert faster or slower than expected and states that RPO is not a revenue schedule. This directly addresses RPO's limited reliability as a forward indicator under a consumption model.",
+        "c": "The agent discusses seasonal deferred-revenue and billing movements but never analyzes the required arrangement mix: annual advance billing shifting toward quarterly or monthly billing and on-demand arrangements representing only about 1% to 3% of revenue."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Path \u2014 Gross Margin, GAAP Loss Versus Non-GAAP, and Stock-Based Comp Dilution",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent contrasts roughly 71% to 72% GAAP product gross margin with 67% total GAAP gross margin and argues that AI inference, GPU infrastructure, and margin-compressive new products constrain sustainability.",
+        "b": "The agent contrasts persistent GAAP losses and roughly $1.3 billion annual net losses with positive adjusted free cash flow, while also citing the $9.5 billion accumulated deficit. The annual net-loss figures used in this analysis were flagged as unsupported.",
+        "c": "The agent quantifies SBC, discusses rising share counts and repurchases that merely offset dilution, and reconciles strong free cash flow with the exclusion of equity compensation from non-GAAP results. Several central supporting figures\u2014including the SBC bridge, share-count growth, repurchase totals, and the claimed percentage of FCF consumed by buybacks\u2014were flagged as unsupported; it also does not clearly quantify the rubric's cash payroll-tax outflows."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "product revenue +26% -> +34% YoY over five quarters",
+      "cited_file": null,
+      "issue": "The passages show 26% product-revenue growth but do not show 34% product-revenue growth or a five-quarter series; the visible 34% refers to RPO growth.",
+      "evidence_check": "Searched the supplied passages for the product-revenue sequence and five quarterly observations; only Q1 FY26 product revenue growth of 26% was found."
+    },
+    {
+      "claim": "net revenue retention has stopped falling and ticked up.",
+      "cited_file": null,
+      "issue": "No NRR history or comparison is present in this claim's passages.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "stock-based compensation that runs at roughly a third of revenue",
+      "cited_file": null,
+      "issue": "No SBC amount or percentage of revenue is present in this claim's passages.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "the share count still rises ~3-4% a year despite a $4.5B buyback",
+      "cited_file": null,
+      "issue": "The passages do not contain the $4.5B authorization or the claimed 3-4% share-count increase.",
+      "evidence_check": "Searched the supplied passages for $4.5B and comparable share counts; neither appears."
+    },
+    {
+      "claim": "Datadog grows just as fast (+32% YoY) while being GAAP-profitable at a ~79% gross margin.",
+      "cited_file": null,
+      "issue": "The passages contain no Datadog revenue growth, profitability, or gross-margin figures.",
+      "evidence_check": "The evidence only identifies Datadog in company_profiles.json and provides Snowflake metrics."
+    },
+    {
+      "claim": "Snowflake's own FY2026 10-K introduces \u2014 for the first time \u2014 explicit language that AI could vertically integrate away its market.",
+      "cited_file": "sec_filings/10-k/snow_2026_10-k.txt",
+      "issue": "The cited passages neither contain the vertical-integration language nor establish that it appeared for the first time.",
+      "evidence_check": "Searched the supplied excerpts for 'vertically integrate,' database competition, and a FY2025 comparison; none appears."
+    },
+    {
+      "claim": "a company at a ~$5.6B product run-rate",
+      "cited_file": null,
+      "issue": "No $5.6B product run-rate or supporting quarterly product-revenue amount is present in the passages.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "raised full-year FY27 product-revenue guidance to $5,840M / +31% from $5,660M / +27%",
+      "cited_file": "snow_2026-05-27_8-k.txt; snow_2026-02-25_8-k.txt",
+      "issue": "The supplied passages are unrelated financial JSON excerpts and do not contain either guidance figure or growth rate.",
+      "evidence_check": "Searched the passages for 5,840, 31%, 5,660, and 27%; none appears."
+    },
+    {
+      "claim": "reaffirmed mid-quarter in snow_2025-10-27_8-k.txt and snow_2026-03-31_8-k.txt.",
+      "cited_file": "snow_2025-10-27_8-k.txt; snow_2026-03-31_8-k.txt",
+      "issue": "The cited reaffirmations and the two named releases are not evidenced by the supplied passages.",
+      "evidence_check": "The passages are cash-flow and Datadog excerpts and contain no reaffirmation language."
+    },
+    {
+      "claim": "management \"expect[s] our net revenue retention rate to decrease over the long-term.\"",
+      "cited_file": "sec_filings/10-k/snow_2026_10-k.txt",
+      "issue": "The attributed quotation is absent from the passages.",
+      "evidence_check": "The evidence explicitly reports no local match for the quoted language."
+    },
+    {
+      "claim": "Q4 FY26 was the \"strongest ever quarter for net new customer acquisition\" at 740 net adds, +40% YoY",
+      "cited_file": "snow_2026-02-25_8-k.txt",
+      "issue": "The passage supports the quote and 740 net new customers but does not contain the claimed +40% year-over-year comparison.",
+      "evidence_check": "Searched the supplied excerpts around the customer-acquisition statement; 740 appears, but 40% does not."
+    },
+    {
+      "claim": "No customer is >10% of revenue",
+      "cited_file": "snow_2026_10-k.txt",
+      "issue": "The passages do not discuss customer concentration; the only sub-10% statement concerns professional-services revenue.",
+      "evidence_check": "Searched the supplied excerpts for customer concentration or a customer exceeding 10%; no such disclosure appears."
+    },
+    {
+      "claim": "126% NRR is roughly half the ~158%+ era of Snowflake's IPO period",
+      "cited_file": null,
+      "issue": "The passages do not contain the claimed 158%+ IPO-period NRR comparison.",
+      "evidence_check": "Searched the passages for 158% and IPO-period NRR; neither appears."
+    },
+    {
+      "claim": "\"we do not have the visibility into the timing of revenue recognition that a typical subscription-based software company has ... results of operations in a given period should not be relied upon as indicative of future performance\"",
+      "cited_file": "snow_2026_10-k.txt",
+      "issue": "The attributed quotation is absent from the passages.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "$252.5M cash paid for a business combination in Q1 FY27",
+      "cited_file": "snow_2026-05-27_8-k.txt",
+      "issue": "The supplied passages do not contain the $252.5M business-combination cash payment.",
+      "evidence_check": "Searched the passages for 252.5 or 252,457; neither appears."
+    },
+    {
+      "claim": "reflecting the Observe/TensorStax/Natoma acquisitions",
+      "cited_file": "snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "Observe and TensorStax are described as acquisitions, but Natoma is only described as a definitive agreement signed in May 2026, not as a completed Q1 acquisition.",
+      "evidence_check": "The May release says Snowflake 'signed a definitive agreement' to acquire Natoma; it does not say Natoma had been acquired."
+    },
+    {
+      "claim": "RPO trajectory (press releases): $6.7B (+34%) -> $6.9B (+33%) -> $7.88B (+37%) -> $9.77B (+42%) -> $9.21B (+38%) for Q1 FY26 through Q1 FY27.",
+      "cited_file": "snow_2025-05-21_8-k.txt; snow_2025-08-27_8-k.txt; snow_2025-12-03_8-k.txt; snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "None of the asserted RPO trajectory values appears in this claim's supplied passages.",
+      "evidence_check": "The passages are company-profile and unrelated income-statement excerpts; searched for 6.7, 6.9, 7.88, 9.77, and 9.21 without a match."
+    },
+    {
+      "claim": "RPO fell $9.77B -> $9.21B QoQ",
+      "cited_file": "snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "Neither RPO value is present in the supplied passages for this claim.",
+      "evidence_check": "Searched the excerpts for 9.77 and 9.21; neither appears."
+    },
+    {
+      "claim": "is a PURCHASE commitment Snowflake owes AWS",
+      "cited_file": "snow_2026-05-27_8-k.txt",
+      "issue": "The release only describes a $6B multi-year AWS agreement; it does not characterize it as a purchase commitment owed by Snowflake.",
+      "evidence_check": "Searched the supplied release excerpts for 'purchase commitment,' 'minimum spend,' or an amount owed; none appears."
+    },
+    {
+      "claim": "does not sit in RPO.",
+      "cited_file": null,
+      "issue": "The passages do not identify the AWS agreement as a Snowflake purchase obligation or address whether it is excluded from RPO.",
+      "evidence_check": "Searched the supplied excerpts for an AWS commitment and its RPO treatment; no such discussion appears."
+    },
+    {
+      "claim": "RPO leading revenue by ~4-5 points",
+      "cited_file": null,
+      "issue": "The passages contain no paired RPO-growth and revenue-growth figures supporting the 4-5-point spread.",
+      "evidence_check": "Searched the supplied passages for the comparative growth rates; none appears."
+    },
+    {
+      "claim": "Non-GAAP operating margin: FY25 6% -> FY26 10% -> Q1 FY27 12% (11.9%), guided to 13.5% for FY27",
+      "cited_file": "snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "The supplied passages are cash-flow excerpts and do not contain the asserted operating-margin series or guidance.",
+      "evidence_check": "Searched for 6%, 10%, 11.9%, and 13.5% in the provided excerpts; no supporting margin table appears."
+    },
+    {
+      "claim": "The ~$492M bridge is almost entirely SBC-related charges of $433.7M plus $40.6M intangible amortization",
+      "cited_file": "snow_2026-05-27_8-k.txt",
+      "issue": "The passages do not contain the claimed $492M bridge, $433.7M SBC adjustment, or $40.6M amortization adjustment.",
+      "evidence_check": "The supplied evidence consists of August 2025 excerpts and does not show the Q1 FY27 reconciliation."
+    },
+    {
+      "claim": "rising $430M+ in absolute dollars",
+      "cited_file": "sec_filings/10-k/snow_2026_10-k.txt",
+      "issue": "The passages do not contain the annual SBC values needed for the claimed $430M+ increase.",
+      "evidence_check": "Searched the excerpts for the FY24-to-FY26 SBC totals or a $430M change; none appears."
+    },
+    {
+      "claim": "net loss $(1,329)M in FY26 and $(1,289)M in FY25",
+      "cited_file": "snow_2026_10-k.txt; snow_income_statement.json",
+      "issue": "The supplied passages do not contain either full-year net-loss amount.",
+      "evidence_check": "The excerpts show guidance and quarterly Q1 FY26 cash-flow data, not FY26/FY25 annual net losses."
+    },
+    {
+      "claim": "shares outstanding 333.9M -> 343.9M, +3.0%",
+      "cited_file": "snow_2026_10-k.txt",
+      "issue": "The supplied passage contains no shares-outstanding figures.",
+      "evidence_check": "Searched the excerpt for 333.9M, 343.9M, and 3.0%; none appears."
+    },
+    {
+      "claim": "buying back $1,932M (FY25) + $873.5M (FY26) + $300M (Q1 FY27) of stock",
+      "cited_file": "snow_cash_flow.json; snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "The supplied passages do not contain the asserted FY25, FY26, or Q1 FY27 repurchase totals.",
+      "evidence_check": "The evidence consists of unrelated peer and Snowflake income-statement excerpts; the three buyback amounts are absent."
+    },
+    {
+      "claim": "Roughly $2.8B of repurchases across two years did not shrink the count",
+      "cited_file": null,
+      "issue": "The passages do not provide the two-year repurchase total or comparable share counts.",
+      "evidence_check": "Searched the excerpts for $2.8B, repurchase totals, and beginning/end share counts; the necessary facts are absent."
+    },
+    {
+      "claim": "FY26's $873.5M buyback consumed ~73% of that year's $1,192.7M adjusted FCF",
+      "cited_file": "snow_2026-02-25_8-k.txt",
+      "issue": "The adjusted FCF amount appears, but the $873.5M FY26 buyback does not appear in the supplied passages.",
+      "evidence_check": "Found $1,192.670M adjusted FCF; searched for $873.5M or the annual repurchase total without a match."
+    },
+    {
+      "claim": "GAAP operating margin -23%",
+      "cited_file": "snow_income_statement.json",
+      "issue": "The supplied passages do not contain Snowflake's Q1 FY27 revenue and operating loss needed to support a -23% margin.",
+      "evidence_check": "The excerpts are a MongoDB record and Snowflake Q1 FY26 release tables, not the cited Q1 FY27 Snowflake income-statement record."
+    },
+    {
+      "claim": "GAAP net loss $(295.6)M",
+      "cited_file": "snow_income_statement.json",
+      "issue": "The supplied passages contain no $295.6M Snowflake net loss.",
+      "evidence_check": "The excerpts concern Snowflake Q1 FY26 and guidance; searched for 295.6 or 295,571 without a match."
+    },
+    {
+      "claim": "GAAP operating income +$7.3M",
+      "cited_file": "ddog_income_statement.json",
+      "issue": "The passages contain no Datadog operating-income record.",
+      "evidence_check": "The supplied excerpts are Snowflake release passages; searched for Datadog and $7.3M without a match."
+    },
+    {
+      "claim": "GAAP net income +$52.6M",
+      "cited_file": "ddog_income_statement.json",
+      "issue": "The passages contain no Datadog net-income record.",
+      "evidence_check": "The supplied excerpts are Snowflake release passages; searched for $52.6M or 52,574 without a match."
+    },
+    {
+      "claim": "gross margin 79.2%",
+      "cited_file": "ddog_income_statement.json",
+      "issue": "No Datadog revenue or gross-profit figures are present in this claim's passages to support 79.2%.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "GAAP operating loss $(24.8)M",
+      "cited_file": "mdb_income_statement.json",
+      "issue": "The passages contain no MongoDB operating-loss record.",
+      "evidence_check": "The supplied excerpts are Snowflake release passages; searched for 24.8 or 24,804 without a match."
+    },
+    {
+      "claim": "net income +$4.4M",
+      "cited_file": "mdb_income_statement.json",
+      "issue": "The passages do not contain MongoDB's $4.4M net income; the visible $4.4M refers to a Snowflake customer-relationships intangible asset.",
+      "evidence_check": "Searched for an MDB net-income record in the supplied excerpts; none appears."
+    },
+    {
+      "claim": "gross margin 72.2%",
+      "cited_file": "mdb_income_statement.json",
+      "issue": "No MongoDB revenue and gross-profit figures are present in this claim's passages to support 72.2%.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "GAAP operating loss $(62.0)M",
+      "cited_file": "net_income_statement.json",
+      "issue": "The passages contain no Cloudflare operating-loss record.",
+      "evidence_check": "The supplied excerpts are Snowflake release passages; searched for 62.0 or 61,994 without a match."
+    },
+    {
+      "claim": "net loss $(22.9)M",
+      "cited_file": "net_income_statement.json",
+      "issue": "The only $22.9M figure in the passage is Snowflake payroll-tax-related cash paid, not Cloudflare net loss.",
+      "evidence_check": "Searched for a NET income-statement record; none appears, and the visible $22.9M has a different meaning."
+    },
+    {
+      "claim": "gross margin 71.2%",
+      "cited_file": "net_income_statement.json",
+      "issue": "No Cloudflare revenue and gross-profit figures are present in this claim's passages to support 71.2%.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "Datadog is GAAP-profitable",
+      "cited_file": "ddog_income_statement.json",
+      "issue": "The supplied passage only identifies Datadog in company_profiles.json and contains no GAAP profit data.",
+      "evidence_check": "Searched for Datadog operating income or net income in the passage; neither appears."
+    },
+    {
+      "claim": "Datadog carries a gross margin ~8 points higher",
+      "cited_file": "ddog_income_statement.json; snow_income_statement.json",
+      "issue": "The passage contains no Datadog or Snowflake gross-margin figures supporting the comparison.",
+      "evidence_check": "The evidence only contains company-profile entries."
+    },
+    {
+      "claim": "product basis, the gap is ~12 points: DDOG 79% vs SNOW product-GAAP ~71%",
+      "cited_file": "ddog_income_statement.json; snow_2026_10-k.txt",
+      "issue": "The supplied passages contain no Datadog gross-margin data and no Snowflake product gross-margin data.",
+      "evidence_check": "The evidence consists of company profiles and Snowflake cash-flow excerpts, not the cited gross-margin figures."
+    },
+    {
+      "claim": "Snowflake ties for the lead",
+      "cited_file": "snow_income_statement.json; ddog_income_statement.json; mdb_income_statement.json; net_income_statement.json",
+      "issue": "No peer growth or performance comparison supporting a tie is present in the passages.",
+      "evidence_check": "The excerpts only list company profiles and Snowflake Q1 FY26 data."
+    },
+    {
+      "claim": "only ties the slower-growing MongoDB.",
+      "cited_file": "snow_income_statement.json; mdb_income_statement.json",
+      "issue": "The passages contain no Snowflake-versus-MongoDB metric or growth comparison.",
+      "evidence_check": "The evidence only lists the companies in company_profiles.json."
+    },
+    {
+      "claim": "the FY2026 10-K adds a paragraph that is ABSENT from the FY2025 10-K",
+      "cited_file": "snow_2026_10-k.txt; snow_2025_10-k.txt",
+      "issue": "The supplied passages contain neither the alleged new paragraph nor a comparison demonstrating its absence from the FY2025 filing.",
+      "evidence_check": "The excerpts are unrelated financial JSON records."
+    },
+    {
+      "claim": "this AI-disruption framing does not exist in snow_2025_10-k.txt.",
+      "cited_file": "snow_2025_10-k.txt",
+      "issue": "The supplied FY2025 excerpts do not include the relevant competition/risk-factor section, so the claimed absence is not established.",
+      "evidence_check": "Reviewed the provided beginning, market-value, and litigation excerpts; none permits a full-text absence comparison."
+    },
+    {
+      "claim": "Deepening that dependence with a $6B AWS commitment",
+      "cited_file": "snow_2026-05-27_8-k.txt",
+      "issue": "The release calls it a $6B multi-year agreement but does not describe a $6B purchase commitment or establish that it deepens Snowflake's AWS dependence.",
+      "evidence_check": "Searched the supplied excerpt for 'commitment,' minimum-spend terms, or purchase obligations; none appears."
+    },
+    {
+      "claim": "the buyback only offsets ~3% annual dilution",
+      "cited_file": "snow_2026_10-k.txt",
+      "issue": "The supplied passages contain neither buyback amounts nor comparable annual share counts supporting the 3% dilution statement.",
+      "evidence_check": "The excerpts discuss governance, contracts, and taxes, not repurchases versus share-count growth."
+    },
+    {
+      "claim": "eats ~73% of FCF",
+      "cited_file": "snow_2026-02-25_8-k.txt",
+      "issue": "The supplied passage contains no buyback or FCF amount from which 73% can be established.",
+      "evidence_check": "The excerpt is an operating-expense reconciliation and does not provide the required numerator or denominator."
+    },
+    {
+      "claim": "Datadog: +32% growth, GAAP-profitable, ~79% gross margin",
+      "cited_file": "ddog_income_statement.json",
+      "issue": "The supplied passages contain no Datadog growth, profitability, or gross-margin figures.",
+      "evidence_check": "The evidence only identifies Datadog in company_profiles.json and gives Snowflake metrics."
+    },
+    {
+      "claim": "Q1 FY27 goodwill/intangibles jumps and $252.5M M&A cash outflow",
+      "cited_file": "snow_2026-05-27_8-k.txt",
+      "issue": "The supplied passages do not contain the goodwill or intangible balances or the $252.5M M&A cash outflow.",
+      "evidence_check": "Searched the provided release excerpts for goodwill, intangibles, 252.5, and 252,457; none appears."
+    },
+    {
+      "claim": "Product-revenue YoY is lumpy (32% in Q2 FY26 above 29% in Q3 FY26)",
+      "cited_file": "snow_2025-08-27_8-k.txt; snow_2025-12-03_8-k.txt",
+      "issue": "The supplied passages do not contain either the 32% or 29% Snowflake product-revenue growth figure.",
+      "evidence_check": "The excerpts are cash-flow and MongoDB income-statement records unrelated to the cited Snowflake releases."
+    },
+    {
+      "claim": "NRR is measured differently across the annual 10-K figure (fiscal year-end) and the quarterly press-release figure",
+      "cited_file": "snow_2026_10-k.txt; snow_2025-05-21_8-k.txt; snow_2025-08-27_8-k.txt; snow_2025-12-03_8-k.txt; snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "The passages do not provide differing NRR methodologies; they only show unrelated financial records. Fiscal year-end versus quarter-end dates alone would not establish different measurement methods.",
+      "evidence_check": "Searched the supplied excerpts for NRR definitions or methodology differences; none appears."
+    },
+    {
+      "claim": "they are not identical series",
+      "cited_file": "snow_2026_10-k.txt; snow_2025-05-21_8-k.txt; snow_2025-08-27_8-k.txt; snow_2025-12-03_8-k.txt; snow_2026-02-25_8-k.txt; snow_2026-05-27_8-k.txt",
+      "issue": "No evidence of different NRR definitions or non-identical series is supplied.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    }
+  ],
+  "synthesis_found": "The re-acceleration is real and buyable; the non-GAAP profitability is an accounting posture around a still-substantial equity transfer to employees, sitting on a gross-margin base that peers exceed and that AI is pressuring.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/cash_flow/snow_cash_flow.json",
+    "financials/income_statement/ddog_income_statement.json",
+    "financials/income_statement/mdb_income_statement.json",
+    "financials/income_statement/net_income_statement.json",
+    "financials/income_statement/snow_income_statement.json",
+    "press_releases/snow_2025-05-21_8-k.txt",
+    "press_releases/snow_2025-08-27_8-k.txt",
+    "press_releases/snow_2025-10-27_8-k.txt",
+    "press_releases/snow_2025-12-03_8-k.txt",
+    "press_releases/snow_2026-02-25_8-k.txt",
+    "press_releases/snow_2026-03-31_8-k.txt",
+    "press_releases/snow_2026-05-27_8-k.txt",
+    "sec_filings/10-k/snow_2025_10-k.txt",
+    "sec_filings/10-k/snow_2026_10-k.txt",
+    "sec_filings/10-q/snow_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 151,
+  "grounding_claims_no_match": 20,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

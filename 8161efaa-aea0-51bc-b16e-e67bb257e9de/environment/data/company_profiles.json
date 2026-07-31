@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "PANW",
+    "cik": "0001327567",
+    "companyName": "Palo Alto Networks Inc",
+    "sic": "3577",
+    "sicDescription": "Computer Peripheral Equipment, NEC",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0731",
+    "city": "SANTA CLARA",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "CRWD",
+    "cik": "0001535527",
+    "companyName": "CrowdStrike Holdings, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "AUSTIN",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "FTNT",
+    "cik": "0001262039",
+    "companyName": "Fortinet, Inc.",
+    "sic": "3577",
+    "sicDescription": "Computer Peripheral Equipment, NEC",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SUNNYVALE",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "ZS",
+    "cik": "0001713683",
+    "companyName": "Zscaler, Inc.",
+    "sic": "7371",
+    "sicDescription": "Services-Computer Programming Services",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0731",
+    "city": "SAN JOSE",
+    "stateOrCountry": "CA"
+  }
+]

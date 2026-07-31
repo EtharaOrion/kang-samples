@@ -1,0 +1,569 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "US Traffic Turnaround: Transactions vs. Ticket, and What It Costs",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses the traffic trough and Green Apron labor response, but it does not establish the required full-FY2025 North America result of comps -2%, transactions -4%, and ticket +2%; it instead presents those figures as Q3 FY25 U.S. data.",
+        "b": "The agent explicitly identifies Q1 FY26 as the first U.S. transaction growth in eight quarters with transactions +3% and comps +4%, then states Q2 accelerated to comps +7.1%, transactions +4.3%, and ticket +2.7%, partly driven by delivery. The Q2 figures and delivery-ticket support are flagged, so this move is tainted.",
+        "c": "The agent states that FY2025 North America margin contracted 830 basis points to 11.5%, including about 180 basis points from labor-hour investment, and concludes that traffic recovery is real but U.S. profit recovery is not yet earned. Its supporting argument also relies on flagged Q2 North America margin figures and comparisons, making the move tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "China Comparable Sales Deceleration and Competitive Discounting",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives the required Q1 FY26 China metrics of comps +7%, transactions +5%, and ticket +2%, followed by Q2 comps +0.5%, transactions +2.1%, and ticket -1.6%. The Q2 figures are flagged as unsupported.",
+        "b": "The agent ties China's ticket pressure to FY2025 International margin contraction of 210 basis points, about 170 basis points from promotional activity, and to lower-priced competitor offerings and competitive discounting. Its specific risk-factor comparison and quoted China competition language are flagged as unsupported, so the move is tainted.",
+        "c": "The agent explicitly reconciles rising transactions with falling ticket as Starbucks preserving traffic by conceding on price and concludes this is an unsustainable price-war dynamic under Starbucks' own cost structure. That synthesis relies materially on flagged China quarterly ticket and transaction data."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "The Boyu Capital Joint Venture: Strategic Retreat or Growth Accelerant?",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Boyu acquired 60%, Starbucks retained 40% and the brand licensing rights, the announced enterprise value was approximately $4 billion, closing consideration was $3.1 billion, and 7,991 stores converted to licensed. Multiple essential mechanics\u2014including the exact announcement date, valuation language, closing date, consideration, and store conversion\u2014are flagged.",
+        "b": "The agent lists the approximately $4 billion enterprise value and $3.1 billion consideration but does not flag the required valuation ambiguity that 60% of $4 billion would imply roughly $2.4 billion. Instead, it treats $3.1 billion as straightforward cash consideration and flags a different alleged closing-date inconsistency.",
+        "c": "The agent evaluates the aspiration to reach as many as 20,000 stores against China's competitive and ticket deterioration, and plainly characterizes the deal as a disciplined, capital-light retreat that preserves licensing upside while strengthening the balance sheet. This assessment relies on flagged China deceleration, transaction proceeds, debt-reduction, and related deal claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Consolidated Margin and EPS Trajectory: Real Recovery or Accounting Optics?",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports the FY2025 operating-margin decline to 7.9%, EPS decline to $1.63 from $3.31, and the approximate restructuring, deleverage, turnaround-investment, and inflation contributions. However, it omits the required approximately $1.0 billion of total pre-tax restructuring charges and approximately $230 million expected in FY2026.",
+        "b": "The agent documents Q2 FY26 operating margin of 8.7%, EPS of $0.45, and International margin of 19.4% with the 780-basis-point expansion decomposed into roughly 520 basis points from ceased China depreciation/amortization and roughly 430 basis points from sales leverage. It does not clearly state Q1 EPS of $0.26, and several central Q2 rebound and held-for-sale accounting claims are flagged, so the hit is tainted.",
+        "c": "The agent explicitly reconciles real North America transaction-led growth with China held-for-sale accounting benefits and Chinese discounting pressure, concluding that demand recovery is genuine but the margin/EPS recovery remains substantially inflated and unproven. The synthesis is explicit and takes a clear position, but it relies on multiple flagged Q2 margin, China, and deconsolidation claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Q3 FY25 (Jun 29 '25) U.S. comp was -2%, transactions were -4%, and ticket was +2%.",
+      "cited_file": "2025-07-29 8-K",
+      "issue": "The cited quarter and all three U.S. metrics are absent from the passages.",
+      "evidence_check": "Searched for Jun. 29, 2025, U.S. comp -2%, transactions -4%, and ticket +2%; the retrieved passages concern a September partner letter and Q1 FY26."
+    },
+    {
+      "claim": "Q4 FY25 (Sep 28 '25) U.S. comp was 0%, transactions were -1%, and ticket was +1%.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The Q4 FY25 U.S. metrics do not appear in the passages.",
+      "evidence_check": "Searched for Sep. 28, 2025, U.S. comp 0%, transactions -1%, and ticket +1%; only the September partner letter and Q1 FY26 data were retrieved."
+    },
+    {
+      "claim": "Q2 FY26 (Mar 29 '26) U.S. comp was +7.1%, transactions were +4.3%, and ticket was +2.7%.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The passages do not contain the claimed Q2 FY26 U.S. metrics.",
+      "evidence_check": "Searched for Mar. 29, 2026 and the values 7.1%, 4.3%, and 2.7%; the passages only substantively show Q1 FY26 metrics."
+    },
+    {
+      "claim": "North America transactions were -10% in Q4 FY24.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The -10% Q4 FY24 North America transaction figure is absent.",
+      "evidence_check": "Searched the passages for Q4 FY24 and -10% transactions; no matching disclosure was retrieved."
+    },
+    {
+      "claim": "Average U.S. ticket rose modestly alongside it (+1% to +2.7%).",
+      "cited_file": "2026-01-28 and 2026-04-28 8-Ks",
+      "issue": "Only the +1% endpoint is supported; the +2.7% U.S. endpoint is not present in the relevant passages.",
+      "evidence_check": "Found Q1 FY26 U.S. average ticket +1%; did not find a readable Q2 FY26 U.S. ticket figure of +2.7%."
+    },
+    {
+      "claim": "North America store operating expense as a percent of company-operated store revenue climbed from ~51% (Q3 FY24) to 57.0% in Q1 FY26 and 58.7% in Q2 FY26.",
+      "cited_file": "2026-01-28 and 2026-04-28 8-Ks",
+      "issue": "The passages support 57.0% in Q1 FY26 but not the Q3 FY24 baseline or the 58.7% Q2 FY26 value.",
+      "evidence_check": "Found 57.0% for Q1 FY26; searched for approximately 51% in Q3 FY24 and 58.7% in Q2 FY26 without a match."
+    },
+    {
+      "claim": "North America segment operating margin was 21.0% in Q3 FY24.",
+      "cited_file": null,
+      "issue": "The claimed historical margin is absent from the passages.",
+      "evidence_check": "Searched for Q3 FY24 and 21.0%; retrieved passages instead show Q1 FY26 North America margin of 11.9% and prior-year 16.7%."
+    },
+    {
+      "claim": "North America segment operating margin was 13.3% in Q3 FY25.",
+      "cited_file": null,
+      "issue": "The 13.3% Q3 FY25 North America margin is not shown.",
+      "evidence_check": "Searched for Q3 FY25 and 13.3%; no matching North America margin appeared."
+    },
+    {
+      "claim": "North America segment operating margin was 4.5% in Q4 FY25.",
+      "cited_file": null,
+      "issue": "The 4.5% Q4 FY25 North America margin is absent.",
+      "evidence_check": "Searched for Q4 FY25 and 4.5%; the passages only show Q1 FY26 and Q1 FY25 North America margins."
+    },
+    {
+      "claim": "North America segment operating margin was 9.9% in Q2 FY26.",
+      "cited_file": null,
+      "issue": "The Q2 FY26 9.9% margin is not present in the passages.",
+      "evidence_check": "Searched for Q2 FY26 and 9.9%; only Q1 FY26 data were retrieved."
+    },
+    {
+      "claim": "Q4 FY25 North America segment operating margin included restructuring.",
+      "cited_file": null,
+      "issue": "The passages do not show Q4 FY25 North America results or a restructuring line within that quarter's margin.",
+      "evidence_check": "Searched for Q4 FY25 North America margin and restructuring; retrieved passages concern Q1 FY26 and unrelated restructuring disclosures."
+    },
+    {
+      "claim": "The year-over-year North America margin decline narrowed from -770 bp in Q3 FY25 to -170 bp in Q2 FY26.",
+      "cited_file": null,
+      "issue": "Neither comparison value appears in the passages.",
+      "evidence_check": "Searched for -770 bp, -170 bp, Q3 FY25, and Q2 FY26; no matching North America margin comparisons were found."
+    },
+    {
+      "claim": "North America margin was still down year-over-year in Q2 FY26 (9.9% vs 11.6%).",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "Neither Q2 FY26 comparison margin appears in the passages.",
+      "evidence_check": "Searched for 9.9% and 11.6% in Q2 FY26; the passages only contain Q1 FY26 North America data."
+    },
+    {
+      "claim": "Q3 FY25 (Jun 29 '25) China comp was +2%, transactions were +6%, and ticket was -4%.",
+      "cited_file": "2025-07-29 8-K",
+      "issue": "The Q3 FY25 China metrics are absent.",
+      "evidence_check": "Searched for Jun. 29, 2025 and China values +2%, +6%, and -4%; only Q1 FY26 China supplemental data were retrieved."
+    },
+    {
+      "claim": "Q4 FY25 (Sep 28 '25) China comp was +2%, transactions were +9%, and ticket was -7%.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The Q4 FY25 China metrics do not appear.",
+      "evidence_check": "Searched for Sep. 28, 2025 and China values +2%, +9%, and -7%; no matching table was retrieved."
+    },
+    {
+      "claim": "Full FY25 China comp was -1%, transactions were +4%, and ticket was -5%.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The full-year China metrics are absent from the passages.",
+      "evidence_check": "Searched for FY25 China comp -1%, transactions +4%, and ticket -5%; no matching disclosure appeared."
+    },
+    {
+      "claim": "Q2 FY26 (Mar 29 '26) China comp was +0.5%, transactions were +2.1%, and ticket was -1.6%.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The claimed Q2 FY26 China values are not present.",
+      "evidence_check": "Searched for Mar. 29, 2026 and China values 0.5%, 2.1%, and -1.6%; the passages show Q1 FY26 or consolidated data instead."
+    },
+    {
+      "claim": "For four of these five periods, average ticket in China fell.",
+      "cited_file": "2025-07-29, 2025-10-29, 2026-01-28, and 2026-04-28 8-Ks",
+      "issue": "The five-period ticket series needed to support the count is not provided.",
+      "evidence_check": "Only Q1 FY26 China ticket of +2% is visible; the other period values needed to establish four declines are absent."
+    },
+    {
+      "claim": "Average ticket in China fell as much as -7% in Q4 FY25.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The -7% Q4 FY25 China ticket figure is absent.",
+      "evidence_check": "Searched for Q4 FY25 China ticket -7%; no matching passage was retrieved."
+    },
+    {
+      "claim": "Q2 FY26 China comp decelerated to +0.5%, with ticket at -1.6%.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "Neither Q2 FY26 China value appears in the passages.",
+      "evidence_check": "Searched for China comp +0.5% and ticket -1.6%; no matching disclosure was found."
+    },
+    {
+      "claim": "The FY2024 10-K carried a dedicated China risk factor naming \"a highly competitive retail environment and the entry of new competitors to the specialty coffee market in China.\"",
+      "cited_file": "sbux_2024_10-k.txt",
+      "issue": "The attributed quotation and dedicated risk factor are not present in the passages.",
+      "evidence_check": "Searched the FY2024 excerpts for the quoted language; the retrieved text covers stores, facilities, and general filing material."
+    },
+    {
+      "claim": "The FY2024 10-K warned that China volatility could be caused by \"increasing competition in the market, lower-priced competitor product offerings.\"",
+      "cited_file": "sbux_2024_10-k.txt",
+      "issue": "The attributed quotation is absent.",
+      "evidence_check": "Searched the FY2024 excerpts for 'increasing competition' and 'lower-priced competitor product offerings'; no match appeared."
+    },
+    {
+      "claim": "That standalone China risk factor was removed from the FY2025 10-K.",
+      "cited_file": "sbux_2025_10-k.txt",
+      "issue": "The supplied excerpts do not establish removal of a risk factor from the full filing.",
+      "evidence_check": "Reviewed the retrieved FY2025 passages; they are isolated sections and do not provide the complete risk-factor comparison needed to prove removal."
+    },
+    {
+      "claim": "In the FY2025 10-K, China-specific competition language is folded into generic macro risk.",
+      "cited_file": "sbux_2025_10-k.txt",
+      "issue": "No China-specific competition language or generic macro-risk replacement is shown.",
+      "evidence_check": "Searched the passages for China competition and generic macro-risk wording; no supporting text was retrieved."
+    },
+    {
+      "claim": "Starbucks China revenue was $3,160.8M in FY25.",
+      "cited_file": "sbux_2025_10-k.txt",
+      "issue": "The specific China revenue figure is absent.",
+      "evidence_check": "Searched the FY2025 10-K passages for $3,160.8 million; no match appeared."
+    },
+    {
+      "claim": "Starbucks China revenue grew 5% year-over-year in FY25.",
+      "cited_file": "sbux_2025_10-k.txt",
+      "issue": "The passages show International revenue, not China revenue growth of 5%.",
+      "evidence_check": "Searched for a China-specific FY25 revenue growth rate of 5%; only consolidated and International segment figures were retrieved."
+    },
+    {
+      "claim": "China transactions grew every quarter covered by the cited supplemental tables.",
+      "cited_file": "2025-07-29, 2025-10-29, 2026-01-28, and 2026-04-28 8-Ks",
+      "issue": "Only one quarter's China transaction growth is visible, so the every-quarter assertion cannot be checked.",
+      "evidence_check": "Found Q1 FY26 China transactions +5%; the other cited quarterly supplemental tables are absent."
+    },
+    {
+      "claim": "Neither the FY25 10-K nor the Q2 FY26 10-Q MD&A breaks out China comps/transactions/ticket in narrative form.",
+      "cited_file": "sbux_2025_10-k.txt; sbux_2026q2_10-q.txt",
+      "issue": "The excerpts do not establish an absence across both complete MD&A sections.",
+      "evidence_check": "Reviewed the retrieved passages, which do not contain the full MD&A text needed to verify that no China narrative breakout exists."
+    },
+    {
+      "claim": "Every China comp figure above comes from the supplemental tables in the earnings 8-Ks.",
+      "cited_file": "2025-07-29, 2025-10-29, 2026-01-28, and 2026-04-28 8-Ks",
+      "issue": "No local match or table set was provided to verify the provenance of every figure.",
+      "evidence_check": "The evidence explicitly reports no local match; the claim asserts a concrete source location for all figures."
+    },
+    {
+      "claim": "The Boyu Capital joint venture was announced Nov 3, 2025.",
+      "cited_file": "2025-11-03 8-K",
+      "issue": "The passages say only that the agreement was announced 'in November,' not November 3, 2025.",
+      "evidence_check": "Searched for the exact date Nov. 3, 2025; it does not appear in the supplied passages."
+    },
+    {
+      "claim": "The transaction was struck at a \"cash-free, debt-free... total enterprise value of approximately $4 billion.\"",
+      "cited_file": "2025-11-03 8-K",
+      "issue": "The quoted valuation language is absent.",
+      "evidence_check": "Searched for 'cash-free, debt-free' and approximately $4 billion; no match appeared in the passages."
+    },
+    {
+      "claim": "The transaction closed effective March 30, 2026.",
+      "cited_file": "sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The claimed closing date is not present in this claim's passages.",
+      "evidence_check": "Searched the supplied excerpts for a March 30, 2026 closing statement; none was retrieved."
+    },
+    {
+      "claim": "The transaction closed for \"total consideration of $3.1 billion.\"",
+      "cited_file": "sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The quoted $3.1 billion consideration is absent.",
+      "evidence_check": "Searched for 'total consideration' and $3.1 billion; no readable matching passage was supplied."
+    },
+    {
+      "claim": "The $3.1 billion was the cash consideration for the 60% stake.",
+      "cited_file": "sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The passages do not identify $3.1 billion as cash consideration for the 60% stake.",
+      "evidence_check": "Searched for $3.1 billion, cash consideration, and 60%; the 60% stake appears, but the $3.1 billion consideration does not."
+    },
+    {
+      "claim": "Starbucks claims the \"total value of its China retail business [will] exceed $13 billion.\"",
+      "cited_file": "2025-11-03 8-K",
+      "issue": "The claimed quotation and $13 billion figure are absent.",
+      "evidence_check": "Searched for 'exceed $13 billion' and 'total value of its China retail business'; no match was retrieved."
+    },
+    {
+      "claim": "The claimed value exceeding $13 billion comprises sale proceeds, the retained 40%, and \"the net present value of ongoing licensing economics... over the next decade or longer.\"",
+      "cited_file": "2025-11-03 8-K",
+      "issue": "The $13 billion composition and quoted licensing-economics language are absent.",
+      "evidence_check": "Searched for sale proceeds, retained 40%, net present value, and 'next decade or longer'; only the retained 40% and general licensing arrangement appear."
+    },
+    {
+      "claim": "Starbucks sold control of its second-largest market to a local private-equity firm.",
+      "cited_file": "2025-11-03 8-K",
+      "issue": "The passages do not establish that China was the second-largest market or characterize Boyu as a local private-equity firm.",
+      "evidence_check": "Searched for 'second-largest market' and a description of Boyu as a local private-equity firm; neither appears."
+    },
+    {
+      "claim": "Approximately $4 billion of enterprise value against approximately $3.16 billion of FY25 China revenue is roughly 1.25x sales.",
+      "cited_file": "2025-11-03 8-K; sbux_2025_10-k.txt",
+      "issue": "The input values needed for the multiple are absent from the passages.",
+      "evidence_check": "Searched for approximately $4 billion enterprise value and approximately $3.16 billion FY25 China revenue; neither was retrieved for this claim."
+    },
+    {
+      "claim": "China ticket fell -5% in FY25.",
+      "cited_file": "2025-10-29 8-K",
+      "issue": "The FY25 China ticket decline is absent.",
+      "evidence_check": "Searched for China ticket -5% in FY25; no matching passage was found."
+    },
+    {
+      "claim": "Cash in hand from the transaction was $3.1B.",
+      "cited_file": "sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The $3.1 billion cash amount is absent from the supplied passages.",
+      "evidence_check": "Searched for $3.1 billion cash proceeds or consideration; no match appeared."
+    },
+    {
+      "claim": "The Q2 10-Q earmarks the proceeds \"for debt reduction.\"",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The quoted use-of-proceeds language is not present.",
+      "evidence_check": "Searched the passages for 'debt reduction' and proceeds; no matching statement was retrieved."
+    },
+    {
+      "claim": "The cash tender offers repurchased and cancelled roughly $1.3 billion in principal.",
+      "cited_file": "sbux_2026-05-20_8-k.txt",
+      "issue": "The passages do not provide a readable total supporting approximately $1.3 billion.",
+      "evidence_check": "The readable table excerpt shows only part of the note series, while the remaining retrieved material is encoded image data; the aggregate cannot be verified."
+    },
+    {
+      "claim": "The repurchased principal was spread across six senior-note series.",
+      "cited_file": "sbux_2026-05-20_8-k.txt",
+      "issue": "No local match or complete readable table establishes six purchased series.",
+      "evidence_check": "The evidence reports no local match; the claim asserts a concrete count that should be visible in the tender-offer table."
+    },
+    {
+      "claim": "The 2026-04-02 press release announces an April 2, 2026 \"official closing.\"",
+      "cited_file": "2026-04-02 8-K",
+      "issue": "Neither the April 2 date nor the quoted 'official closing' language appears.",
+      "evidence_check": "Searched the passages for April 2, 2026 and 'official closing'; no match was retrieved."
+    },
+    {
+      "claim": "The Q2 10-Q repeatedly dates the close March 30, 2026.",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The provided passages do not contain any closing statement dated March 30, 2026.",
+      "evidence_check": "Searched the supplied excerpts for repeated references to the transaction close on March 30, 2026; none appears."
+    },
+    {
+      "claim": "Both March 30, 2026 and April 2, 2026 fall in Q3 FY26.",
+      "cited_file": null,
+      "issue": "The passages do not provide the fiscal-quarter boundaries needed to verify both dates.",
+      "evidence_check": "The evidence shows Q2 ended March 29 only indirectly in unrelated material and does not show April 2 or explicitly classify both dates as Q3 FY26."
+    },
+    {
+      "claim": "Q2 FY26 consolidated net revenue increased 9% to $9.5B.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The Q2 revenue amount and growth rate are absent.",
+      "evidence_check": "Searched for Q2 FY26 revenue of $9.5 billion and 9% growth; only Q1 FY26 revenue was retrieved."
+    },
+    {
+      "claim": "Q2 FY26 GAAP operating margin expanded 180 bp to 8.7%.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The passages show Q1 FY26 margin contraction, not the claimed Q2 expansion.",
+      "evidence_check": "Searched for Q2 FY26, 8.7%, and +180 bp; no matching passage appeared."
+    },
+    {
+      "claim": "Q2 FY26 GAAP EPS increased 32% to $0.45.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The Q2 EPS amount and growth rate are absent.",
+      "evidence_check": "Searched for Q2 FY26 GAAP EPS $0.45 and 32% growth; no match was retrieved."
+    },
+    {
+      "claim": "Q2 FY26 non-GAAP EPS increased 22% to $0.50.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The Q2 non-GAAP EPS amount and growth rate are absent.",
+      "evidence_check": "Searched for non-GAAP EPS $0.50 and 22% growth; the passages only show Q1 FY26 non-GAAP EPS."
+    },
+    {
+      "claim": "The Q2 FY26 8-K used the headline \"the turn in our turnaround.\"",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The attributed headline is not present.",
+      "evidence_check": "Searched for the exact phrase 'the turn in our turnaround'; no match appeared."
+    },
+    {
+      "claim": "Management raised FY26 non-GAAP EPS guidance to $2.25\u2013$2.45.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The claimed raised guidance range is absent.",
+      "evidence_check": "The passages show initial Q1 guidance of $2.15\u2013$2.40, not $2.25\u2013$2.45."
+    },
+    {
+      "claim": "FY25 non-GAAP EPS was $2.13.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The FY25 non-GAAP EPS figure does not appear.",
+      "evidence_check": "Searched for FY25 non-GAAP EPS of $2.13; no match was retrieved."
+    },
+    {
+      "claim": "The Q2 FY26 10-Q states that classifying China as held for sale \"required us to cease property, plant, and equipment depreciation and operating lease ROU asset amortization... resulting in reduced depreciation and amortization and store operating expenses.\"",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The attributed quotation is not contained in this claim's supplied passages.",
+      "evidence_check": "Reviewed the passages for the quoted held-for-sale accounting language; the excerpts instead cover restructuring, goodwill, equity, and derivatives."
+    },
+    {
+      "claim": "Consolidated operating-margin expansion is attributed \"primarily [to] sales leverage and lower store operating and depreciation and amortization costs after classifying... China as held for sale.\"",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The passages explain held-for-sale accounting but do not contain the claimed consolidated margin attribution or sales-leverage statement.",
+      "evidence_check": "Searched for consolidated operating-margin expansion and sales leverage; no matching narrative was retrieved."
+    },
+    {
+      "claim": "North America had operating margin contract to 9.9% from 11.6% in Q2 FY26.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "Neither margin value appears in the passages.",
+      "evidence_check": "Searched for Q2 FY26 North America margins of 9.9% and 11.6%; only Q1 FY26 North America data were retrieved."
+    },
+    {
+      "claim": "The North America operating-margin contraction was \"primarily driven by labor investments... product mix shift, and inflation led by tariffs and elevated coffee pricing.\"",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The quoted North America attribution is absent.",
+      "evidence_check": "Searched for labor investments, product mix shift, tariffs, and elevated coffee pricing in a North America margin discussion; the retrieved passage concerns Channel Development."
+    },
+    {
+      "claim": "North America generates approximately 90% of company-operated revenue.",
+      "cited_file": null,
+      "issue": "The passage is being misread: it shows company-operated stores as about 90\u201391% of North America segment revenue, not North America's share of company-wide company-operated revenue.",
+      "evidence_check": "Found company-operated stores at 91.1% and 90.0% of North America total revenue; no evidence states that North America generates 90% of company-operated revenue globally."
+    },
+    {
+      "claim": "The discrete tax impact was excluded from non-GAAP results.",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The passages do not provide the Q2 FY26 non-GAAP reconciliation needed to establish the exclusion.",
+      "evidence_check": "The retrieved excerpts show Q1 FY26 GAAP and non-GAAP tax rates but do not explicitly state the Q2/H1 discrete tax impact was excluded."
+    },
+    {
+      "claim": "The Q2 FY26 10-Q states Starbucks \"anticipate[s] recognizing a material pre-tax gain on the sale\" in Q3 FY26.",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The quoted anticipated-gain statement is absent from this claim's passages.",
+      "evidence_check": "Searched for 'material pre-tax gain' and Q3 FY26; no matching passage was retrieved."
+    },
+    {
+      "claim": "Management has flagged that the gain on sale will be excluded from non-GAAP EPS.",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "No passage states that the sale gain will be excluded from non-GAAP EPS.",
+      "evidence_check": "Searched for gain-on-sale treatment in non-GAAP EPS; the retrieved excerpts contain no such guidance."
+    },
+    {
+      "claim": "Consolidated G&A fell year-over-year in Q1 FY26.",
+      "cited_file": "2026-01-28 8-K",
+      "issue": "The supplied passages do not show the consolidated G&A comparison.",
+      "evidence_check": "Searched the passages for Q1 FY26 and prior-year consolidated G&A amounts; no matching line was retrieved."
+    },
+    {
+      "claim": "Consolidated G&A fell year-over-year in Q2 FY26.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "The supplied passages do not show Q2 FY26 consolidated G&A.",
+      "evidence_check": "Searched for Q2 FY26 and prior-year consolidated G&A amounts; only Q1 FY26 materials were retrieved."
+    },
+    {
+      "claim": "The FY26 non-GAAP EPS guide is $2.25\u2013$2.45 versus FY25 non-GAAP EPS of $2.13.",
+      "cited_file": "2026-04-28 8-K",
+      "issue": "Neither the $2.25\u2013$2.45 guidance range nor the $2.13 comparison appears.",
+      "evidence_check": "Searched for both values; the passages instead show initial FY26 guidance of $2.15\u2013$2.40."
+    },
+    {
+      "claim": "SBUX consolidated operating margin was 16.7% in Q3 FY24.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "The 16.7% figure shown is North America segment margin for Q1 FY25, not consolidated margin for Q3 FY24.",
+      "evidence_check": "Searched for a Q3 FY24 consolidated margin of 16.7%; the passages only associate 16.7% with North America in the Dec. 29, 2024 quarter."
+    },
+    {
+      "claim": "SBUX consolidated operating margin was 6.9% in Q2 FY25.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "The Q2 FY25 consolidated 6.9% figure is not present in the passages.",
+      "evidence_check": "Searched for Q2 FY25 and consolidated operating margin 6.9%; no matching financial data were retrieved."
+    },
+    {
+      "claim": "SBUX consolidated operating margin subsequently remained in single digits across the discussed span.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "The full series needed to establish the span is absent.",
+      "evidence_check": "The passages show Q1 FY26 consolidated margin of 9.0% but do not provide all subsequent periods in the discussed span."
+    },
+    {
+      "claim": "McDonald's held approximately 45\u201347% operating margins across the same span.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No McDonald's financial data appear in the passages.",
+      "evidence_check": "Searched for McDonald's and operating margins of 45\u201347%; no matching evidence was retrieved."
+    },
+    {
+      "claim": "Yum held approximately 31\u201334% operating margins across the same span.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Yum financial data appear in the passages.",
+      "evidence_check": "Searched for Yum and operating margins of 31\u201334%; no matching evidence was retrieved."
+    },
+    {
+      "claim": "Domino's held approximately 19\u201320% operating margins across the same span.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No Domino's financial data appear in the passages.",
+      "evidence_check": "Searched for Domino's and operating margins of 19\u201320%; no matching evidence was retrieved."
+    },
+    {
+      "claim": "McDonald's, Yum, and Domino's operating margins were essentially flat across the same span.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "No local match or peer margin time series was provided.",
+      "evidence_check": "The evidence reports no local match, and no peer financial series is available to evaluate flatness."
+    },
+    {
+      "claim": "Q2 FY25 operating margin was the 6.9% floor.",
+      "cited_file": "financials/income_statement/*.json",
+      "issue": "Neither the 6.9% Q2 FY25 value nor the comparison series establishing it as the floor appears.",
+      "evidence_check": "Searched for Q2 FY25 margin 6.9% and the surrounding margin series; no supporting data were retrieved."
+    },
+    {
+      "claim": "The China transaction generated $3.1B in cash, left Starbucks with a 40% retained interest, and created ongoing licensing economics.",
+      "cited_file": "2025-11-03 8-K; sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The passages do not contain the $3.1 billion cash amount, although other elements are described elsewhere.",
+      "evidence_check": "Searched for $3.1 billion cash proceeds, retained 40%, and licensing economics; the supplied passages for this claim do not show the cash figure."
+    },
+    {
+      "claim": "Approximately $1.3B of debt principal was retired using cash tender offers after the China transaction.",
+      "cited_file": "sbux_2026-05-20_8-k.txt",
+      "issue": "The readable passages do not establish either the approximately $1.3 billion total or that the tenders used China transaction proceeds.",
+      "evidence_check": "The tender-offer filing confirms settlement and cancellation of notes, but the retrieved table is incomplete and contains no source-of-funds linkage."
+    },
+    {
+      "claim": "The China depreciation-cessation benefit affects H1 FY26 and ends upon deconsolidation.",
+      "cited_file": "sbux_2026q2_10-q.txt",
+      "issue": "The passages do not state the H1 duration or that the benefit ends upon deconsolidation.",
+      "evidence_check": "Searched for the timing of depreciation cessation through H1 and termination upon deconsolidation; no matching statement was retrieved."
+    },
+    {
+      "claim": "The completed China transaction converts China from a company-operated business to a licensed model for Starbucks.",
+      "cited_file": "2025-11-03 8-K; 2026-04-02 8-K; sbux_2026q2_10-q.txt Notes 2 & 18",
+      "issue": "The passages supplied for this claim do not describe the conversion to a licensed model.",
+      "evidence_check": "Searched the claim-specific passages for conversion from company-operated to licensed stores; only pre-transaction Q1 FY26 store information was retrieved."
+    }
+  ],
+  "synthesis_found": "Transactions turned because the strategy worked; margin turned because China's depreciation stopped and the prior-year base was a trough (Q2 FY25 was the 6.9% floor).",
+  "sparse_reward": 0,
+  "cited_files": [
+    "press_releases/sbux_2025-09-25_8-k.txt",
+    "press_releases/sbux_2026-01-28_8-k.txt",
+    "press_releases/sbux_2026-05-20_8-k.txt",
+    "sec_filings/10-k/sbux_2024_10-k.txt",
+    "sec_filings/10-k/sbux_2025_10-k.txt",
+    "sec_filings/10-q/sbux_2026q2_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 118,
+  "grounding_claims_no_match": 4,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

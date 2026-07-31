@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process produces an inspection-based source map spanning company profiles, PayPal releases and filings, standardized PayPal statements, peer statements, historical materials, and files found irrelevant after opening.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect recursive inventory steps, file-opening records, and a source map that classifies documents by issuer, document type, covered period, accounting basis, and likely use."
+    },
+    {
+      "id": "c2",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process applies an explicit 2026-06-30 information cutoff and marks temporally ineligible material rather than silently incorporating it.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect chronology or eligibility notes for document release and filing dates, including explicit exclusion or quarantine of post-cutoff information."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process converts material propositions into falsifiable questions with predefined confirming and disconfirming observations.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a claim-to-evidence matrix, question plan, or equivalent artifact linking each proposition to management framing, test metrics, time horizon, and possible falsifiers."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process maintains explicit definitional separation among transaction-margin dollars, transaction-margin rate, GAAP and non-GAAP operating margins, engagement measures, and branded versus consolidated performance.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect metric dictionaries, planning notes, table headers, or caveat fields showing that similarly named measures are not treated as interchangeable."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "The process establishes the period, definition, unit, and management qualification of a source passage before using it in an interpretation.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect source-reading steps around search hits and extraction notes; usable facts should follow contextual reads rather than isolated keyword snippets."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process maintains a structured fact ledger that distinguishes reported observations from later analyst-derived quantities.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction tables or notes for document identity, section or table, period, unit, accounting basis, metric definition, and reported-versus-derived status."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process stress-tests each provisional interpretation against the strongest available adverse evidence and records whether the interpretation survives, changes, or is rejected.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect two-sided evidence tables, explicit alternative explanations, contradiction checks, and revision notes following comparison of favorable and unfavorable observations."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly marks unresolved causal or measurement ambiguity instead of filling disclosure gaps with unsupported inference.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect uncertainty logs and synthesis caveats for limits such as inability to isolate branded-checkout economics, distinguish volume drivers, or treat pending allegations as established operating facts."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process provides an auditable calculation trail for every derived quantitative comparison.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation work for visible formulas, inputs, periods, units, denominator choices, basis-point conversions, rounding conventions, and investigation of mismatches with disclosed figures."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process aligns equivalent calendar periods and accounting line items before comparing PayPal operating margins with peer margins.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect peer-comparison work for explicit period-end mapping and separately identified revenue and operating-income inputs rather than reliance on fiscal-quarter labels alone."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process builds a causal synthesis connecting engagement evidence, unbranded-volume choices, transaction expense, transaction count, transaction margin, and consolidated operating margin.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the final reasoning sequence for an integrated mechanism that reconciles the workstreams rather than presenting disconnected metric summaries."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process resolves the competing interpretations into one explicit position and identifies the primary mechanism supporting that position.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the concluding thesis and preceding adjudication for a clear choice between competing explanations, with residual uncertainty stated without retreating to a merely balanced summary."
+    }
+  ]
+}

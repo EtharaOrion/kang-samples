@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. The Creative Cloud Moat and Recurring-Revenue Durability
+Adobe's defense rests on an integrated subscription ecosystem, contracted backlog, and a "commercially safe" Firefly model advantage that pure-play AI tools cannot easily replicate.
+[a] Quantify the recurring-revenue base and backlog — total Adobe ARR of $27.10 billion exiting Q2 FY2026 and Remaining Performance Obligations of $22.27 billion (with cRPO of 67% expected within 12 months) — as evidence of switching costs and revenue visibility (press_releases/adbe_2026-06-11_8-k.txt, sec_filings/10-q/adbe_2026q2_10-q.txt)
+[b] Articulate the specific moat features: an end-to-end ideation-to-creation platform, Firefly models trained only on licensed/public-domain data, Content Credentials, and IP indemnification for enterprise Firefly workflows (sec_filings/10-k/adbe_2025_10-k.txt)
+[c] Show the scale of the installed base by segment — Digital Media revenue of $17.65 billion (+11%) and Digital Experience revenue of $5.86 billion (+9%) in fiscal 2025 — as the foundation the moat protects (sec_filings/10-k/adbe_2025_10-k.txt)
+Source: sec_filings/10-k/adbe_2025_10-k.txt, sec_filings/10-q/adbe_2026q2_10-q.txt, press_releases/adbe_2026-06-11_8-k.txt
+
+2. Generative-AI Disruption and Competitive Threat
+Generative and agentic AI lowers barriers to content creation, inviting new entrants that could commoditize Adobe's flagship tools and pressure pricing.
+[a] Ground the disruption thesis in Adobe's own risk language — increasing competition from companies offering generative and agentic AI (prompt-based, multi-modal creation and editing, document productivity, purpose-built agents), limited barriers to entry, and customer price sensitivity (sec_filings/10-k/adbe_2025_10-k.txt)
+[b] Address dependence and control risk — reliance on third-party partner models Adobe does not control, the risk those models carry training-data or IP-infringement liability, and the risk competitors adopt AI more rapidly or with proprietary data access (sec_filings/10-k/adbe_2025_10-k.txt)
+[c] Weigh the AI regulatory overhang — the EU AI Act phasing in through 2030 and a developing U.S. framework — as a cost and adaptation risk layered on top of competitive disruption (sec_filings/10-k/adbe_2025_10-k.txt)
+Source: sec_filings/10-k/adbe_2025_10-k.txt, sec_filings/10-q/adbe_2026q2_10-q.txt
+
+3. AI Monetization: Additive Growth or Defensive Reinvestment
+Adobe is monetizing AI, but the question is whether AI revenue is genuinely incremental or merely defending an existing base whose organic growth is decelerating.
+[a] Size the AI monetization ramp against the total — AI-first ARR tripling year over year to exceed $500 million, versus total ARR of $27.10 billion — and judge whether AI is yet material to the growth algorithm (press_releases/adbe_2026-06-11_8-k.txt)
+[b] Assess growth momentum by customer group — Business Professionals & Consumers subscription revenue of $1.85 billion (+16%) versus Creative & Marketing Professionals of $4.54 billion (+13%) in Q2 FY2026 — to see where AI demand is concentrated (press_releases/adbe_2026-06-11_8-k.txt)
+[c] Test the deceleration signal — the FY2026 guide for total Adobe ending ARR growth of 10.2% year over year — against the "record revenue" narrative and the fiscal-2026 collapse of three segments into a single reporting segment (press_releases/adbe_2026-06-11_8-k.txt, sec_filings/10-k/adbe_2025_10-k.txt)
+Source: press_releases/adbe_2026-06-11_8-k.txt, financials/income_statement/adbe_income_statement.json
+
+4. Financial Durability and the Investment Verdict
+Adobe's cash generation and margins are elite, but a goodwill impairment and CFO transition are cracks the analyst must weigh against the moat-versus-disruption debate.
+[a] Quantify profitability and cash generation — Q2 FY2026 non-GAAP EPS of $5.96 (GAAP $4.25), GAAP operating income of $2.24 billion, and cash flows from operations of $2.17 billion (press_releases/adbe_2026-06-11_8-k.txt)
+[b] Engage the counter-signals — the $0.17-per-share non-cash goodwill impairment charge tied to the Publishing & Advertising reporting unit and the announced CFO departure — as evidence not every business line is thriving (press_releases/adbe_2026-06-11_8-k.txt)
+[c] Corroborate margin/cash trends against the reported income statement and note the raised FY2026 revenue and non-GAAP EPS targets (financials/income_statement/adbe_income_statement.json, press_releases/adbe_2026-06-11_8-k.txt)
+[d] SYNTHESIS: reconcile the durable moat (large ARR/RPO base, commercially-safe Firefly, elite cash flow) against the disruption case (AI-native entrants, decelerating ~10% ARR growth, AI ARR still small, an impaired unit) into a single explicit position on whether the Creative Cloud moat outweighs generative-AI disruption risk
+Source: press_releases/adbe_2026-06-11_8-k.txt, sec_filings/10-k/adbe_2025_10-k.txt, financials/cash_flow/adbe_cash_flow.json

@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The trajectory performs broad corpus reconnaissance across the entity profile, Deere financial statements, press releases, annual reports, and quarterly reports rather than relying on a narrow current-period subset.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-inventory, directory-listing, search, and document-open steps for coverage of each major source class and multiple historical periods."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process builds a source chronology that distinguishes disclosure dates from covered fiscal periods and makes application of the June 30, 2026 cutoff observable.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a chronology or source map recording release or filing dates alongside fiscal quarters, year-to-date periods, or fiscal years, including any explicit cutoff screening."
+    },
+    {
+      "id": "c3",
+      "concern": "grounding_before_claim",
+      "text": "Evidence selection is based on inspection of document contents and surrounding context rather than filenames or isolated search hits.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect read and search steps for opened document bodies, nearby paragraphs, table headings, and notes before the material is treated as substantive evidence."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The assignment is decomposed into a linked decision structure covering downturn shape, segment diversification, precision-agriculture durability, and price-cost or margin resilience.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an explicit analysis plan, question tree, or workstream structure showing how the four decision areas contribute to an eventual overall conclusion."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Extracted evidence retains enough contextual metadata to distinguish its period, unit, organizational scope, and status as historical reporting or management outlook.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect notes, tables, or an evidence ledger for contextual labels attached to figures and commentary rather than decontextualized quotations or numbers."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process visibly separates reported or forecast figures from analyst-derived figures.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for separate tables, explicit labels, or calculation annotations that prevent derived growth rates, margins, indices, or implied remainders from appearing as company-reported measures."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Derived calculations are made auditable through identifiable inputs, comparable periods and scopes, and an explicit calculation method.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation steps or answer tables for shown inputs and formulas, with visible checks that numerator, denominator, period, segment, and units are compatible."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "For each major decision module, the trajectory deliberately surfaces the strongest evidence that could undermine the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for two-sided evidence tables, contradiction searches, alternative explanations, or explicit challenges involving demand, segment offsets, precision monetization, and cost pressure."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "Conflicting evidence is adjudicated rather than merely listed in parallel.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reasoning following identified conflicts for an explanation of why one interpretation carries more weight or why the conflict remains unresolved."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly records material disclosure gaps or non-comparabilities and limits the resulting inference instead of silently filling them with assumptions.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity log or calibrated statements concerning matters such as precision-revenue disaggregation, recurring economics, changing guidance bases, differing periods, or incomplete bridge components."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process produces an integrated causal or offset synthesis rather than four disconnected topic summaries.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the final reasoning for an explanation connecting industry conditions to segment performance and consolidated earnings while relating precision-agriculture and price-cost dynamics to resilience."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in a clear directional position on the downturn state and resulting earnings resilience rather than leaving competing alternatives unranked.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look at the opening conclusion, closing synthesis, or decision statement for an explicit choice among a durable trough, extended downturn, or continued deterioration and its stated implication for resilience."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. 737 and 787 Production Ramp and Certification Execution
+The recovery hinges on lifting the 737 and 787 rates, but every increase is gated by FAA concurrence and the shadow of the January 2024 door-plug accident.
+[a] Track the 737 ramp with specifics — the rate recovered from below 38 per month at the start of 2025 to 42 per month in Q4 2025 (FAA-agreed in October 2025), with a plan to reach 47 per month in 2026 only with FAA concurrence (sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt)
+[b] Track the 787 ramp — increased from five to seven per month in 2025 and began moving to eight per month in Q4 2025 while stabilizing production and clearing pre-2023 rework inventory (sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt)
+[c] Assess the certification pipeline as an execution risk — the 737-7 and 737-10 expected to certify in 2026 with first delivery in 2027, and the 777X first delivery slipped to 2027 — and note production increases require FAA concurrence and could be delayed or not occur at all (sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt)
+Source: sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt
+
+2. Cash Burn, Liquidity, and Debt Load
+Boeing's cash burn is narrowing but still negative, against a heavy debt balance and large financing commitments that constrain the recovery.
+[a] Quantify the cash trajectory — 2025 net operating cash flow of $1.1 billion (its first positive year after $12.1 billion used in 2024) versus Q1 2026 free cash flow of ($1.5) billion and operating cash flow of ($0.2) billion, showing burn persists into 2026 (sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt)
+[b] Frame the liquidity position — a sequential decline in cash and marketable securities during Q1 2026 (as disclosed in the quarterly cash-and-debt table), consolidated debt reduced to $47.2 billion from $54.1 billion, and $10.0 billion of undrawn credit facilities (press_releases/ba_2026-04-22_8-k.txt)
+[c] Weigh the debt and commitment overhang — total debt of $54.1 billion at December 31, 2025 with roughly $15.5 billion of principal due over three years, airplane financing commitments of $15.2 billion, and investment-grade-rating risk (sec_filings/10-k/ba_2025_10-k.txt)
+Source: sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt, financials/cash_flow/ba_cash_flow.json
+
+3. Program Losses, Backlog, and Recovery Credibility
+A record backlog signals demand, but recurring reach-forward charges and negative commercial margins test whether the recovery is real or still loss-laden.
+[a] Confront the program charges — 777X reach-forward losses of $4.9 billion in 2025 and $3.5 billion in 2024, plus continued 767 losses — as evidence development programs are still destroying value (sec_filings/10-k/ba_2025_10-k.txt)
+[b] Set demand against execution — a record total backlog of $695 billion including over 6,100 commercial airplanes in Q1 2026 (up from $682,207 million at year-end 2025), with roughly 85% of Commercial Airplanes backlog held by non-U.S. airlines (press_releases/ba_2026-04-22_8-k.txt, sec_filings/10-k/ba_2025_10-k.txt)
+[c] Test near-term recovery quality — Q1 2026 revenue of $22,217 million (up 14%) on 143 commercial deliveries, but a GAAP loss per share of ($0.11), core loss per share of ($0.20), and a Commercial Airplanes operating margin of (6.1)% (press_releases/ba_2026-04-22_8-k.txt)
+Source: sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt, financials/income_statement/ba_income_statement.json
+
+4. Portfolio Reshaping and the Investment Verdict
+Boeing is reintegrating Spirit and shedding non-core assets to control quality and cash; the verdict weighs recovery credibility against continued burn and execution risk.
+[a] Assess the strategic reshaping — the December 2025 Spirit AeroSystems acquisition (~$4.7 billion in Boeing shares, vertically reintegrating 737/787 fuselage and structures work) against the October 2025 Digital Aviation Solutions divestiture for $10.55 billion in cash (sec_filings/10-k/ba_2025_10-k.txt)
+[b] Weigh external tail risks — China customers pausing deliveries in Q2 2025 over tariffs (since resumed), supply-chain and labor instability following the IAM 751 stoppage, and reliance on FAA cooperation and U.S. government appropriations (sec_filings/10-k/ba_2025_10-k.txt)
+[c] Corroborate the full-year revenue recovery — 2025 total revenues of $89,463 million versus $66,517 million in 2024 — against the reported income statement and cash-flow files rather than the narrative alone (sec_filings/10-k/ba_2025_10-k.txt, financials/income_statement/ba_income_statement.json)
+[d] SYNTHESIS: reconcile the bull case (record $695 billion backlog, 737/787 rates climbing, first positive operating cash flow, Spirit reintegration) against the bear case (still-negative free cash flow, $54.1 billion debt, recurring 777X charges, FAA-gated ramps) into a single explicit position on whether the recovery is credible or the cash-burn and execution risk still dominate
+Source: sec_filings/10-k/ba_2025_10-k.txt, press_releases/ba_2026-04-22_8-k.txt, financials/cash_flow/ba_cash_flow.json

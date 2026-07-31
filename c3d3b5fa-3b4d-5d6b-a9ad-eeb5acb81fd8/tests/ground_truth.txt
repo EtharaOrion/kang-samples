@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Cross-Border Volume as the High-Margin Growth Engine
+Cross-border volume carries premium economics and is Mastercard's most-watched key driver; the question is how durable that growth is.
+[a] Quantify the momentum: cross-border volume grew 13% on a local-currency basis in the quarter, outpacing overall gross dollar volume growth of 7% and switched-transaction growth of 9%
+[b] Explain why cross-border is disproportionately valuable — the 10-K notes Mastercard earns a significant amount of revenue from cross-border volume fees and currency-conversion fees — so its growth lifts blended yield above domestic switching
+[c] Engage the durability risk the 10-K flags directly: cross-border activity fluctuates with the levels and destinations of cross-border travel and is vulnerable to geopolitical, economic, health and weather shocks
+Source: press_releases/, sec_filings/10-k/ma_2025_10-k.txt, sec_filings/10-q/ma_2026q1_10-q.txt, financials/income_statement/ma_income_statement.json
+
+2. Value-Added Services and Solutions as the Diversifier
+VAS is now a distinct revenue category growing faster than the payment network, reducing reliance on transaction volumes.
+[a] Establish that value-added services and solutions net revenue grew 22% year-over-year (18% currency-neutral), outpacing payment-network net-revenue growth of 12% (8% currency-neutral)
+[b] Identify the VAS drivers the filings name — security, digital and authentication solutions, business and market insights, and consumer acquisition and engagement services — and note pricing as a contributor
+[c] Assess whether faster VAS growth structurally lowers Mastercard's sensitivity to any single cross-border or consumer-spending downturn, versus the risk that VAS growth is itself levered to the same underlying transaction volumes
+Source: press_releases/, sec_filings/10-k/ma_2025_10-k.txt, sec_filings/10-q/ma_2026q1_10-q.txt
+
+3. Rebates, Incentives and the Quality of Net Revenue
+Reported net revenue is stated after large and growing customer rebates and incentives, so headline growth can overstate underlying economics.
+[a] Note that payment-network rebates and incentives grew about 23% in the quarter (19% currency-neutral), and that full-year 2025 rebates and incentives were roughly $20,522 million, both rising with new and renewed customer deals
+[b] Distinguish currency-neutral from as-reported growth (net revenue up 16% versus 12% currency-neutral) so that foreign-exchange tailwinds are not mistaken for organic strength, drawing on the 10-K's discussion of transactional-currency effects on GDV
+[c] Weigh the competitive backdrop the 10-K describes — pricing pressure, potential disintermediation, and the rise of real-time and account-to-account payments alongside Visa — as a check on future net-revenue quality
+Source: sec_filings/10-k/ma_2025_10-k.txt, sec_filings/10-q/ma_2026q1_10-q.txt, press_releases/, financials/income_statement/ma_income_statement.json
+
+4. A Reconciled View on Durability and Mix
+Combining cross-border, VAS and rebate dynamics into a single judgment about how resilient Mastercard's growth algorithm is.
+[a] Reconcile the durability question by weighing the cyclical, travel-dependent cross-border engine against the more diversified but volume-correlated VAS stream, rather than treating them as independently strong
+[b] Benchmark Mastercard's growth and margins against a peer using the provided statements (e.g., V, AXP or PYPL) to test whether its cross-border and VAS mix is a genuine structural advantage
+[c] Commit to an explicit position on whether value-added services can offset a cross-border slowdown, and on how much reported growth is FX- and incentive-flattered versus durable
+Source: press_releases/, financials/income_statement/ma_income_statement.json, financials/cash_flow/ma_cash_flow.json, sec_filings/10-k/ma_2025_10-k.txt

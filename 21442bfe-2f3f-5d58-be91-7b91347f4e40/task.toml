@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability"
+description = "Assess how severe Deere's current agriculture-cycle downturn is and whether its precision-agriculture franchise and diversified segment mix make its earnings durable, taking a clear position grounded in Deere's SEC filings, financials, and press releases."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DE"]
+
+[metadata]
+uuid = "21442bfe-2f3f-5d58-be91-7b91347f4e40"
+difficulty_explanation = "The data cuts both ways: a steep large-ag industry correction and falling Production & Precision Ag volumes sit alongside consolidated net sales that still grew and full-year guidance that was maintained, so the analyst must reconcile bearish and bullish signals rather than pick one. It also requires disentangling a segment net-income bridge, judging whether Construction & Forestry and Small Ag & Turf strength is a durable offset, and testing the counter-cyclicality of precision-ag recurring revenue that the filings never isolate cleanly. Tariff and material-cost pressures further complicate whether pricing can sustainably defend margins."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

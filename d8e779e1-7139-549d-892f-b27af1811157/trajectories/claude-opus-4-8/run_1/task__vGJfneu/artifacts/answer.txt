@@ -1,0 +1,296 @@
+TARGET CORPORATION (NYSE: TGT)
+Traffic Recovery and Operating-Margin Normalization — An Analytical View
+
+POSITION IN ONE SENTENCE
+The traffic recovery is real, high-quality, and traffic-led — but it has decoupled from
+operating-margin normalization: the genuine gross-margin tailwinds (shrink back to
+pre-pandemic levels, markdowns turning favorable, supply-chain productivity) are being
+deliberately spent on SG&A reinvestment to buy back lost guests, so operating margin sat at a
+cyclical low in FY2025 (4.6% adjusted) and is guided only to ~4.8% in FY2026. Recovery: yes.
+Normalization: postponed, partial, and unproven. Target has recovered its own lost ground
+while Walmart and Costco compounded straight through the episode.
+
+A note on the fiscal calendar used throughout: Target's fiscal year ends in early February
+(company_profiles.json), so the quarter ending 2026-05-02 is FY2026 Q1 — the most recent
+quarter and the hinge of this entire analysis. All comp/traffic/ticket figures below are drawn
+from the "Sales Metrics / Drivers of change in comparable sales" tables in the quarterly 8-K
+press releases, and the annual figures from the FY2025 10-K MD&A (sec_filings/10-k/
+tgt_2026_10-k.txt).
+
+====================================================================================
+THEME 1 — TRAFFIC-VS-TICKET DECOMPOSITION OF THE COMPARABLE-SALES SWING
+====================================================================================
+
+Claim: The down-leg and the up-leg were BOTH overwhelmingly about traffic (transaction
+count), not ticket (average transaction amount). That is the single most important fact in the
+whole dataset, because traffic is the harder, higher-quality metric — you can manufacture
+ticket with price and mix, but traffic is guests physically choosing to show up.
+
+The quarterly decomposition (source: the "Drivers of change in comparable sales" table in each
+8-K; annual from tgt_2026_10-k.txt line ~1234-1242):
+
+  Quarter (fiscal)   Comp     Traffic   Ticket   Store comp   Digital comp
+  FY2023 (full)     -3.7%     -2.4%     -1.4%     -3.5%        -4.8%
+  Q1 FY2024         -3.7%     -1.9%     -1.9%     -4.8%        +1.4%
+  Q2 FY2024         +2.0%     +3.0%     -0.9%     +0.7%        +8.7%
+  Q3 FY2024         +0.3%     +2.4%     -2.0%     -1.9%        +10.8%
+  Q4 FY2024         +1.5%     +2.1%     -0.6%     -0.5%        +8.7%
+  FY2024 (full)     +0.1%     +1.4%     -1.3%     -1.6%        +7.5%
+  Q1 FY2025         -3.8%     -2.4%     -1.4%     -5.7%        +4.7%
+  Q2 FY2025         -1.9%     -1.3%     -0.6%     -3.2%        +4.3%
+  Q3 FY2025         -2.7%     -2.2%     -0.5%     -3.8%        +2.4%
+  Q4 FY2025         -2.5%     -2.9%     +0.4%     -3.9%        +1.9%
+  FY2025 (full)     -2.6%     -2.2%     -0.4%     -4.0%        +3.1%
+  Q1 FY2026         +5.6%     +4.4%     +1.1%     +4.7%        +8.9%
+
+Reading the table:
+
+(1) FY2025's -2.6% comp decomposes into -2.2% traffic and only -0.4% ticket
+(tgt_2026_10-k.txt line ~1115, 1236-1242). Roughly 85% of the decline was lost visits, not
+smaller baskets. Every single quarter of FY2025 posted negative traffic (-2.4, -1.3, -2.2,
+-2.9), while ticket was essentially flat and even turned +0.4% in Q4 (tgt_2026-03-03_8-k.txt).
+This is not a "consumer traded down within our store" problem; it is a "consumer stopped coming
+in" problem.
+
+(2) The inflection in Q1 FY2026 is symmetrical and equally traffic-driven: +5.6% comp = +4.4%
+traffic + 1.1% ticket (tgt_2026-05-20_8-k.txt). Traffic swung roughly seven points in two
+quarters (from -2.9% in Q4 FY2025 to +4.4% in Q1 FY2026). A ticket-led "recovery" would be
+suspect (price/mix engineering); a traffic-led one is the real thing. Management explicitly
+frames it as "broad-based across merchandise categories, sales channels and across the quarter,"
+with all six core categories growing (tgt_2026-05-20_8-k.txt).
+
+STRONGEST COUNTER-EVIDENCE (which I engage rather than smooth over): the +4.4% traffic and
++5.6% comp in Q1 FY2026 are lapping the WEAKEST comparison of the entire cycle. Q1 FY2025 was
+the trough — comp -3.8%, store comp -5.7%, traffic -2.4% (tgt_2025-05-21_8-k.txt). On a
+two-year stack, Q1 FY2026 store comp of +4.7% sits on top of the prior year's -5.7%, i.e.
+roughly -1% stacked — still below the level of two years earlier. In dollars, Q1 FY2026 net
+sales of $25,443M is only ~3.7% above Q1 FY2024's $24,531M across two years (tgt_income_
+statement.json), which is below cumulative inflation. So the recovery is directionally real but
+its magnitude is flattered by the easy compare. Reconciliation: the swing genuinely happened
+and it is traffic-quality, but it is best read as "recovering ground Target itself lost in
+2024-25," not as new expansion. The honest verdict for Theme 1 is a strong yes with an
+asterisk on the base effect.
+
+====================================================================================
+THEME 2 — DIGITAL AND OMNICHANNEL CONTRIBUTION TO THE RECOVERY
+====================================================================================
+
+Claim: Digital was the load-bearing wall that kept the roof up during the downturn, and it is
+the accelerant of the recovery — but it could NOT rescue the P&L by itself, and for most of
+FY2025 it was actually a gross-margin cost before it became a gross-margin help.
+
+The evidence that digital held the line: through the worst four quarters, digital comps stayed
+positive in every single one while stores were deeply negative —
+  Q1 FY2025 digital +4.7% vs store -5.7%
+  Q2 FY2025 digital +4.3% vs store -3.2%
+  Q3 FY2025 digital +2.4% vs store -3.8%
+  Q4 FY2025 digital +1.9% vs store -3.9%
+(sources: tgt_2025-05-21, tgt_2025-08-20, tgt_2025-11-19, tgt_2026-03-03 8-Ks). Same-day
+delivery powered by Target Circle 360 grew 25-36% in essentially every quarter (e.g. +36% Q1
+FY2025, tgt_2025-05-21_8-k.txt; ">30%" in Q4, tgt_2026-03-03_8-k.txt). Digital penetration of
+merchandise sales rose steadily: 18.3% (FY2023) → 19.6% (FY2024) → 20.6% (FY2025)
+(tgt_2026_10-k.txt line ~1255).
+
+The retail-media / non-merchandise engine is the underappreciated margin-friendly piece.
+Roundel advertising revenue inside Net Sales grew from $163M in Q1 FY2025 to $295M in Q4 FY2025,
+and full-year advertising revenue was $915M vs $649M the prior year — up ~41%
+(tgt_2026-03-03_8-k.txt Net Sales table). Non-merchandise sales (Roundel, Target Circle 360
+membership, Target Plus marketplace) grew double digits every quarter and "over 25 percent" in
+Q4 with membership revenue "more than doubling" (tgt_2026-03-03_8-k.txt). In Q1 FY2026
+non-merchandise sales grew ~24.6% (tgt_2026-05-20_8-k.txt) — this is high-margin revenue that
+directly aided gross margin.
+
+Crucially, this is an OMNICHANNEL, store-anchored model, not a pure-play e-commerce story: ~97.6%
+of merchandise sales are still fulfilled by stores, and two-thirds of digital sales are
+fulfilled same-day through the store base (tgt_2026_10-k.txt line ~1074, 1262). That is why the
+store fleet (18 new stores in FY2025, ending count 1,995; tgt_2026_10-k.txt line ~1287-1293)
+still matters and why store traffic had to turn for a true recovery.
+
+COUNTER-EVIDENCE I engage with: digital's positivity was NOT sufficient. Digital is ~20% of the
+mix; stores ~80%. FY2025 digital +3.1% could not offset stores -4.0%, and total comp was still
+-2.6% (tgt_2026_10-k.txt). The genuine inflection required STORES to turn — which they did only
+in Q1 FY2026 (store comp +4.7%, tgt_2026-05-20_8-k.txt). Moreover, digital was margin-dilutive
+before it was margin-accretive: Q1 FY2025 gross margin was pressured by "digital fulfillment
+and supply chain costs due to increased digital sales penetration and new supply chain
+facilities coming online" (tgt_2025-05-21_8-k.txt). By Q4 FY2025 and Q1 FY2026 that flipped to
+"lower supply chain and digital fulfillment costs" and "improved productivity in supply chain
+facilities" (tgt_2026-03-03_8-k.txt; tgt_2026-05-20_8-k.txt). Reconciliation: digital/omni was
+necessary but not sufficient; it prevented collapse and provided the highest-margin growth
+(ads/membership), but the recovery only became real when the store base re-engaged guests and
+the fulfillment network moved from a cost drag to a productivity tailwind.
+
+====================================================================================
+THEME 3 — OPERATING-MARGIN NORMALIZATION DRIVERS: GROSS MARGIN, SHRINK, MARKDOWNS, SG&A
+====================================================================================
+
+This is where I part company with the bullish reading that "traffic recovery mechanically
+restores margin." It does not — and management is choosing for it not to, yet.
+
+The blunt fact: operating margin has NOT normalized upward. It fell to a cyclical low.
+  Operating margin rate:  FY2023 5.3%  →  FY2024 5.2%  →  FY2025 4.9% GAAP / 4.6% adjusted
+  Gross margin rate:      FY2023 27.5% →  FY2024 28.2% →  FY2025 27.9%
+  SG&A rate:              FY2023 20.0% →  FY2024 20.6% →  FY2025 20.6% (20.9% adjusted)
+(all from tgt_2026_10-k.txt Rate Analysis, lines ~1185-1203). Operating income fell in absolute
+terms too: $5,707M → $5,566M → $5,117M (adjusted $4,775M) (tgt_2026_10-k.txt line ~1177-1183).
+So "normalization" over FY2023-FY2025 ran the wrong way. The word implies mean-reversion up; the
+data show margin grinding down to a trough.
+
+Now the four drivers, because the aggregate hides an important tug-of-war:
+
+(a) SHRINK — the clean, genuine, essentially-completed normalization win. Target ran "elevated
+levels of inventory shrink relative to historical levels" through FY2023-FY2024 (tgt_2024_10-k.txt
+line ~580, 1030; tgt_2025_10-k.txt line ~623). By the FY2025 10-K the language is decisive:
+"Realized significant improvements in inventory shrink throughout the year, with shrink rates
+reaching pre-pandemic levels" (tgt_2026_10-k.txt line ~1076). It is cited as a gross-margin
+tailwind in every FY2025 quarter (tgt_2025-05-21, -08-20, -11-19, tgt_2026-03-03 8-Ks). A
+corroborating tell: the year-end shrink-reserve sensitivity (a 10% move) fell from ~$150M
+(FY2024, tgt_2025_10-k.txt line ~1583) to ~$110M (FY2025, tgt_2026_10-k.txt line ~1629),
+implying a materially smaller reserve. This driver is basically done — which also means it is
+largely spent as a future source of upside.
+
+(b) MARKDOWNS — the offsetting headwind for most of FY2025 that then flipped. Gross margin was
+pressured by "higher markdown rates" in Q1, Q2 and Q3 FY2025, plus "purchase order cancellation
+costs" (tariff-driven) (tgt_2025-05-21, -08-20, -11-19 8-Ks; tgt_2026_10-k.txt line ~1316). This
+is why FY2025 gross margin still FELL (27.9% vs 28.2%) even though shrink improved — markdowns
+and tariff-linked costs ate the shrink benefit. Then in Q1 FY2026 markdowns turned into a
+tailwind: gross margin 29.0% vs 28.2%, "reflecting improved productivity in supply chain
+facilities, growth in advertising and other non-merchandise revenues, and lower markdown rates,
+partially offset by higher product costs" (tgt_2026-05-20_8-k.txt). So the gross-margin line
+inflected positive only in the last two quarters (Q4 FY2025 +40bps, Q1 FY2026 +80bps YoY).
+
+(c) TARIFFS / PRODUCT & IMPORT COSTS — the new, live gross-margin wildcard. ~One-half of
+merchandise is sourced outside the U.S., China the largest source (tgt_2026_10-k.txt line ~1084,
+704). "Higher product and import costs" pressured Q4 FY2025 and Q1 FY2026 gross margin
+(tgt_2026-03-03_8-k.txt; tgt_2026-05-20_8-k.txt). The Feb 20, 2026 Supreme Court ruling that
+IEEPA tariffs were unauthorized created a refund possibility but "does not establish a refund
+process," and the government then imposed replacement Section 122 tariffs — so the net effect is
+"unable to estimate" and could "materially affect" results (tgt_2026_10-k.txt line ~1086, 704).
+FY2026 guidance explicitly "excludes... impacts from any tariff refunds" (tgt_2026-05-20_8-k.txt).
+This is the biggest unquantifiable swing factor on the gross-margin side of normalization.
+
+(d) SG&A LEVERAGE — the crux, and the reason margin is NOT normalizing. During the downturn,
+SG&A DE-leveraged on falling sales (FY2025 adjusted SG&A rate 20.9% vs 20.6%, "reflecting the
+deleveraging impact of lower Net Sales," tgt_2026_10-k.txt line ~1324). The revealing quarter is
+Q1 FY2026: despite +6.7% net sales, the SG&A rate ROSE to 21.9% from a prior-year adjusted 21.7%
+(tgt_2026-05-20_8-k.txt Operating Metrics). Instead of dropping the topline recovery to the
+operating line, Target reinvested it: "higher compensation costs, including additional hours and
+training for field teams along with higher incentive compensation, planned spending related to
+capital projects, and higher marketing expense, partially offset by the leverage benefit of
+strong topline growth" (tgt_2026-05-20_8-k.txt). Result: Q1 FY2026 operating margin was 4.5% —
+above the prior-year ADJUSTED 3.7% (an improvement), but BELOW Q1 FY2024's 5.3%
+(tgt_income_statement.json: 1,296/24,531) and far below the ~6% Target ran pre-2022.
+
+Reconciliation of Theme 3: the structural gross-margin drivers ARE normalizing favorably (shrink
+done, markdowns and supply-chain productivity turned positive in the last two quarters, retail
+media adding high-margin revenue). But the entire gross-margin recovery — and then some — is
+being consumed by deliberate SG&A reinvestment in labor, marketing and remodels to reacquire
+traffic, while tariffs add an unquantified cost. Management's own guidance seals the point:
+FY2026 operating margin is guided to only "more than 20 basis points higher than the 4.6 percent
+Adjusted operating income margin rate in 2025" — i.e. ~4.8% (tgt_2026-05-20_8-k.txt), still below
+FY2024's 5.2% and nowhere near the pre-pandemic ~6%+. Margin normalization is therefore real in
+its gross-margin components but is being intentionally postponed at the operating line. It is a
+choice (growth over margin), not yet an achievement.
+
+====================================================================================
+THEME 4 — COMPETITIVE POSITIONING AND A CLEAR VERDICT
+====================================================================================
+
+Claim: Target lost meaningful share through this episode. Its recovery restores its own trend
+line, not its competitive standing — because Walmart and Costco compounded growth the entire
+time Target was shrinking.
+
+The cleanest comparison is the spring-2025 calendar quarter, when every peer grew and only
+Target contracted (revenue YoY, from the income_statement.json files):
+  Target Q1 FY2025 (end 2025-05-03):  net sales -2.8% (tgt_income_statement.json)
+  Walmart FY26 Q1 (end 2025-04-30):   +2.53% (wmt_income_statement.json)
+  Costco FY25 Q3 (end 2025-05-11):    +8.02% (cost_income_statement.json)
+  Dollar General FY25 Q1 (end 2025-05-02): +5.26% (dg_income_statement.json)
+Target was the only one of the four going backwards. That is share loss, full stop, and it is
+consistent with Target's own diagnosis of a "cautious... value-focused" consumer "selective in
+discretionary spending" (tgt_2026_10-k.txt line ~1062) — precisely the environment that rewards
+Walmart's price position and Costco's membership value and punishes Target's discretionary-heavy
+mix. The mix damage shows in the category tables: home furnishings & décor fell every quarter of
+FY2025 (e.g. Q3 -$277M YoY, $3,908M vs $4,185M, tgt_2025-11-19_8-k.txt), while Food & Beverage and
+Hardlines ("Fun 101") were the categories that held (tgt_2025-11-19; tgt_2026-03-03 8-Ks).
+
+By spring 2026 Target's growth optically matched or beat two of three peers:
+  Target Q1 FY2026 (end 2026-05-02):  +6.7% (tgt_2026-05-20_8-k.txt)
+  Walmart FY27 Q1 (end 2026-04-30):   +7.14% (wmt_income_statement.json)
+  Costco FY26 Q3 (end 2026-05-10):    +11.58% (cost_income_statement.json)
+  Dollar General FY26 Q1 (end 2026-05-01): +3.36% (dg_income_statement.json)
+But this is exactly the base-effect trap from Theme 1: Target's +6.7% is off a base that had
+itself shrunk 2.8%, whereas Walmart and Costco are growing on top of bases that already grew
+mid-single to high-single digits for two straight years. Target is climbing back toward where it
+was; the leaders kept pulling away. Costco in particular never decelerated below +8% YoY through
+this period (cost_income_statement.json).
+
+On margin LEVEL, Target is not the laggard — that is a genuine nuance. Target's ~4.5-4.9%
+operating margin sits ABOVE Walmart's steady ~3.8-4.7% (wmt_income_statement.json) and around
+Costco's ~3.7-4.0% (which is understated by membership-revenue accounting; cost_income_
+statement.json), and below only a recovered Dollar General at ~5.5-5.9% (dg_income_statement.json).
+The problem is not the level but the DIRECTION: Walmart's and Costco's operating margins were flat
+to rising on growth, while Target's fell. Dollar General is a cautionary mirror — its operating
+margin collapsed from ~8-11% to a 3.2% trough (FY24 Q3, dg_income_statement.json) before a partial
+rebuild — showing that in this cohort, margin recovery is neither automatic nor quick once a
+value retailer has to spend to win the consumer back.
+
+Two more competitive facts worth citing. First, Target itself acknowledged execution failure and
+overhauled leadership: the May 2025 "acceleration office" under Michael Fiddelke and subsequent
+CEO appointment (tgt_2025-05-21; tgt_2025-08-20 8-Ks), then a February 2026 restructuring that
+installed a single chief merchandising officer and a COO and pushed out the chief commercial and
+apparel/home merchandising chiefs (tgt_2026-02-11_8-k.txt). You do not remake the C-suite twice in
+a year over a macro problem; this reads as an admission that the traffic loss was substantially
+self-inflicted merchandising/execution, which cuts both ways — it is more fixable than a
+structural disadvantage, but it also means the fix is unproven. Second, Target's 10-K names its
+competitive battlefield as "wholesale clubs" and "off-price" and online marketplaces
+(tgt_2026_10-k.txt line ~498) and concedes guests "may make decisions based solely on price or
+convenience" (line ~574) — the exact axes on which Walmart and Costco lead.
+
+VERDICT — RECOVERY-TO-NORMALIZATION
+Split decision, and the split is the whole story:
+
+1) Traffic recovery: YES, and of high quality. It is traffic-led on the way down and the way up
+(+4.4% traffic / +5.6% comp in Q1 FY2026, broad-based across categories and channels;
+tgt_2026-05-20_8-k.txt), which is the most credible kind of recovery. Caveat: the magnitude is
+flattered by lapping the cycle's easiest compare, so it is "ground regained," not new expansion.
+
+2) Operating-margin normalization: NOT YET — and by management's own guide, only marginally in
+FY2026. FY2025 operating margin fell to a 4.6% adjusted low; FY2026 is guided to ~4.8%, still
+below FY2024's 5.2% and far below pre-pandemic norms (tgt_2026-03-03; tgt_2026-05-20 8-Ks;
+tgt_2026_10-k.txt). The gross-margin drivers are normalizing (shrink at pre-pandemic levels,
+markdowns and fulfillment productivity turning favorable, retail-media growth), but the benefit
+is being deliberately reinvested into SG&A (labor, marketing, remodels) to defend the very
+traffic recovery in point (1) — with tariffs an unquantified overhang on top.
+
+3) Competitive standing: still impaired. Target shrank while all three peers grew through
+FY2025; its spring-2026 growth restores its own trajectory but not the two years of relative
+ground ceded to Walmart and Costco.
+
+Unified conclusion: Target bought a genuine, traffic-quality recovery by spending its
+margin-normalization dividend, not by banking it. The correct framing is "growth reacquired,
+margin normalization postponed." The bull case that recovering traffic will mechanically
+re-leverage SG&A and snap margins back to ~6% is not supported by the data or by guidance;
+management is signaling the opposite for at least FY2026. The bear case that the recovery is
+fake is also wrong — traffic and stores genuinely turned. The defensible middle: the recovery is
+real but its conversion into normalized operating margin is deferred, contingent on Target
+holding the reacquired traffic while gradually re-leveraging its reinvestment, and exposed to a
+live tariff/gross-margin wildcard. Normalization is a FY2027+ question that this dataset leaves
+open, and the honest answer today is that it has not happened.
+
+AMBIGUITIES AND DATA LIMITS EXPLICITLY FLAGGED
+- Target does not disclose a dollar shrink figure; the "pre-pandemic levels" claim
+(tgt_2026_10-k.txt) and the reserve-sensitivity drop ($150M→$110M) are directional, not a
+quantified P&L bridge. The exact bps of shrink benefit vs markdown/tariff drag inside the
+gross-margin line is not separately given in any file — the press releases list the drivers
+qualitatively ("net impact of merchandising activities") without a decomposition.
+- Peer files (wmt/cost/dg income_statement.json) contain only Q1-Q3 (10-Q) quarters; every peer's
+Q4 holiday-peak quarter is missing, so no clean full-year peer-vs-Target comparison is possible
+from this data. Peer comparisons above are quarter-on-comparable-quarter only.
+- Peers report revenue growth, not comparable-store sales or traffic/ticket splits, so the
+like-for-like traffic comparison that would most directly test share-of-visits is not available
+in the data — the share-loss claim rests on total revenue direction (peers up, Target down),
+which is strong but not a traffic-for-traffic match.
+- Q1 FY2025 GAAP results carried a one-time $593M interchange-litigation gain
+(tgt_2025-05-21_8-k.txt); all FY2025/FY2026 margin comparisons above use the adjusted figures
+where that gain (and FY2025 business-transformation charges) are excluded, per the company's own
+non-GAAP reconciliations, to avoid a false read of the margin trend.

@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging"
+description = "Develop a grounded view on whether Delta's shift toward premium and loyalty revenue combined with balance-sheet deleveraging produces durable, less-cyclical earnings power, weighing the mix shift against still-single-digit operating margins and airline cyclicality."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DAL"]
+
+[metadata]
+uuid = "c4665352-69f2-5f33-83c0-d94df12f551d"
+difficulty_explanation = "The analyst must connect three interlocking stories — premium/diversified revenue mix, the American Express loyalty engine, and adjusted-net-debt reduction — and show how the high-margin franchise funds the deleveraging. It requires reconciling a genuinely improving revenue mix and a best-in-history balance sheet against still-single-digit operating margins and the airline industry's inherent cyclicality. Comparisons are also distorted by the 2024 CrowdStrike outage, which the analyst must adjust for rather than take at face value."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

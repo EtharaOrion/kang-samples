@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/net-2026-06-30-growth-durability-and-operating-leverage-inflection"
+description = "Develop a grounded, opinionated view on whether Cloudflare's (NET) revenue growth is durable and whether the business is genuinely inflecting toward operating leverage and profitability, using its latest 10-K, 10-Q, financial statements, and press releases."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "NET"]
+
+[metadata]
+uuid = "77425b67-d7ec-521d-bc92-898518bf65cf"
+difficulty_explanation = "The task requires reconciling genuinely conflicting signals: re-accelerating revenue growth, healthy net retention, and positive free cash flow point one way, while widening absolute GAAP operating losses and compressing gross margins point the other. The analyst must separate GAAP from non-GAAP and cash profitability, correctly attribute stock-based compensation and GPU/network investment as the bridging drivers, and take a defensible position rather than listing metrics. Doing so demands cross-referencing the 10-K, 10-Q, financial statements, and press releases without over-relying on figures that appear only in non-SEC sources."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

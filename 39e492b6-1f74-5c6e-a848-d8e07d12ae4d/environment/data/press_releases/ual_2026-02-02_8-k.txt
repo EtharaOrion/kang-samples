@@ -1,0 +1,1413 @@
+EX-4.2
+3
+tm263646d5_ex4-2.htm
+EXHIBIT 4.2
+
+Exhibit 4.2
+
+SIXTH SUPPLEMENTAL INDENTURE
+
+Dated as of February 2, 2026,
+
+among
+
+UNITED AIRLINES HOLDINGS, INC.,
+
+UNITED AIRLINES, INC.,
+
+and
+
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A.,
+
+as Trustee
+
+TABLE OF CONTENTS
+
+Page
+
+Section 1. Defined Terms1
+
+Section 2. Relation to Original Indenture1
+
+Section 3. Terms of the Notes1
+
+3.1 Issuer1
+
+3.2 Title and Form1
+
+3.3 Aggregate Principal Amount1
+
+3.4 Principal Payment1
+
+3.5 Interest1
+
+3.6 Method of Payment2
+
+3.7 Optional Redemption2
+
+3.8 Global Notes4
+
+3.9 Legends on Notes5
+
+3.10 Note Denominations6
+
+3.11 No Sinking Fund6
+
+3.12 Indenture Covenants6
+
+3.13 Note Guarantee6
+
+3.14 Amendments6
+
+3.15 Further Issuances7
+
+3.16 No Reissuance of Notes7
+
+Section 4. Additional Covenants Applicable
+ to the Notes8
+
+4.1 Offer to Repurchase Upon Change of Control
+ Triggering Event8
+
+4.2 Limitation on Liens10
+
+Section 5. Changes in Events of Default Applicable
+ to the Notes11
+
+Section 6. Acceleration12
+
+Section 7. Additional Definitions12
+
+Section 8. Miscellaneous19
+
+8.1 Governing Law19
+
+8.2 Counterparts19
+
+8.3 Trustee Not Responsible for Recitals19
+
+8.4 Confirmation of Indenture20
+
+8.5 Conflict with Trust Indenture Act20
+
+i
+
+EXHIBITS
+
+Exhibit AForm of Note
+
+Exhibit BForm of Notation of Note Guarantee
+
+ii
+
+SIXTH SUPPLEMENTAL INDENTURE,
+dated as of February 2, 2026 (the “Sixth Supplemental Indenture”), among United Airlines Holdings, Inc.
+(formerly known as United Continental Holdings, Inc.) (“UAL” or the “Issuer”),
+United Airlines, Inc. (“United”) and The Bank of New York Mellon Trust Company, N.A., as trustee (the
+ “Trustee”), to the Indenture, dated as of May 7, 2013 (the “Original Indenture”),
+among UAL, United and the Trustee. The Original Indenture as supplemented by this Sixth Supplemental Indenture is hereinafter called
+the “Indenture.”
+
+WHEREAS, Section 9.01
+of the Original Indenture permits supplements thereto to establish the form or terms of Securities pursuant to Article II of the
+Original Indenture; and
+
+WHEREAS, as contemplated
+by Section 2.02 of the Original Indenture, UAL wishes to establish the terms of a new Series of Securities (the “Notes”)
+pursuant to this Sixth Supplemental Indenture.
+
+NOW, THEREFORE, this Sixth
+Supplemental Indenture witnesseth:
+
+Section 1. Defined
+Terms. For purposes of this Sixth Supplemental Indenture, all terms defined in the Original Indenture and used herein have such defined
+meanings unless otherwise defined herein. In addition, Section 7 hereof sets forth certain defined terms for purposes of this Sixth
+Supplemental Indenture.
+
+Section 2. Relation
+to Original Indenture. The Original Indenture is supplemented and modified as set forth in this Sixth Supplemental Indenture for
+purposes of the Notes. This Sixth Supplemental Indenture shall not affect any Series of Securities other than the Notes.
+
+Section 3. Terms
+of the Notes. The terms of the Notes shall be as follows:
+
+3.1 Issuer. The issuer
+of the Notes shall be UAL.
+
+3.2 Title and Form.
+The title of the Notes is 5.375% Senior Notes due 2031. The Notes shall be in registered form and in substantially the form attached
+hereto as Exhibit A.
+
+3.3 Aggregate Principal
+Amount. The aggregate principal amount of the Notes which may be authenticated and delivered under the Indenture is initially limited
+to $1,000,000,000, except for Notes authenticated and delivered upon registration of transfer of, or in exchange for, or in lieu of,
+other Notes, and subject to increase as set forth in Section 3.15 hereof.
+
+3.4 Principal Payment.
+The outstanding principal amount of the Notes shall be due and payable on March 1, 2031.
+
+3.5 Interest. The outstanding
+principal amount of the Notes shall bear interest at the rate of 5.375% per annum, payable in arrears on March 1 and September 1
+of each year (each, an “Interest Payment Date”), commencing on September 1, 2026, to the Persons in whose
+names the Notes are registered at the close of business on the February 15 and August 15, respectively, next preceding such
+Interest Payment Date (each, a “Regular Record Date”). Interest shall accrue
+
+1
+
+ from the most recent date to which interest
+has been paid or for which interest has been provided, or, if no interest has been paid or provided for, from February 2, 2026.
+Interest due on any date shall be the amount accrued to but excluding such due date. Interest shall be calculated on the basis of a
+360-day year of twelve 30-day months. Any payment required to be made on any day that is not a Business Day will be made on the next
+succeeding Business Day without any interest or other payment due to the delay.
+
+3.6 Method of Payment.
+Principal of, premium (if any) and interest on the Notes shall be payable as provided in Section 2.15 of the Original Indenture.
+Notwithstanding the foregoing, payments of principal of, premium (if any) and interest on the Notes represented by one or more Global
+Notes will be made as provided in Section 3.8 hereof.
+
+3.7 Optional Redemption.
+
+(a)  The Issuer, at its
+option, may redeem the Notes, in whole or in part, at any time and from time to time. If the Notes are redeemed at any time prior to
+September 1, 2030 (the “Par Call Date”), the Notes will be redeemed at a redemption price equal to the
+greater of:
+
+(1) 100% of the principal
+amount of the Notes to be redeemed, and
+
+(2) the sum of the present
+values of the remaining scheduled payments of principal and interest on such Notes (excluding accrued and unpaid interest to the redemption
+date, and assuming final maturity on the Par Call Date) discounted to the redemption date on a semiannual basis (assuming a 360-day year
+consisting of twelve 30-day months) at the Treasury Rate (as defined below) plus 50 basis points,
+
+plus, in either case, accrued
+and unpaid interest on the principal amount being redeemed, if any, up to, but not including such redemption date.
+
+On or after the Par Call Date, the Issuer may,
+at its option, redeem the Notes, in whole or in part, at any time and from time to time, at a redemption price equal to 100% of the principal
+amount of the Notes being redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but not including, such
+redemption date. The Issuer’s actions and determinations in determining the redemption price shall be conclusive and binding for
+all purposes, absent manifest error.
+
+(b)  Subject to the remaining
+terms of this Section 3.7, Article III of the Original Indenture shall apply to any such redemption, except that, for purposes
+of such application:
+
+(1)          the
+second sentence of Section 3.02 of the Original Indenture shall be amended to read as follows: “The Trustee shall make the
+selection at least 10 days but no more than 60 days before the redemption date from the Notes not previously called for redemption.”
+
+(2)          the
+third sentence of Section 3.02 of the Original Indenture shall be amended to read as follows: “Notes and portions thereof
+that the Trustee selects shall be in principal amounts of $2,000 or integral multiples of $1,000 in excess thereof.”
+
+2
+
+(3)          the
+first sentence of Section 3.03 of the Original Indenture shall be amended to read as follows: “At least 10 days but not more
+than 60 days before the redemption date of the Notes to be redeemed, the Issuer shall mail a notice of redemption by first-class mail
+to each Holder of Notes to be redeemed at such Holder’s registered address.”
+
+(c)  If less than all
+outstanding Notes are to be redeemed, any selection of Notes to be redeemed shall be subject to applicable procedures of The Depository
+Trust Company (“DTC”) so long as it is the Depositary.
+
+(d)  For purposes of any
+redemptions pursuant to this Section 3.7, the term “Treasury Rate” shall have the following meaning:
+
+“Treasury
+Rate” means, with respect to any redemption date, the yield determined by the Issuer in accordance with the following two
+paragraphs.
+
+The Treasury Rate
+shall be determined by us on the third Business Day preceding the redemption date by taking the simple average of the yields to maturity
+for each of the five Business Days immediately preceding such third Business Day based upon the yield or yields that appear after 4:15
+p.m., New York City time (or after such time as yields on U.S. government securities are posted daily by the Board of Governors of the
+Federal Reserve System), for such day in the most recent statistical release published by the Board of Governors of the Federal Reserve
+System designated as “Selected Interest Rates (Daily)—H.15” (or any successor designation or publication) (“H.15”)
+under the caption “U.S. government securities–Treasury constant maturities–Nominal” (or any successor caption
+or heading) (“H.15 TCM”). In determining the Treasury Rate, the Issuer shall select, as applicable: (1) the
+yield for the Treasury constant maturity on H.15 exactly equal to the period from the redemption date to the Par Call Date (the “Remaining
+Life”); (2) if there is no such Treasury constant maturity on H.15 exactly equal to the Remaining Life, the two
+yields–one yield corresponding to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding to
+the Treasury constant maturity on H.15 immediately longer than the Remaining Life–and shall interpolate to the Par Call Date on
+a straight-line basis (using the actual number of days) using such yields and rounding the result to three decimal places; or (3) if
+there is no such Treasury constant maturity on H.15 shorter than or longer than the Remaining Life, the yield for the single Treasury
+constant maturity on H.15 closest to the Remaining Life. For purposes of this paragraph, the applicable Treasury constant maturity or
+maturities on H.15 shall be deemed to have a maturity date equal to the relevant number of months or years, as applicable, of such Treasury
+constant maturity from the redemption date.
+
+If for any of such
+five Business Days immediately preceding the third Business Day preceding the redemption date H.15 TCM is no longer published, the Issuer
+shall calculate the Treasury Rate based on the rate per annum equal to the semi-annual equivalent yield to maturity at 11:00 a.m., New
+York City time, on the second Business Day preceding such redemption date of the United States Treasury security maturing on, or with
+a maturity that is closest to, the Par Call Date, as 
+
+3
+
+applicable. If there is no United States Treasury security maturing on the Par Call
+Date but there are two or more United States Treasury securities with a maturity date equally distant from the Par Call Date, one with
+a maturity date preceding the Par Call Date and one with a maturity date following the Par Call Date, the Issuer shall select the United
+States Treasury security with a maturity date preceding the Par Call Date. If there are two or more United States Treasury securities
+maturing on the Par Call Date or two or more United States Treasury securities meeting the criteria of the preceding sentence, the Issuer
+shall select from among these two or more United States Treasury securities the United States Treasury security that is trading closest
+to par based upon the average of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New York City time.
+In determining the Treasury Rate in accordance with the terms of this paragraph, the semi-annual yield to maturity of the applicable
+United States Treasury security shall be based upon the average of the bid and asked prices (expressed as a percentage of principal amount)
+at 11:00 a.m., New York City time, of such United States Treasury security, and rounded to three decimal places.
+
+(e)  Any optional redemption
+(pursuant to this Section 3.7 or Section 4.1(e)) may, at the Issuer’s discretion, be conditioned upon the satisfaction
+or waiver of one or more conditions, including (1) the occurrence of a Change of Control or (2) the closing of another transaction,
+including a sale of securities or other financing, in each case as specified in the notice in reasonable detail. If such redemption is
+subject to satisfaction or waiver of one or more conditions, such notice of conditional redemption shall state that, in the Issuer’s
+discretion, the redemption date may be delayed until such time as any or all such conditions shall be satisfied or waived, or such redemption
+may not occur and such notice of conditional redemption may be rescinded in the event that any or all such conditions shall not have
+been satisfied or waived by the redemption date, or by the redemption date so delayed. A notice of conditional redemption will be of
+no effect unless all conditions to the redemption have occurred on or before the redemption date or have been waived by the Issuer on
+or before the redemption date. The Issuer will provide notice to the holders of the Notes subject to the notice of conditional redemption
+of the satisfaction of all conditions as soon as practicable following occurrence of the conditions. The Issuer will provide notice to
+the holders of the Notes subject to the notice of conditional redemption of any waiver of a condition or failure to meet such conditions
+no later than the redemption date. The Issuer will provide notice to the Trustee in no event less than one Business Day prior to the
+redemption date if any such redemption has been rescinded or delayed. Upon the Trustee’s receipt of the notice of conditional redemption
+and as specified in such notice, (i) the notice of conditional redemption shall be automatically rescinded and the Issuer will have
+no obligation to redeem the Notes subject to the notice of conditional redemption or (ii) the redemption date shall automatically
+be delayed until the new redemption date specified in such notice, as applicable. Promptly after receipt of such notice but in no event
+less than one Business Day prior to the redemption date, the Trustee shall provide a copy thereof to DTC in order for such notice to
+be given to each holder of the Notes in accordance with applicable procedures of DTC.
+
+3.8 Global Notes. The
+Notes shall initially be issued in the form of one or more Global Securities registered in the name of DTC, which shall be the initial
+Depositary with respect to the Notes, or its nominee (a “Global Note”), which shall be delivered to the Trustee
+as custodian for the Depositary or its nominee. The Paying Agent shall make payments of principal, premium, 
+
+4
+
+if any, or interest due on
+the Notes represented by one or more Global Notes to the Depositary or its nominee, as the case may be, as the registered owner of the
+related Global Note or Global Notes, by wire transfer of immediately available funds to the account designated by such registered holder.
+
+3.9 Legends on Notes.
+
+(a)  In addition to the
+legend set forth in Section 2.14(c) of the Original Indenture, so long as DTC is the Depositary, each Global Note registered
+in the name of DTC or its nominee shall bear a legend in substantially the following form:
+
+“UNLESS THIS GLOBAL NOTE
+IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER
+OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY GLOBAL NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE &
+CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO
+SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE
+BY OR TO ANY PERSON IS WRONGFUL INASMUCH THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.”
+
+(b)  All Notes shall bear
+a legend substantially in the following form:
+
+“BY ACCEPTANCE OF THIS
+NOTE OR ANY INTEREST HEREIN, EACH PURCHASER AND SUBSEQUENT TRANSFEREE OF THIS NOTE OR ANY INTEREST HEREIN WILL BE DEEMED TO HAVE REPRESENTED
+AND WARRANTED TO THE ISSUER AND THE TRUSTEE THAT EITHER (I) SUCH PURCHASER OR TRANSFEREE IS NOT AN EMPLOYEE BENEFIT PLAN THAT IS
+SUBJECT TO TITLE I OF THE EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), A PLAN, INDIVIDUAL
+RETIREMENT ACCOUNT OR OTHER ARRANGEMENT THAT IS SUBJECT TO SECTION 4975 OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”),
+OR PROVISIONS UNDER ANY FEDERAL, STATE, LOCAL, NON-U.S. OR OTHER LAWS OR REGULATIONS THAT ARE SIMILAR TO SUCH PROVISIONS OF THE CODE
+OR ERISA (COLLECTIVELY, “SIMILAR LAWS”), OR AN ENTITY WHOSE UNDERLYING ASSETS ARE CONSIDERED TO INCLUDE “PLAN ASSETS”
+OF SUCH PLANS, ACCOUNTS AND ARRANGEMENTS (COLLECTIVELY, “PLANS”), AND NO PORTION OF THE ASSETS USED BY SUCH PURCHASER OR
+TRANSFEREE TO ACQUIRE AND HOLD THIS NOTE OR ANY INTEREST HEREIN CONSTITUTES ASSETS OF ANY PLAN OR (II) THE PURCHASE AND HOLDING
+OF THIS NOTE OR ANY INTEREST HEREIN BY SUCH PURCHASER OR TRANSFEREE WILL NOT CONSTITUTE A NON-EXEMPT PROHIBITED TRANSACTION UNDER SECTION 406
+OF ERISA OR SECTION 4975 OF THE CODE OR A VIOLATION OF ANY APPLICABLE SIMILAR LAW.
+
+IF
+THE PURCHASER OR TRANSFEREE OF A NOTE IS A PLAN SUBJECT TO ERISA OR SECTION 4975 OF THE CODE, IT WILL BE DEEMED TO REPRESENT,
+
+5
+
+WARRANT AND AGREE THAT (I) NONE OF THE ISSUER, THE GUARANTOR, OR THE UNDERWRITERS, NOR ANY OF THEIR AFFILIATES, HAS PROVIDED ANY
+INVESTMENT RECOMMENDATION OR INVESTMENT ADVICE ON WHICH IT, OR ANY FIDUCIARY OR OTHER PERSON INVESTING THE ASSETS OF THE PLAN (“PLAN
+FIDUCIARY”), HAS RELIED IN CONNECTION WITH ITS DECISION TO INVEST IN NOTES, AND THEY ARE NOT OTHERWISE ACTING AS A FIDUCIARY, AS
+DEFINED IN SECTION 3(21) OF ERISA OR SECTION 4975(E)(3) OF THE CODE, TO THE PLAN OR THE PLAN FIDUCIARY IN CONNECTION WITH
+THE PLAN’S ACQUISITION OF NOTES (UNLESS A STATUTORY OR ADMINISTRATIVE EXEMPTION APPLIES (ALL OF THE APPLICABLE CONDITIONS OF WHICH
+ARE SATISFIED) OR THE TRANSACTION IS NOT OTHERWISE PROHIBITED); AND (II) THE PLAN FIDUCIARY IS EXERCISING ITS OWN INDEPENDENT JUDGMENT
+IN EVALUATING THE TRANSACTION.”
+
+3.10 Note Denominations.
+The Notes shall be issued in denominations of $2,000 or an integral multiple of $1,000 in excess thereof.
+
+3.11 No Sinking Fund.
+The Notes will not be entitled to the benefit of any sinking fund.
+
+3.12 Indenture Covenants.
+The covenants set forth in Article IV and Article V of the Original Indenture shall apply to the Notes.
+
+3.13 Note Guarantee.
+United (the “Guarantor”) fully and unconditionally guarantees the Notes pursuant to Article X of the Original
+Indenture (the “Note Guarantee”). The Notation of Note Guarantee substantially in the form attached hereto
+as Exhibit B shall be executed by United and attached to each Note authenticated pursuant to the Indenture.
+
+3.14 Amendments.
+
+(a)  The first sentence
+of Section 2.03 of the Original Indenture shall be amended and restated to read as follows:
+
+“One
+or more Officers of the Issuer for a Series shall sign the Securities of such Series on behalf of the Issuer by manual, electronic
+or facsimile signature.”
+
+(b)  The first sentence
+of the third paragraph of Section 2.03 of the Original Indenture shall be amended and restated to read as follows:
+
+“A
+Security shall not be valid until authenticated by the manual or electronic signature of the Trustee or an authenticating agent.”
+
+(c)  Section 4.02
+of the Original Indenture shall be amended to insert the following at the end of the first sentence thereof:
+
+“Reports,
+information and documents filed by UAL with the SEC via the EDGAR system will be deemed to have been furnished to the Trustee as of the
+time such documents are filed via EDGAR. The Trustee shall have no duty to review or analyze reports delivered to it.”
+
+6
+
+(d)  Section 9.01(1) of
+the Original Indenture shall be amended to insert the following at the end thereof:
+
+“, or to evidence the succession
+of another Person to the Guarantor pursuant to Section 10.04 and the assumption by such successor of the Guarantor’s covenants,
+agreements and obligations in this Indenture and with respect to the Securities;”
+
+(e)          Section 9.01(9) of
+the Original Indenture shall be amended and restated to read as follows:
+
+“to make any change that does not
+adversely affect the rights of any Holder of Notes in any material respect;”
+
+(f)  Section 9.02(7) of
+the Original Indenture shall be amended and restated to read as follows:
+
+“except
+as provided under Article VIII hereof or in connection with a consolidation, merger or conveyance, transfer or lease of assets pursuant
+to this Indenture, release any Securities Guarantor from any of its obligations under its Securities Guarantee or make any change in
+a Securities Guarantee that would adversely affect such Holder; or”
+
+(g)  The last sentence
+of the first paragraph of Section 10.02 of the Original Indenture shall be amended and restated to read as follows:
+
+“The
+signature of any of these officers on the Securities Guarantees may be manual, electronic or facsimile.”
+
+(h)  The second paragraph
+of Section 10.02 of the Original Indenture shall be amended and restated to read as follows:
+
+“Securities
+Guarantees bearing the manual, electronic or facsimile signatures of the individuals who were the proper officers of the Securities Guarantor
+shall bind the Securities Guarantor, notwithstanding that such individuals or any of them have ceased to hold such offices prior to or
+after the authentication and delivery of the Securities upon which such Securities Guarantees are endorsed or did not hold such offices
+at the date of such Securities.”
+
+3.15 Further Issuances.
+The Issuer may, from time to time, without notice to or the consent of the Holders of the Notes, increase the principal amount of the
+Notes under the Indenture and issue such increased principal amount (or any portion thereof), in which case any additional Notes so issued
+will have the same form and terms (other than the date of issuance, public offering price and, under certain circumstances, the date
+from which interest thereon will begin to accrue), and will carry the same right to receive accrued and unpaid interest, as the Notes
+previously issued, and such additional Notes will form a single series with the Notes.
+
+3.16 No Reissuance of Notes.
+The Issuer may not reissue a Note that has matured, been redeemed, been purchased by the Issuer at the Holder’s option upon a Change
+of Control 
+
+7
+
+Triggering Event or otherwise been canceled, except for registration of transfer, exchange or replacement of such Note.
+
+Section 4. Additional
+Covenants Applicable to the Notes. The following covenants shall be applicable for purposes of the Notes:
+
+4.1 Offer to Repurchase
+Upon Change of Control Triggering Event.
+
+(a) 
+Upon the occurrence of a Change of Control Triggering Event, unless the Issuer has otherwise exercised its right to redeem the Notes,
+each Holder of Notes will have the right to require the Issuer to purchase all or a portion (equal to $2,000 or an integral multiple
+of $1,000 in excess thereof) of such Holder’s Notes pursuant to the offer described below (the “Change of Control
+Offer”), at a purchase price equal to 101% of the principal amount thereof, plus accrued and unpaid interest thereon, if
+any, to the date of purchase, subject to the rights of Holders of Notes on the relevant Record Date to receive interest due on the relevant
+Interest Payment Date (the “Change of Control Payment”).
+
+(b) 
+Within 30 days following the date upon which the Change of Control Triggering Event occurred, unless the Issuer has otherwise
+exercised its right to redeem the Notes, the Issuer will deliver a notice to each Holder of the unredeemed Notes, with a copy to the
+Trustee, which notice will govern the terms of the Change of Control Offer; provided that, at the Issuer’s option, the Issuer may
+deliver such notice prior to any Change of Control but after the public announcement of the Change of Control; provided further that
+such notice, if sent prior to the date of consummation of the Change of Control, will state that the Change of Control Offer is conditioned
+on the Change of Control Triggering Event occurring on or prior to the Change of Control Payment Date. Such notice will also state, among
+other things:
+
+(1)          that
+the Change of Control Offer is being made pursuant to this Section 4.1 and that all Notes tendered will be accepted for payment;
+
+(2)          the
+purchase price and the purchase date, which must be no earlier than 30 days nor later than 60 days from the date such notice is sent,
+other than as may be required by law (the “Change of Control Payment Date”);
+
+(3)          that
+any Note not tendered will continue to accrue interest;
+
+(4)          that,
+unless the Issuer defaults in the payment of the Change of Control Payment, all Notes accepted for payment pursuant to the Change of
+Control Triggering Event will cease to accrue interest after the Change of Control Payment Date;
+
+(5)          that
+Holders of Notes electing to have Notes purchased pursuant to a Change of Control Offer must surrender their Notes, with the form entitled
+ “Option of Holder to Elect Purchase” on the reverse of the Note completed, to the Paying Agent at the address specified in
+the notice, or transfer their Notes to the Paying Agent by book-entry transfer pursuant to the applicable procedures of DTC, before the
+close of business on the third Business Day prior to the Change of Control Payment Date;
+
+8
+
+(6)          that
+Holders of Notes will be entitled to withdraw their election if the Paying Agent receives, not later than the close of business on the
+second Business Day preceding the Change of Control Payment Date, a telex, facsimile transmission, email or letter setting forth the
+name of the Holder, the principal amount of Notes delivered for purchase, and a statement that such Holder is withdrawing its election
+to have the Notes purchased; and
+
+(7)          that
+Holders of Notes whose Notes are being purchased only in part will be issued new Notes equal in principal amount to the unpurchased portion
+of the Notes surrendered, which unpurchased portion must be equal to $2,000 in principal amount or an integral multiple of $1,000 in
+excess thereof.
+
+(c)  On the Change of
+Control Payment Date, the Issuer will, to the extent lawful:
+
+(1)          accept
+for payment all Notes or portions of Notes properly tendered pursuant to the Change of Control Offer;
+
+(2)          deposit
+with the Paying Agent an amount equal to the Change of Control Payment in respect of all Notes or portions of Notes properly tendered;
+and
+
+(3)          deliver
+or cause to be delivered to the Trustee the Notes properly accepted together with an Officer’s Certificate stating the aggregate
+principal amount of Notes or portions of Notes being purchased by the Issuer.
+
+The Paying Agent will promptly
+deliver (but in any case not later than five days after the Change of Control Payment Date) to each Holder of Notes properly tendered
+the Change of Control Payment for such Notes, and the Issuer shall issue, and the Trustee will promptly authenticate and mail (or cause
+to be transferred by book entry) to each Holder a new Note equal in principal amount to any unpurchased portion of the Notes surrendered,
+if any. The Issuer will publicly announce the results of the Change of Control Offer on or as soon as practicable after the Change of
+Control Payment Date.
+
+(d)  Notwithstanding anything
+to the contrary in the Indenture or the Notes, the Issuer will not be required to make a Change of Control Offer if a third party makes
+such an offer in the manner, at the times and otherwise in compliance with the requirements for such an offer made by the Issuer and
+such third party purchases all Notes properly tendered and not withdrawn under its offer. For avoidance of doubt, for purpose of this
+Section 4.1 and the requirement for delivery of a Change of Control Offer, delivery by the Issuer of a notice of redemption with
+respect to any Notes pursuant to Section 3.7 shall, so long as such redemption is not (or has otherwise ceased to) be conditional
+in accordance with Section 3.7(e), be considered an exercise of the Issuer’s right to redeem such Notes unless and until there
+is a default in payment of the applicable redemption price.
+
+(e)  If Holders of not
+less than 90% in aggregate principal amount of the outstanding Notes validly tender and do not withdraw the Notes in a Change of Control
+Offer and the Issuer, or any third party making a Change of Control Offer in lieu of the Issuer, purchases all of such Notes validly
+tendered and not withdrawn by such Holders, the Issuer will have the right, upon not less than 20 nor more than 60 days’ prior
+notice, given not more than 30 days following such 
+
+9
+
+purchase pursuant to the Change of Control Offer described above, to redeem all Notes
+that remain outstanding following such purchase at a redemption price in cash equal to 101% of the principal amount thereof, plus accrued
+and unpaid interest thereon, if any, to the date of redemption (subject to the right of holders of record on the relevant Record Date
+to receive interest on the relevant interest payment date). The provisions of Article III of the Original Indenture and Section 3.7(e) hereof
+shall, except as modified by the preceding sentence, apply to any redemption pursuant to this Section 4.1(e).
+
+(f)  The Issuer will comply
+with the requirements of Rule 14e-1 under the Exchange Act and any other securities laws and regulations thereunder to the extent
+those laws and regulations are applicable in connection with the repurchase of the Notes as a result of a Change of Control Triggering
+Event. To the extent that the provisions of any such securities laws or regulations conflict with the Change of Control Offer provisions
+set forth in this Section 4.1, the Issuer will comply with those securities laws and regulations and will not be deemed to have
+breached the Issuer’s obligations under this Section 4.1 by virtue of any such conflict.
+
+(g)  For the avoidance
+of doubt, the Issuer’s failure to make a Change of Control Offer would constitute a Default under clause (3) of Section 6.01
+of the Indenture and not clause (1) or (2) thereof, but the failure of the Issuer to pay the Change of Control Payment when
+due shall constitute a Default under clause (1) of Section 6.01 thereof.
+
+4.2 Limitation on Liens.
+
+(a)  The Issuer will not,
+and will not permit any Material Subsidiary to, at any time subject to any Lien any Covered Property to secure any Indebtedness or Capital
+Lease, unless the Notes are expressly secured equally and ratably with any such Indebtedness or Capital Lease so secured, including any
+guarantee thereof, so long as any such Indebtedness or Capital Lease shall be so secured, and the Issuer covenants that if and when any
+such Lien is created, the Notes will be so secured thereby; provided, that, the foregoing shall not apply to:
+
+(1)          (A) Liens
+on Covered Property outstanding on the Closing Date securing Indebtedness or Capital Leases outstanding on the Closing Date (and as in
+effect on the Closing Date) and (B) Liens on Covered Property (including cure collateral) incurred after the Closing Date pursuant
+to the terms of any Indebtedness or Capital Leases outstanding on the Closing Date (and as in effect on the Closing Date);
+
+(2)          any
+Lien on any Covered Property (A) existing at the time of acquisition of such Covered Property or the entity owning such Covered
+Property (including acquisition through merger or consolidation), or (B) given to secure the payment of all or any part of the purchase,
+lease or acquisition thereof or the cost of construction, repair, refurbishment, modification or improvement of Covered Property or any
+real or personal property leased to the Issuer or any of its Subsidiaries or any Indebtedness or Capital Lease incurred prior thereto,
+at the time of, or within 180 days after, the completion of the acquisition, construction, repair, refurbishment, modification or improvement
+of the relevant Covered Property or any real or personal property leased to the Issuer or any of its Subsidiaries for the purpose of
+financing all or part of the purchase, lease or acquisition thereof or the cost of construction, repair, refurbishment, modification
+or improvement;
+
+10
+
+(3) Liens by a Subsidiary
+of the Issuer as security for Indebtedness or Capital Lease owed to the Issuer or any of its Subsidiaries;
+
+(4) a banker’s
+lien or right of offset of the holder of such Indebtedness in favor of any lender of moneys or holder of commercial paper of the Issuer
+or any of its Subsidiaries in the ordinary course of business on moneys of the Issuer or such Subsidiary deposited with such lender or
+holder in the ordinary course of business;
+
+(5) Liens in favor of
+credit card processors securing obligations in connection with credit card processing services incurred in the ordinary course of business
+and consistent with past practices;
+
+(6) any extension, renewal
+or replacement (or successive extensions, renewals or replacements), in whole or in part, of any Lien referred to in the foregoing clauses
+(1) through (5) in connection with the refinancing, amendment, restructuring or other modification of Indebtedness or Capital
+Lease of the Issuer and its Subsidiaries secured by such Lien; and
+
+(7) other
+Liens not permitted by any of the foregoing clauses (1) through (6) on any Covered Property, now owned or hereafter acquired;
+provided, that, no such Liens shall be incurred pursuant to this subsection (7) if the aggregate principal amount of outstanding
+Indebtedness (without duplication for any guarantee of such Indebtedness) and Capital Leases secured by Liens incurred pursuant to this
+subsection (7) subsequent to the Closing Date, including the Lien proposed to be incurred, shall exceed 10% of Consolidated
+Tangible Assets after giving effect to such incurrence and the use of proceeds of such Indebtedness or Capital Leases.
+
+(b)  Any Lien that is
+granted to secure the Notes in accordance with this Section 4.2 shall be automatically released and discharged at the same time
+as the release (other than through the exercise of remedies with respect thereto) of each Lien that gave rise to such obligation to secure
+the Notes.
+
+Section 5. Changes
+in Events of Default Applicable to the Notes.
+
+(a)  Clauses (3), (4) and
+(5) of Section 6.01 of the Original Indenture shall be amended and restated to read as follows:
+
+“(3) failure
+by the Issuer or the Guarantor to comply in any material respect with any of the covenants or agreements applicable to the Notes to which
+the Issuer or the Guarantor is subject (other than those referred to in (1) or (2) above) and such failure continues for 90
+days after the notice specified below;
+
+(4) the Issuer
+or the Guarantor pursuant to or within the meaning of any Bankruptcy Law:
+
+(A) commences
+a voluntary case;
+
+(B) consents
+to the entry of an order for relief against it in an involuntary case;
+
+11
+
+(C) consents
+to the appointment of a Custodian of it or for all or substantially all of its property; or
+
+(D) makes a
+general assignment for the benefit of its creditors or takes any comparable action under any foreign laws relating to insolvency;
+
+(5) a court
+of competent jurisdiction enters an order or decree under any Bankruptcy Law, which remains unstayed and in effect for 90 days, that:
+
+(A) is for relief
+against the Issuer or the Guarantor in an involuntary case;
+
+(B) appoints
+a Custodian of the Issuer or the Guarantor or all or substantially all of the property of the Issuer or the Guarantor; or
+
+(C) orders the
+winding up or liquidation of the Issuer or the Guarantor or any similar relief is granted under any foreign laws.”
+
+(b)  The following shall
+be added to Section 6.01 of the Original Indenture following clause (5):
+
+“(6)
+except as permitted by the Indenture, the Note Guarantee is held in any judicial proceeding to be unenforceable or invalid or ceases
+for any reason to be in full force and effect, or the Guarantor denies or disaffirms in writing its obligations under the Note Guarantee.”
+
+Section 6. Acceleration.
+Section 6.02 of the Original Indenture shall be amended and restated to read as follows:
+
+“Acceleration.
+If an Event of Default with respect to the Notes (other than an Event of Default specified in Section 6.01(4) or (5) of
+the Indenture) occurs and is continuing, the Trustee or the Holders of at least 25% in principal amount of the Notes outstanding may,
+by written notice to the Issuer (and to the Trustee if such notice is given by the Holders), declare the principal amount of, and accrued
+and unpaid interest on all the Notes to be due and payable. Upon such a declaration, such amounts shall be due and payable immediately.
+If an Event of Default specified in Section 6.01(4) or (5) of the Indenture occurs, the principal amount of, and accrued
+and unpaid interest on all the Notes shall ipso facto become and be immediately due and payable without any declaration or other
+act on the part of the Trustee or any Holder. The Holders of a majority in principal amount of the Notes by notice to the Trustee may
+rescind an acceleration of the Notes and its consequences if the rescission would not conflict with any judgment or decree and if all
+existing Events of Default with respect to such Notes have been cured or waived except nonpayment of the principal amount of, and accrued
+and unpaid interest on all Notes that has become due solely because of acceleration. No such rescission shall affect any subsequent Default
+or impair any right consequent thereto.”
+
+Section 7. Additional
+Definitions. The following definitions shall be applicable for purposes of this Sixth Supplemental Indenture (and, if any term defined
+below is also defined in the Original Indenture, the definition below shall supersede the definition of such term in the Original Indenture):
+
+12
+
+“Aircraft Assets” means
+aircraft, airframes, engines (including spare engines), propellers, parts and other operating assets and pre-delivery payments relating
+to any of the foregoing.
+
+“Airline/Parent
+Merger” means the merger or consolidation, if any, of United and UAL.
+
+“Beneficial Owner”
+has the meaning assigned to such term in Rule 13d-3 and Rule 13d-5 under the Exchange Act, except that in calculating the beneficial
+ownership of any particular “person” (as that term is used in Section 13(d)(3) of the Exchange Act), such “person”
+will be deemed to have beneficial ownership of all securities that such “person” has the right to acquire by conversion or
+exercise of other securities, whether such right is currently exercisable or is exercisable only after the passage of time.
+
+“Brand Assets”
+means all (a) worldwide rights, owned or purported to be owned, or later developed or acquired and owned or purported to be owned,
+by UAL, United or any of their Subsidiaries, in and to all Intellectual Property comprising, or associated with, (i) all Trademarks
+that include the word “United” or phrase “United Airlines” or any successor brand, and all variations of the
+foregoing (including any Trademarks confusingly similar thereto, derived therefrom or containing the key elements thereof) (collectively,
+the “Brand Trademarks”), (ii) the “united.com” domain name and similar domain names or any
+successor domain names (collectively, the “Brand Domain Names”), and (iii) other Trademarks, and any rights
+associated with any of the foregoing, owned or purported to be owned by and/or associated with UAL, United or any of their Subsidiaries
+(including, for avoidance of doubt, Continental Airlines, Inc. and United Continental Holdings, Inc. and any other predecessor
+of UAL, United or any of their Subsidiaries) (collectively, the “Other Brand Trademarks”), including (A) all
+causes of action and claims now or hereafter held by UAL, United or any of their Subsidiaries in respect of the Brand Trademarks, Brand
+Domain Names and Other Brand Trademarks, including, without limitation, the right to sue or otherwise recover for any and all past, present
+and future infringements or dilutions thereof and (B) all other Trademark rights corresponding thereto and all other Trademark rights
+of any kind whatsoever accruing under the Brand Trademarks, Brand Domain Names and Other Brand Trademarks; and including license, sublicence,
+contribution, lending, administrative, operating, services, management, co-branding, partnering or similar agreements related to or entered
+into in connection with the foregoing, and all proceeds of the foregoing, and (b) Equity Interests, and debt securities convertible
+into, or exchangeable for, Equity Interests, in the Brand Assets Group.
+
+“Brand Assets
+Group” means, each Subsidiary of United and UAL (other than United) whose primary business activity is to hold, own, operate,
+manage, or serve Brand Assets.
+
+“Capital Lease”
+means, at any time, a lease with respect to which the lessee is required concurrently to recognize the acquisition of an asset and the
+incurrence of a liability in accordance with GAAP.
+
+“Capital Stock”
+means:
+
+(1)          in
+the case of a corporation, corporate stock;
+
+13
+
+(2)          in
+the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated)
+of corporate stock;
+
+(3)          in
+the case of a partnership or limited liability company, partnership interests (whether general or limited) or membership interests; and
+
+(4)          any
+other interest or participation that confers on a Person the right to receive a share of the profits and losses of, or distributions
+of assets of, the issuing Person,
+
+but excluding from all of the foregoing any debt
+securities convertible into Capital Stock, whether or not such debt securities include any right of participation with Capital Stock.
+
+“Change of Control”
+means the occurrence of any of the following:
+
+(1)          the
+sale, lease, transfer, conveyance or other disposition (other than by way of merger or consolidation), in one or a series of related
+transactions, of all or substantially all of the properties or assets of the Issuer and its Subsidiaries taken as a whole to any Person
+(including any “person” (as that term is used in Section 13(d)(3) of the Exchange Act)); provided that the sale
+by United of all or substantially all of its properties or assets to UAL shall not constitute a Change of Control; or
+
+(2)          the
+consummation of any transaction (including, without limitation, any merger or consolidation), the result of which is that any Person
+(including any “person” (as defined above)) becomes the Beneficial Owner, directly or indirectly, of more than 50% of the
+Voting Stock of the Issuer (measured by voting power rather than number of shares), other than (i) any such transaction where the
+Voting Stock of the Issuer (measured by voting power rather than number of shares) outstanding immediately prior to such transaction
+constitutes or is converted into or exchanged for a majority of the outstanding shares of the Voting Stock of such Beneficial Owner (measured
+by voting power rather than number of shares) or (ii) any merger or consolidation of the Issuer with or into any Person (including
+any “person” (as defined above)) which owns or operates (directly or indirectly through a contractual arrangement) a Permitted
+Business (a “Permitted Person”) or a Subsidiary of a Permitted Person, in each case, if immediately after such
+transaction no Person (including any “person” (as defined above)) is the Beneficial Owner, directly or indirectly, of more
+than 50% of the total Voting Stock of such Permitted Person (measured by voting power rather than number of shares); provided that the
+occurrence of the Airline/Parent Merger shall not be deemed to constitute a Change of Control.
+
+“Change of Control
+Offer” has the meaning assigned to that term in Section 4.1(a) hereof.
+
+“Change of Control
+Payment” has the meaning assigned to that term in Section 4.1(a) hereof.
+
+“Change of Control
+Payment Date” has the meaning assigned to that term in Section 4.1(b)(2) hereof.
+
+“Change of Control
+Triggering Event” means the occurrence of both a Change of Control and a Rating Decline.
+
+14
+
+“Closing Date”
+means the date of original issuance of the Notes.
+
+“Consolidated
+Tangible Assets” means, at any date of determination, the total assets of UAL and its Subsidiaries as of the end of a fiscal
+quarter reported on the most recently prepared consolidated balance sheet of UAL filed with the SEC, less all assets shown on such consolidated
+balance sheet that are classified and accounted for as intangible assets of UAL or any of its Subsidiaries or that otherwise would be
+considered intangible assets under GAAP, including, without limitation, franchises, patents and patent applications, trademarks, brand
+names, unamortized debt discount and goodwill.
+
+“Covered Property”
+means any property, tangible or intangible, real or personal, or asset of UAL or any UAL Subsidiary, other than any Aircraft Assets,
+Brand Assets, SRG Assets or Loyalty Assets.
+
+“DTC”
+has the meaning assigned to that term in Section 3.7(c).
+
+“Equity Interests”
+means Capital Stock and all warrants, options or other rights to acquire Capital Stock (but excluding any debt security that is convertible
+into, or exchangeable for, Capital Stock).
+
+“FAA Slot”
+means, in the case of airports in the United States, at any time, the right and operational authority to conduct one Instrument Flight
+Rule (as defined in Title 14) scheduled landing or take-off operation at a specific time or during a specific time period at any
+airport at which landings or take-offs are restricted, including, without limitation, slots and operating authorizations, whether pursuant
+to U.S. Federal Aviation Administration or U.S. Department of Transportation regulations or orders pursuant to Title 14, Title 49 or
+other federal statutes now or hereinafter in effect.
+
+“Fitch”
+means Fitch, Inc., also known as Fitch Ratings, and its successors.
+
+“Foreign Slot”
+means, in the case of airports outside the United States, at any time, the right and operational authority to conduct one landing or
+take-off at a specific time or during a specific time period.
+
+“GAAP”
+means generally accepted accounting principles in the United States of America which are in effect from time to time, including those
+set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants,
+statements and pronouncements of the Financial Accounting Standards Board, such other statements by such other entity as have been approved
+by a significant segment of the accounting profession and the rules and regulations of the SEC governing the inclusion of financial
+statements in periodic reports required to be filed pursuant to Section 13 of the Exchange Act, including opinions and pronouncements
+in staff accounting bulletins and similar written statements from the accounting staff of the SEC.
+
+“Gate Leaseholds”
+means, at any time, all of the right, title, privilege, interest, and authority now or hereafter acquired or held by United or any other
+applicable UAL subsidiary in connection with the right to use or occupy holdroom and passenger boarding and deplaning space
+
+15
+
+ in any airport
+terminal at which United or any other UAL subsidiary conducts scheduled operations.
+
+“Global Note”
+has the meaning assigned to that term in Section 3.8.
+
+“Guarantor”
+means United.
+
+“Indebtedness”
+means any Person’s obligation for borrowed money, including without limitation all obligations evidenced by bonds,
+debentures, notes or similar instruments.
+
+“Intellectual
+Property” means all (a) patents, applications for patents and statutory invention registrations, including reissues,
+divisions, provisionals, non-provisionals, continuations, renewals, re-examinations, extensions and continuations-in-part of the foregoing,
+(b) Trademarks, (c) registered or unregistered copyrights, copyrightable subject matter, works of authorship, mask works, rights
+of publicity and all other rights in any works of authorship and all derivative works, translations, adaptations and combinations of
+any of the foregoing, all applications and registrations therefor, and renewals, extensions and reversions thereof, (d) Trade Secrets,
+(e) designs, design registrations, design registration applications and integrated circuit topographies, (f) rights in databases
+and data collections, (g) moral and economic rights of authors and inventors, however denominated, (h) other intellectual property
+and proprietary rights in all forms and media, and all goodwill associated therewith, now known or hereafter recognized in any jurisdiction
+worldwide, whether registered or unregistered, and (i) similar or equivalent rights to any of the foregoing, including those arising
+under international treaties and convention rights.
+
+“Investment Grade”
+means a rating of BBB- or better by Fitch (or its equivalent under any successor rating category of Fitch); a rating of Baa3 or better
+by Moody’s (or its equivalent under any successor rating category of Moody’s); and a rating of BBB- or better by S&P
+(or its equivalent under any successor rating category of S&P).
+
+“Interest Payment
+Date” has the meaning assigned to that term in Section 3.5.
+
+“Lien”
+means any lien (statutory or otherwise), security interest, mortgage, pledge, hypothecation, charge or similar encumbrance; provided,
+however, that in no event shall an operating lease, operating sublease or license be deemed to constitute a Lien.
+
+“Loyalty Assets”
+means all assets which are primarily related to, or used or entered into in connection with, the MileagePlus Program, or which are owned
+or held by the MileagePlus Group, including, without limitation, (i) Intellectual Property primarily used in or required or necessary
+to operate the MileagePlus Program, (ii) license, sublicence, contribution, operating, services, lending, administrative, management
+or similar agreements related to or entered into in connection with the MileagePlus Program, (iii) co-branding, partnering or similar
+agreements related to or entered into in connection with the MileagePlus Program, (iv) data used, generated or produced as part
+of the MileagePlus Program, (v) miles, points or other units of currency under the MileagePlus Program, and agreements governing
+the sale, transfer or redemption thereof, (vi) Equity Interests, and debt securities convertible into, or exchangeable for, Equity
+Interests, in the MileagePlus Group, (vii) any cash or securities or deposit accounts related to the foregoing, and (viii) all
+proceeds of any of the foregoing.
+
+16
+
+“Material Subsidiary”
+means, at any date of determination, any of UAL’s Subsidiaries that, together with its Subsidiaries, (i) for UAL’s most
+recently completed four full fiscal quarters for which consolidated financial statements have been filed with the SEC, accounted for
+more than 10.0% of the consolidated revenues of UAL and its Subsidiaries or (ii) as of the end of UAL’s most recent fiscal
+quarter for which consolidated financial statements have been filed with the SEC, was the owner of more than 10.0% of the consolidated
+assets of UAL and its Subsidiaries.
+
+“MileagePlus
+Group” means, collectively, MPH and each of its Subsidiaries (including Mileage Plus Intellectual Property Assets, Ltd.,
+an exempted company incorporated with limited liability under the laws of the Cayman Islands), and any other Subsidiary of United or
+UAL (excluding United) whose primary business activity is to hold, own or operate assets (including Equity Interests) primarily related
+to, or used or entered into in connection with, the MileagePlus Program.
+
+“MileagePlus
+Program” means any loyalty program which is operated, owned or controlled, directly or indirectly by MPH, UAL or United
+or any of their respective Subsidiaries, or principally associated with MPH, UAL or United or any of their respective Subsidiaries, as
+in effect from time to time, whether under the “MileagePlus” name or otherwise (in each case including any successor program).
+
+“Moody’s”
+means Moody’s Investors Service, Inc., a subsidiary of Moody’s Corporation, and its successors.
+
+“MPH”
+means Mileage Plus Holdings, LLC, a Delaware limited liability company.
+
+“Note Guarantee”
+has the meaning assigned to that term in Section 3.13.
+
+“Par Call Date”
+has the meaning assigned to that term in Section 3.7(a).
+
+“Permitted Business”
+means any business that is the same as, or reasonably related, ancillary, supportive or complementary to, the business in which the Issuer
+and its Subsidiaries are engaged on the Closing Date.
+
+“Rating Agency”
+means (1) each of Fitch, Moody’s, and S&P, and (2) if any of Fitch, Moody’s, or S&P ceases to rate the
+Notes or fails to make a rating of the Notes publicly available for reasons outside of our control, a “nationally recognized statistical
+rating organization” as defined in Section 3(a)(62) of the Exchange Act, selected by us (as certified by a resolution of United’s
+board of directors or the Board of Directors) as a replacement agency for Fitch, Moody’s, or S&P, or all of them, as the case
+may be.
+
+“Rating Decline”
+with respect to the Notes shall be deemed to occur if, within 60 days after public notice of the occurrence of a Change of Control
+(which period shall be extended so long as the rating of the Notes is under publicly announced consideration for possible downgrade by
+any Rating Agency), the rating of the Notes by each Rating Agency shall be decreased by one or more gradations and in each case below
+Investment Grade; provided that each Rating Agency indicates that such downgrade is as a result of such Change of Control.
+
+17
+
+“Routes”
+means the authority pursuant to Title 49 or other applicable law, to operate scheduled service between a specifically designated pair
+of terminal points and intermediate points, if any, including, without limitation, applicable frequencies, exemption and certificate
+authorities.
+
+“Regular Record
+Date” has the meaning assigned to that term in Section 3.5.
+
+“S&P”
+means S&P Global Ratings and its successors.
+
+“Slot”
+means each FAA Slot and each Foreign Slot, as the case may be.
+
+“SRG Assets”
+means Slots, Routes and Gate Leaseholds.
+
+“Stated
+Maturity” means the date specified in the Notes as the fixed date on which an amount equal to the principal amount
+of the Notes is due and payable.
+
+“Subsidiary”
+means, with respect to any Person:
+
+(1)          any
+corporation, association or other business entity (other than a partnership, joint venture or limited liability company) of which more
+than 50% of the total voting power of shares of Capital Stock entitled (without regard to the occurrence of any contingency and after
+giving effect to any voting agreement or stockholders’ agreement that effectively transfers voting power) to vote in the election
+of directors, managers or trustees of the corporation, association or other business entity is at the time of determination owned or
+controlled, directly or indirectly, by such Person or one or more of the other Subsidiaries of such Person (or a combination thereof);
+and
+
+(2)          any
+partnership, joint venture or limited liability company of which (a) more than 50% of the capital accounts, distribution rights,
+total equity and voting interests or general and limited partnership interests, as applicable, are owned or controlled, directly or indirectly,
+by such Person or one or more of the other Subsidiaries of such Person or a combination thereof, whether in the form of membership, general,
+special or limited partnership interests or otherwise, and (b) such Person or any Subsidiary of such Person is a controlling general
+partner or otherwise controls such entity.
+
+“Trademarks”
+means all trademarks, service marks, trade names, business names, corporate names and other source or business identifiers, trade dress,
+look and feel, product and service names, logos, brand names, designs, slogans, common law trademarks and service marks, 800 numbers,
+domain names, URLs, social media usernames, handles, hashtags and account names, symbols, emblems, insignia and other distinctive identification
+and indicia of source of origin, whether or not registered, including all common law rights thereto, and all applications, renewals,
+extensions and registrations therefor, and all goodwill associated with or related to any of the foregoing or the business connected
+with the use of, and symbolized by, the foregoing.
+
+“Trade Secrets”
+means all confidential or proprietary information, trade secrets (as defined under the Uniform Trade Secrets Act or the federal Defend
+Trade Secrets Act of 2016) and know-how, which may include without limitation all inventions (whether or not patentable), ideas, discoveries,
+invention disclosures, methods, methodologies, processes, designs, algorithms, source 
+
+18
+
+code, customer lists and data, databases, compilations,
+collections of data, practices, processes, specifications, techniques, improvements, prototypes, devices, test procedures, flow diagrams,
+research and development, and formulas.
+
+“Trust Indenture
+Act” means the Trust Indenture Act of 1939, as amended, and the rules and regulations thereunder as in effect on the
+date of the Indenture.
+
+“UAL”
+means United Airlines Holdings, Inc., a Delaware corporation formerly known as United Continental Holdings, Inc.
+
+“Underwriters”
+means Barclays Capital Inc., J.P. Morgan Securities LLC, Citigroup Global Markets Inc., Morgan Stanley & Co. LLC, BofA Securities, Inc.,
+BNP Paribas Securities Corp., Credit Agricole Securities (USA) Inc., Deutsche Bank Securities Inc., Goldman Sachs & Co. LLC,
+Mizuho Securities USA LLC, MUFG Securities Americas Inc., NatWest Markets Securities Inc., Natixis Securities Americas LLC, SMBC Nikko
+Securities America, Inc., Loop Capital Markets LLC, ING Financial Markets LLC, Raymond James & Associates, Inc.,
+Academy Securities, Inc., and Blaylock Van, LLC.
+
+“United”
+means United Airlines, Inc., a Delaware corporation.
+
+“Voting Stock”
+of any specified Person as of any date means the Capital Stock of such Person that is at the time entitled to vote in the election of
+the board of directors of such Person.
+
+Section 8. Miscellaneous.
+
+8.1 Governing Law. THIS
+SIXTH SUPPLEMENTAL INDENTURE AND THE NOTES SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK
+BUT WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION
+WOULD BE REQUIRED THEREBY. UAL, UNITED AND THE TRUSTEE EACH IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY
+AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THE INDENTURE OR THE NOTES.
+
+8.2 Counterparts. This
+Sixth Supplemental Indenture may be executed in any number of counterparts, each of which shall be deemed to be an original and all of
+them together shall represent the same agreement. Any signature to this Sixth Supplemental Indenture may be delivered by e-mail (including
+.pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, the Uniform Electronic Transactions Act, the New
+York Electronic Signature and Records Act or other applicable law, e.g., www.docusign.com) or other transmission method and any counterpart
+so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes to the fullest extent
+permitted by applicable law.
+
+8.3 Trustee Not Responsible
+for Recitals. The recitals herein contained are made by UAL and United and not by the Trustee, and the Trustee does not assume any
+responsibility for the correctness thereof. The Trustee makes no representation as to the validity or sufficiency of this Sixth Supplemental
+Indenture, the Notes or the Note Guarantee. All of the provisions 
+
+19
+
+contained in the Indenture in respect of the rights, privileges, immunities,
+powers, and duties of the Trustee shall be applicable in respect of this Sixth Supplemental Indenture as fully and with like force and
+effect as though fully set forth in full herein.
+
+8.4 Confirmation of Indenture.
+The Original Indenture, as supplemented and amended by this Sixth Supplemental Indenture, is in all respects ratified and confirmed,
+and this Sixth Supplemental Indenture shall be deemed part of the Original Indenture in the manner and to the extent herein and therein
+provided.
+
+8.5 Conflict with Trust
+Indenture Act. If any provision of this Sixth Supplemental Indenture limits, qualifies or conflicts with another provision which
+is required to be included by the Trust Indenture Act, the required provision shall control.
+
+[Signature page follows.]
+
+20
+
+IN WITNESS WHEREOF, the parties
+have caused this Sixth Supplemental Indenture to be duly executed as of the date first written above.
+
+UNITED AIRLINES HOLDINGS, INC.
+
+By:/s/ J. Eric Harder
+
+Name: J. Eric Harder
+
+Title: Vice President and Treasurer
+
+UNITED AIRLINES, INC.
+
+By:/s/ J. Eric Harder
+
+Name: J. Eric Harder
+
+Title: Vice President and Treasurer
+
+[Signature Page to
+Sixth Supplemental Indenture]
+
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., as Trustee
+
+By:/s/ Ann Dolezal
+
+Name:Ann M. Dolezal
+
+Title:Vice President
+
+[Signature Page to Sixth Supplemental Indenture]
+
+EXHIBIT A
+
+Form of Note
+
+[See Attached]
+
+Exhibit A
+
+THIS GLOBAL NOTE IS HELD BY THE DEPOSITARY (AS
+DEFINED IN THE INDENTURE) OR ITS NOMINEE IN CUSTODY FOR THE BENEFIT OF THE BENEFICIAL OWNERS HEREOF, AND IS NOT TRANSFERABLE TO ANY PERSON
+UNDER ANY CIRCUMSTANCES EXCEPT THAT (I) THE TRUSTEE MAY MAKE SUCH NOTATIONS HEREON AS MAY BE REQUIRED PURSUANT TO THE
+INDENTURE, (II) THIS GLOBAL NOTE MAY BE EXCHANGED IN WHOLE BUT NOT IN PART PURSUANT TO SECTION 2.07 OF THE ORIGINAL
+INDENTURE, (III) THIS GLOBAL NOTE MAY BE DELIVERED TO THE TRUSTEE FOR CANCELLATION PURSUANT TO SECTION 2.12 OF THE ORIGINAL
+INDENTURE AND (IV) THIS GLOBAL NOTE MAY BE TRANSFERRED TO A SUCCESSOR DEPOSITARY WITH THE PRIOR WRITTEN CONSENT OF THE ISSUER
+(AS DEFINED IN THE INDENTURE).
+
+UNLESS THIS GLOBAL NOTE IS PRESENTED BY AN AUTHORIZED
+REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION
+OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY GLOBAL NOTE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS
+IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED
+BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL
+INASMUCH THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.
+
+BY ACCEPTANCE OF THIS NOTE OR ANY INTEREST HEREIN,
+EACH PURCHASER AND SUBSEQUENT TRANSFEREE OF THIS NOTE OR ANY INTEREST HEREIN WILL BE DEEMED TO HAVE REPRESENTED AND WARRANTED TO THE
+ISSUER AND THE TRUSTEE THAT EITHER (I) SUCH PURCHASER OR TRANSFEREE IS NOT AN EMPLOYEE BENEFIT PLAN THAT IS SUBJECT TO TITLE I OF
+THE EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), A PLAN, INDIVIDUAL RETIREMENT ACCOUNT OR
+OTHER ARRANGEMENT THAT IS SUBJECT TO SECTION 4975 OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”), OR
+PROVISIONS UNDER ANY FEDERAL, STATE, LOCAL, NON-U.S. OR OTHER LAWS OR REGULATIONS THAT ARE SIMILAR TO SUCH PROVISIONS OF THE CODE OR
+ERISA (COLLECTIVELY, “SIMILAR LAWS”), OR AN ENTITY WHOSE UNDERLYING ASSETS ARE CONSIDERED TO INCLUDE “PLAN ASSETS”
+OF SUCH PLANS, ACCOUNTS AND ARRANGEMENTS (COLLECTIVELY, “PLANS”), AND NO PORTION OF THE ASSETS USED BY SUCH PURCHASER OR
+TRANSFEREE TO ACQUIRE AND HOLD THIS NOTE OR ANY INTEREST HEREIN CONSTITUTES ASSETS OF ANY PLAN OR (II) THE PURCHASE AND HOLDING
+OF THIS NOTE OR ANY INTEREST HEREIN BY SUCH PURCHASER OR TRANSFEREE WILL NOT CONSTITUTE A NON-EXEMPT PROHIBITED TRANSACTION UNDER SECTION 406
+OF ERISA OR SECTION 4975 OF THE CODE OR A VIOLATION OF ANY APPLICABLE SIMILAR LAW.
+
+1
+
+EACH PURCHASER OR TRANSFEREE OF A NOTE THAT IS
+A PLAN SUBJECT TO ERISA OR SECTION 4975 OF THE CODE, WILL BE DEEMED TO REPRESENT, WARRANT AND AGREE THAT (I) NONE OF THE ISSUER,
+THE GUARANTOR, OR THE UNDERWRITERS, NOR ANY OF THEIR AFFILIATES, HAS PROVIDED ANY INVESTMENT RECOMMENDATION OR INVESTMENT ADVICE ON WHICH
+IT, OR ANY FIDUCIARY OR OTHER PERSON INVESTING THE ASSETS OF THE PLAN (“PLAN FIDUCIARY”), HAS RELIED IN CONNECTION WITH ITS
+DECISION TO INVEST IN NOTES, AND THEY ARE NOT OTHERWISE ACTING AS A FIDUCIARY, AS DEFINED IN SECTION 3(21) OF ERISA OR SECTION 4975(E)(3) OF
+THE CODE, TO THE PLAN OR THE PLAN FIDUCIARY IN CONNECTION WITH THE PLAN’S ACQUISITION OF NOTES (UNLESS A STATUTORY OR ADMINISTRATIVE
+EXEMPTION APPLIES (ALL OF THE APPLICABLE CONDITIONS OF WHICH ARE SATISFIED) OR THE TRANSACTION IS NOT OTHERWISE PROHIBITED); AND (II) THE
+PLAN FIDUCIARY IS EXERCISING ITS OWN INDEPENDENT JUDGMENT IN EVALUATING THE TRANSACTION.
+
+2
+
+CUSIP No.: 910047 AL3
+
+UNITED AIRLINES HOLDINGS, INC.
+
+5.375% SENIOR NOTES DUE 2031
+
+No. [   ]
+
+UNITED AIRLINES HOLDINGS, INC., a Delaware
+corporation (the “Issuer,” which term includes any successor entity), for value received promises to pay to CEDE &
+CO. or registered assigns, the principal sum of $500,000,000, on March 1, 2031.
+
+Interest Payment Dates: March 1 and September 1,
+beginning on September 1, 2026.
+
+Record Dates: February 15 and August 15.
+
+Reference is made to the further provisions of this
+Note contained herein, which will for all purposes have the same effect as if set forth at this place.
+
+[Signature Page on Next Page]
+
+3
+
+IN WITNESS WHEREOF, the Issuer has caused this Note
+to be signed manually, electronically or by facsimile by its duly authorized officers.
+
+UNITED AIRLINES HOLDINGS, INC.
+
+By:
+
+Name:
+
+Title:
+
+By:
+
+Name:
+
+Title:
+
+4
+
+Certificate of Authentication
+
+This is one of the 5.375% Senior Notes due 2031
+referred to in the within-mentioned Indenture.
+
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A.,
+
+as Trustee
+
+By:
+
+Authorized Signatory
+
+Dated: [              ]
+
+5
+
+(REVERSE OF SECURITY)
+
+5.375% SENIOR NOTES DUE 2031
+
+(1)Interest.
+United Airlines Holdings, Inc., a Delaware corporation (the “Issuer”), shall pay interest on the outstanding
+principal amount of this Note at a rate per annum of 5.375% (calculated on the basis of a 360-day year of twelve 30-day months), payable
+semi-annually in arrears, on each Interest Payment Date until the principal thereof has been paid in full, commencing on September 1,
+2026, to the Person in whose name this Note is registered at the close of business on the Record Date next preceding such Interest Payment
+Date. Interest shall accrue on this Note from the most recent date to which interest on this Note has been paid or for which interest
+has been provided or, if no interest has been paid or provided for hereon, from February 2, 2026.
+
+(2)Terms
+of Payment. Interest on the Notes which is payable, and is punctually paid or duly provided for, on any Interest Payment Date shall
+be paid to the Person in whose name the Note is registered at the close of business on the Record Date next preceding such Interest Payment
+Date at the office or agency of the Issuer maintained for such purpose under the Indenture (as such term is defined below); provided,
+however, that each installment of interest on any Note may be paid at the Issuer’s option by mailing a check for such interest,
+payable to or upon the written order of the Person entitled thereto, to the address of such Person as it appears on the register for
+such Note or by wire transfer of immediately available funds to an account of the Person entitled thereto as such account shall be provided
+to the Registrar for such Notes and shall appear on the applicable register. Payments of principal (and premium, if any) of a Note shall
+be made against surrender of such Note at the office or agency of the Issuer maintained for such purpose pursuant to the Indenture at
+the Issuer’s option by check payable to or upon the written order of the Person entitled thereto or by wire transfer to an account
+of the Person entitled thereto as such account shall be provided to the Registrar for such Notes. All amounts payable by the Issuer with
+respect to the Notes shall be in U.S. dollars.
+
+(3)Registrar
+and Paying Agent. Initially, The Bank of New York Mellon Trust Company, N.A., a national banking association, not in its individual
+capacity but solely as trustee (the “Trustee”), will act as Paying Agent and Registrar for the Notes. The Issuer may
+remove any Paying Agent or Registrar without notice to the Holders.
+
+(4)Indenture.
+The Issuer issued the Notes under the Indenture dated as of May 7, 2013 (the “Original Indenture”), among (a) the
+Issuer, (b) United Airlines, Inc. (the “Guarantor”) and (c) the Trustee, as supplemented
+by the Sixth Supplemental Indenture, dated as of February 2, 2026 (the “Sixth Supplemental Indenture”), among
+the Issuer, the Guarantor, and the Trustee (the Original Indenture, as supplemented by the Sixth Supplemental Indenture, the “Indenture”).
+This Note is one of a duly authorized series of notes of the Issuer designated as its 5.375% Senior Notes due 2031. The Notes are initially
+limited in aggregate principal amount to $1,000,000,000. Capitalized terms herein are used as defined in the Indenture unless otherwise
+defined herein. The terms of the Notes include those stated in the Indenture and made part of the Indenture by reference to the Trust
+Indenture Act of 1939, as amended (15 U.S. Code §§ 77aaa-77bbbb) (the “TIA”), as in effect on the date of
+the Indenture. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and Holders of Notes are referred
+to the 
+
+6
+
+Indenture and the TIA for a statement of them. To the extent any provision of the Notes limits, qualifies or conflicts with another
+provision which is required to be included in the Indenture by the TIA, the required provision shall control. Each Holder, by accepting
+a Note, agrees to be bound by all of the terms and provisions of the Indenture, as the same may be amended from time to time.
+
+(5)Optional
+Redemption; Change of Control Repurchase.
+
+(a)The
+Notes will be redeemable, at the Issuer’s option, in whole or in part, at any time from time to time, pursuant to the terms of
+the Indenture. If the Notes are redeemed at any time prior to September 1, 2030 (the “Par Call Date”), the Notes
+will be redeemed at a redemption price equal to the greater of (1) 100% of the principal amount of the Notes to be redeemed
+and (2) the sum of the present values of the remaining scheduled payments of principal and interest on such Notes (excluding
+accrued and unpaid interest to the redemption date, and assuming final maturity on the Par Call Date) discounted to the redemption date
+on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 50 basis points, plus,
+in either case, accrued and unpaid interest on the principal amount being redeemed, if any, up to, but not including such redemption
+date. On or after the Par Call Date, the Issuer may, at its option, redeem the Notes, in whole or in part, at any time and from time
+to time, at a redemption price equal to 100% of the principal amount of the Notes being redeemed, plus accrued and unpaid interest on
+the principal amount being redeemed to, but not including, such redemption date. The Issuer’s actions and determinations in determining
+the redemption price shall be conclusive and binding for all purposes, absent manifest error.
+
+(b)Upon
+the occurrence of a Change of Control Triggering Event, subject to the terms and conditions of the Indenture, each Holder of Notes will
+have the right to require the Issuer to purchase all or a portion (equal to $2,000 or an integral multiple of $1,000 in excess thereof)
+of such Holder’s Notes pursuant to a Change of Control Offer at a purchase price of 101% of the principal amount of the Notes repurchased,
+plus accrued and unpaid interest on the Notes repurchased to the date of purchase.
+
+(6)Denominations;
+Transfer; Exchange. The Notes shall be issuable in denominations of $2,000 or an integral multiple of $1,000 in excess thereof. Where
+Notes are presented to the Registrar with a request to register a transfer or to exchange them for an equal principal amount of Notes,
+the Registrar shall register the transfer of or make the exchange if its requirements for such transactions are met. To permit registrations
+of transfers and exchanges, the Trustee shall authenticate the Notes at the Registrar’s request. No service charge shall be made
+for any registration of transfer or exchange (except as otherwise expressly permitted in the Indenture), but the Issuer may require the
+payment of a sum sufficient to cover any transfer tax or similar governmental charge payable in connection therewith (other than with
+respect to exchanges of temporary securities, securities redeemed in part, or to amend the terms of a Note). Neither the Issuer nor the
+Registrar shall be required (a) to register the transfer of, or exchange of any Notes for the period beginning at the opening
+of business fifteen days immediately preceding the mailing of a notice of redemption of any Notes selected for redemption and ending
+at the close of business on the day of such mailing or (b) to register the transfer of or exchange of any Notes selected,
+called or being called for redemption as a whole or the portion being redeemed of any such Notes selected, called or being called for
+redemption in part.
+
+7
+
+(7)Persons
+Deemed Owners. The Person in whose name a Note is registered shall be treated as the owner of it for the purpose of receiving payment
+of principal of (and premium, if any) and interest, if any, on this Note and for all other purposes whatsoever.
+
+(8)Unclaimed
+Money. Any money deposited with the Trustee or any Paying Agent, or then held by the Issuer, in trust for the payment of principal
+of, or premium, if any, or interest on any Note and remaining unclaimed for two years after such principal, and premium, if any, or interest
+has become due and payable shall be paid to the Issuer on its request or (if then held by the Issuer) shall be discharged from such trust.
+Thereafter, the Holder of such Note shall look only to the Issuer for payment thereof, and all liability of the Trustee and such Paying
+Agent with respect to such money, and all liability of the Issuer as trustee thereof, shall cease.
+
+(9)Satisfaction
+and Discharge Prior to Redemption or Stated Maturity. Subject to certain conditions, the Issuer may terminate some or all of its
+obligations under the Notes and the Indenture if the Issuer deposits with the Trustee as trust funds in cash or non-callable Government
+Securities, or a combination thereof, in an amount sufficient to pay the principal of, and premium if any, and interest on the Notes
+to redemption or Stated Maturity.
+
+(10)Amendment;
+Supplement; Waiver. Subject to certain exceptions, the provisions of the Indenture relating to the Notes may be amended or supplemented
+without notice to any Holder but with the written consent of the Holders of at least a majority in principal amount of the Notes then
+outstanding, and any existing Default relating to the Notes may be waived with the written consent of the Holders of a majority in aggregate
+principal amount of the Notes then outstanding. Without notice to or consent of any Holder, the Issuer, the Guarantor and the Trustee
+may amend the Indenture as it applies to any Notes or any of the other terms of such Notes to, among other things, cure any ambiguity
+or correct or supplement any provision contained in the Indenture or in any Notes which may be defective or inconsistent with any other
+provision contained therein.
+
+(11)Defaults
+and Remedies. If an Event of Default with respect to the Notes occurs and is continuing (other than an Event of Default relating
+to certain events of bankruptcy and similar matters with respect to the Issuer or the Guarantor), the Trustee or the Holders of at least
+25% in principal amount of Notes then outstanding, by written notice to the Issuer (and to the Trustee, if such notice is given by the
+Holders), may declare the principal amount of, and accrued and unpaid interest on, all the Notes to be due and payable. Upon such a declaration,
+such amounts shall be due and payable immediately. If an Event of Default relating to certain events of bankruptcy and similar matters
+with respect to the Issuer or the Guarantor occurs, the principal amount of, and accrued and unpaid interest on, all the Notes shall
+ipso facto become and be immediately due and payable without any declaration or other act on the part of the Trustee or any Holder.
+Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. Subject to the terms of the Indenture,
+the Trustee is not obligated to exercise any of its rights or powers under the Indenture unless the Holders have offered security or
+indemnity satisfactory to the Trustee. The Indenture permits, subject to certain limitations therein provided, Holders of a majority
+in principal amount of the Notes then outstanding to direct the time, method and place of conducting any proceeding for any remedy available
+to the Trustee or of exercising any trust or power conferred on the Trustee with respect to the Notes. The Trustee may withhold from
+Holders of Notes notice of any continuing Default with respect 
+
+8
+
+to the Notes (except a Default in payment of principal, or premium if
+any, or accrued and unpaid interest with respect to the Notes) in accordance with the provisions of the Indenture if a committee of the
+Trustee’s Trust Officers in good faith determines that withholding notice is in the interest of the Holders.
+
+(12)Trustee
+Dealings With Issuer. Subject to certain limitations provided in the Indenture, the Trustee in its individual or any other capacity
+may become the owner or pledgee of Notes and may otherwise deal with the Issuer or its Affiliates with the same rights it would have
+if it were not Trustee.
+
+(13)No
+Recourse Against Others. A director, officer, employee or shareholder, as such, of the Issuer or of the Guarantor shall not have
+any liability for any obligations of the Issuer or the Guarantor under the Notes, the Note Guarantee or the Indenture or for any claim
+based on, in respect of or by reason of such obligations or their creation. By accepting a Note, each Holder waives and releases all
+such liability. The waiver and release are part of the consideration for the issuance of the Notes and the Note Guarantee.
+
+(14)Authentication.
+This Note shall not be valid until authenticated by the manual signature of the Trustee or an authenticating agent.
+
+(15)Governing
+Law. The laws of the State of New York shall govern this Note and the Indenture, without regard to principles of conflicts of law
+to the extent that the application of the laws of another jurisdiction would be required thereby.
+
+(16)Abbreviations
+and Defined Terms. Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN CON (= tenants
+in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common),
+CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
+
+(17)CUSIP
+Numbers. The Issuer has caused CUSIP numbers to be printed on the Notes as a convenience to the Holders of the Notes. No representation
+is made as to the correctness of such numbers either as printed on the Notes or as contained in any notice to Holders. Reliance may be
+placed only on the other elements of identification printed on the Notes, and any such notice shall not be affected by any defect or
+omission of such CUSIP numbers.
+
+9
+
+ASSIGNMENT FORM
+
+If you the Holder want to assign this Note, fill
+in the form below and have your signature guaranteed:
+
+I or we assign and transfer this Note to:
+
+(Print or type name, address and zip code and social security or tax
+ID number of assignee)
+
+and irrevocably appoint,
+agent to transfer this Note on the books of the Issuer. The agent may substitute another to act for him.
+
+Dated:Signed:
+
+(Sign exactly as name appears on the other side of this Note)
+
+Signature Guarantee*:
+
+*Participant in a recognized Signature Guarantee Medallion Program (or other
+ signature guarantor acceptable to the Trustee).
+
+10
+
+OPTION OF HOLDER TO ELECT PURCHASE
+
+If you want to elect to have this Note purchased
+by the Issuer pursuant to Section 4.1 of the Sixth Supplemental Indenture, check the box below:
+
+¨
+Section 4.1
+
+If you want to elect to have only part of the Note
+purchased by the Issuer pursuant to Section 4.1 of the Sixth Supplemental Indenture, state the amount you elect to have purchased:
+
+$_______________
+
+Date: _______________
+
+Your Signature:
+
+(Sign exactly as your name appears on the face of this Note)
+
+Tax Identification No.:
+
+Signature Guarantee*: _________________________
+
+*Participant in a recognized Signature Guarantee Medallion Program (or other
+ signature guarantor acceptable to the Trustee).
+
+11
+
+EXHIBIT B
+
+Form of Notation of Note Guarantee
+
+[See Attached]
+
+Exhibit B
+
+NOTATION OF NOTE GUARANTEE
+
+For value received, United Airlines, Inc. (the “Guarantor”,
+which term includes any successor Person under the Indenture (as defined below)) has fully and unconditionally guaranteed, to the extent
+set forth in the Indenture, dated as of May 7, 2013, among United Airlines Holdings, Inc. (formerly known as United Continental
+Holdings, Inc., the “Issuer”), the Guarantor and The Bank of New York Mellon Trust Company, N.A., as trustee
+(the “Trustee”) (the “Original Indenture”), as supplemented by the Sixth Supplemental Indenture,
+dated as of February 2, 2026, among the Issuer, the Guarantor, and the Trustee (the “Sixth Supplemental Indenture”)
+(the Original Indenture, as supplemented by the Sixth Supplemental Indenture, the “Indenture”), the due and punctual
+payment of the principal of (and premium, if any) and interest, if any, on the Notes, when and as the same shall become due and payable,
+whether at Stated Maturity, upon redemption, upon acceleration, upon tender for repayment at the option of any Holder or otherwise, according
+to the terms thereof and of the Indenture and all other obligations of the Issuer with respect to the Notes to the Holders or the Trustee
+under the Notes or the Indenture. In case of the failure of the Issuer or any successor thereto punctually to pay any such principal,
+premium, if any, or interest, the Guarantor hereby agrees to cause any such payment to be made punctually when and as the same shall
+become due and payable, whether at Stated Maturity, upon redemption, upon declaration of acceleration, upon tender for repayment at the
+option of any Holder or otherwise, as if such payment were made by the Issuer. The obligations of the Guarantor to the Holders of Notes
+and to the Trustee pursuant to the Guarantee and the Indenture are expressly set forth in Article X of the Original Indenture
+and reference is hereby made to the Indenture for the precise terms of the Note Guarantee.
+
+Capitalized terms herein are used as defined in the Indenture unless
+otherwise defined herein.
+
+Dated:  [            ] UNITED AIRLINES, INC.
+
+By:
+
+Name:
+
+Title:
+
+Signature Page to Note Guarantee

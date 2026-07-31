@@ -1,0 +1,1716 @@
+0000100517-25-000140.txt : 20250709
+0000100517-25-000140.hdr.sgml : 20250709
+20250709170359
+ACCESSION NUMBER: 0000100517-25-000140
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20250707
+ITEM INFORMATION: Termination of a Material Definitive Agreement
+ITEM INFORMATION: Results of Operations and Financial Condition
+FILED AS OF DATE: 20250709
+DATE AS OF CHANGE: 20250709
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: United Airlines Holdings, Inc.
+ CENTRAL INDEX KEY: 0000100517
+ STANDARD INDUSTRIAL CLASSIFICATION: AIR TRANSPORTATION, SCHEDULED [4512]
+ ORGANIZATION NAME: 01 Energy & Transportation
+ EIN: 362675207
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-06033
+ FILM NUMBER: 251114208
+
+ BUSINESS ADDRESS: 
+ STREET 1: E. ANNA HA - WHQLD
+ STREET 2: 233 SOUTH WACKER DRIVE
+ CITY: CHICAGO
+ STATE: IL
+ ZIP: 60606
+ BUSINESS PHONE: 872-825-4000
+
+ MAIL ADDRESS: 
+ STREET 1: E. ANNA HA - WHQLD
+ STREET 2: 233 SOUTH WACKER DRIVE
+ CITY: CHICAGO
+ STATE: IL
+ ZIP: 60606
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: United Continental Holdings, Inc.
+ DATE OF NAME CHANGE: 20100930
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: UAL CORP /DE/
+ DATE OF NAME CHANGE: 19920703
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: ALLEGIS CORP
+ DATE OF NAME CHANGE: 19880613
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: UNITED AIRLINES, INC.
+ CENTRAL INDEX KEY: 0000319687
+ STANDARD INDUSTRIAL CLASSIFICATION: AIR TRANSPORTATION, SCHEDULED [4512]
+ ORGANIZATION NAME: 01 Energy & Transportation
+ EIN: 742099724
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-10323
+ FILM NUMBER: 251114209
+
+ BUSINESS ADDRESS: 
+ STREET 1: 233 SOUTH WACKER DRIVE 11TH FL WHQLD
+ CITY: CHICAGO
+ STATE: IL
+ ZIP: 60606
+ BUSINESS PHONE: 872-825-4000
+
+ MAIL ADDRESS: 
+ STREET 1: 233 SOUTH WACKER DRIVE 11TH FL WHQLD
+ CITY: CHICAGO
+ STATE: IL
+ ZIP: 60606
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: CONTINENTAL AIRLINES, INC.
+ DATE OF NAME CHANGE: 20130212
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: CONTINENTAL AIRLINES INC /DE/
+ DATE OF NAME CHANGE: 19920703
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: PEOPLE EXPRESS AIRLINES INC
+ DATE OF NAME CHANGE: 19890726
+8-K
+1
+ual-20250707.htm
+8-K
+ual-20250707
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 7, 2025
+
+UNITED AIRLINES HOLDINGS, INC.
+
+UNITED AIRLINES, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware001-0603336-2675207
+
+Delaware001-1032374-2099724
+
+(State or other jurisdiction(Commission File Number)(IRS Employer
+
+of incorporation)Identification Number)
+
+233 S. Wacker Drive,Chicago,IL60606
+
+233 S. Wacker Drive,Chicago,IL60606
+
+(Address of principal executive offices)(Zip Code)
+
+(872) 825-4000
+
+(872) 825-4000
+
+Registrant's telephone number, including area code 
+
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+RegistrantTitle of Each ClassTrading SymbolName of Each Exchange on Which Registered
+
+United Airlines Holdings, Inc.Common Stock, $0.01 par valueUALThe Nasdaq Stock Market LLC
+
+United Airlines Holdings, Inc.Preferred Stock Purchase RightsNoneThe Nasdaq Stock Market LLC
+
+United Airlines, Inc.NoneNoneNone
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging  growth company  ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 1.02    Termination of a Material Definitive Agreement. 
+
+On July 7, 2025, Mileage Plus Holdings, LLC ("MPH"), a direct wholly owned subsidiary of United Airlines, Inc. ("United"), and Mileage Plus Intellectual Property Assets, Ltd., an indirect wholly owned subsidiary of MPH ("MIPA" and, together with MPH, the "Issuers") redeemed in full (the "Redemption") all $1.52 billion aggregate principal amount of the Issuers' outstanding 6.50% Senior Secured Notes due 2027 (the "Notes"), issued pursuant to an indenture (the "Indenture"), dated as of July 2, 2020, among MPH, MIPA, each subsidiary of MPH, United, United's parent company, United Airlines Holdings, Inc. ("UAL" and, together with United, the "Company"), certain subsidiaries of UAL, and Wilmington Trust, National Association, as trustee and collateral custodian. In connection with the Redemption, the Indenture was satisfied and discharged. 
+
+The Redemption was made solely using cash on hand, without any refinancings or replacement indebtedness. As a result of the Redemption and the July 2024 voluntarily prepayment in full of the $1.8 billion outstanding principal balance of the secured term loan facility, which was secured ratably with the Notes, the MileagePlus assets will be unencumbered. 
+
+Item 2.02     Results of Operations and Financial Condition.     
+
+The Company continues to work towards its previously announced long-term net leverage1 target of less than 2.0x and the Redemption is part of the Company's overall deleveraging plan. At the end of the second quarter of 2025, total debt, finance lease obligations and other financial liabilities was $27.1 billion, which inclusive of the Redemption was $25.6 billion, declining from a peak of $36.3 billion in the second quarter of 2021. Accordingly, adjusted total debt2 has declined from a peak of $45.3 billion in the second quarter of 2021 to $34.0 billion as of the end of the second quarter of 2025, or $32.5 billion inclusive of the Redemption. As of the end of the second quarter of 2025, the Company retained available liquidity3 of $18.6 billion, or $17.1 billion inclusive of the Redemption. 
+
+Additional Information: 
+
+This financial data for the quarter ended June 30, 2025 is preliminary and is subject to the completion of the Company's financial closing procedures, which as of the date of this Current Report on Form 8-K, have not been completed. In addition, this preliminary financial data for the quarter ended June 30, 2025 has not been audited or reviewed by the Company's independent registered public accounting firm. This preliminary financial data for the quarter ended June 30, 2025 is not a comprehensive statement of the Company's financial results or operating metrics for the period. 
+
+Pursuant to General Instruction B.2. to Form 8-K, the information set forth in this Current Report on Form 8-K shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities thereof, nor shall it be incorporated by reference into future filings by the Company under the Exchange Act or under the Securities Act of 1933, as amended (the "Securities Act"), except to the extent specifically provided in any such filing. 
+
+Cautionary Statement Regarding Forward-Looking Statements:
+
+ This Current Report on Form 8-K contains certain "forward-looking statements," within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act, relating to, among other things, goals, plans and projections regarding the Company's financial position and results of operations. Such forward-looking statements are based on historical performance and current expectations, estimates, forecasts and projections about the Company's future financial results, goals, plans, commitments, strategies and objectives and involve inherent risks, assumptions and uncertainties, known or unknown, including internal or external factors that could delay, divert or change any of them, that are difficult to predict, may be beyond the Company's control and could cause the Company's future financial results, goals, plans, commitments, strategies and objectives to differ materially from those expressed in, or implied by, the statements. Words such as "should," "could," "would," "will," "may," "expects," "plans," "intends," "anticipates," "indicates," "remains," "believes," "estimates," "projects," "forecast," "guidance," "outlook," "goals," "targets," "pledge," "confident," "optimistic," "dedicated," "positioned", "on track," "path" and other words and terms of similar meaning and expression are intended to identify forward-looking statements, 
+
+1Net leverage is a non-GAAP financial measure that is equal to adjusted net debt divided by trailing twelve month Adjusted EBITDAR. We are not providing a target for or a reconciliation to total debt, finance lease obligations and other financial liabilities or net income, the most directly comparable GAAP measures, because we are unable to predict the excluded items noted below contained in the GAAP measures without unreasonable efforts and therefore we also are not able to determine the probable significance of such items. For additional information about the non-GAAP financial measures used in this press release, including net leverage, adjusted net debt and Adjusted EBITDAR, see "Non-GAAP Financial Information" below. 
+
+2For additional information about the non-GAAP financial measures used in this Current Report on Form 8-K and reconciliations to the most comparable GAAP measures, see "Non-GAAP Financial Information" below. 
+
+3 Includes cash, cash equivalents, short-term investments and undrawn credit facilities. 
+
+1
+
+although not all forward-looking statements contain such terms. All statements, other than those that relate solely to historical facts, are forward-looking statements. Additionally, forward-looking statements include conditional statements and statements that identify uncertainties or trends, discuss the possible future effects of known trends or uncertainties, or that indicate that the future effects of known trends or uncertainties cannot be predicted, guaranteed or assured. All forward-looking statements in this Current Report on Form 8-K are based upon information available to the Company on the date of this Current Report on Form 8-K. The Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, changed circumstances or otherwise, except as required by applicable law or regulation. 
+
+The Company's actual results could differ materially from these forward-looking statements due to numerous factors including, without limitation, the following: execution risks associated with our strategic operating plan; changes in our fleet and network strategy or other factors outside our control resulting in less economic aircraft orders, costs related to modification or termination of aircraft orders or entry into aircraft orders on less favorable terms, as well as any inability to accept or integrate new aircraft into our fleet as planned, including as a result of any mandatory groundings of aircraft; any failure to effectively manage, and receive anticipated benefits and returns from, acquisitions, divestitures, investments, joint ventures and other portfolio actions, or related exposures to unknown liabilities or other issues or underperformance as compared to our expectations; adverse publicity, increased regulatory scrutiny, harm to our brand, reduced travel demand, potential tort liability and operational restrictions as a result of an accident, catastrophe or incident involving us, our regional carriers, our codeshare partners or another airline; the highly competitive nature of the global airline industry and susceptibility of the industry to price discounting and changes in capacity, including as a result of alliances, joint business arrangements or other consolidations; our reliance on a limited number of suppliers to source a majority of our aircraft, engines and certain parts, and the impact of any failure to obtain timely deliveries, additional equipment or support from any of these suppliers; disruptions to our regional network and United Express flights provided by third-party regional carriers; unfavorable economic and political conditions in the United States and globally; reliance on third-party service providers and the impact of any significant failure of these parties to perform as expected, or interruptions in our relationships with these providers or their provision of services; extended interruptions or disruptions in service at major airports where we operate and space, facility and infrastructure constraints at our hubs or other airports; geopolitical conflict, terrorist attacks or security events (including the suspension of our overflying in Russian airspace as a result of the Russia-Ukraine military conflict and interruptions of our flying as a result of the military conflicts in the Middle East, as well as any escalation of the broader economic consequences of any conflict beyond their current scope); any damage to our reputation or brand image; our reliance on technology and automated systems to operate our business and the impact of any significant failure or disruption of, or failure to effectively integrate and implement, these technologies or systems; increasing privacy, data security and cybersecurity obligations or a significant data breach; increased use of social media platforms by us, our employees and others; the impacts of union disputes, employee strikes or slowdowns, and other labor-related disruptions or regulatory compliance costs on our operations or financial performance; any failure to attract, train or retain skilled personnel, including our senior management team or other key employees; the monetary and operational costs of compliance with extensive government regulation of the airline industry; current or future litigation and regulatory actions, or failure to comply with the terms of any settlement, order or agreement relating to these actions; costs, liabilities and risks associated with environmental regulation and climate change; high and/or volatile fuel prices or significant disruptions in the supply of aircraft fuel; the impacts of our significant amount of financial leverage from fixed obligations and the impacts of insufficient liquidity on our financial condition and business; failure to comply with financial and other covenants governing our debt; limitations on our ability to use our net operating loss carryforwards and certain other tax attributes to offset future taxable income for U.S. federal income tax purposes; our failure to realize the full value of our intangible assets or our long-lived assets, causing us to record impairments; fluctuations in the price of our common stock; the impacts of seasonality, and other factors associated with the airline industry; increases in insurance costs or inadequate insurance coverage; risks relating to our repurchase program for shares of common stock and certain warrants exercisable for common stock; and other risks and uncertainties set forth in Part I, Item 1A. Risk Factors of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 and under "Economic and Market Factors" and "Governmental Actions" in Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations of our Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025, as well as other risks and uncertainties set forth from time to time in the reports we file with the U.S. Securities and Exchange Commission (the "SEC"). 
+
+Non-GAAP Financial Information: 
+
+The Company refers to financial measures that are not in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"). The non-GAAP financial measures are provided as supplemental information to the financial measures presented in this Current Report on Form 8-K that are calculated and presented in accordance with GAAP and are presented because management believes that they supplement or enhance management's, analysts' and investors' overall understanding of the Company's underlying financial performance and trends and facilitate comparisons among current, past and future periods. Non-GAAP financial measures typically have exclusions or adjustments that include one or more of the following 
+
+2
+
+characteristics, such as being highly variable, difficult to project, unusual in nature, significant to the results of a particular period or not indicative of past or future operating results. These items are excluded because the Company believes they neither relate to the ordinary course of the Company's business nor reflect the Company's underlying business performance. 
+
+Because the non-GAAP financial measures are not calculated in accordance with GAAP, they should not be considered superior to and are not intended to be considered in isolation or as a substitute for the related GAAP financial measures presented in the Company's filings with the SEC and may not be the same as or comparable to similarly titled measures presented by other companies due to possible differences in method and in the items being adjusted. The Company encourages investors to review its financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure. The Company does not provide a reconciliation of forward-looking measures where the Company believes such a reconciliation would imply a degree of precision and certainty that could be confusing to investors and is unable to reasonably predict certain items contained in the GAAP measures without unreasonable efforts. This is due to the inherent difficulty of forecasting the timing or amount of various items that have not yet occurred and are out of the Company's control or cannot be reasonably predicted. For the same reasons, the Company is unable to address the probable significance of the unavailable information. Forward-looking non-GAAP financial measures provided without the most directly comparable GAAP financial measures may vary materially from the corresponding GAAP financial measures. 
+
+The information below provides an explanation of certain adjustments reflected in the non-GAAP financial measures and shows a reconciliation of non-GAAP financial measures reported in this press release to the most directly comparable GAAP financial measures. Within the financial tables presented, certain columns and rows may not add due to the use of rounded numbers. Percentages, ratios and earnings per share amounts presented are calculated from the underlying amounts. 
+
+Adjusted EBITDA and Adjusted EBITDAR: We calculate Adjusted EBITDA by adding interest, taxes, depreciation and amortization to net income and adjusting for special charges, nonoperating unrealized (gains) losses on investments, net and nonoperating debt extinguishment and modification fees. UAL believes that adjusting for these items is useful to investors because they are not indicative of UAL's ongoing performance. Effective January 1, 2025, Adjusted EBITDA is further adjusted by the fixed portion of operating lease expense, instead of solely aircraft rent as was the case historically, to calculate Adjusted EBITDAR. We believe this change provides investors with enhanced comparability to peers and better reflects our performance. The change in Adjusted EBITDAR calculation methodology does not represent a change in management's expectations. Prior period amounts have been recast to conform to the current period presentation. 
+
+Adjusted Total Debt and Adjusted Net Debt: Adjusted total debt is a non-GAAP financial measure that includes current and long-term debt, finance lease obligations and other financial liabilities, current and noncurrent operating lease obligations and noncurrent pension and postretirement obligations. Adjusted net debt is adjusted total debt minus cash, cash equivalents and short-term investments. UAL provides adjusted total debt and adjusted net debt because we believe these measures provide useful supplemental information for assessing the company's debt and debt-like obligation profile. 
+
+Net Leverage: Net leverage is a non-GAAP financial measure that is equal to adjusted net debt divided by trailing twelve month Adjusted EBITDAR. UAL provides net leverage because we believe it provides useful supplemental information for assessing the Company's debt level. See the above descriptions of adjusted net debt and Adjusted EBITDAR. 
+
+(Preliminary) Increase/ 
+
+(Decrease) 
+
+June 30,
+
+2025June 30,
+
+2021
+
+Debt, finance lease obligations and other financial liabilities - current and noncurrent (GAAP) $27,079 $36,296 $(9,217)
+
+Operating lease obligations - current and noncurrent 5,707 5,502 205 
+
+Pension and postretirement liabilities - noncurrent 1,199 3,489 (2,290)
+
+Adjusted total debt (Non-GAAP) $33,985 $45,287 $(11,302)
+
+Less: Cash and cash equivalents 9,354 20,838 (11,484)
+
+Short-term investments 6,262 230 6,032 
+
+Adjusted net debt (Non-GAAP) $18,369 $24,219 $(5,850)
+
+3
+
+Reflecting the Redemption(Preliminary)Increase/ 
+
+(Decrease) 
+
+June 30,
+
+2025June 30,
+
+2021
+
+Debt, finance lease obligations and other financial liabilities - current and noncurrent (GAAP) $25,579 $36,296 $(10,717)
+
+Operating lease obligations - current and noncurrent 5,707 5,502 205 
+
+Pension and postretirement liabilities - noncurrent 1,199 3,489 (2,290)
+
+Adjusted total debt (Non-GAAP) $32,485 $45,287 $(12,802)
+
+Less: Cash and cash equivalents 7,854 20,838 (12,984)
+
+Short-term investments 6,262 230 6,032 
+
+Adjusted net debt (Non-GAAP) $18,369 $24,219 $(5,850)
+
+4
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+UNITED AIRLINES HOLDINGS, INC.
+
+UNITED AIRLINES, INC.
+
+By:/s/ Michael Leskinen
+
+Name:
+Michael Leskinen
+
+Title:
+Executive Vice President and Chief Financial Officer
+
+Date: July 9, 2025
+
+5
+
+EX-101.SCH
+2
+ual-20250707.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Document and Entity Informationlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+ual-20250707_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+4
+ual-20250707_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting MaterialSoliciting MaterialWritten CommunicationsWritten CommunicationsLocal Phone NumberLocal Phone NumberClass of Stock [Domain]Class of Stock [Domain]No Trading Symbol FlagNo Trading Symbol FlagAmendment FlagAmendment FlagEntity Emerging Growth CompanyEntity Emerging Growth CompanyEntity File NumberEntity File NumberWarrantWarrant [Member]Security Exchange NameSecurity Exchange NameEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Address, Address Line OneEntity Address, Address Line OneCity Area CodeCity Area CodeUNITED AIRLINES, INCUnited Air Lines Inc [Member]United Airlines, Inc. [Member]Cover [Abstract]Cover [Abstract]Entity Information [Line Items]Entity Information [Line Items]Document Period End DateDocument Period End DatePre-commencement Tender OfferPre-commencement Tender OfferClass of Stock [Axis]Class of Stock [Axis]Entity Central Index KeyEntity Central Index KeyPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferLegal Entity [Axis]Legal Entity [Axis]Entity Tax Identification NumberEntity Tax Identification NumberEntities [Table]Entities [Table]Entity Registrant NameEntity Registrant NameEntity [Domain]Entity [Domain]Trading SymbolTrading SymbolCommon StockCommon Stock [Member]Entity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeTitle of 12(b) SecurityTitle of 12(b) SecurityEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Address, City or TownEntity Address, City or TownDocument TypeDocument TypeEX-101.PRE
+5
+ual-20250707_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Document and Entity Information
+
+Jul. 07, 2025
+
+Entity Information [Line Items]
+
+Document Type8-K
+
+Amendment Flagfalse
+
+Document Period End DateJul. 07, 2025
+
+Entity Registrant NameUNITED AIRLINES HOLDINGS, INC.
+
+Entity Central Index Key0000100517
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-06033
+
+Entity Address, Address Line One233 S. Wacker Drive,
+
+Entity Address, City or TownChicago,
+
+Entity Address, State or ProvinceIL
+
+Entity Address, Postal Zip Code60606
+
+City Area Code872
+
+Local Phone Number825-4000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Entity Emerging Growth Companyfalse
+
+Entity Tax Identification Number36-2675207
+
+Warrant
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityPreferred Stock Purchase Rights
+
+Security Exchange NameNASDAQ
+
+No Trading Symbol Flagtrue
+
+Common Stock
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityCommon Stock, $0.01 par value
+
+Security Exchange NameNASDAQ
+
+Trading SymbolUAL
+
+UNITED AIRLINES, INC
+
+Entity Information [Line Items]
+
+Entity Registrant NameUNITED AIRLINES, INC
+
+Entity Central Index Key0000319687
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-10323
+
+Entity Address, Address Line One233 S. Wacker Drive,
+
+Entity Address, City or TownChicago,
+
+Entity Address, State or ProvinceIL
+
+Entity Address, Postal Zip Code60606
+
+City Area Code872
+
+Local Phone Number825-4000
+
+Entity Tax Identification Number74-2099724
+
+XML
+8
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+9
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.2html4231false30false0falsefalseR1.htm0000001 - Document - Document and Entity InformationSheethttp://www.unitedcontinentalholdings.com/role/DocumentandEntityInformationDocument and Entity InformationCover1falsefalseAll ReportsBookAll Reportsual-20250707.htmual-20250707.xsdual-20250707_def.xmlual-20250707_lab.xmlual-20250707_pre.xmlhttp://xbrl.sec.gov/dei/2025truefalseJSON
+14
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "ual-20250707.htm": {
+ "nsprefix": "ual",
+ "nsuri": "http://www.unitedcontinentalholdings.com/20250707",
+ "dts": {
+ "inline": {
+ "local": [
+ "ual-20250707.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "ual-20250707.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "ual-20250707_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "ual-20250707_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "ual-20250707_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 23,
+ "keyCustom": 0,
+ "axisStandard": 2,
+ "axisCustom": 0,
+ "memberStandard": 2,
+ "memberCustom": 1,
+ "hidden": {
+ "total": 13,
+ "http://xbrl.sec.gov/dei/2025": 13
+ },
+ "contextCount": 4,
+ "entityCount": 1,
+ "segmentCount": 3,
+ "elementCount": 33,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 46
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation",
+ "longName": "0000001 - Document - Document and Entity Information",
+ "shortName": "Document and Entity Information",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentPeriodEndDate",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ual-20250707.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentPeriodEndDate",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ual-20250707.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Domain]",
+ "label": "Class of Stock [Domain]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_CommonStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "CommonStockMember",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Common Stock",
+ "label": "Common Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Cover [Abstract]",
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntitiesTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitiesTable",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entities [Table]",
+ "label": "Entities [Table]",
+ "documentation": "Container to assemble all relevant information about each entity associated with the document instance"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityDomain",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity [Domain]",
+ "label": "Entity [Domain]",
+ "documentation": "All the names of the entities being reported upon in a document. Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts. This item does not include business and geographical segments which are included in the geographical or business segments domains."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInformationLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInformationLineItems",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Information [Line Items]",
+ "label": "Entity Information [Line Items]",
+ "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LegalEntityAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LegalEntityAxis",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Legal Entity [Axis]",
+ "label": "Legal Entity [Axis]",
+ "documentation": "The set of legal entities associated with a report."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "No Trading Symbol Flag",
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Axis]",
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "ual_UnitedAirLinesIncMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.unitedcontinentalholdings.com/20250707",
+ "localname": "UnitedAirLinesIncMember",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "UNITED AIRLINES, INC",
+ "label": "United Air Lines Inc [Member]",
+ "documentation": "United Airlines, Inc. [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_WarrantMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "WarrantMember",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Warrant",
+ "label": "Warrant [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.unitedcontinentalholdings.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+15
+0000100517-25-000140-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0000100517-25-000140-xbrl.zip
+M4$L#!!0 ( 'R(Z5K_$HN#ERL )-7 0 0 =6%L+3(P,C4P-S W+FAT
+M;>U]:5/C2+;H]_D5^3Q]IZ@(VUBRC1>JN$%3=#.PM$X\JX&,;-K=M/<9JY&W:;=M-QVHU%QG-I>
+MI='DS4J[WW0K>RVWQUW7;P9]AW([IWT
+M/I<&<3SJ[N[>WMY6;^O5,+K:M6LU:_??W[Y>. ,QY!4OD#$/'%'23[DB>^JN
+M%_E5*9SJ57BS"Q=V<9OFQCO?"ZYG36!U.IU=NFIN363EBO-1>G.?RQ[=JB\4
+MQDVX7Q@U"3Q AA,&L1< =K@_"'U$H:PZX9">K $(]-/SUX. 29<.^RK"AG:J
+MH5/?G82)=Q=7 R%)PQ8O !V*I" =N.(!Q+I@\= <3"4U:S4VI6ZE8TS;U*K
+MGALHOTQW AMZC7N[ZJ*Y=0H7Q0WAY1Z7^0W-OGO1;NQ:I697+)L&Z?H[(L#0'S%H//3KOKMTZX:N1>ZXX-/KG?#9#SVQ>>2Z\F1S\?=
+M( P$S._==?%&$:F/GNN*@#["]5/@ZLASU/1W\;GH?RXY%4!*P(^% \?URSV#&X,
+MW>/ _0+2JL04JCZ7 +==%WZI#&&(0<7EX\I8\"A=P%[IH+7;VK6;#U_!,?!B
+M/#Z"-433'0Y%$X'(*<<8C490&6R/C=7ACZ/>[[8=P+[](U=$H'__A[I]5H[#]\ 1>A
+M[SD>B+:K;X"SR./^DK,W:FN8_2P2N'70BH+('PA61-_[?1$MNPIK_:LXD3(1
+MT0/68C]L+?4"/H23 $V,+;MWB1(H';Q>.L!%A@&[B$/GNLQ^J55K%AOQB-UP
+M/UF-GPM37D8<]=G%>-@+_70^D#X_#K\^?B/'=\X 1+4XA2O3@!1P%9\103HQ
+M"*A+L'E.N73Y7VJS[!N/KD7,OGX]>JS0.(;[KF"WOT?A;3P B(YX,%X6P7OS
+M$;Q;%/N1 +I!@I(SE!5JPZXD\P<6RLA4Z<8@^C^7I#<<(=+5;X,(]Y'72]4[
+MZ8+2HNFR.?24,DPB^D;V15?#@A:/L#"_"P*$^>:Y^+WOB8C1DL1,*^/HY%]%
+MJ3KY\('YJ3CZB'2$^096312CMCC _51JK4HM'2J[EB[3G7.KN6*^FTEV"_N>
+M#0;[J<&@=R.N4)2HKRY,=CO!57(+B#2_BBON*_H\O/-D"4V1
+M[@^R.P^]Z"M81/(D<-2SGW9G#IGN/IWY=>"COFGXT"Y!]R*&+>$S1SZ7\GN?
+M!)'&CKY%R6.Z\"9QTWC%N/G)(_ ?XE>/E]VB9-_-.1J[X(XHGP31Y=WGGO\O
+M:H#L&>W'#+V@,A 80^@V[&JK.8KW;STW'G0!:_]5HEL//DE0DN #1:AXU&*$OL]'
+M4G3-AWWCJBG?LD(/[>L)>F$G?.^UJIS;[4JUJT>^[-%YD+FITU$=QB9Z!C2"4/I? OBKN
+M%<$#MS$W3! 0?Z_1?_LC[J)!UZTQ"\8P$^S2QG.P7@H1\_!GKL/BPJAK9NX#
+MV5;Z?.CYX^Z'2V!SHD/:Y$4>D8D_?;]_-L__F[MU?8?%Q:R9D:%V&8P
+M\.RM W6>'Y]>LO/CL^_GEYN\TK,DD@F8#2P.&3BP&(UA5IV%$;.:.^Y'%O8I
+M'J]]6P_F-.XM.W1BO&QUZHV5=[CY,AAM%=S>N1B%453=$
+ML*X!)C."V;-ATIB""8%B$A+55T54RS'*SO$=![F-<$)I%J7P85PR.1(..JHN
+M\P+FQ9*!I ?A%GU<:4?/ZZ.TZ]5&J[VJCU*'"U9[H8^R[.]6U6JO-M*"1=7W
+MFINWJ&9C\>3:FYOGNAGGS![=H7LV;9I.(EGA]UEMH=I#!.Y)X(01J'_*85&$
+MYBA,@C@:'X7NC,B_Q#M&47A3#/\WP=80/K_ET71&P[!=[#X N+[H3_'/TX-V
+M2NP0:+4?\*C]O&YB^> ^#A5:EME>KU[>8?[N8O^1W)SH$K-+=
+M13)HE0[J>Q5[K]6T:]-Y]3S5O
+M,-XPS^Y)3 $SE&=,4?+'+#CRPS&FW]^@- G[S,M;8N^9'--$
+M\_O:]L;3:-$ F"DW9Y<&;$Y L]6N-INUE0.:G6JCL[CH8NGZC6JKO5H4K=Z^RB
+MRGYRYQILR2^1=R/*Z_6GW@3XCN#C]^@RO$TC#Y9=.C@:P(ZNPBW I@%&3LKW
+MZ"P*;SQJ =-0JX,XGR['?[\VQUO%_UDH8^[_/V^DPGD:^XW2P5X-_O?&'/7U
+MA#H62>KF5E(O";X9DGIO*ZD7 &R>I&YM)?6[P/]L2=U^FY)Z3IA'@P*+9T81
+M<($WXCX3=\))8A"S\#,XGT*N$AM9,I:P#3EL*$4 /S!DB,>&&9ZY;G1G>7,-
+M%>5A)'B![3NE@W;+GF3ZCVSY8;^&@+VS01A,).SL&@QM-RL []J&5">N Z3V
+M?2"UK8> U%X*I/9#0)IK*GCV1HG9Y8M9/><'R6+ABQ'NE06TV3+&I_T$Q0;C
+M %L E"LF!,[F;W'GMS "Q.@2S8C*&^ K5WH']MAGJ@#?91*M,.9S:>K0J_,K
+M-8L;7>.V.DOMZF@@G&N%BWB@D<)'HR@$)0I&I?JA%][I#\(/;]5'KS_Q%()'
+M?6I7_L7ZGH_H]B3@/L8##%SL9)#>,/%C'H@PD?Z821Y[LC^F3@;]0-@#)*L@
+ML6YQR)7")G@0 N/!V%SKASXL")_#NA(/$W.R.\TW"XN GQOBSW,DAUV?>T(
+MT^,J9#F%T=5O(]U\HC$/L6"WUX>BW
+M<_7!KM>J,-;'>1C;1*0\^)@2NS$?(]F@"C!#/?1RZ+ :O&+9\S%B.H/NQT>C
+M5E6#O2J4//KL%KLY'S4P>,7)C?YPKK$:;L7>Z7U<&Z+4<*\950\]X,:>?_[)
+M.A%6%Y7&CK,VA.GAYB)L^4YT:ZV6PF2+SVPDYUH-E4H6$2CUT:P^121+HZ(!
+M*-WEC9]G[J-O5SOME?OH[;VJW>JL*7W:Z:PG?6JUJJUV:],65:_NK6U1K=IJ
+M*>M%C3--^XD2S<\2TFDM%4O,7+)GJ9]YIN#/=;(I@
+MF!T85<=YL4,OPFN2_:%/D2VSD\"IKH].'@JJ%R*BV'VFW9Q\?N07RX\A\U=,T[F$_#@@!59W7G#Z'I>W?"K<11DF' C,K#)Y0
+MA;T],#]4@-;MK0#-"]#W*C<5OVUW_2YW_8#S,Y\[&7 2N!AF-ZGCL8Z_9WGF
+M(<@L]>EV(+#_=2*HGB5\=:99A^NYSE@*?7"Z^G9%QZ>G07[8JIZ1Z\=L1RZ4:
+M[%[%7G(=IGAT
+M_DS@>87J,R QVX4_QK@COC3*[%TO/Q"W*?%'XL:39FA@41XX:<:;.PZ>))*"
+M"5]"Y/+(-8D[+/9(ES4[C:>342:3M\,-VTT":XJ=-!N8?S7-K5#=]MX/@]:K
+M?_AYT!-3FN/ 1Z&BOFXD?(Y5O5,'A&<+H174LD=X3X9^$D\_;=Y*
+MSS8?1)FY<24JO4CPZPKO XUTN7_+QQ(!\&0'H*,HK0"Q1-R)NS(9 F6-9Y!7
+M+@/;66M2>M"^/,%-^P+ZC>/:KQ
+M/KR*!*7\J_>63KX(!&8KB.\!RQ_<6F;?/%\ P; S/\E'B<#'8SNE;V=_E#Z6
+M 0"N%X&$8[<#D"=C%MX&6'>8]*3G>H!I!-),?PF&4+_3*(%;G.T$))B/.B(!
+MR)Y%(4CX>,P.I10QKB!VJ_@00]UTW^RP4%SNR=EA">I
+M/J"D:D!DZ2-H!!?Q1Z=<]A/?9SMTPSG\/!PAZN$>L O8+U:U:;.>Y_M(#OP*
+MT'Z%YZED=?]\B.K#E"#H&3ZP,(E)DZ!VVJLV:__%+D3@@2XB$PLF/@UCP*F;
+M"$1%2\]//R*X/!RG6/*@@ $D!X_KVT_,=WS$I=#Q,0!GG!LS(5)/$\$%A'AAU]GXL",3,LVYA@LV@&L
+M<\!!NABL^4"".ORJ:.:GYP_5L>CL,DID7&:GQ)H >:"5$/0X?BOCOF.\+@0]
+M1JH/V!9N<^#7$(8.JK!(M!P#73N2OFDRP[I:8 I6=HLGHE+E*)Z(B@.#*L43
+M4:^$^ZHX_[*P3=K7D+L"4P@"2"612*<.EP-,6@X(@0@>H&*J@8V$MIH UXP,
+M*K G5,T3$64/D OT(*N %! 8D9")G_)$;EZ$(/ZDZ+-F-]@-J,H@!KS##R,8
+MEH_UH(HM]1# AFTMN@TOYADLXT8PYO$=DN8YJ9D-*&'(_!! WN>.YX.# /NC
+MU"QA6-\5<;0.QAEA$#LJFM"RBT07)R$%M\$">X(E@0@KEI N."
+M<+T-HVOX>XN&/QU[/$*?096.\R $>\ @?@@1RM$2X&(F2_ 8 ::6/=YYZ N
+MEMC,#!,5Z:A2K\XPY?$UI#A Z\"%SS \TR?Y*Z !K_%49/7$8PA5S@ +=Q'/PJ'(#Q'8+OCH[_4]ZKUU/0 @3AW3Q;L'KS8"&6A
+M#Y*-NW^B)G1S.WU5-&J_%(T. #T*'P"\270TFLNB P7*+_5&M989CM(0PQ+T
+M"?KUE[I=;>8FFTM1I'"7'SK'3:"DT?)"L^:&>S[%$7SOKP2LL'C\JLBE_E+D
+M@E1AM?/,C*BSI>*IJXI'7P,F\S40D2X$)]Q%R7BN$5I@]=96* 4#L)
+MTK=DOUP7UM)6!RBT3(N H\8Q$DWT8%A4]:W]$VQ)5J\I]YS4('""A^&(:$P:
+M"7X"5^E/=(A!R. % 05^2ZV3%UF3JU]M@M)X=
+M)1&Y?OK=-W@*)<";M2O_*H.8!'H.PAB,7Q&8!:#M"_X5UR@JJV'RZW\ !% @
+MIQ/QQ"7O4P=TQ2U\[HTGMHS>R$B0 U?L'0#5[K LV NKB895=KF&17IJC9P@
+M$8D!OKCQ!H.R^GV-B_ 2&X/DQ6PRS[]'ZG<1
+MD/-]$DAPRY6__6O5KN*UC)!P\FW65% @0\5NE6P)7\;AB[,D;JW'EB.$TR9-Q3Q
+M'A'VR[#42"_:HS5G)VDJ0DY?;8Q]K"'XOQ2"4,VJC?H$Q%.8Q6@2>O)0I!F2A#7-V'$1XB#41FF5T'X6V@Q"E]
+MS!\L@<<,1&B$PF44C?2YSQT $@4V,&">^"Y&*3BXX\ 0(B+1K*D@.U5@6%;W
+M([A=#\\-PK@I2%VP(_"0]C(;\C'JBIX8ASI.DD$+B3H*?1WPQAD=GH R>E*8
+MPN)PI4"NIG,$G;M3/&='BF(I0Z;,A8?Q\!?XQ$C]^!O)%SJ&?"9+P046Y
+M]+*$>R749H(^O0&0Y^1/Q!T:'S8R*.5"
+M4K<$-XJ0[^1?+Q ")3GA[*+V??I7H2%
+MH6Z2Z>&(.UX\[EHF\=RL401\J>3R&B/E;S/8NNYYEZL_.LT%Q=$KXF#R!I7?
+M#P_/)OS !C/E-$[7$V#K&+%%PDH6)IF_$U:$M\:U :4[O
+M)V6'YI'C7T\NOQR>@T 11.GH%2@#E5C!!)_1+8#_8X(*>!(30];M8,DH)LR5: -<=1!
+M*%N!1\GM1/#@23G&PE$&.=Y;&#_-YB5!!#^%:G311V]+FA \."!AI%;@RS %
+MI%F(*V(JC5 *!L#;4\5'0//D%>B\&TES6E\5[:\T(@"@ROMZF?J?3R22)=)L
+M2/GI$@T@PDM>(>>S,>49A(3[FZ05T'&",NYZ\BR3E0LME11P%Z1Z7[-X>K$X
+M^\N(I_42XP)G0]G=>0DCC2=-TF"^$'CW)+GV6/YRI('E*RA8)=5 E%4E!&@F
+M[X;[VB > )95[A<\"K 5M9]$GH,;<7 6'!34L:DP '6P $?/46ZXL#QO TZY
+MLV:5%;YD/>.S0X#[J)2O!DK-^OXBCUSK=Z5>R>JOLD-X)&^OFS "#[0S1D86
+MT51:Z@."*.?/H]>*SC ZB'/GAHE2L8GYY06K5#H9LQ)!*FCS887 S7]5-J#Q
+M1 H>.)I2<43N'-5<)50S(#"X(3V4G-JM!1,&_30T/)3+KAY2GGO!HZ=@.J=Z
+M)7*YU#K%1(?#8)6,#J9!)B++,;\6:%_F#TE$6Y32*%@P-G+U:^54;3W%
+M-.;N$W--JAB0%\O# F"AW(;**2IN%$&;4RX=+W*2(=9[.8HTTLA[&JKF:!F"
+MQ(Z4P\!'(UBIRFKS6[70J\3G&Y9YO;=,Z0, 3-7(FDB>CBW-B\$(N8B5J> 4
+M$!E@0TN8R#1LE1K36>$?YL1BGI5%IB=@=LUAUT 4%$U#&/?%T+9Z&"P4R&6?G2 4%N3 4J20BQ4&&H9N]*PI%Q$3U=W$ BOCA:V=5
+MBF;JJIZ_SV]"9=^1H*:,"_BM/I%_@ \KEY&D,7>(?C%2!N+C"G=.?)$.3E/E
+M "4)C $*G=QAMT7&PEF&V,@"4!MC7U5"E9(ROZ=]Q;0@0L@?#[4 !.O#IX>5
+M,Z5L68$9S2RHADYG(/J>%NF1 *X%(Q=)$!YQ@ V5<2)5]%/&7JP,W)SM5&9_
+MAK U=J-J;?/.-0HHH#8/@:.'(0966!-WH 3H"5BS#L].>N%J'*JBEFE2K!"\
+MEMH,5V2 X,W'L $V+ABIP$M*Y%'%*$ ;G6>L%%6R!&$KG0@X 8NC!QS$J1ZK
+M%U$-+8R>8.$@T#- %9S1(?T\"C&?YE'<(XK3M:L4?QJF5SR/J6 =?)A$,9*.
+MBBN"2HHYW!J.!D)1DKJ@H]](( D",2$QJ,9V>!1YQ!2*F<#Z':"NPL/ZB?06BG=XCB"=;U+U%-_.9(;#5>QP$?G[ %/4%8;(>ECAC*P)F\:!E#!,
+M"07D!04P#?(5H-08R-5<"4.,*5"AKXISH(I!0.%IP_ $4A7PS9]AI'>&HQAF
+M ST57%'-/.U&9Z$0UK*#'*(#+[(4
+M,.6F/5 XN)_Q-(GM _]E,C&3SI@1"I%IT11-349I(EAZ6DI_*K@IRO+'^P7L
+MY.<&C7N#]*/7%LDYP,VB5G$*Z!1$.)2GY(N6&4A@2CZ@V-6R.DJ!IS69\M[@
+MAX$WDFD9N%%VBC31DEHU ,JT04Y, (_ED85^@-XHV+!$UADM6IJ([NJ?RXQM4+-L0M8G+=K$SOM@#0OE:IXQGB
+M@R(UDX.D9/G-EKET^Q.AZRJVC)$YM%U(Z0.=PP[0(BX4S",!TO5*XYTD<
+M#DF=RK&D8#(.J0F&-%@J,9?GGSR1,BQYP;/K9]L7F:VCUCSRM:>@&"9=K=;G
+M>I'[1@?KKH\;[HS+JE(K)3.2K^,>*F_]2SZ"3^'__.+I80PP.(/]G(;'4#PR
+M9JA#@*['T>R*41A0,8[1IT*][S=OO\C]', (QTF $,$VW(2RXN8AM'2]:[U%
+M,*Y=,&6T/E L!]Y=&%6,Y9,7 9E'$T9*&6M<*Q,W5!(IR_D3+K(:@I)]M==R
+MP8:E]V(6E@"4(-U+H!&Q1,K,4
+MX>6YH:ADE( >X9[SSA .,$7C1 "YH;+&R%RNS&0'R2RA0YZF\FL3PWJ!3+ P
+MPD,8I@7JAKYS%:[&?*!!C/3:GX>][,&,V1R@)_@5YE649<@:\:/[I>!V_(Y[S>B@<2 [W^U0*J:@4KI/=I+**
+ME,3\4;VHLKYPJ<92_X[#F)I')?YS6P>IYGO_$3KHX0F-35=?*%.)B?(GU+C8=T+X\B(RJ@'B/AH4O$!$RJC7TSGJB$J)
+MQTI-D9%4Z4G5HY?+M^H P"0WS&9U(\=I?J2@*"\:<<.@D_]*D%/R5Q5Q[FO&
+MRS.L4;;ZQ#1XDM")SQ8AD>U6<_YD
+M65*Q0/8,6Z1.RHRZ^*S#*CN'I]AO)E*B8'T8!!@\F@CZ635\;XHN+^Y[:+2P
+ML>"FOOD+./SDYM2MLFK3U'D.^*ETG#??]:%@>E)5HE+Z/97+V*7KZ'>)3*[8
+MKL+31E%\D.R+BO(:#CX$&AA+CS8RH\N0[IG=EZAW_C^J9!L8?GKS_S-9V(T%
+MK51EK2$ ^W(&9OO-@IFW+(94/,X;JN L_M6\H-[3@P-BO:S(Z)BX.E=1B*.G
+MI8-XKJNGP*.+=H^/2A\W*)2Y:A'LXC3G*VCJR+=2]74<8$;6."WPPYR!1T$;
+M$)F9/4-8U_7R0(:'% [$)ONL5^%,]3?[,-I."6&&B+^\)UM-L1SCH6.7,^IQ
+MH;DRGT70N8,90Z"[C\G!I;+>Z3Y!F#B),EA5S6=ND,G-T^+)'Z'5FCM-,4S.
+MDC2E>FG:9IS;D8K+#FC<84ZHH 9!,1++#Z885&#N"P]HT*VD1)%I)_E4JX8B
+MV+'J&)EA/2N3126*\*-VL,D&H_BB)\FPH3)?;8&6V0C?UT6W*Q6O9(^LLM,%
+M"(W'(UU[3PTX5 LD4Z>&REOR:36=B<-WHZ%-'F;QN>Q55MO\] (.M]]]?AI/
+MN@"DB(CJ5;$*0E?J]@12CPX$WP"1HT53GBQAIA+:,K!0(A.2.3I.7"[X"5K\
+MY K5N0K H1")C%K&RKHP3=[JADIBH\R=R^QN/1@)21 CJEH.14Q:0&IG49:W"0DDDQ;3 2.,F 3G.?5\XDU7N.9F2WIT3*1ND
+MTV>3Q:\YV-VG@1!I.84P1P64M4"G^F_3TX6!,@R:TGD_1 :1.@?'S:G3K**Y
+M^ 3:_3+TT]@81?CPE!E,1<4BM?],:&7>'B948+'C0G5FI?8;6&2T.JS9UWL@
+M!QI?#L%)2N
+MI=:MFMNC?*D7"1V80[#0N#ZY\"J2&%SY,\R/X@K=4,A<6:^8+N+%0,-$WCNK
+M?J60^$Q>5R)MQ:.E_HHQO ?Y[L^%!WVE9>,E?8I
+M0'4#;U;:FY;BCM,J7^,R*IP]HJA7][9Z*;VH/)MN@DDE]5C#C3H<3$P>.Q30
+M&(IR01R4\E@PH!9&^TW[@,<8]'#(NG%3_L2%34E'D[-'7DBK:*;!@/3YF^90
+M8A]UBRR>8%" I7XYZN+:9+P(CZ1E,SDSN)JVW1GJ623:4L/:H.#^4N\9HZ"@
+MN$%E,J., YX'<,I1J S3.4-LO*ZXG&CQ5<7J&GS($IA6\WE6<6$8(&_0:C6:
+ML<%"K8/9KD%X*V>*B$5/*M$UK^"\4,*[ I:K[&?639A=IH,HSZ(I#9TZ1@,(#L
+MLITK;)[[2*%M09'P0DU/8$JY\H]3$P:@ SXGGAR0QTZ&4K[XJB^05WX<=O[V"0IV3]YD*!P
+M3H. D\C 4SV22*7&S:6>><4TIC90G)C$=I83(&&"Q02!ZF*!Y[BKDHU4H9NF
+M64A3
+M& E32M$3<2Q2ST92J+4 0)3X>AX09I-K2I>+<%&FJDI*IP9>)+0TPA,UTG'R
+M49U"I585HV-AZB<:B4:V"1T;HDP;E?\A192>G*)C6?I)/>MKJ!!=2K9=4D?;
+MEZG^)^S2PU]?3, =3A]/MF2W8-JDH3&'^\K.Y'MD\UZY,"RL)4TIQM*9T9>BY&AF9Q5.Z@6D"\ /%=^[S@,59T!7
+M\A7S(++85YWJ?C$VVX!NW (1YILT9]&9%V?WKDY<1T7BPHE\3*8IKY_WPAL\
+M)$@ZD9<5@"W7*#KK2-<]LM^JU:HU%61>Y3-SK=IJ
+M+'X)\O*_=_96>QOV@D59S?6\+GK-BUH\U.P7)5C-!6]*>#7O*;I?L!$=[YQE
+MQ[7I%VVL_VU-C[P-W7;Z;+\^^)[HVIE=1A)LYXM0WV?!>C8YVHM>W/'6R-&<
+M!4C 0C_Q+;TZ[($PL!X"@_O>ALV=:]7'5-$[N"M[-C_+5?18UR*J9\!F\TG/*EN=!_IG&V#4OEV\U,N-
+M]A8OFX>7'1O\P]K*YO;6J%X(U5F5%CNFQ6C5D*'>^KMS:%?;]\9R6+U>[K0?
+M: ^]? 1F@?VZ)=BW2;"-9MEN/]#=W1+LR^/OW1'LCF65ZS5[>2/FR8EU37XH
+MS=O:7$K[*J3LLB,LCZ2NK(DZRWZ'PCZ$3]T6@W'I-S6CTDM[
+M97MOF\;8/+S8]=H6*QN'E;URK?Y"W/+&TTO3S5$/CED6-:3NFYA4DN_.WUXG
+M5#:6/ZUVN;[WN!+)1T%FL^O1MJSPCEC!;I1M:\L*6U;8LL).L]QNKIYG?BDN
+M($MOEYH_U])].M&H]:Z/=ZP7H;,)QSN^CM9@J]JQ5FN1G=OP:E7WK-5Z9^?_
+M7F^OK5]Y,UN#]V9?6D-K\,;HL*DSI(D\S]59,Z;5_URX8DA=_"NT&6Y\#V6A
+MK7G;T+QM:-Z49MYM0_.VH7G;T/PZO+97ZY?9S7)SV]"\)=A70[#;AN8MP;XJ
+M@MVQ:N76MJ/Y^0"^[6A>IG-VV]&\F7C9=C1O(EZV'KVR#ZMAW-6X)]+02[[6C>$NRK(M@=RRZW
+MMQW-VX[FS36S6^7VMJ/YS6!SV]'\IM")^J.S[6C>=C1O.YJW:8R\F-]V-&\@
+M5K8=S=N.YHT"V[9W;=O1O&6%+2ML.YJWK+!EA7?;T3S1C/6NFY8;\YN6
+M^[GDV?UZW]GC/6Y9C09W>:_6YWO]=JO69*0GP?M4"RSA_>+D]]/#RQ_GQQ?W+3S7 9[;2L=LPPMVUM^#].
+M3RZ/O[##D_.O)Z?'%^R/[U^_G)S^?E%F)Z='U8(!\B8W/'^?$R2$+/U4-/2,
+M4[V:4R-F&\:_CKN/.Q]B0S9C-6$SNW*7??- &0J??17R&FX([N>XU[1-PMDI
+M'XIEL+:T?[+T1M>KTY=#ZER$*FOY[:#UTHO]I?#ZFK!W? =V*OJ=[/]ZCF!G
+MD9">:UKZC@:>Z+/?TH,/OO?[<%,T#\-3#K'9QPQ#;@D?9@VNC_T2WL$7'HLN
+M^R<:WYTR*YP]\OBSS[87MQ>W%]_BQ9<($&Y +'!".!;^[87N&/X,XJ%_\/\!
+M4$L#!!0 ( 'R(Z5H+'&=>-P, *P* 0 =6%L+3(P,C4P-S W+GAS
+M9-U636_;.!"]YU>P.I?61^3$-F(7N^VV")"TBS1!UG4)VOFO>$,YW'(LS>;1J [T(8K.4_R498@D%0Q+I?SY.;Z/9XD
+M;Q9'1V>O,+[]\^H"O5.T:T!:]%8#L<#0FML5LBM 7Y3^QN\(^EL06RO=8+P(
+MM+>JO==\N;*HR(IQA$6OGHV+<KV<
+MC>D)RUEYBJ=U5>.208&G0"9X4I09+4I2%\[L@V[,S- 5- 2YTJ29;GMY\3E DP$KN/RVA=Y46D3\<>K=%3$0X1T16^A.
+M?G6:GD>UC\SVK<6DLD?3?U9C5V-ZW8'9S
+MG#OU;K].B;,<'^<)(M9J7G46WKN.O(.:=,+.DT[^XU+G-0?FVBW -W0+\,AM
+MB5Z"_4@:,"VA\"OU+HX0\FWA3:NT1?)9K)J8*M30&;PDI W4!/5MO%"4V*!.
+MCS8.'DK>R4E!6!,MV%M&&\.2](<9[-O]76GLI/@O''G8FW!>N#;\<@X/>CLL
+MA\C[CSGL5-1+3?D1,WR;GTPC!#) 1TMUES+@/R.(IW#_9X<$B)3*!KZW#+:V
+MY;)6O<&9_/[-XB9>01T/[+/Q, R3?#J=IL'KSFH@$TVU$K ?G+9:M: M!_-X
+MM(0 *PVU.ZA$X'B,OK8:1BZ1B'@6?UL(WNT6 .,/IB_WXJ&>&,*W9)X8UP8!
+M_0[]C\MG4!]:OJ-P-Z)^@^(%J0XMWE% '%BW)UX[/^)LGL2KGDCVEYOP]OY<
+M^GL]B"E!'GIS=7[ ?1"RVALT)A/3>>C?(@N_'.&'%\BCORX:ZL.A1_'.TJ=1
+MGL3O#+!/6/WWUE3S,VVX
+MUD,GG92^WH3>_,&U6PW,N:27T%2@W1.A,E83ZFY]JSNG03^-W=/O);CDPBG+
+MRZ^'AU?,S$F9*W8=I,4Z/6C$="XVMYW_^J!5U\Z3'NYB-^YIT&L2"U^&K)B_V?IZ]"?26W^\??7J]3\0^OO?7SY,WI7^=!&+
+M9K)71=O$,#G+FN-)_;#3@YRVZ2R6B#TMOO:7GER467SXV9",16K
+M;JM/JQU!!0F:<^0]EH@+*Y!.(B"I@K,A! Y-_YKO""\#"5PADUQ"/$2*3+0:
+M:ODA=*VSG;K[_H?2VZ83Z,$I3.[LT;Y#JVZH;4*$(D:VS^NP
+M]?;59'+)G*U\5>;Q2TR3YYLV(B-?''A5ON;#9F 2O#3T"VFX@M(@+%ZLQH=X8]QK.%WPKKRM+<)[Z-9<[!>M:^VC[\\;R)18B7GFB%(R_]C4YYZP?+G\+E
+MUL6\:YV%F,W6+ #XN-_$13W3VC/+(;)@EQSBEB:(,5(CI0B6QGM!M%J7OEXM
+MI3KZ[7GY8PI6IBVA[8N.V4OQ[[5]R>N &66Q/K(NCS.L'.618,0D#X@G(I%U
+M*2#-J-3*<>*3'#Z)E;F;N*]6Q&ZUFL%R4STJ-J2J7(RN6%..0=FE((!Y:U)6
+M(5:0#<%'W4;?\7E9Q_!FJZE.XU4CK'Q8MN_SV"YQV()QWKX8(OB'.+?Y)2N[
+MYUD]H\DG&R1%5D?(C12ER''+$3'1\<6B9M<& L
+MP=%$<,0E@\.((1RI**3"!."X,:+(C,0BSFU$#GP.XC$F0@.7P;$'\JA[AA]3MKYDM2^
+M/H7KO(/J%2/H4]=?1_-X(.[)
+M"Q1)8E$ZF4(:5L"X;NW_D7N/6KQZ,G4C;M46QRZ ""V0/W,[GW&O&398(\("
+MS(8 !A.31T9BY^&O"^*^=/MA#6^8VW@1GT[>,VW$@UAE97A?A'>00,S L&;,
+M1Z0X@0C O8%D 0[XUFHA*37$1#?*CKQA=N-5'4[FB*>DJSE^B?.L;MH _\DN
+MXHPI%3D1 EDB%402SY!CCB+E-"?2$DK"L*W:9W7CM1U,Y;JT;+BT>[#:*IOO
+M%R&>_Q4O9CQ%0I+#B.@V2R X(0?30SYY3>&0K[P5(VA[R^P+$7<(F>OJ\N'J
+M[A>^K$[*JIME=[3;*T\!X\5>&<"O*!E<4 X%SBQ,MBWG<$@%',\%\4*4'X_H]74@AJ^#/[,\?CKMXV"$Y#(MZ\T@R7G
+M&*0)47AITAB;NL:Z]$T[J+&Y^J@*G]DA8^SQ(5@7AL4F!2(
+M0Z(()_.04*+)1=]>@]/WU: ?*?0MZR]+[2'4KDMN1I/\H*P;F_\W.^FR!$4L
+MY/R4H."M03RT!78.\W5$P:+DC!,RQK&JS_;+DOOIM/;41@:5N%HWLUM%VP'1
+MF.E@C$4A, UI@Z'(*$@%"<7&AFA,U&:0OM>M;;RB3Z:N1\-!!:[VMOC\X+@L
+M5ND?$P0SJU/[9 !M'R6 @*&=1C)! F@QD8+?=S'A%VZ7NV5QX[4<1&&/GH-*
+M6M^JK&EBT5[-."VRRT<>ZEDBD <(0T )$\!+* ,A0<+;"&?T((*6:5C=H]?L
+MQBL[G,P>>0>5M0[+//- 8C'_"$&_RFP^XYHDQZ*$R7'(XJUI;UF2'@42A+91
+M8,Z'W=*\;G/CA1U(8X^J@\I9!U5LUUB$[*V[=-7>Q5]]3@E\B<94*J8X,BZU
+M%R'!C5@?-,*8&682MBS==^W^877OMKWQ*H]$:X_:@XI6MV#MU_5IK*Z#PTZ;
+MJ'! \ _R <(2LH8IE#073NK(-!N6*C^$X*4I/XSB'OT'5;D.HS^%P')!J#O*
+MFCS.7!(V6F)0@N,9Y N!($ 'B;SP3%K%5;Q]-^UC/?@MBQNO[R *>_0<5,M:
+M@7E_[H]M,8_=I:_DB0B*!\2HMXCC*)"C(@ J+35\W^ X[*:-/JLO1M+6,TA6?A/59XUQ^!93FQQ,6,F>(G;2Q[8"9AD&TVTH$@Z%213B2HQ
+MQK6&7N,;K_18Q/8(/JB"]:D\JFS[!.;AQ<*5>7?_B?4VTF@3\NVS&US2MH;*
+M*:):66.)ACQQ6*VRQ^C&"SR4R)Y;/085JVZ@F0DXPP4"J9_6!N*%B0Q\B@ZP
+MQ+SCP6GKR;#K##?,;;R83R>O1\81'B8[LN?[ 1*[+"U/Y?DR>GP.*9']Y=?'Q3SXJLI5
+M7BQ?G:$7\"Q02U'(?'G[ZNSSS6\@/?OU];-GO_P-@#__]>E]\+80#PNUK(*+
+M4K%*R>!;7MT%U9T*_BC*O_*O+/@X9U56E L 7M)$K
+MBBV%$5CE+U?UF^\+P:IZU ?[%72V,/\"VV; O 40!B%Z\;B29Z^?!<%Z.,IB
+MKCZI+#!_?_YTV2E)STV+\Z6Z-;_;CZK,"WE=L;)ZS[B:Z][7T:KO]^K5V2I?
+MW,_5]KV[4F7M8>=EV8AJ>DE-+U%L>OGW+K'S$=T_4G^KP[X>H7.UW:MC];%O
+M3*^.UMT;_0VA3M_A'9G175Y?4.^6837!8_9':Z
+M/#=OO->O-C(F4,^7::VS^>K>Z:IZK-12JO6W92-TD,M79_K53*I\=EW,S:JG*WJFEN#S]5:\
+M5N@+?^;@JNJ@LU2KXJ$4Z[RF)4U.7_?B]0_!8*OXR_F/GCD/QOS$%N(
+M1M2Y2I?52&@1KMU8TI1YM.6/5:\2*K/>)D#+6O1_=@SU#$P_2<>QZ\:3JU-KJ(;-M*"5L16O[6P^O>9+S:O5]IT?
+MH/4(3(+;L,$M=!8MW;/557%3,K/6>/U]P8OY;W-V.].)B4,!.4A0)@$1C "6
+M" P2K!.8%(K+.+9-6"WQ3PS=51%L)(.U9F!$[?-6VX@,IZZ1/MUH<[3HE,%Z
+MC'@EL;9XD^6Q'C.[J:ROF3M2;Q9J*K09VP6AO
+MX([$NV655]_?+51YJRG[=UE\J^[TA.N>+;_/:"0B'*8"4!5F&A"DIT=GB8!QLJ?-SYX6:C3$/O X=C&!J)]C$(!W:.*2GI8W?LL4?K"S9
+MLOI=U==*K B-"6A !+!"(L4XP1;%7NMT4^]B+[6;JZ5>"A-&GL4
+M=_JWIJ[80LVHI@=R80I 20%!"0)4\ P(3!+(I%1)R*WOY[8(G/J.[D8RV&H&
+M1M3AIF[;F RGG[%.W;!R-.EV;[?'B=_=W;: T]W?[;'3N,/;U\ZWDGLCI?XM
+MKJXK5JD/Y<>R^)KK#L\H$KJJ4QC$BFO$(J@ ERH&7.F!8Q%/D]"QJFL7FJ;"
+MVV@_#VIU/4+!5M^UX.L8+MOB;_P@>!6"'OX]ZL)^+_?8.:\>!
+M]B.!W?SU/E\J-(LAPDHA#&0,$T!PO7A("(A8G.)8"HJA]>)AI\K$J&Y>!$8[
+M^+#T);4Q3HZ8^KH?QZBU<7]$VXR-Y[,1]>? V6:LD\S6QNY87IB(I6(7A50S
+M J$@L<0@21,!B.0)T-4JUCA2%4N6<<2L2]/=P*>^ UU?@5HK,&+VJ#6\#]/E
+MZ\@-*$LS3OBT]=R+F$:@R2!IZ_XN%ZT_=USI8//9YV5>*?DF+PU3J\NEV$SX
+M*6=1B%D("$ET?DHQT5,W*@"B0L5IEBI(B=5Z1[?&B0'Y?'5Y\^YM\.;RT_O+
+MJW?7SX/+JPO+)9"><1E8"#F.6S=XUH*!5JP3T"K0FL-K(]:.Y6974OWXW*F=
+M-\0\1F!NE)^;$7AQS.6A87/K;Q;=L/[N@ E,UHL_/9^<9@EHN.M/"T$633UR
+M;?%5E6_XJBJ9J&9(1DC!* 09Q'J2RN(8I#1#(&%4092A$'+[9+L;^=39UF@%
+M7[9JEE@=^K=(N+ZN'#.NK2&WG-O6>;^DVX@T7=9M,]!(NZT-?&>&ETNSF[/^
+MLC/ 759JL9I)$6:)H R$,H-Z:D@BP!&)357*4,P2F<:."SEM,M/,#7>4@R_U
+M]*@6=^"G9Z!LYX9C[7M-#IV=>\P-^XR-F!RVAIUX=MAG[7!ZV-O:'<[M1NRG
+MO8=O6:4GBC'GD&884 D1($G$0)J@" @1D8C(3-$0VG+9JG!B))^VEZ]% ZT:
+M&%E[%MO'91C#T6[="'0VZH1>KQDOZMHC3@9T?)#ENE)!XPR2L(H!7$H.2!A @$-)0$TC2+(LP3C,+%EK5OFQ,!I82!V
+ME(.U=%!KVU/7,TS#Z!W'O!M_?KZ=(!RVY45B3]C)/^6H6DAC1!"$0DU#I.9Q.AEQJ5$5*>(R$5!)*ET=A.I5./:?;V]EB
+M)!UW\'0/TL ZT3&M.T[\G%P[/T$SZ.A(3]-TZTSZ9,V@W?VG;(8_X#N7O-!!
+M2S:_U%\ C_]1WV=9+&F"50BPC,W3U[&>1A(< \5P&&=)&#&FW*:1>PK3S" W
+MHD&M&FA9UZGC_KC8SAI'N/6:,-H;]9@I=I@9,4GNZPX(RL9EV&8DQ1V^GQ&*7M8?"?5>!VVNPI<[L_XW&J@[IE\\U3!J9R
+M0R%,*6(QB-,H!"1-4\"3. 6:9"A0G(4,9=:'.C1CGQC:6BW8I!.7VN5K=,#XW-S(047$H@-FV
+M! @S%2M3&"">*LR1T+6JV\QP&WD*++56\*56<[V)^.3?$CL?5QZ8V1ARQVJ_
+M\_X8/46:%IM] P>8'#3PS6:?U&UN[NR8Q)H"T^2N'YJ.6Y5:Q\0V4?D[]FD/Y
+M)W'BPM..$0VO7O7AH
+M1IH,B%8#NT2T-_ \&+)8+(IE?0=L\ZPY)T@76)D$&=5 $*0+,!ZC$,2:BCB%
+MDF-J-3/I5#CU+>5:;WUKU?$LR(.QZ ?E* [=@-DU=X*S%SJ='.L8R(/XTYX"
+MV67OX!#(SH;^3QF+HKPORGHMH;X!?5$\+*OR>[T'+*11QL-(YY^$2$"R) (I
+M#RE J609CF2J[.]:6>A-4[,UNK"SB7K3$<<]/B]82R
+MA=M1CRKWQ9_\F64+LVT/+]M\S/\@%H3Y35[-U4S7EHF4"00L$Q$@Q/QG (S&
+M()2*Q*$N/R-E_0#S?O!3UYY&PSRUA/ _^#^#K;K["2Q/@S',ZQB+CJ6HHSNO
+MHU?V;8PZ=N4IV.1'KNS;:#MNY:#-R),;/A:KBLW_F]_7W_1(HA!!F0+.J3G+
+MB%# 4L@ 0I%.H2I-HLP:HVZ9:?+DTQ$&:^U BWOEQM:!LDV)8^U[94)GY_YG
+M-[0:&W]X0S/LSSF]H=5:Y_$-[:U'PFDVPG\H;XIORQF4D5"0Z )6FAM;B9Y#
+MLI@C($6J>,AD&F/'I?L#C8FQK ]&T/69D?9D6AK/
+MX4[,GP/AH:E. EN:^F^/N]$?G:4:N@@K"F ,%2"88T!UE0E4I.),8890;'50
+MQ'[@$X/VM$?,:+GO@*NM#^/D:\B-(3LO7IO<=CL^:F];'6CR+6V[W6_;R=;X
+M>1<(NR/Z7K]Z_6S[3K[^OV%?/_L_4$L#!!0 ( 'R(Z5KLF[PJ7^^1?;PWB:6O0E[.7N]]/7V/]-X?;UZ\>/4/A/[Z]^?C
+MR=O*7\QCV4X.ZVC;&":7>7LV:<_BY%M5?\]_V,E)8=M4U7.$WO27'5;GUW4^
+M.VLG%%.Q[+;\M'XIJ"!!O]\[:]OSE='IY>;E_
+MY>IBOZIG4XHQFRY[[RVZ7]WK?\GZWL08,^T__7_7)G^H(]R63/_Z5MVV/^I-Z37[9HWN'EMU0UX0(18SL7S5A[\V+R>0&
+MCKHJXN>8)MW?KY^/5D1>E#G8T5=EFY=@6%N<545G_F;?5_-I=\5T:71;AG?0
+MK;T^*CL+]^K#D'H1[?5Y?+W7Y//S(B[;SNJ87N]=V )UIL<*JTZO?SYZN^E/
+MK<_KV'3=NO9C:%C57.A6=[:IZ>65A72SZUBS$
+M/#NL8$(=N*:MK6\S:RD13!IDF?6(,Z>0-4$CYYUF,B7.L%\%K!M: V/K3=U$
+MOS^K?DSAQM,.Q>Y%#VF3PVI]85,H0:W!/2WFV]O=8L#HQ%CVFY[:&&R%_
+MEA=A>76JJ_D8UFJK,;"[L0SHNS>!8:=8US$6XT%FOR-P9Z^Y\
+M?PYV&[0Y!.+L:Q\K#_(: FILCDK_(."MDF[-VAF[7GV!2"/719T6-BF^92^M)7_WL\"
+M2U((EAHD#4P SKA#)E"&!&9:"4LU?#TR^9-M7*_U0M*-!XA%VRQ;?KJ")Y59
+MBRMT.P/"N$AO 65NZ[^81!$;@8V+B#M"@/0Z(1V(1Q+2(ZPM58[QD;ER7XO-
+M.)21S5N-BO46L.6;K6M;M@OOF%@W7[1!."@&WM9CI(4G2%JAC!%"
+M&8F=AV\7Q&/KE*?MOR)NPRN1<0GP?""WQ &8$7LAD/"[W$)SP=V*]*&SW&6=\7[LOUHYS%C
+M2D5.A$"62 69E&?(,4>1$CJ6KS@.\*+P;!N!2T. ;C:%D=E
+MB%=_QNN,ITA(>PNH Q71]6 ?R?DL$%Y5#@S (X7:+-(55R',>0?+"$L1%X
+M\J@2:[%&[A1KQ@-]*SCT/B_BQXM^G>1QMD
+M'($P/R6NQ0ZU4^QX)IQ;086#$, $S>)/APC)I+4J:*]1< (66-TKS8#>CD$:
+M%867)HWA1!X0O18Y]$Z18RC V\220WCYJ3ZM+LO,6:F3811I','G)>.0EL0"
+M,HP;3H(!U,;CR$_!:S'$[")#G@GN-O&CCXR?ZI.Z^I&7/F:)"\&\-B@P*1"'
+M)!PY'Q)*-+GHN\UL_=AFV]\DR1WIZQ7 \"Y290C.V\27DZII;?'?_+Q/HQ2Q
+ML!BC! 5O#>*AVWWD@(\C"F8 9YR0,=:^#\E>CRN[4BT=">,-,Z7SAP=UM+W>
+M&C,=C+$H!*8AKS(4&05Y-J'8V!"-B=H,XL9M:>NQ85=*I\_&<=-'.^'3XN2L
+M*I>Y-1,$,ZM3=W*>=D?M(2IJIY%,D%U;3*3@C^VZKG&V\X[$]7BP*P7307AN
+MF O?ZKQM8]EM$U^4^MS8E6KI(#RW
+MA OOKOR9+6>QWW-.GHB@>$",>HLXC@(Y*@(,0DL-UQLDCJ>IS8E?KH
+M8%RWHMCU;A[K&>12_ZFKR_8,'."Y+:\S9H*7N-LOQ$X )EW U((BZ5203"6J
+MQ!@;;P\*7^]HV&Z51H>CO&&R?*Q.:]L]^/WE>NZJHC_H9KV---J$?/=4'Y>T
+MVPC@%%&MK+%$0PH^K(#^@-#UR+$KM="AJ&Z8%"O*9P*6Y8% 5JVU@9!H(@/7
+MIP.PV3L>G+:>#-MT6Q&W'A%VI0SZ?"2W(HBXML
+16
+ual-20250707_htm.xml
+IDEA: XBRL DOCUMENT
+00001005172025-07-072025-07-070000100517ual:UnitedAirLinesIncMember2025-07-072025-07-070000100517us-gaap:CommonStockMember2025-07-072025-07-070000100517us-gaap:WarrantMember2025-07-072025-07-078-Kfalse2025-07-0700001005170000319687falsefalsefalsefalseCommon Stock, $0.01 par valueUALNASDAQfalse8-K2025-07-07UNITED AIRLINES HOLDINGS, INC.UNITED AIRLINES, INCDE001-0603336-2675207DE001-1032374-2099724233 S. Wacker Drive,Chicago,IL60606233 S. Wacker Drive,Chicago,IL60606872825-4000872825-4000falsefalsefalsefalseCommon Stock, $0.01 par valueUALNASDAQPreferred Stock Purchase RightstrueNASDAQfalse

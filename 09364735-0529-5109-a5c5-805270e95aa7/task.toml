@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/blk-2026-06-30-net-flows-fee-rate-mix-and-the-private-markets-buildout"
+description = "Take a clear position on whether BlackRock's net-flow strength and fee-mix improvement justify its acquisition-driven private-markets buildout, distinguishing low-fee ETF inflows from high-fee private-markets and active flows and separating GAAP from adjusted results."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "BLK"]
+
+[metadata]
+uuid = "09364735-0529-5109-a5c5-805270e95aa7"
+difficulty_explanation = "The analyst must see past headline AUM and net-flow totals to the fee-rate mix, using the disclosed splits (for example institutional index being 29% of AUM but only 6% of base fees) to judge whether flows are genuinely fee-generative. The private-markets buildout is transformational but acquisition-heavy, and GAAP results are materially distorted by noncash acquisition items, so adjusted figures must be separated from GAAP to reach the truth. Reconciling durable low-fee ETF inflows against higher-fee private-markets flows and integration risk into a single verdict requires weighing many partially offsetting data points."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process directly inspects a broad cross-section of relevant primary-company, structured-financial, historical, and peer materials rather than inferring their contents from filenames or relying on one document type.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-opening and reading steps for current annual and quarterly filings, company communications, CMG financial JSON files, historical comparison filings, company profiles, and peer financial files before those materials are analytically used."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes a point-in-time reporting chronology that keeps annual results, interim actuals, management outlook, and later updates from being conflated.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a chronology or source ledger recording document publication dates, covered periods, fiscal conventions, and whether each item is an actual result, guidance, target, or later update through the cutoff."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the durability question into testable sub-questions about demand quality, restaurant economics, unit maturation, capital needs, and competitive context.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question matrix for distinct analytical tests, decision conditions, or time horizons rather than a generic request to summarize recent performance."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process investigates traffic quality by tracing comparable-sales performance into transactions, average check, pricing or mix, and digital-channel interpretation without treating those concepts as interchangeable.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for metric extraction or analytical notes that preserve periods and definitions while testing whether sales movement is transaction-led, check-led, channel migration, incremental demand, or unresolved."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process analyzes restaurant-level margin movement through its operating-cost components and keeps restaurant economics distinct from corporate-overhead effects.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect fact tables or bridges for food and packaging, labor, occupancy, other restaurant costs, volume leverage, and a separately considered general-and-administrative contribution."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process evaluates the quality of unit growth through maturation and investment economics rather than treating restaurant-count growth alone as sufficient evidence.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for analysis connecting gross and net openings, closures, format mix, ramp periods, average restaurant sales or unit volumes, and capital spending to the economic contribution of new capacity."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively tests provisional claims against the strongest contrary interpretation supported by the explored materials.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect challenge sheets, thesis revisions, or paired claim-objection notes that test favorable evidence against prior-period patterns, pricing dependence, guidance status, cost timing, maturation drag, or demand risks."
+    },
+    {
+      "id": "c8",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process records unresolved contradictions and definitional gaps instead of silently harmonizing them or supplying unsupported precision.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity or contradiction log identifying period, scope, rounding, or definition differences, including unresolved separation of price from mix, digital migration from incremental demand, or development from maintenance capital."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process maintains explicit reported-versus-derived provenance for quantitative outputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation sheets or working notes for reported/derived labels, visible formulas, source-period inputs, preserved units, residuals, and sign checks for growth rates, basis-point bridges, margins, or capital-intensity ratios."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process limits peer comparisons to economically and definitionally comparable measures after considering differences in business model and reporting presentation.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for use of company profiles and matched-period peer data, with comparison scope narrowed or qualified for franchising mix, ownership model, scale, accounting presentation, or fiscal-period differences."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process integrates traffic evidence, restaurant economics, unit maturation, and competitive context into a causal synthesis that resolves the central favorable-versus-adverse tension.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis steps or final response for an argument that weighs breadth, persistence, economic magnitude, and forecast dependence rather than presenting disconnected lists of positives and negatives."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process reaches and maintains an explicit directional position on durability based on relative evidentiary weight rather than ending with an unranked statement that results are merely mixed.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a clear opening or closing stance, reasoning that explains why one interpretation outweighs the alternative, and disclosed operating signposts that could confirm or invalidate that position."
+    }
+  ]
+}

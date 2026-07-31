@@ -1,0 +1,73 @@
+[
+  {
+    "symbol": "SCHW",
+    "cik": "0000316709",
+    "companyName": "SCHWAB CHARLES CORP",
+    "sic": "6211",
+    "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "WESTLAKE",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "MS",
+    "cik": "0000895421",
+    "companyName": "MORGAN STANLEY",
+    "sic": "6211",
+    "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "IBKR",
+    "cik": "0001381197",
+    "companyName": "Interactive Brokers Group, Inc.",
+    "sic": "6211",
+    "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "GREENWICH",
+    "stateOrCountry": "CT"
+  },
+  {
+    "symbol": "LPLA",
+    "cik": "0001397911",
+    "companyName": "LPL Financial Holdings Inc.",
+    "sic": "6200",
+    "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN DIEGO",
+    "stateOrCountry": "CA"
+  }
+]

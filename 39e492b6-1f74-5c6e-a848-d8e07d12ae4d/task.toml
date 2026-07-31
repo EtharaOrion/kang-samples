@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth"
+description = "Develop a grounded, position-taking view on whether United Airlines' unit revenue (PRASM/TRASM) and operating margin can hold up as it grows capacity under United Next, drawing on premium and loyalty mix, cost and fuel trends, and competitive capacity discipline."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "UAL"]
+
+[metadata]
+uuid = "39e492b6-1f74-5c6e-a848-d8e07d12ae4d"
+difficulty_explanation = "The data sends conflicting signals: full-year 2025 shows PRASM and TRASM eroding under 6.1% capacity growth, while Q1 2026 shows unit revenue re-accelerating on slower 3.4% growth, so the analyst must reconcile a directional reversal rather than extrapolate a single trend. Separating the fuel-price tailwind from underlying CASM, disentangling premium and loyalty revenue as a unit-revenue defense, and benchmarking against Delta, American and Southwest all require cross-referencing the 10-K, the latest 10-Q, and multiple JSON statements. A high score demands an explicit position on durability that engages the strongest counter-evidence instead of surveying both sides."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

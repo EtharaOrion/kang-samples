@@ -1,0 +1,1348 @@
+0001628280-25-046310.txt : 20251027
+0001628280-25-046310.hdr.sgml : 20251027
+20251027060923
+ACCESSION NUMBER: 0001628280-25-046310
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20251027
+ITEM INFORMATION: Other Events
+FILED AS OF DATE: 20251027
+DATE AS OF CHANGE: 20251027
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: Snowflake Inc.
+ CENTRAL INDEX KEY: 0001640147
+ STANDARD INDUSTRIAL CLASSIFICATION: SERVICES-PREPACKAGED SOFTWARE [7372]
+ ORGANIZATION NAME: 06 Technology
+ EIN: 460636374
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 0131
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-39504
+ FILM NUMBER: 251417342
+
+ BUSINESS ADDRESS: 
+ STREET 1: 106 EAST BABCOCK STREET
+ STREET 2: SUITE 3A
+ CITY: BOZEMAN
+ STATE: MT
+ ZIP: 59715
+ BUSINESS PHONE: 844-766-9355
+
+ MAIL ADDRESS: 
+ STREET 1: 106 EAST BABCOCK STREET
+ STREET 2: SUITE 3A
+ CITY: BOZEMAN
+ STATE: MT
+ ZIP: 59715
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: Snowflake Computing, Inc.
+ DATE OF NAME CHANGE: 20150421
+8-K
+1
+snow-20251027.htm
+8-K
+snow-20251027
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 27, 2025
+
+SNOWFLAKE INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+001-39504
+46-0636374
+
+(State or other jurisdiction of incorporation or organization)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+Suite 3A, 106 East Babcock Street
+
+59715
+
+Bozeman,Montana
+
+(Address of Principal Executive Offices)1
+
+(Zip Code)
+
+(844) 766-9355
+
+(Registrant's telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each classTrading Symbol(s)Name of each exchange on which registered
+
+Common Stock, $0.0001 par valueSNOWThe New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+1 The Company is a Delaware corporation with a globally distributed workforce and no corporate headquarters. Under the Securities and Exchange Commission's rules, the Company is required to designate a “principal executive office.” For purposes of this report, it has designated its office in Bozeman, Montana as its principal executive office.
+
+Item 8.01    Other Events.
+
+On October 26, 2025, the Instagram account named “theschoolofhardknockz” posted an interview on Instagram and related platforms with an executive officer of Snowflake Inc. (the “Company”) in which the officer made certain statements regarding the Company’s future results. Under the Company’s Corporate Disclosure Policy, this officer is not a designated spokesperson authorized to disclose financial information on behalf of the Company. As a result, investors should not rely upon such statements. The Company reaffirms the revenue guidance for Q3 and full-year FY26, originally issued on August 27, 2025, as part of the announcement of its financial results for the fiscal quarter ended July 31, 2025. The Company notes that it will release its Q3 FY26 financial results in accordance with its standard practices. The Company’s guidance philosophy remains unchanged.
+
+SIGNATURES
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Snowflake Inc.
+
+Date: October 27, 2025
+
+By:/s/ Brian Robins
+
+Brian Robins
+
+Chief Financial Officer
+
+EX-101.SCH
+2
+snow-20251027.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Cover Pagelink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+snow-20251027_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+4
+snow-20251027_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting MaterialSoliciting MaterialWritten CommunicationsWritten CommunicationsLocal Phone NumberLocal Phone NumberAddress Type [Domain]Address Type [Domain]Amendment FlagAmendment FlagEntity Emerging Growth CompanyEntity Emerging Growth CompanyEntity File NumberEntity File NumberSecurity Exchange NameSecurity Exchange NameEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Address, Address Line OneEntity Address, Address Line OneFormer AddressFormer Address [Member]City Area CodeCity Area CodeCover [Abstract]Cover [Abstract]Entity Information [Line Items]Entity Information [Line Items]Document Period End DateDocument Period End DatePre-commencement Tender OfferPre-commencement Tender OfferCurrent Fiscal Year End DateCurrent Fiscal Year End DateEntity Central Index KeyEntity Central Index KeyPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Tax Identification NumberEntity Tax Identification NumberEntity Addresses, Address Type [Axis]Entity Addresses, Address Type [Axis]Entities [Table]Entities [Table]Entity Registrant NameEntity Registrant NameTrading SymbolTrading SymbolEntity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeTitle of 12(b) SecurityTitle of 12(b) SecurityEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Address, City or TownEntity Address, City or TownDocument TypeDocument TypeEX-101.PRE
+5
+snow-20251027_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover Page
+
+Oct. 27, 2025
+
+Entity Information [Line Items]
+
+Document Type8-K
+
+Document Period End DateOct. 27, 2025
+
+Entity Registrant NameSNOWFLAKE INC.
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-39504
+
+Entity Tax Identification Number46-0636374
+
+Entity Address, Address Line OneSuite 3A, 106 East Babcock Street
+
+Entity Address, City or TownBozeman,
+
+Entity Address, State or ProvinceMT
+
+Entity Address, Postal Zip Code59715
+
+City Area Code844
+
+Local Phone Number766-9355
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Title of 12(b) SecurityCommon Stock, $0.0001 par value
+
+Trading SymbolSNOW
+
+Security Exchange NameNYSE
+
+Entity Emerging Growth Companyfalse
+
+Amendment Flagfalse
+
+Entity Central Index Key0001640147
+
+Former Address
+
+Entity Information [Line Items]
+
+Entity Address, Address Line OneNot Applicable
+
+XML
+8
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+9
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.3html2221false10false0falsefalseR1.htm0000001 - Document - Cover PageSheethttp://www.snowflake.com/role/CoverPageCover PageCover1falsefalseAll ReportsBookAll Reportssnow-20251027.htmsnow-20251027.xsdsnow-20251027_def.xmlsnow-20251027_lab.xmlsnow-20251027_pre.xmlhttp://xbrl.sec.gov/dei/2025truefalseJSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "snow-20251027.htm": {
+ "nsprefix": "snow",
+ "nsuri": "http://www.snowflake.com/20251027",
+ "dts": {
+ "inline": {
+ "local": [
+ "snow-20251027.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "snow-20251027.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "snow-20251027_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "snow-20251027_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "snow-20251027_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 0,
+ "memberStandard": 1,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 2,
+ "entityCount": 1,
+ "segmentCount": 1,
+ "elementCount": 29,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 24
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.snowflake.com/role/CoverPage",
+ "longName": "0000001 - Document - Cover Page",
+ "shortName": "Cover Page",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "snow-20251027.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "snow-20251027.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AddressTypeDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AddressTypeDomain",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Address Type [Domain]",
+ "label": "Address Type [Domain]",
+ "documentation": "An entity may have several addresses for different purposes and this domain represents all such types."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Cover [Abstract]",
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Current Fiscal Year End Date",
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntitiesTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitiesTable",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entities [Table]",
+ "label": "Entities [Table]",
+ "documentation": "Container to assemble all relevant information about each entity associated with the document instance"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressesAddressTypeAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressesAddressTypeAxis",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Addresses, Address Type [Axis]",
+ "label": "Entity Addresses, Address Type [Axis]",
+ "documentation": "The axis of a table defines the relationship between the domain members or categories in the table and the line items or concepts that complete the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInformationLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInformationLineItems",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Information [Line Items]",
+ "label": "Entity Information [Line Items]",
+ "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_FormerAddressMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "FormerAddressMember",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Former Address",
+ "label": "Former Address [Member]",
+ "documentation": "Former address for entity"
+ }
+ }
+ },
+ "auth_ref": [
+ "r6",
+ "r7"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.snowflake.com/role/CoverPage"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r8"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-Q",
+ "Number": "249",
+ "Section": "308",
+ "Subsection": "a"
+ },
+ "r7": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 8-K",
+ "Number": "249",
+ "Section": "308"
+ },
+ "r8": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+14
+0001628280-25-046310-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001628280-25-046310-xbrl.zip
+M4$L#!!0 ( "LQ6UN]SO1UKQ "1M 1 Q^V=-(+>BUD-AN
+MR<#\^EO5+?'&!AL[9.-\2)#4CZKJ>G=UY^QOXT% [IF0/ K/WUEFX1UAH1MY
+M/.R=O[OH--OM=W]K_'+V%\/XX_W-9_(A"]?DSL@EW*FF5?1;UJ%ZGO5'VCW/4]P[$KOM&U
+MN\SH5EVG;-6L;K5:.^G57:M2\SSF&-6*;1N.57"-KE^I&46_6[%J-<5R[;CU"I=AU9MZ.A;U"M;KJ_F[<> ,^ =RCH?Q^>Y?AP/Z_G\
+M:#0RQUT1F)'HY7D8\) ASOE8T% B2C0&(N4!C8)1L W+SJ6#0,N[]:/8A4(Q
+MCY^[5+*L^7BE_:BH6@,>M;SZFIN!9TCF+C2&9[,7W3\(H54R"E6C:*7C;)X,
+M29%-YC$^;:@PR&:"#XAU:0;5)FRMXAQ84WPE7P< T,;*__'E<\?MLP$U>"AC
+M&KHS*L&H_ &JKFOO+2&0-B[G]4?5M!Y08.T<"XVOG5SCK,^HUS@;L)@2[&FP
+M_R3\_CS7C,(8V-RXG0QA!E<_G>=B-H[SBF;YQB^__'(6\SA@#1E&(P,)9!7L
+MREE>OSS+ZZ&[D3=IG'G\GLAX$K#SG,?E,*"3>AB%# #@XSHV9$+_Y,#DH?H)
+MWR]!U@1W]?SC^(;YYSG7@%4-Z0!'8KS>"F&Z21.@$S1HAQX;?V*3'.'>>KG.Z;HESUQ#Y]]S@11,+&UDM=L?UJDZW+G1O9JAN:9E^RYVR2_ +>Z\E@OS094FQ8#YE'
+M/WHPV7@8<)?'7]B@"U-X'+XJ^S/'T1>>!VLHF4Q_H"!>C+G,-;#-1]!U3*2?
+M]#!G^;6C3PDQ!>+PEB:_R+#Y.960!\6AM0>N&'_,O/T+&7O6)]4X QX:?88V
+MN%XL#^/3$??B?MTJ%/Z:4^T:9W)(05:[ H5)_]:#K Y%10]&BZ-AO00C(?P&
+M#7@OK+M 4"9RF\>:&P5MF@%=!77CNDP&,.IDXUA9)S<*(E'_M:#^G/I /,.G
+M QY,ZN]N@8,DN60C7'TCKC^;?+RY_;Y'FU91OJ39T\29W,.7D6=,B ,0+F
+M@]P6JG.OA)9E]6Y+=6(7+=_>69T4ME(GX!7=M"YOR4WK^NKF=J,*F$?P, "_
+M3H1,:!B3."(=YF(:AUA%$@EBE8Z\8Q+YY+;/\%,B>,QASM;8[4,DSEQB)CZ^A"^9>BA"L'YY
+M]>WCYXM/+=*^;)K/UUJJF57-VUJP5LV*M5S [*YX]#F69=J%T:$,5RV:Y
+M7-U&LRYJH_**-K*'8[+DY*$?N[S(>GUSZ_ANICN7/&%3Y;N67&']\D5EUWI,
+M=@M/T5_MT(T$>%%J#[$3@^/3C)(P%I-FY"UZ19B^Q3QXS(8BNL=Q9NZ0 RX;
+M"^B(BC7[0@NIY=A[PM)I8FY,\@<0?><"@,?B*&;E*N(-B&<5:J>!L
+MI-G7,7HB\M1SC6"S^LZ@$M0P1//T8^1[LA;9E7RV:9=6R)>^/ 3RM6\ZI#48!M$$.'11
+M.Y#+R%Q'Q_5177$EJJMM%T.MG!"K4"8M*F/RGG;=R+TCG5@P%N_HY^P]TA?12/^VWUC@F2QP
+M'8%;&_R3#[7/JWF@FFN4:A5K8UKO4;VP1EJW4KZ*J ?@ZSZ'HDWX>25NH]$T
+M0JCE&N^C/QG 8@X;T&31]4G[O
+MS?O=[%FDJXJ>[K6 !>5#&I#6F+E)S.\9N?+!SV!RZF#L"[RR6=H"OM-A)#DZ
+M.74! 3L"=(H9-J-HKLF!8?TR#I!K6#M[Y5NRU(=MO,\1<,=U/PJ7U.B/U4$6Q@'%T7G>[7
+M".4]P"/5B +C^$07#7A$HG]! HQF]-[Y*@?MNOS_3B1$SI/7EY=FGT$PAH>0
+MZ!!\HZ'@F'3J1F/294$T0K3Q(Q*'5(U/Q.J9=HBZ@"?-PW_3? 8
+M%@KS7$F8IF;DJG/=-B0ATGJ Q1=00J")@FWYM/0#\>E+&K$9!$JDUH.!?]N
+MCD\7RN&F7.H43-WR>+/#][-RZK5@J%#QS)PJJ49#*" D10=Z.XXMOW&L+MX4
+MS'#G2/FHBK44I?+R.H7XZ/BXRPSER
+MM^/CM.T:/GXPT'AU_IOS>+1[SP0$",-U!=I*AE-W'_"M/RJBAU/"]L3JX*)E
+M5LN5G4J\-K\O.K7]%(L=+%!/J&#;*C'Z6F50C^9?% ?=XH4'NBC?[1,WH%+N
+M?]?A\*D@J,K)=2:#;A0FRX![7L!>U:=1IUAVB!^U]9E8=E>)U=1)J>8:Z.P +3MQY-Z=
+MD/]1"MPB0RK(/0V2S9G*9_/?C[T".V[(IG*LQ7A*_IJNXW^C\5YHG'%YYBWJ
+M$Q/+WCHJD,5];KL >A:<+83U'Y&XT[(P=3H?7)VMSCRF+E1Y-88ZA-"H'7KH
+MC#/2G1!7);T!R#M0KDQ55RYEI+DD !UX\HA'C_1$-(K[Z-,/,4M-)?&8#U.H
+MXQLZ\UPUXRU
+M[M#B=% ,$F;]YH8UMPU]];&J5XZ:6AL(O/TJ9H+HN\"0C*KN8()3JXNTT/>"0$M^"+8/9?0#\24ABXF
+M0JGKXJ$,;(S7GWE4>%+O+WF;@M3B$9T&J?/R9_Z7%44G,=44R@\BV:$T,G_@1.M;T@LB3 I/B(?*G'<3=;$IN)>@
+M8EP&"ADU^K0C(W@YVW\2==95FN3KNKU2[#-5MK/S&>\D$> ?R1/5?@Y @?=.
+M"EV(X#$)1,2)*/GMUZH-CLMP6CW(IM6#D:H>-%4+ZQ2K&U#_PS(Q.?6@=&D'
+M6#%MGZ8C>^J\KAX!W;^L()>D1:3H'6*+!^;=N59M_@:Z569:OI-N)JY*8Q5F
+M76@79!:6:.=K[/3??3$3S!XSNH+1.X/ZL)9U&HSH1*)([_?RO.<5TFS3#[P4
+MB 05@#L?J5;6ZV4]L4>OA5-)DG;,!J0**A_C@<+IZM]7*LIIX84?TMQM%V$S
+ME4\W$/!%$%_-#H%Y:UR%9'J%2%E?(:(5!!8(T9Z@@\SO4[Z1EVD%:"+=?@0
+M^GUP!.]"B(7_S/0!R O*.2""14[BGJ-+&"]4.G?LXLX%!6Y502/XD3@;&&3()X
+MP> LMVQ.3=0'+MT@DMCO&NLI)B?:(&20P$\,4NB\29##Z(Y)"$PD\ E-XGXD
+M '-MDO1P;"X2X>'TPFGDJR[KT\#/XHP4,)-B#^TQM[3M#@#<&B9PC0, 1Y2[=!\: J
+MK-(,]W0IU*RZ/E""\T-2GX#H8.]_$YBQ:.D)%I$!O!DB0F.TS",>X) ! Z])
+M302((.AK)@2V04T@--)*5K%#%@J"O:80];ELD7A3_IB2:]CGL)S1L(^$'0 W
+M2@+8ZM+0%]>L+V0(MS9ICXSSYJ=\OWKO[1R%3OOWRXO;KS=K[N@]@)KEQPT%
+MXD#F_LQ?_J:UFPH&M&W8+HFJ%!@=*,VC?8>;Q=24A]K(I0FFD^9" YRRRPC:
+M *T849VDNKRKBY]5;4?: /PO!FY(I(>;V8@==<:3&>V5K_FQS))=V;E$PC:M
+MXL-9BVV'LFNFO:=RA+)9V!-05LFT]Y3@L2RS4GL8ORUK))YSA'KUD/Y.%R&\
+MMO);\,'7[:,O&3*K],*7S3UPR<'3*UR^ [W7*VJ\$[).5J]X?-Z^[_-IMM\[
+M^PYY!=Y/ZAO)75[.ZSY\T>%W.S6^38HUU\C+/'DO.,QY$W7!*=^E2N:%[W)\
+MD.B[%2T<#F/]2*3^$0C:['/FDX_3L%4?'-D
+MW57+;MLP$+S[*UB=2^MAM9:,V &:($ !MPW2!,VMH*2E3$0B59**G;\O28MP
+ME!?JGHKJ1.W.[.ZL!M3)Z:YMT#U(Q01?!O$T"A#P4E2,U\O@YOH"9\'I:C(Y
+M>8?Q[:>K-3H79=\"U^A, M%0H2W3&Z0W@'X(>5Y5
+MD.)LGB0XC:,2%W2>XQDMYG&>I\DLI:[H3BU4N8&6(".-J\5.+8.-UMTB#+?;
+M[70[FPI9ATD4Q>'ME_5W!PT&;,/XW0B]*V3C\;/0I@NBP,,5%]L1W 9H0^Y@
+M6HHVM'KC*)D'B&@M6=%KN#"+.0=*^D8O@Y[_ZDG#*(/*;+T!N]<1X%%:$UF#
+M_DI:4!TIX4^ZKB8(V6VPMA-2(_XB=RR0<:4)+XW _0K7HB3:.>-5BGW#GH=M
+M",<)GL73G:J"\"]F."SYN!D\[_@97#$%Y;06]V$%S*WPY?;J-;@]8'L8]R2<
+M"^WX-C+$NHYQ*O8!$[*#+_ST5T"];Y^9<;"N<7L>NJSQH2,364K1P-O@L).B
+M ZD9J,=&=@4V$N@RL#["WCX_.PE3,XF'/&LP_@0V;3J ,AYV>M<'0;Z$?NA,
+M"66^0P/[%?W+^BN@Q^HW%,;9?Z&^(<6QZ@T%FB.%6^*UR2-6+8,S87Y$EZ0V
+M@]GXS=7G-ZXYU_+ \&5]X<.G6$7NB1$^_+PPI$V!/TJAXLF'-\T^_='MY$+[*^XU>0W4$L#!!0
+M ( "LQ6UN=@@A@+P@ ,T[ 5 &UL
+MW9M;<]NX%9$XKT@'1L?_L>
+MTE)\$9WM"DP[YFQRF8+OC95=F=S[KS,/NM
+M25_*KV9V6IDN-FF%T.OAMN/FXB:5R_-N1C$5FV:;J^E(468B5Q$5-GK$J8S(
+M4AN058X71!.KE/[;\L@1J;T/'"E)*>($.V2CU(A%*XG6G#(>ATZKLOYRU']8
+MTX89#*]NAZ^O#LZ[[N)H/K^ZNCJ\MJDZ;-)R3C%F\TWK@W7SZZWV5VQH#8;T
+M?+CZK6E;CC6$;LG\]P_O/[OSL#*HK-O.U.[. )CWW;<;[ZL1\]N+T+0MC]KA
+M_O>-,]T Z ^','NR1?\-;9JA_A0B%#%R>-WZ@]_
+M?CK95EK6W=R7J_FZS=Q4%2@>>NAN+L*K@[9<751A<^X\A?BD^LV0>U&BE_/7
+MOK=YMJ9S$)+<)<02G UU'^(3:ASK/5_SM[Z0#]%<5MV$BK?[GE1OLS+EE [>
+MZGH"M4-':!56-J0II3[H]Y[.C "!=UF4_>;R'K^L>>EL[2@G77:A]N)TQ-D:JQCUH
+M5/7S5?/-P96QH1K.+GPH%V_KKNQN3NI^D3!K9>&D"ZMV(8LHK(T*)G]5(*X+
+M@XRP%.E"6A:*X(..VXC:#?(VN,-E\W4.5N:]:_J#P4>WD+YK^]9I&2,J0WMF
+M;!46 E->J""1=A8&45B&3& %8I+#O\"Y=#1_$!MS#W7?X7Z3-B-8!_^?FL-C
+M:E:3$^N:*5QV"P0T'\R:Y$."K 4N#3_((UY.-G4'8?NV"GWB
+M K^6T)$0V8WGXZB8QJ]C89)!_)Z4GX?)_K\2LWBTB.\$>\OT
+MA'R?3#?&)H!IN#13._6'D]8$>ZQ(1*[ G%, ](*1$5*.=.QT,2)?2#\($'[
+M/P'^,[Z<&.P[6+U"6DOZ,*1J"ZH$M4(1Q)D/B!MJD!44OBKJ8=KB N.\M7K$
+MZ)1PQ_+9AV0S$333^6\;)\[!N:E$]"-;*"V8QAPCZVD$Z[% BAB!J*%,&LEX
+M8#R+XWUK_UN /R#YVMEU/PCA:4AEX]_6_F?3A857-$85!9*XX(A3:Y"*!H;F
+M&&;&$>[<-"P?F'TV4'=WYL3S[>T8/X5EV7;)U-TO9A46U$FE+3'(86<1]Y$B
+M2Z1!C!G5%_M$T'*"U/BAU;UGF^W*;;0T'^U)[9ITT:1AD)\["+?CYK+NTLUQ
+MX\/"VN YP1K90L*"H.'#XH(@PYRC6'M*"9YD+_\=$<\$_'2.WHX#EA\'[\HJ
+M_'(YY ,:"^TET8@%#OD $PH9"\M*8221WCB-W10_[SN+SX3PCB[3%;/6__7#)8L0+)56,$0$A>0!,GJDJ<(P: LABIEU+&_C^Z3I9T([UZG;
+MI(O)2!_#X<=TUES5"U80RUSP2%(#0HB&\=%^MR]=U#X*3+2=CO.=X>=%>4>'
+M;C.6DS$>SW:/TXGR,=H"@(1:"?)OL>M
+M/R_:.:[=1JXF0W[:M)VI_EU>#+DAAN1/.,Q0] R&&B-#IN 26>FPI0J$>34=
+M\ >VGQ?NW=VZ#5OGP.YGF3
+M[_F^M;T'NK/K1@HC676O_GV>ZO2\J3 \/'%O>>998+1WAF5;I^2V77A?JX6:TNZW5>WR[Z0GJP3B/.BSX)8#!)
+M8,.0C$)K*6"7AXLLJ*-F]YYLOC-'\&95NSXW5>G B?7R ZSYJ335@G&JF- 6
+MT7[.X,)9I*+S"!M.O2#66.FSV&[;W'NPF6X>\H3N76$=E9IZY&L
+MD[:]#.F^.,RH(THII R!?$!:CVQ!"B24T8IKQDEP4S+?4O#Y>(1_5I'K
+M4(8L41@R>N:9%9#4P];,45@G"H*""9)Y2/5,
+MS*,Y9G7OH6:[-;[WI*=R[ CPK-+4&UCV?;_TOZO,IV<,<@)9GJ!-*WZW^&
+MFX4O?&%<_Z))OT'C! 9GH_2(26.DDZSYSAS!FU6L.KY,J0^S
+MLG6F^EK-
+MU$GH\_(]\>/#0Y.9'W]Z6"Z\;ZI89_GJ[1EZ[9]Y:B5RF:VNWY[]?O4>Z-E/
+M[UZ]^O$O '_^X\N%]TLN[I9J57KGA6*EDMY]5MYXY8WR_LB+_V7?F/=YP>WCT5V?5-Z@1^$NV&[GQ9O:(!92F@*$4\ED"!.@0=< :>"1"A!
+MG-+DA^LW L6)E(H C8, "/(%\#1. *<\1DE" DS2.N@B6_WO3?4?SM;*T_96
+MZ_K+MVN\N)X%OH]GN]%GV^$/K?'WN!ZMA9)9_=.G
+MH>NL:Z .BV9__G9Q*6[4DD&V6I=L)2J!=?9F77_S(A>LK+-^<%Y>[XCJ*]@-
+M@^I;@ + Z/7#6IZ]>^5YFW04^4)]4:E7_?O[EP^]DLFL&C%;J>OJ=_M9%5DN
+M+TM6E!>,JX6>?1VM?+Q5;\_6V?)VH7;?NRE4VAUV412-J-4LDVJ6**IF^=<^
+ML=F(Z1]IOF5[KD>87&WWX['F.)33CT>;[I5^AU"GG_">S.@I;UY0OZ[D5*_=
+M)ZG14S_]C(_ULLA+MIC@9?$LLS?E1?6-"_UH*U,%&G@SK76V;]U[4U4/I5I)
+MM7FW;(3V,OGV3#^:2Y7-+_-%)K)2E\7?](R*C"WF$6.!)#(%&0<1D)@GP(@?
+M@<^5I"@@+$W5O'QZ1<_5"GZ_W(G7"D/ASRQT9%73-[-X
+M]RSH[11_G#W/S#H9BQ-;7)S,72X:41=56>7DA5:%7CQV3;[QN_BBR4M-VGB^7=ZMLL_Q9SZG/"8JYA)1R
+MO;+S&08J&=5$89*H% EJSE&GPHE1VFIZ35%SFKJS&:
+M&X9,F6E%/S$T6SVO$O2^;B3_:\Y-.QF'P1EET8X<.W=6\/2Z<**G'6TR?'J-
+M[//3/\@!H*7NH*I-P?<+=CU/.$TEPBG$*19 N B @!973Y:DF-FQ0Z1KZFYX-")-AT:7@086G0/LD?AU56;E
+MXZ]+55SKUNF?17Y?WN@UWBU;/<[CD D9*098805$I H8BRF$28R9])%$*C %
+M9$#GQ+ALE+V=M+?1]K;BYO@,9>HP3$?R;X>6HW4KU R,.8$W%'#5=C""J;U@$X/4MM&FIV.,/3*72MP5%8H/XD;_EM1'ME3S
+M,.!$1B$%A'0E(ZD? F7>%=.
+M#';#1SJUW ^W,VFW)3[@Q&U3O"O@=-OB W8:&^-#XURKT;8KNRQ9J3X5GXO\
+M6Z8GK%>,A'$1"KU$5!2('X60A(@#9P01EE!)J&]7F;J%IJE26^T?O%I=9\C;
+MZ=L6K9YTF1:P\4EP*F8._AUJV["Y$76N)_#$-6_87KO^'1@_$MCM/Q?92J&Y
+M(,*7,L2@$BJ !(1#DF($"ON21 E%(C0NB+TJ$Z.ZVW>KM+U/*U=2&WFRQ-35
+M_3A&C8V[(]IE;#R?C:C?!\XN8[UD=@ZVQ_)]7N@^<1OL-U4W-#@,(Q*3"+ @
+MO@82"4APK)>I:1@S3:.(N7'Y[(A_8A0WBKL7HCEX79DXC-Q(?W:P-:UY7S=Z
+M1]K/'W#B1%=7O,FX&C"S3]30,'N6SBLZ"\7.=FL7'PDW_!CRXNK($PM20'1)=DW=CHA%I.BBZ##2HZ!S@
+MV@1]6%7W/>JC2]7R[4.IENNY#)!$2$I0#!,@-%5 1<2 *1$K17&HI&47U"4S
+M31NTI^Q]K3N!6MR"GX%$F;9!8^T[]4'6SAW:H"%C(_J@SK 3-T)#UMJ=T.!H
+M>SAW5[6>;B?\PDHU5RE&?AQQ$(A07;L4 RH#_8@)+'E*N13&M:M3X<1(/EU
+MVXAZ6M6K9,U9[,[+80Q'N[4CT-JH%7J#9IRHZXXX&7"#AO99&QYHC]GG0E6G
+M=Y6>817VJKI-4GQ*4]UN,X9%F& *02))19B ),0(1!#+&"E?)7YHREJ_S(F!
+MT\(@]I2]C;17:YM3-Y"FP^@=Q[P=?VZ^K2 \;,N)Q(&PD^%XV-H^DP:C'7JV
+MNZ*H3G)E:\$6_U:LV+W54\8TE+ISBYD*@82A!!:G#!(_2&5($AX'V+A]ZQ$Y
+M=2>WD?4VNEXE[% )>S-DT. =P;=EK^=BV:[O.^#)K07L"SI=-WC 5J,Q/#36
+MM4<\UU$+MOB@P7[XEWJ<*R60BAB&($88".<$6*B_)%CZ3!*42&Q\Z:M389K.
+M<"OJU:J>EK5M"5_FQ;0;'.'6J1$T-^K0 ?:8&='\O8PX<=_78ZC=\O4-'+T,
+M_;!>WZFBL1BE'"=1@ "+) 9"ZC^E$?L:.R5I0D-%D/%%L$-B4R])-Q,XSLJT
+MG3GK]>FH?(Q#?:^'::W-@^=K_'-?J><4>/D@=.4NW
+M5T2W1W4YCA-$ @XA8PH(I12X"*I/YD2$*&(RBHP;S$&E::JI%O>:ZHZGF?OR
+M95I=CY %IRIKGP"':GO W(BJVQ=YXNI[P&"["A]ZPLC386IWN*6Z;??S0[:>
+M)RQ&B4]BX#'R@21* O5C#)RB%(>I4)&?.AT1:TE- ^Z3^O.!JK9>3=R?I*=*TX+PTT.*D-<"UOGU1UUEUAF!5UK=>,$NE#'2'B;C >C5*
+M./ $I\"" (C38%I:MFSIN5-H,ZJVTZX]/>/LT;HJ6/775R\?ESQ?S&48$ZR+"P0$ZY4BQQ@H%0JBL+H!
+M1-,P]8TOI38BGQBFK9:W$3.'J.G^,#W.GNRP,;1CA4OGU)TX:4::#)!. _MD
+M= ]P/V8F\N(V+^H.K;[(-+6H,86]"V/;B5B>:39)HVF].EIRG,K7J+PX'5$S<#OJK-I0
+M_,D/K1F8[3J]9O(T]TOG*.!76:F;$#_U&4D(UNO** 2"0J$?X0 2AF*&E0PH
+M-_X@XV7P4U?%2L/+4P\%?^-_]W;J]K?-GY)QF-9$-FTOW''[R-MJ?%G6IC9Z(L=QV=[8_9<31W[K[7V&EL_#YC,^SW
+MV6/LM-:[O]@]>B2&ULU9M;4]S*$\P:2%1(J5WQL.Q*(_7,?W[JZ6Y)KW^Y61>+[[%N
+M\JI\;EZ<_#;^4>D#WYY^^K5Z[\@],??OYPNWE?^:AW+=G%<
+M1]O&L+C.VXM%>Q$7OU?UM_R[79P5MDU5O4;H;7_8<75Y6^>KBW9!,16;9IN]
+M]9&FS":N$Y(N!<2I2LA1%Y'3GDMBB-/:_&UUY(DR(42.M*(4<8(]-.'@[:O%XDZ.NBKBEY@6W?_?
+MOIQLF6S*ZCH5]EL\]-5ZV;58'E= Q)E==?WMCV]O+^.;@R9?7Q9_;KNH8X)M
+M<#3J)I9@JCJK?_UQ\/)'!R[KV U_8!/8+=*#=FBLIO
+M-2HZC:MZ=:?^9UKVMKZ-L-8>^V30\$RA7BD%CF&!8J)4RJX
+M,422[;%W_6Z@X_V4--$?KJKO2SCQLM.C^](+TXORR-R=."_K]X>RS=L\-N?6
+M%3$3F'*IHT+&.XFX= S9R"1BBL-?Y%QY.JK?6^:V^_UP6M_5?E'5(=;@1C;V
+M;.T?3?$VP/VAA,A?Y$787-TJJOU%+/55E-H=S9H;@@#5)R$NX0#BF
+M$1D-G4^41D! ;=]\5CM*H[9F.3V757
+M2::-8 9SC%R@"4A.$FEB!:*6,F45XY'Q430\M+;KY6+\S%43R+@GTW\6Z[P*
+M'\KP'M+[+&B:DDX"*2PY).?.(ITL2.$99M83[OTT'&R9W;%#^/\ \7)A]V+1
+M^!)7>9=[E>VO=ATSZI4VCECDL7>(AT21(\HBQJSNBC8B&C7!8]
+MQ2902O D0<5_Z<0@:/BLH)E.]+U@Z&->Q%^O^EC:8&&"(@:QR"&69D(CZV#I
+ME%81%:PWV$_A5GY8'$2'F!4=+Y1S+U XMS)TJ.X>OG^KRZ+C,FB6,^
+M!J2HA8X3 WK0KC*H?#(A"4R,FXZ1'X8'$:+G2,@+Q=TG/OI8ZG-]5E??\])#
+M.!XT"R)$1"@LG9"_T^[V,T$A)2L)T.XFR7*>MCZ(%#-'4L;(O$^XG%5-:XM_
+MYY=]W(TAL!8>,Y0" VE28LA*KI!3'CNJ82!!3P?+ENUA%30\1U9>KO&.2>G<
+MX;LZVK[?C$@/7A B*FVZ&P54(JN]0C181P0GE.AQCN2AM6$TS*6@^F(==SS_
+MW?,]Q=E%56Z2L>2C4D98Q%T76E.>8.R8(RR332DJ*L*X.RP_6QS&P5SJJ*/T
+MW#$+O]=YV\;RN%JOK\K[A*O)NKN,T7F#.)==E,3 F6'+D$K"&"4@=<=R%!!/
+MFAU&Q5RJJ..5W3$:7ZLB]WF;EZM/$!35N2TRQJEFPCA$.]?&A7=()Q\0MIP&
+M09QU*HSBXK'-85#,I4HZ4M,=$W%6QP[G")%Q?R.Q>\RQ_@P>K=4C%M"GK<]C)"Y5$HGTGB_2#EIFJM8/QP+9M03K372
+MED"XI%Q 3A*)A+9&<\,XB7Y*7A[U8!@U=Z*]@[;PEU)WG;0&A
+M-762.V;AO+;="Q]?
+M;]>N*C+B31+,4.1EY(A+RI C&D.BQ0+SGA#&S2@0MLP-HV N!=&7*[DG[N##
+MC;^PY2KV3R-PX5@P." )N19DVY["4B@)BC8J%B"*MFD<"4]9'0;$7.J>HW7=
+MBWKGAW6L5\#U/^KJNKV -?#2EK<9C3R1B".RL7M>DH$PEA$/;HY!N"V32V&*
+M6RA/&A_VB-B\*I[C5=[UNP<0%84N,OI8V%6F/0R96(,8QPZ2<$N0%DE"$LXL
+MPPEVTW')RI:Y84#,I>CY6G[[ZC]02P$"% ,4 " K,5M;O<[T=:\0 D;0 $0
+M @ $ $ &UL4$L! A0#% @ *S%;6T.&3KPX
+M# #FH !4 ( !WQL '-N;WXML
+15
+snow-20251027_htm.xml
+IDEA: XBRL DOCUMENT
+00016401472025-10-272025-10-270001640147dei:FormerAddressMember2025-10-272025-10-270001640147false8-K2025-10-27SNOWFLAKE INC.DE001-3950446-0636374Suite 3A, 106 East Babcock Street59715Bozeman,MT844766-9355Not ApplicablefalsefalsefalsefalseCommon Stock, $0.0001 par valueSNOWNYSEfalsefalse

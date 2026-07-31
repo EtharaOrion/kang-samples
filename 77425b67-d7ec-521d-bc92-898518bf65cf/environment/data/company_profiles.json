@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "NET",
+    "cik": "0001477333",
+    "companyName": "Cloudflare, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "DDOG",
+    "cik": "0001561550",
+    "companyName": "Datadog, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NV",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "FSLY",
+    "cik": "0001517413",
+    "companyName": "Fastly, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "AKAM",
+    "cik": "0001086222",
+    "companyName": "AKAMAI TECHNOLOGIES INC",
+    "sic": "7389",
+    "sicDescription": "Services-Business Services, NEC",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "CAMBRIDGE",
+    "stateOrCountry": "MA"
+  }
+]

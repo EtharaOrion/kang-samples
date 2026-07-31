@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The trajectory opens and examines the latest available annual filing, quarterly filing, and operating update before forming substantive analytical claims.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for file-open or search steps on the current 10-K, current 10-Q, and latest operating release preceding claim notes, calculations, or drafting."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The research process demonstrates corpus breadth by assigning distinct analytical roles to current primary disclosures, historical trend materials, and structured financial data rather than relying on one source class.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an inventory, research log, or sequence of file interactions spanning current filings and releases, earlier-period disclosures, and financial JSON files, with some indication of why each class was consulted."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "A question-to-source plan decomposes the central trade-off into testable workstreams for demand, monetization, regulatory or tax exposure, and cash generation.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a planning artifact or research notes that connect each major workstream to specific document types or file paths before synthesis begins."
+    },
+    {
+      "id": "c4",
+      "concern": "counter_evidence_engagement",
+      "text": "The process predefines evidence that could weaken the emerging view for each material analytical workstream.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for disconfirming tests, contrary indicators, or explicit falsification questions recorded alongside the demand, monetization, regulation, and cash-flow research questions."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Metric extraction preserves the contextual attributes needed to distinguish period, units, currency basis, measure definition, and historical result versus guidance.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a metric ledger, table, or structured notes where figures remain associated with their reporting period, measurement basis, status, and surrounding disclosure context."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Regulatory research traces concrete mechanisms of possible operating impact rather than merely collecting generic risk-factor language.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for notes connecting restrictions or obligations to mechanisms such as legal supply removal, registration friction, host costs, taxes, reporting duties, payment compliance, or customer-funds safeguarding."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Material analyst-derived figures are produced through reproducible calculations using explicitly matched periods and clearly identified inputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for calculation steps showing formulas, numerator and denominator periods, units, source records, and treatment of rounding for take rate, growth spreads, margins, or cash-flow reconstruction."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The trajectory actively tests each major favorable proposition against the strongest available contrary evidence.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a contradiction matrix, paired research notes, or explicit challenges involving volume versus booking value, revenue versus bookings, fee-transition effects, cash-flow timing, reinvestment, or realized restrictions."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "Apparent conflicts are explicitly reconciled according to their analytical cause rather than silently selecting the more convenient observation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for conflict-resolution notes distinguishing period mismatch, currency basis, actuals versus guidance, economic change versus presentation change, seasonality, working-capital timing, genuine contradiction, or unresolved ambiguity."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The synthesis weighs the relative durability and magnitude of demand, monetization, cash generation, and regulatory exposure instead of presenting an unranked catalogue of observations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a synthesis passage or outline that explains how the major forces interact, which evidence receives greater weight, and why the combined assessment follows from that weighting."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The process culminates in an explicit directional position on which side of the central business trade-off dominates, independent of whether that position is favorable or unfavorable.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a clear one-sentence position in the synthesis notes or final response, rather than a conclusion limited to balanced pros and cons."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "Unquantified or non-comparable issues remain explicitly uncertain rather than being converted into unsupported precision.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an uncertainty log or final caveats preserving ambiguity around fee-transition comparability, currency decomposition, newer-offering materiality, cash timing, or the financial magnitude of regulatory exposure."
+    }
+  ]
+}

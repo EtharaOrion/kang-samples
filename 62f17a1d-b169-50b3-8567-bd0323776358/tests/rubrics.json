@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Creates a source inventory that visibly accounts for the available filings, announcements, financial statements, balance-sheet data, cash-flow data, and profile data before analysis begins.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early file-listing or inventory steps for coverage of the major folders and for reconciliation of discovered files with the expected manifest."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "Verifies document dates, covered periods, units, and data schemas from inside representative files before interpreting their contents.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering and content of file-opening steps for cover-page or header reads, JSON schema inspection, unit checks, and publication-date verification preceding analytical notes."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Establishes an explicit fiscal-period map before making comparisons between Lowe\u2019s and Home Depot.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a calendar or period-alignment artifact identifying fiscal-year and quarter boundaries, including any residual mismatch recognized by the analyst."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Decomposes the assignment into distinct workstreams for demand quality, Pro provenance, peer comparison, financial conversion, and capital allocation.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, task lists, or a question map for separately framed analytical workstreams rather than one undifferentiated research question."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Explores the relevant evidence across multiple source classes rather than relying predominantly on a single filing, announcement, or standardized financial series.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect tool calls and evidence notes for substantive reads across regulatory filings, company announcements, income statements, cash flows, balance-sheet data, and peer or profile data where relevant."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Organizes comparable-sales evidence by exact fiscal period and disclosure type so annual rates, quarterly rates, ticket changes, and transaction changes remain distinguishable.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a structured extraction table or notes that label each comparable-sales observation by period, annual-versus-quarterly status, scope, ticket, and transactions."
+    },
+    {
+      "id": "c7",
+      "concern": "no_fabrication_process_signals",
+      "text": "Classifies Pro-related evidence by whether it supports organic activity, acquired contribution, or an unresolved blend without inferring a split that the documents do not disclose.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the Pro or acquisition evidence ledger for provenance labels and explicit unresolved entries where acquired revenue, locations, capabilities, or expenses cannot be isolated."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "Constructs and tests a serious counter-thesis using evidence that could materially weaken the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a two-sided evidence table, counter-thesis note, or comparable artifact addressing transaction weakness, macro pressure, acquisition dependence, margin effects, cash costs, or contrary positive evidence."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Maintains a reproducible quantitative record that distinguishes company-reported figures from analyst-derived outputs.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables or code for reported-versus-derived labels, visible formulas, source periods, units, and enough retained inputs to reproduce margins, growth, cash-flow measures, or peer comparisons."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "Explicitly reconciles opposing operating and financial evidence by explaining why one interpretation is more decision-relevant than the alternative.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis outline or final analysis for a passage that weighs conflicting signals\u2014such as headline growth versus transactions or Pro expansion versus acquisition costs\u2014and resolves their relative importance."
+    },
+    {
+      "id": "c11",
+      "concern": "no_fabrication_process_signals",
+      "text": "Preserves material uncertainty and disclosure limitations instead of replacing them with unsupported precision or strategic inference.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit limitation statements concerning organic-versus-acquired growth, peer-period comparability, strategic intent, integration effects, or unavailable adjustments, including evidence that unsupported claims were withheld or removed."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "Ends with an unambiguous overall position that chooses between the competing interpretations developed during the analysis.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening thesis and concluding section for a clear selection of the better-supported interpretation rather than a neutral list of positives and negatives."
+    }
+  ]
+}

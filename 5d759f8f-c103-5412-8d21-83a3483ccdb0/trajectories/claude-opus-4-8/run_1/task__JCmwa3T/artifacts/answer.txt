@@ -1,0 +1,215 @@
+CHIPOTLE MEXICAN GRILL (CMG) — TRAFFIC AND MARGIN DURABILITY AGAINST MATURING UNIT GROWTH
+An analyst's view. Primary ticker: CMG. Peers: Wingstop (WING), Shake Shack (SHAK), Sweetgreen (SG).
+
+=====================================================================================
+POSITION (stated up front, not a survey)
+=====================================================================================
+The durability thesis is breaking, not holding. Chipotle's headline "resilience" — record
+unit openings, +5.4% FY2025 revenue, and FY2025 diluted EPS that still grew to $1.14 — masks a
+core that is deteriorating on every axis the topic names. Traffic went through a genuine
+recession in 2025; the pricing lever that carried the P&L for three years is now exhausted;
+restaurant-level margins are compressing structurally because sales DE-leverage plus
+re-accelerating food inflation now overwhelm menu price; and 9%-a-year unit growth into a
+shrinking same-store base is diluting AUV, which rolled over in 2025 for the first time in the
+data. The FY2025 EPS "growth" was manufactured by ~$2.4B of buybacks and a lower tax rate, not
+by operations — operating income rose only ~1%. That mask slipped in Q1 2026, when diluted EPS
+fell 17.9% year over year. The much-touted "return to positive transactions" in Q1 2026 is real
+but razor-thin (+0.6%) and low quality (average check turned negative), and margins kept falling
+straight through it. Net: durability is being defended at the per-share line by financial
+engineering while the underlying restaurant economics erode. I would underwrite continued
+margin and AUV pressure, not a return to the pre-2025 model.
+
+=====================================================================================
+THEME 1 — TRAFFIC VS. PRICE/MIX IN COMPARABLE SALES
+=====================================================================================
+The comp trajectory documents a traffic recession that pricing briefly papered over, then
+couldn't. Quarterly comps and their decomposition:
+
+  Q2 2024:  +11.1% comp                                   (cmg_2025-07-23_8-k.txt table)
+  Q3 2024:  +6.0% comp
+  Q4 2024:  +5.4% comp; FY2024 comp +7.4% (transactions +5.3%, check +2.1%)  (cmg_2025_10-k)
+  Q1 2025:  -0.4% comp                                    (cmg_2026-04-29_8-k.txt table)
+  Q2 2025:  -4.0% comp; transactions -4.9%, check +0.9%   (cmg_2025-07-23_8-k.txt)
+  Q3 2025:  +0.3% comp; transactions -0.8%, check +1.1%   (cmg_2025-10-29_8-k.txt)
+  Q4 2025:  -2.5% comp; transactions -3.2%, check +0.7%   (cmg_2026-02-03_8-k.txt)
+  FY 2025:  -1.7% comp; transactions -2.9%, check +1.2%   (cmg_2026-02-03_8-k.txt)
+  Q1 2026:  +0.5% comp; transactions +0.6%, check -0.1%   (cmg_2026-04-29_8-k.txt)
+
+Two facts define the picture. First, 2025 was a TRAFFIC problem, not a pricing problem:
+transactions fell -2.9% for the full year and -4.9% in Q2 2025, while average check stayed
+positive on price. Chipotle attributed this to "a slowdown in consumer spending"
+(cmg_2025q2_10-q.txt). Second, and more important for durability, the pricing lever that offset
+that traffic loss is now spent. The MD&A menu-price contribution to comp has collapsed:
++12.0% (FY2022) -> +5.2% (FY2023) -> +2.9% (FY2024) -> +2.1% (FY2025) -> +0.9% (Q1 2026)
+(cmg_2023_10-k.txt, cmg_2024_10-k.txt, cmg_2025_10-k.txt, cmg_2026q1_10-q.txt).
+
+The Q1 2026 "recovery" must be read through this lens. Comp turned +0.5% and transactions +0.6%,
+but average check went NEGATIVE (-0.1%) — a +0.9% menu-price benefit was more than eaten by a
+-1.0% negative check mix, i.e. guests trading down to cheaper orders (cmg_2026q1_10-q.txt). So
+the "return to positive transactions" was bought by giving up pricing and absorbing trade-down.
+That is not a durable, high-quality comp; it is a value give-back. Management's own FY2026 guide —
+comps "about flat" (cmg_2026-04-29_8-k.txt) — confirms they are not forecasting a real traffic
+recovery. Verdict: traffic stopped falling but did not durably grow, and Chipotle has exhausted
+the price/mix cushion it used to lean on.
+
+=====================================================================================
+THEME 2 — RESTAURANT-LEVEL MARGIN DURABILITY UNDER COST INFLATION
+=====================================================================================
+Restaurant-level operating margin (RLM) is compressing, and the mechanism proves it is
+structural rather than a one-quarter blip:
+
+  Q2 2024: 28.9%  ->  Q3 2024: 25.5%  ->  Q4 2024: 24.8%   (FY2024 RLM 26.7%)
+  Q1 2025: 26.2%  ->  Q2 2025: 27.4%  ->  Q3 2025: 24.5%  ->  Q4 2025: 23.4%   (FY2025 RLM 25.4%)
+  Q1 2026: 23.3% GAAP / 23.7% adjusted (vs 26.2% a year earlier)
+(sources: cmg_2025-07-23_8-k.txt, cmg_2025-10-29_8-k.txt, cmg_2026-02-03_8-k.txt, cmg_2026-04-29_8-k.txt)
+
+FY2025 RLM fell 130bps to 25.4%; Q1 2026 fell ~250bps year over year. The important insight is
+WHY. Chipotle's margin model flipped sign. Through FY2024, "sales leverage" was a tailwind that
+offset wage inflation ("1.1% benefit from sales leverage... mostly offset by 0.9% restaurant
+wage inflation," cmg_2024_10-k.txt). In FY2025 negative comps turned that lever into a headwind:
+labor rose to 25.1% of revenue from 24.7%, driven by "0.7% impact from lower sales volumes and
+0.4% from restaurant wage inflation" (cmg_2025_10-k.txt). The deleverage is visible across every
+non-food line in Q1 2026 vs Q1 2025: labor 26.1% vs 25.0%, other operating costs 15.6% vs 14.4%,
+occupancy 5.5% vs 5.2% (cmg_2026-04-29_8-k.txt). Fixed and semi-fixed costs spread over lower
+per-unit volume — the textbook deleverage of a high-AUV model losing traffic.
+
+The counter-evidence — and its limit. Food, beverage & packaging cost actually IMPROVED in
+FY2025, to 29.6% of revenue from 29.8%, thanks to menu pricing and lower dairy/avocado costs
+(cmg_2026-02-03_8-k.txt). A bull would say Chipotle managed input inflation well. But that relief
+was pricing-driven and temporary, and it is already reversing: in Q1 2026 FBP rose to 29.6% from
+29.2%, as "0.9% of inflation, primarily from beef and freight" hit against only a "0.3% benefit
+from menu price increases" (cmg_2026q1_10-q.txt). Tariffs are now a distinct, quantified cost
+item (0.2-0.3% of FBP in 2025; cmg_2025_10-k.txt, cmg_2025-10-29_8-k.txt). So the food line held
+in 2025 only because Chipotle still had pricing to deploy — the very lever Theme 1 shows is now
+gone. With price contribution down to +0.9% and inflation in beef/freight re-accelerating, the
+food line loses its offset just as deleverage pressures labor/occupancy/other. Verdict: margins
+are NOT durable under cost inflation; the model depends on high AUV and positive comps to absorb
+inflation, and both are moving the wrong way.
+
+=====================================================================================
+THEME 3 — MATURING UNIT GROWTH AND AUV DILUTION
+=====================================================================================
+Average restaurant sales (trailing-12-month, units open >=12 months) rolled over in 2025 for
+the first time in the data, and has fallen every single quarter since the peak:
+
+  Q4 2024: $3,213k -> Q1 2025: $3,186k -> Q2 2025: $3,142k -> Q3 2025: $3,132k
+  -> Q4 2025: $3,104k -> Q1 2026: $3,094k
+(cmg_2026-02-03_8-k.txt and cmg_2026-04-29_8-k.txt supplemental tables)
+
+On an annual basis AUV went from +6.5% growth (FY2024, $3.213M vs $3.018M) to -3.4% (FY2025,
+$3.104M vs $3.213M) (cmg_2024_10-k.txt, cmg_2025_10-k.txt). Meanwhile unit growth never slowed:
+company-owned count went 3,726 (YE2024) -> 4,042 (YE2025) -> 4,090 (Q1 2026), i.e. 334 gross
+openings in 2025 (~9%), with guidance of 350-370 more in 2026 and a reaffirmed long-term goal of
+7,000 restaurants (cmg_2025_10-k.txt; cmg_2026-04-29_8-k.txt). This is precisely the
+"maturing unit growth" pressure: openings are running ~9%/yr while the same-store base shrinks.
+
+Chipotle's own disclosures explain the drag. New restaurants "take around 36 months to ramp up
+the sales and profitability" and "may not be as profitable as our existing restaurants," and
+"the opening of new restaurants may negatively impact the profitability of existing restaurants
+that are located nearby" (cannibalization) (cmg_2025_10-k.txt Risk Factors). The FY2025 revenue
+bridge quantifies the mix: the comparable base LOST $191.3M of sales, while immature units
+(2024 + 2025 vintages) ADDED ~$809M, and closures took -$31.6M (cmg_2025_10-k.txt). In other
+words, essentially all of Chipotle's revenue growth is now coming from a growing pool of
+below-system-average, still-ramping restaurants layered on top of a declining mature base — the
+definition of AUV dilution. The margin footprint shows up directly: occupancy and other
+operating cost lines cite "expenses associated with new restaurants" as an explicit headwind
+(cmg_2025_10-k.txt; cmg_2026q1_10-q.txt).
+
+Ambiguity to flag, not smooth over: "average restaurant sales" mixes two forces — genuine
+same-store weakness and new-unit maturation — and the filings do not cleanly separate how much
+of the -3.4% AUV decline is dilution vs. same-store softness. Both are present; I will not
+overclaim it is "pure" dilution. Two softer signals reinforce the direction, however: the ramp
+language was quietly loosened from "up to 36 months" (FY2023/FY2024 10-Ks) to "around 36 months"
+(FY2025 10-K), and the 7,000-unit TAM was re-worded from "North America" (FY2024 10-K) to "the
+U.S. and Canada" (FY2025 10-K), with incremental international pushed to lower-risk
+partner-operated units. These are small tells that the runway is being framed more
+conservatively even as the headline target is reaffirmed.
+
+The Chipotlane counter-point: ~77% of 2025 openings (257 of 334) included a Chipotlane, which
+management says lifts "new restaurant sales, margins and returns" (cmg_2026-02-03_8-k.txt). This
+is a genuine mitigant to new-unit economics — but it did not stop AUV from falling in all five
+quarters shown, so it is softening the dilution, not reversing it.
+
+=====================================================================================
+THEME 4 — COMPETITIVE AND DEMAND RISKS TO THE DURABILITY THESIS
+=====================================================================================
+Is Chipotle's traffic loss a segment/consumer problem or a Chipotle problem? The peer data says
+"both," and that is worse for the durability thesis than either alone.
+
+Sweetgreen (SG) — the closest fast-casual/"healthy" analog — is deteriorating faster than CMG:
+revenue turned negative (Q1 2026 -2.9% YoY, from +5.4% in Q1 2025) and operating margin worsened
+to roughly -21% in Q3 2025 and Q1 2026; SG is not operating-profitable at any point in the data
+(sg_income_statement.json). (Note: SG's Q1 2026 net income of +$125.8M is a one-time
+non-operating gain; operating income was -$34.3M.) SG corroborates a real demand slowdown in
+fast-casual — Chipotle is not imagining the pressure.
+
+But Wingstop (WING) and Shake Shack (SHAK) are GROWING through the same window, which undercuts a
+pure "consumer recession" excuse:
+ - WING: revenue +7-17% YoY across 2025-Q1'26, operating margin re-expanding to ~27% (Q1 2026
+   27.4%), on an asset-light franchise model with minimal capex (wing_income_statement.json,
+   wing_cash_flow.json). (WING's Q1 2025 +$92.3M NI is a one-time securitization gain; underlying
+   ~$27-30M.)
+ - SHAK: revenue +14-16% YoY, operating margin thin but improving YoY (Q2 2025 6.3% vs 3.4%;
+   Q3 2025 5.0% vs -5.7%), funded by heavy company-owned capex (~$47M in Q1 2026)
+   (shak_income_statement.json, shak_cash_flow.json).
+
+The read-through: peers are still driving traffic-led growth while Chipotle's traffic fell, which
+points to a Chipotle-SPECIFIC value/brand erosion on top of the macro. That interpretation is
+supported by the data itself — the aggressive 2021-2023 pricing (menu price +12.0% FY2022, +5.2%
+FY2023; Theme 1) has left Chipotle absorbing trade-down (check mix -1.0% in Q1 2026), exactly the
+risk it flags: higher menu prices "may lead consumers to reduce their spending... or switch to
+competitors' value or lower-priced meals" (cmg_2025_10-k.txt). Compounding brand risk is
+unusual leadership churn: a CEO transition (retention grants to executives "in connection with
+the former CEO's departure," cmg_2026-04-29_8-k.txt), plus turnover of the Chief Legal Officer
+and President/Chief Brand Officer in January 2026 (cmg_2026-01-12_8-k.txt) and the hiring of a
+new Chief Brand Officer and Chief Digital Officer effective mid-2026 (cmg_2026-04-27_8-k.txt).
+Turning over the entire brand/marketing suite mid-slump is a self-help opportunity but also an
+execution risk. Additional structural margin drag: over 16% of FY2025 food-and-beverage revenue
+was delivery, where "the delivery fee we collect from the guest may be less than the actual
+delivery cost" (cmg_2025_10-k.txt) — a mix headwind as digital runs ~37-39% of sales.
+
+=====================================================================================
+RECONCILIATION — WHY THE CONFLICTING DATA POINTS RESOLVE AGAINST DURABILITY
+=====================================================================================
+The strongest bull facts are real, so the argument must reconcile them rather than ignore them:
+
+1) "Revenue still grew +5.4% (FY2025) and +7.4% (Q1 2026)." Reconciled: this is now almost
+   entirely a UNIT-COUNT story, not a same-store story. The comp base shrank -$191M while new,
+   below-average units added ~$809M (cmg_2025_10-k.txt). Growth of declining quality.
+
+2) "FY2025 EPS grew to $1.14 (+2.7%), adjusted EPS +4.5%." Reconciled: operating income rose only
+   ~1.0% ($1,935.8M vs $1,916.3M) and restaurant-level operating profit dollars were essentially
+   FLAT (+0.3%, $3,026.2M vs $3,017.7M) despite ~316 more net restaurants (cmg_2026-02-03_8-k.txt).
+   The per-share growth came from ~$2.4B of buybacks (diluted share count 1,342.6M vs 1,376.6M)
+   plus a modestly lower tax rate — reinforced by escalating repurchase authorizations ($500M in
+   Sept 2025, then a jumbo $1.8B multi-quarter pool in Dec 2025; cmg_2025-09-15_8-k.txt,
+   cmg_2025-12-08_8-k.txt). Adding 316 restaurants for ~$19M of incremental operating income and
+   ~$0 incremental restaurant-level profit is the clearest single sign the durability is being
+   defended below the operating line, not within it.
+
+3) "Q1 2026 marks the inflection — positive transactions again." Reconciled and flagged as the
+   genuine ambiguity: the transaction sign did flip positive (+0.6%) after three weak quarters,
+   and new brand/digital leadership plus the "Recipe for Growth" initiatives could extend it. But
+   the data show the mask slipping in the same quarter: EPS -17.9%, operating margin 12.9% vs
+   16.7%, RLM ~250bps lower, average check negative, and buybacks (only $700.8M in Q1 2026) no
+   longer able to cover the operating erosion (cmg_2026-04-29_8-k.txt). A traffic bounce that is
+   accompanied by falling margins and negative check is an inflection in the least valuable
+   variable. I acknowledge one quarter cannot distinguish a true bottom from noise — but the
+   burden of proof sits with the recovery, and management guiding only to "about flat" comps
+   agrees.
+
+UNIFIED CONCLUSION: Chipotle's four themes tell one consistent story. Traffic is no longer
+durable (2025 recession; a fragile, low-quality Q1 2026 bounce). Pricing power — the historical
+shock absorber — is exhausted (menu-price contribution +12.0% -> +0.9%; check now negative).
+Restaurant margins are therefore no longer durable under inflation, because the high-AUV model
+needs positive comps to leverage fixed costs, and it is now DE-leveraging (RLM 26.7% -> 25.4% ->
+23.3%) just as beef/freight/tariff inflation re-accelerates. And the response to slowing
+same-store sales — ~9%/yr unit growth toward 7,000 — mechanically dilutes AUV (first decline
+ever, -3.4%) by stacking below-average, still-ramping, sometimes-cannibalizing units on a
+shrinking base. Peers confirm the demand backdrop is hard (SG collapsing) but also that
+traffic-led growth is still achievable (WING, SHAK growing), which pins part of Chipotle's
+problem on self-inflicted value erosion, not macro alone. The company remains highly profitable
+and cash-generative, and the buyback can flatter EPS for a while longer — but the underlying
+traffic-and-margin durability the topic asks about is eroding, and I would position for it to
+keep eroding until Chipotle demonstrates margin recovery on POSITIVE traffic without leaning on
+price. Q1 2026 was not that.

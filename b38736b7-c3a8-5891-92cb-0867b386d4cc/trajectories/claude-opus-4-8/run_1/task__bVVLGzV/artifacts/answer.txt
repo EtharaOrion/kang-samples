@@ -1,0 +1,274 @@
+COSTCO (COST): MEMBERSHIP-GROWTH DURABILITY AND MARGIN/FEE DYNAMICS
+====================================================================
+Analyst view. Primary subject: Costco Wholesale (COST); peers Walmart (WMT),
+Target (TGT), BJ's Wholesale (BJ) per company_profiles.json.
+
+A note on sourcing: the member-quality data (fee revenue, renewal rates, member
+counts, Executive penetration, fee-increase mechanics) exists ONLY in the 10-K/
+10-Q filings. The 8-K press releases in press_releases/ carry headline net sales,
+comps, deferred-fee balances and warehouse counts, but disclose NO renewal rates,
+NO member counts, and NO fee-increase announcement. Filename caution used
+throughout: cost_2024q1_10-q.txt = fiscal Q1 2025; cost_2025q1_10-q.txt = fiscal
+Q1 2026 (the filename calendar year lags Costco's fiscal year by one).
+
+--------------------------------------------------------------------
+THESIS (the position, stated up front)
+--------------------------------------------------------------------
+Costco's membership franchise is durable, but its EARNINGS QUALITY is peaking, and
+the market is at risk of extrapolating a borrowed tailwind. The low-teens
+membership-fee growth of the last four quarters is not a step-change in the
+franchise; it is a decaying, one-time benefit from the September 2024 fee hike laid
+on top of a slower ~high-single-digit underlying engine. Underneath the headline,
+the leading indicators are already rolling over: the fee-increase's contribution to
+growth has halved (from ~half of growth in Q1 FY26 to ~25% in Q3 FY26), deferred-fee
+YoY growth has fallen from +11% to +8%, and renewal rates have slipped off their
+peak and stopped rising because Costco is deliberately buying growth through
+lower-quality digital sign-ups. Because retail gross margin is razor-thin (~11%) and
+roughly HALF of operating income is membership fees, this near-pure-margin fee pool
+is the profit engine — and it is decelerating. The base keeps compounding (units +3%,
+members +4%, adjusted comps +6-7%), so this is a normalization, not a break. But
+investors pricing in continued low-teens fee growth and ever-rising renewal rates are
+mispricing a franchise whose growth QUANTITY holds while its growth QUALITY quietly
+erodes at the margin. Durable moat; decelerating engine.
+
+====================================================================
+THEME 1 — MEMBERSHIP FEE REVENUE GROWTH AND THE FADING FEE-INCREASE TAILWIND
+====================================================================
+POSITION: The recent acceleration is mostly a one-time fee hike that is already
+lapping. Fee-revenue growth is set to normalize from low-teens back toward the
+~8% underlying rate, and the leading indicators already say so.
+
+The fee-increase is discrete and dated. Per cost_2024_10-k.txt (MD&A): "Effective
+September 1, 2024, we increased our membership fees in the U.S. and Canada for Gold
+Star, Business, and Business affiliates to $65 per year. The Executive membership fee
+increased from $120 to $130... and the maximum annual 2% reward... increased from
+$1,000 to $1,250." The same filing quantified the benefit: "We expect these fee
+changes to increase revenues approximately $370 [million] over the next two years,
+$190 of which will benefit fiscal 2025, primarily in the latter half of the year."
+So by construction only ~$180M of incremental fee revenue was ever going to land in
+FY2026 — and then the increase is fully lapped. Costco raises fees roughly once every
+5-6 years; this is a step-function, not a growth rate.
+
+Because fees are "recognized ratably over the one-year membership period"
+(cost_2025_10-k.txt), the YoY benefit builds with a delay, peaks, and fades. The
+company's own disclosures trace that arc precisely:
+  - Q1 FY2025: "immaterial impact" (cost_2024q1_10-q.txt)
+  - Q2 FY2025: fee increase "contributed approximately 3% of membership fee revenue"
+    (cost_2025q2_10-q.txt)
+  - Q3 FY2025: "approximately 4% of membership fee revenue" (cost_2025q3_10-q.txt)
+  - FY2025: fee increase "accounted for approximately 40% of membership income growth"
+    (cost_2025_10-k.txt)
+  - Q1 FY2026: "slightly less than half of membership income growth" (cost_2025q1_10-q.txt)
+  - Q2 FY2026: "approximately 35%... [of] the second quarter" growth (cost_2026q2_10-q.txt)
+  - Q3 FY2026: "approximately 25%... [of] the third quarter" growth (cost_2026q3_10-q.txt)
+The fee-increase's contribution to growth PEAKED at ~50% in Q1 FY2026 and has fallen
+to ~25% by Q3 FY2026. It is visibly draining away.
+
+That draining is showing up in the reported growth rate. Membership fee revenue
+(cost_*_10-q.txt / cost_2025-09-25_8-k.txt):
+  Q1 FY25 $1,166M (+8%) -> Q2 $1,193M (+7%) -> Q3 $1,240M (+10%) -> Q4 $1,724M (+14%)
+  -> FY25 $5,323M (+10% vs $4,828M)
+  Q1 FY26 $1,329M (+14%) -> Q2 $1,355M (+13.6%) -> Q3 $1,373M (+10.7%)
+Growth accelerated INTO the fee hike (peaking ~+14% in Q4 FY25 / Q1 FY26) and has
+now decelerated to +10.7% in Q3 FY26.
+
+The cleanest forward evidence is the deferred-membership-fee liability — money already
+collected but not yet recognized, i.e., a leading indicator of the next 12 months of
+fee revenue (cost_*_10-q.txt / earnings 8-Ks):
+  FY24-end $2,501M -> FY25-end $2,854M -> Q1 FY26 $2,990M -> Q2 $3,126M -> Q3 $3,157M
+Its YoY growth is decelerating hard: Q1 FY26 +11.4%, Q2 +10.7%, Q3 +7.7%. And
+sequentially, the Q3 FY26 balance added only +$31M versus +$136M in each of Q1 and
+Q2. The near-term fuel gauge is falling.
+
+STRONGEST COUNTER-EVIDENCE: fee growth is STILL double-digit (+10.7% in Q3 FY26), the
+deferred balance is still setting records, and MD&A attributes Q3 FY26 growth to "new
+member sign-ups, membership fee increases AND upgrades to Executive Membership"
+(cost_2026q3_10-q.txt) — three legs, not one. So this is not a cliff.
+RECONCILIATION: two of those three legs (new sign-ups + Executive upgrades) are the
+durable ~8% engine; the third (the fee increase) is the decaying overlay. As the
+overlay laps into FY2027, reported fee growth mean-reverts toward that high-single-
+digit base. The +10.7% is the franchise decelerating from a sugar-high, not
+accelerating.
+AMBIGUITY I WON'T SMOOTH: the Q3 sequential +$31M could be partly seasonal (sign-up
+timing), so one quarter should not be over-read; but the YoY deceleration (+11% ->
++8%) is calendar-neutral and corroborates the same direction.
+
+====================================================================
+THEME 2 — RENEWAL-RATE DURABILITY AND MEMBERSHIP-MIX HEADWINDS
+====================================================================
+POSITION: Renewal rates are durable in level but the era of ever-rising renewals is
+OVER. Costco is trading renewal quality for sign-up quantity via digital promotions;
+the rate has rolled off its peak and merely stabilized — cushioned, not reversed, by
+rising Executive penetration.
+
+The peak is behind us. Worldwide renewal rate (cost_*_10-q.txt, cost_*_10-k.txt):
+  FY23 90.4% -> FY24 90.5% -> Q2 FY25 90.5% (peak) -> FY25 89.8% ->
+  Q1 FY26 89.7% -> Q2 89.7% -> Q3 89.7%
+U.S./Canada: FY24 92.9% -> Q2 FY25 93.0% (peak) -> FY25 92.3% -> Q1-Q3 FY26 92.1-92.2%.
+Worldwide renewal broke below 90% and has sat at 89.7% for three straight quarters —
+roughly 80bps off its peak.
+
+The cause is a deliberate, structural mix shift, stated plainly. FY25 10-K: renewal
+rates "were negatively impacted by a higher number of memberships sold online,
+including through digital promotions... These members renew at a slightly lower rate
+on average" (cost_2025_10-k.txt). Q3 FY25 adds the mechanism and the lag: rates were
+"negatively impacted by sign-ups from a digital promotion in the fall of 2023 entering
+the renewal calculation this quarter and higher penetration of online sign-ups in
+recent years" (cost_2025q3_10-q.txt). Because the renewal rate is "a trailing
+calculation that captures renewals during the period seven to eighteen months prior"
+(cost_2025_10-k.txt), promotional cohorts drag the metric with a delay and keep
+dragging it as long as Costco keeps using digital promos to grow. This headwind is a
+direct byproduct of the base-expansion strategy in Theme 4.
+
+STRONGEST COUNTER-EVIDENCE (durability): (1) the rate has STABILIZED — three
+consecutive quarters at 89.7% worldwide / ~92.2% U.S.-Canada suggest a floor, not a
+slide. (2) Executive penetration, the structural renewal support, keeps climbing:
+Executive members 32.3M (FY23) -> 35.4M (FY24) -> 38.7M (FY25), ~45.5% -> 46.5% ->
+47.8% of paid members, and ~72.8% -> 73.3% -> 73.6% of worldwide sales
+(cost_2023/2024/2025_10-k.txt; FY24/FY25 penetration % of members derived from the
+count table, not stated verbatim). The 10-Ks note "higher penetration of Executive
+members" as a renewal tailwind and "more members auto renewing." (3) In absolute
+terms these are still among the best renewal rates in all of retail.
+RECONCILIATION: two forces net out to "durable but no longer improving." The digital-
+sign-up mix pulls the rate down ~1pt off peak; rising Executive penetration and
+auto-renewal put a floor under it. The result is stabilization at a modestly lower
+plateau, not a collapse — but also not the ratcheting-higher renewal story of prior
+years. The franchise still retains ~90% of members annually; it just no longer
+compounds that retention upward.
+AMBIGUITY: whether 89.7% is a true floor or a way-station is genuinely open. The
+stabilization argues floor; the persistence of the drivers (ongoing digital-promo
+sign-ups still entering the trailing window) argues for continued mild pressure. I
+lean "floor with a slight downward bias," not "recovery."
+
+====================================================================
+THEME 3 — THIN RETAIL MARGIN AND THE MEMBERSHIP-FEE PROFIT ENGINE
+====================================================================
+POSITION: Costco is a membership company wearing a retailer's costume. Merchandise is
+sold at near-breakeven to drive loyalty; the membership fee IS the profit. That makes
+the near-pure-margin fee pool the earnings engine — and it is precisely the pool
+Themes 1-2 show decelerating. This is the mechanism that turns a modest membership
+slowdown into an outsized earnings effect.
+
+Costco's retail margin is the thinnest of the peer set by a wide margin. Merchandise
+gross margin (net sales less merchandise costs) per the 10-Ks: FY23 10.57%, FY24
+10.92%, FY25 11.12% (cost_2023/2024/2025_10-k.txt). Compare the peers' reported gross
+margins from the income-statement files: BJ ~18-19% (bj_income_statement.json, e.g.
+Q3 FY25 19.0%), Walmart ~24% (wmt_income_statement.json), Target ~28-29%
+(tgt_income_statement.json). Costco chooses to run at roughly half BJ's and less than
+half of Walmart's gross margin. (Note: COST's own income_statement.json shows ~12.8%
+"gross profit" because that file folds membership fees into revenue; the ~11% figure
+is the pure merchandise margin from the 10-K.)
+
+The engine math: membership fees as a share of operating income were 56.4% in FY23,
+52.0% in FY24, and 51.3% in FY25 (fees from the 10-Ks over operating income of
+$8,114M / $9,285M / $10,383M; ratio derived — the filings do not state it). Strip
+membership fees out and FY2025 merchandise operations earned just $5,060M on $269,912M
+of net sales — a ~1.9% merchandise operating margin (Q3 FY26 run-rate ~2.1%). With
+SG&A near 9% of revenue (cost_income_statement.json), the merchandise business is
+essentially a break-even-plus volume machine; the fee is close to 100%-incremental
+margin. This is corroborated by management's own framing: "The membership format is an
+integral part of our business and profitability... The extent to which we achieve
+growth in our membership base, increase the penetration of Executive memberships, and
+sustain high renewal rates materially influences our profitability" (cost_2024q1_10-q.txt).
+
+Why this matters for the thesis: because ~half of operating profit is a near-pure-
+margin fee, the earnings are LEVERED to exactly the membership metrics that Themes 1-2
+show topping out. A deceleration from +14% to +8% fee growth, or an 80bps renewal
+slip, hits profit far harder than the same move would at a thin-margin conventional
+retailer, where merchandising dominates the P&L.
+
+STRONGEST COUNTER-EVIDENCE (the bull case within this theme): the thin margin is a
+MOAT, not a weakness. It is why no competitor can undercut Costco on price — Costco
+does not need merchandise margin to make money — and core merchandise gross margin is
+actually IMPROVING (core-category GM ex-ancillary +2bps FY23, +11bps FY24, +16bps
+FY25; cost_2025_10-k.txt), driven by fresh foods and the co-branded credit card. So
+the retail side is getting slightly MORE profitable, partially offsetting fee
+deceleration.
+RECONCILIATION & TENSION: the same Executive-mix shift that supports renewal (Theme 2)
+is a growing drag on merchandise margin via the 2% reward, which rises with Executive
+penetration: $2,576M (FY23) -> $2,804M (FY24) -> $3,007M (FY25), a ~3-4bps/yr GM
+headwind (cost_2023/2025_10-k.txt), and the reward cap was just lifted from $1,000 to
+$1,250. So Costco is paying more back to its best members to keep them loyal. Net: the
+core-margin improvement is real but measured in single-digit basis points, far too
+small to offset a fee-engine deceleration of several points of growth. The profit
+engine still runs on the fee.
+
+====================================================================
+THEME 4 — BASE-EXPANSION DURABILITY vs. CANNIBALIZATION, CONCENTRATION, COMPETITION
+====================================================================
+POSITION: Base expansion is genuinely durable — this is the strong leg of the bull
+case and I do not dispute it. But its QUALITY is shifting (more digital, more in-
+market, more concentrated), and that shift is the very source of the Theme-2 renewal
+headwind. Growth quantity holds; growth composition is getting harder to underwrite.
+
+The base compounds steadily. Total paid members: 61.7M (FY21) -> 65.8M -> 71.0M ->
+76.2M -> 81.0M (FY25) -> 82.9M in Q3 FY26 (+4.1% YoY); total cardholders 111.6M
+(FY21) -> 145.2M (FY25) -> 148.5M (+4.0% YoY) (cost_*_10-k.txt / cost_2026q3_10-q.txt).
+Unit growth is ~3%: warehouses went from 908 (cost_2025-07-16_8-k.txt) to 931
+(cost_2026-05-28_8-k.txt) in ~10 months. Comps are strong: Q3 FY26 total company
++9.8% reported / +6.6% adjusted for gas and FX; U.S. +9.4% / +6.8% adjusted;
+digitally-enabled +21.5% (cost_2026-05-28_8-k.txt). International offers a long, high-
+return runway: FY25 international was 27% of sales but 34% of operating income on 285
+warehouses (31% of the fleet) — i.e., more profit per unit than the core
+(cost_2025_10-k.txt). E-commerce just added China (cost_2026-05-28_8-k.txt).
+
+But three qualifiers temper the durability:
+(1) CANNIBALIZATION is self-inflicted and acknowledged. Risk factors: "We seek to
+expand in existing markets to attain a greater overall market share. A new warehouse
+may draw members away from our existing warehouses and adversely affect their
+comparable sales performance, member traffic, and profitability" (cost_2024_10-k.txt).
+In-market densification lifts total share but caps per-club comp upside.
+(2) CONCENTRATION is high. U.S. + Canada were 86% of net sales and 84% of operating
+income in FY25, and California alone was 26% of U.S. net sales (cost_2025_10-k.txt) —
+a regional or regulatory shock (or a California-specific consumer/immigration/labor
+event) hits disproportionately. The FY25 disclosure explicitly ties this to
+"cannibalizing existing locations with new warehouses."
+(3) COMPETITION is intensifying and now explicitly technological. The 10-Ks name
+"Walmart's Sam's Club and BJ's Wholesale Club," plus Walmart, Target, Kroger, and
+Amazon (cost_2023/2024_10-k.txt), and FY24 added competitors' "faster adoption of
+artificial intelligence" as a risk (cost_2024_10-k.txt). On the peer financials, this
+is a fight among giants: Walmart runs ~$175B of quarterly revenue
+(wmt_income_statement.json) and BJ is a direct warehouse-club competitor growing
+comps in the same channel (bj_income_statement.json).
+
+RECONCILIATION — the unifying insight across all four themes: the channels driving
+base durability are the SAME channels degrading growth quality. Digital sign-ups
+expand the member base (Theme 4) but renew at lower rates (Theme 2); in-market
+densification grows share (Theme 4) but cannibalizes existing-club comps (Theme 4
+risk); rising Executive penetration deepens loyalty and props up renewal (Theme 2) but
+increases the 2% reward drag on the thin retail margin (Theme 3). Each growth lever
+carries an offsetting cost that the recent fee-hike tailwind (Theme 1) has been
+masking. As that tailwind laps in FY2027, the underlying trade-offs become visible in
+the reported numbers.
+
+====================================================================
+CONCLUSION — A UNIFIED VIEW
+====================================================================
+Costco's membership moat is intact and its base will keep compounding at mid-single-
+digit member and unit growth with high-single-digit adjusted comps — that durability
+is real and is the reason the franchise deserves a premium. But the last year's low-
+teens membership-fee growth and record-high renewal rates flattered the picture: the
+fee growth is a decaying, dated overlay from the September 2024 hike (contribution to
+growth already halved to ~25%; deferred-fee YoY growth cut from +11% to +8%), and the
+renewal rate has quietly rolled ~80bps off its peak and merely stabilized because
+Costco is buying volume with lower-renewing digital sign-ups. Because the retail
+business runs at ~11% gross and ~2% merchandise operating margin, and roughly HALF of
+operating income is the near-pure-margin membership fee, this decelerating fee pool —
+not merchandising — is the earnings engine, and small membership changes swing profit
+disproportionately.
+
+Net position: DURABLE MOAT, DECELERATING ENGINE, PEAKING EARNINGS QUALITY. Expect
+membership-fee growth to normalize from low-teens toward its ~8% underlying rate as
+the fee increase fully laps in FY2027, with renewal rates stable-to-slightly-lower
+rather than recovering. The base-expansion story is the genuine bull case; the
+mispricing risk is extrapolating the fee-hike sugar-high and the renewal-rate peak as
+if they were the run-rate.
+
+Key ambiguities left open (not smoothed): (i) whether worldwide renewal at 89.7% is a
+true floor or a way-station — the drivers argue for continued mild pressure; (ii) how
+much of the Q3 FY26 deferred-fee sequential slowdown is seasonal vs. structural — the
+YoY deceleration is the cleaner, calendar-neutral signal; (iii) reported Q3 FY26 comps
+and total revenue (+11.6%) are flattered by gasoline and FX (adjusted comp only
++6.6%), so headline top-line strength overstates the underlying trend; and (iv) the
+FY24/FY25 Executive-penetration percentages are derived from the count tables, not
+stated verbatim in the filings.

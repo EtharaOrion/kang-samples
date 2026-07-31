@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "CMG",
+    "cik": "0001058090",
+    "companyName": "CHIPOTLE MEXICAN GRILL INC",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "",
+    "fiscalYearEnd": "1231",
+    "city": "NEWPORT BEACH",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "SG",
+    "cik": "0001477815",
+    "companyName": "Sweetgreen, Inc.",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "LOS ANGELES",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "WING",
+    "cik": "0001636222",
+    "companyName": "Wingstop Inc.",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1226",
+    "city": "DALLAS",
+    "stateOrCountry": "TX"
+  },
+  {
+    "symbol": "SHAK",
+    "cik": "0001620533",
+    "companyName": "Shake Shack Inc.",
+    "sic": "5810",
+    "sicDescription": "Retail-Eating & Drinking Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "",
+    "fiscalYearEnd": "1231",
+    "city": "NEW YORK",
+    "stateOrCountry": "NY"
+  }
+]

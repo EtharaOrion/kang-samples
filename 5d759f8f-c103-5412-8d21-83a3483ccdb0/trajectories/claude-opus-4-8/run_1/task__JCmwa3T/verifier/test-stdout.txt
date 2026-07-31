@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Traffic vs. Price/Mix in Comparable Sales', 'Restaurant-Level Margin Durability Under Cost Inflation', 'Maturing Unit Growth and AUV Dilution', 'Competitive and Demand Risks to the Durability Thesis']
+Cited files: 18

@@ -1,0 +1,2026 @@
+0001683168-25-008823.txt : 20251203
+0001683168-25-008823.hdr.sgml : 20251203
+20251203083028
+ACCESSION NUMBER: 0001683168-25-008823
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20251203
+ITEM INFORMATION: Regulation FD Disclosure
+FILED AS OF DATE: 20251203
+DATE AS OF CHANGE: 20251203
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: DELTA AIR LINES, INC.
+ CENTRAL INDEX KEY: 0000027904
+ STANDARD INDUSTRIAL CLASSIFICATION: AIR TRANSPORTATION, SCHEDULED [4512]
+ ORGANIZATION NAME: 01 Energy & Transportation
+ EIN: 580218548
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-05424
+ FILM NUMBER: 251545062
+
+ BUSINESS ADDRESS: 
+ STREET 1: HARTSFIELD-JACKSON ATLANTA INTL AIRPORT
+ STREET 2: 1030 DELTA BOULEVARD
+ CITY: ATLANTA
+ STATE: GA
+ ZIP: 30354-1989
+ BUSINESS PHONE: 4047152600
+
+ MAIL ADDRESS: 
+ STREET 1: 1030 DELTA BLVD.
+ STREET 2: DEPT 981
+ CITY: ATLANTA
+ STATE: GA
+ ZIP: 30354
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: DELTA AIR LINES INC /DE/
+ DATE OF NAME CHANGE: 19920703
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: DELTA AIR CORP
+ DATE OF NAME CHANGE: 19660908
+8-K
+1
+delta_8k.htm
+CURRENT REPORT
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 OR 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event
+reported): December
+3, 2025
+
+DELTA
+AIR LINES, INC.
+
+(Exact name of
+registrant as specified in its charter)
+
+Delaware001-0542458-0218548
+
+(State or other jurisdiction 
+
+of incorporation)(Commission 
+
+File Number)(IRS Employer 
+
+Identification No.)
+
+P.O. Box 20706, Atlanta, Georgia30320-6001
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including
+area code: (404)715-2600
+
+Registrant’s Web site address: www.delta.com
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+☐Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered
+pursuant to Section 12(b) of the Act:
+
+Title of each classTrading SymbolName of each exchange on which registered
+
+Common Stock, par value $0.0001 per shareDALNew York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17
+CFR 240.12b-2).
+
+Emerging
+growth company ☐
+
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01Regulation FD Disclosure.
+
+As previously announced, executives of Delta Air Lines, Inc.
+(“Delta” or the “Company”) are participating in a webcast fireside chat at the Morgan Stanley Global
+Consumer & Retail Conference on December 3, 2025 starting at 8:45 a.m. ET.
+
+At the conference, Delta is disclosing that demand remains healthy
+for the December quarter and trends are strong for early 2026. Growth in travel bookings has returned to initial expectations following
+a temporary softening in November related to the government shutdown, which is expected to impact the Company’s December quarter
+pre-tax profitability by approximately $200 million, equating to approximately 25 cents of earnings per share.
+
+*************************************************************************************************************************
+
+In accordance with general instruction B.2 of Form 8-K, the information
+in this report that is being furnished pursuant to Item 7.01 of Form 8-K shall not be deemed to be “filed” for the purposes
+of Section 18 of the Securities Exchange Act, as amended, or otherwise subject to liabilities of that section, nor shall they be
+deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as expressly set forth
+in such filing. This report will not be deemed an admission as to the materiality of any information in the report that is required to
+be disclosed solely by Regulation FD.
+
+Forward Looking Statements
+
+Statements made in this Form 8-K that are not historical facts,
+including statements regarding our estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments or strategies
+for the future, should be considered “forward-looking statements” under the Securities Act of 1933, as amended, the Securities
+Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Such statements are not guarantees or promised
+outcomes and should not be construed as such. All forward-looking statements involve a number of risks and uncertainties that could cause
+actual results to differ materially from the estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments
+and strategies reflected in or suggested by the forward-looking statements. These risks and uncertainties include, but are not limited
+to, the possible effects of serious accidents involving our aircraft or aircraft of our airline partners; breaches or lapses in the security
+of technology systems we use and rely on, which could compromise the data stored within them, as well as failure to comply with evolving
+global privacy and security regulatory obligations or adequately address increasing customer focus on privacy issues and data security;
+disruptions in our information technology infrastructure; our dependence on technology in our operations; increases in the cost of aircraft
+fuel; extended disruptions in the supply of aircraft fuel, including from Monroe Energy, LLC (“Monroe”), a wholly-owned subsidiary
+of Delta that operates the Trainer refinery; failure to receive the expected results or returns from our commercial relationships with
+airlines in other parts of the world and the investments we have in certain of those airlines; the effects of a significant disruption
+in the operations or performance of third parties on which we rely; failure to comply with the financial and other covenants in our financing
+agreements; labor-related disruptions; the effects on our business of seasonality and other factors beyond our control, such as changes
+in value in our equity investments, severe weather conditions, natural disasters or other environmental events, including from the impact
+of climate change; failure or inability of insurance to cover a significant liability at Monroe’s refinery; failure to comply with
+existing and future environmental regulations to which Monroe’s refinery operations are subject, including costs related to compliance
+with renewable fuel standard regulations; significant damage to our reputation and brand, including from exposure to significant adverse
+publicity or inability to achieve certain sustainability goals; our ability to retain senior management and other key employees, and to
+maintain our company culture; disease outbreaks or other public health threats, and measures implemented to combat them; the effects of
+terrorist attacks, geopolitical conflict or security events; competitive conditions in the airline industry; extended interruptions or
+disruptions in service at major airports at which we operate or significant problems associated with types of aircraft or engines we operate;
+the effects of extensive regulatory and legal compliance requirements we are subject to; the impact of environmental regulation, including
+but not limited to regulation of hazardous substances, increased regulation to reduce emissions and other risks associated with climate
+change, and the cost of compliance with more stringent environmental regulations; and unfavorable economic or political conditions in
+the markets in which we operate or volatility in currency exchange rates.
+
+Additional information concerning risks and uncertainties that could
+cause differences between actual results and forward-looking statements is contained in our Securities and Exchange Commission (SEC) filings,
+including our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 and other filings filed with the SEC from time to
+time. Caution should be taken not to place undue reliance on our forward-looking statements, which represent our views only as of the
+date of this Form 8-K, and which we undertake no obligation to update except to the extent required by law.
+
+2
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+DELTA AIR LINES, INC.
+
+By:/s/ Daniel C. Janki                          
+
+Daniel C. Janki
+
+Executive Vice President & Chief Financial Officer
+
+Date:
+December 3, 2025
+
+3
+
+EX-101.SCH
+2
+dal-20251203.xsd
+XBRL SCHEMA FILE
+00000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.LAB
+3
+dal-20251203_lab.xml
+XBRL LABEL FILE
+Cover [Abstract]Document TypeAmendment FlagAmendment DescriptionDocument Registration StatementDocument Annual ReportDocument Quarterly ReportDocument Transition ReportDocument Shell Company ReportDocument Shell Company Event DateDocument Period Start DateDocument Period End DateDocument Fiscal Period FocusDocument Fiscal Year FocusCurrent Fiscal Year End DateEntity File NumberEntity Registrant NameEntity Central Index KeyEntity Primary SIC NumberEntity Tax Identification NumberEntity Incorporation, State or Country CodeEntity Address, Address Line OneEntity Address, Address Line TwoEntity Address, Address Line ThreeEntity Address, City or TownEntity Address, State or ProvinceEntity Address, CountryEntity Address, Postal Zip CodeCountry RegionCity Area CodeLocal Phone NumberExtensionWritten CommunicationsSoliciting MaterialPre-commencement Tender OfferPre-commencement Issuer Tender OfferTitle of 12(b) SecurityNo Trading Symbol FlagTrading SymbolSecurity Exchange NameTitle of 12(g) SecuritySecurity Reporting ObligationAnnual Information FormAudited Annual Financial StatementsEntity Well-known Seasoned IssuerEntity Voluntary FilersEntity Current Reporting StatusEntity Interactive Data CurrentEntity Filer CategoryEntity Small BusinessEntity Emerging Growth CompanyElected Not To Use the Extended Transition PeriodDocument Accounting StandardOther Reporting Standard Item NumberEntity Shell CompanyEntity Public FloatEntity Bankruptcy Proceedings, Reporting CurrentEntity Common Stock, Shares OutstandingDocuments Incorporated by Reference [Text Block]EX-101.PRE
+4
+dal-20251203_pre.xml
+XBRL PRESENTATION FILE
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Dec. 03, 2025
+
+Cover [Abstract]
+
+Document Type8-K
+
+Amendment Flagfalse
+
+Document Period End DateDec. 03, 2025
+
+Entity File Number001-05424
+
+Entity Registrant NameDELTA
+AIR LINES, INC.
+
+Entity Central Index Key0000027904
+
+Entity Tax Identification Number58-0218548
+
+Entity Incorporation, State or Country CodeDE
+
+Entity Address, Address Line OneP.O. Box 20706
+
+Entity Address, City or TownAtlanta
+
+Entity Address, State or ProvinceGA
+
+Entity Address, Postal Zip Code30320-6001
+
+City Area Code(404)
+
+Local Phone Number715-2600
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Title of 12(b) SecurityCommon Stock, par value $0.0001 per share
+
+Trading SymbolDAL
+
+Security Exchange NameNYSE
+
+Entity Emerging Growth Companyfalse
+
+XML
+7
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.3html1221false00false3falsefalseR1.htm00000001 - Document - CoverSheethttp://delta.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportsdal-20251203.xsddal-20251203_lab.xmldal-20251203_pre.xmldelta_8k.htmhttp://xbrl.sec.gov/dei/2025truefalseJSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "delta_8k.htm": {
+ "nsprefix": "DAL",
+ "nsuri": "http://delta.com/20251203",
+ "dts": {
+ "schema": {
+ "local": [
+ "dal-20251203.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "dal-20251203_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "dal-20251203_pre.xml"
+ ]
+ },
+ "inline": {
+ "local": [
+ "delta_8k.htm"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 59,
+ "unitCount": 3,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 22
+ },
+ "report": {
+ "R1": {
+ "role": "http://delta.com/role/Cover",
+ "longName": "00000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "AsOf2025-12-03",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "delta_8k.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "AsOf2025-12-03",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "delta_8k.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentDescription": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentDescription",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Description",
+ "documentation": "Description of changes contained within amended document."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AnnualInformationForm": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AnnualInformationForm",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Annual Information Form",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_AuditedAnnualFinancialStatements": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AuditedAnnualFinancialStatements",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Audited Annual Financial Statements",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CountryRegion": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CountryRegion",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Country Region",
+ "documentation": "Region code of country"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentAccountingStandard": {
+ "xbrltype": "accountingStandardItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAccountingStandard",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Accounting Standard",
+ "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentAnnualReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAnnualReport",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Annual Report",
+ "documentation": "Boolean flag that is true only for a form used as an annual report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r11",
+ "r13",
+ "r14"
+ ]
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "xbrltype": "fiscalPeriodItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalPeriodFocus",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Period Focus",
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "xbrltype": "gYearItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalYearFocus",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Year Focus",
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodStartDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodStartDate",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period Start Date",
+ "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentQuarterlyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentQuarterlyReport",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Quarterly Report",
+ "documentation": "Boolean flag that is true only for a form used as an quarterly report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r12"
+ ]
+ },
+ "dei_DocumentRegistrationStatement": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentRegistrationStatement",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Registration Statement",
+ "documentation": "Boolean flag that is true only for a form used as a registration statement."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_DocumentShellCompanyEventDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyEventDate",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Event Date",
+ "documentation": "Date of event requiring a shell company report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentShellCompanyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyReport",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Report",
+ "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentTransitionReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentTransitionReport",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Transition Report",
+ "documentation": "Boolean flag that is true only for a form used as a transition report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r15"
+ ]
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentsIncorporatedByReferenceTextBlock": {
+ "xbrltype": "textBlockItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentsIncorporatedByReferenceTextBlock",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Documents Incorporated by Reference [Text Block]",
+ "documentation": "Documents incorporated by reference."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCountry": {
+ "xbrltype": "countryCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCountry",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Country",
+ "documentation": "ISO 3166-1 alpha-2 country code."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityBankruptcyProceedingsReportingCurrent": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityBankruptcyProceedingsReportingCurrent",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Bankruptcy Proceedings, Reporting Current",
+ "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityCommonStockSharesOutstanding": {
+ "xbrltype": "sharesItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCommonStockSharesOutstanding",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Common Stock, Shares Outstanding",
+ "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCurrentReportingStatus": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCurrentReportingStatus",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Current Reporting Status",
+ "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityExTransitionPeriod": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityExTransitionPeriod",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Elected Not To Use the Extended Transition Period",
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+ }
+ }
+ },
+ "auth_ref": [
+ "r19"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityFilerCategory": {
+ "xbrltype": "filerCategoryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFilerCategory",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Filer Category",
+ "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInteractiveDataCurrent": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInteractiveDataCurrent",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Interactive Data Current",
+ "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r16"
+ ]
+ },
+ "dei_EntityPrimarySicNumber": {
+ "xbrltype": "sicNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPrimarySicNumber",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Primary SIC Number",
+ "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_EntityPublicFloat": {
+ "xbrltype": "monetaryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPublicFloat",
+ "crdr": "credit",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Public Float",
+ "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityShellCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityShellCompany",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Shell Company",
+ "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntitySmallBusiness": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitySmallBusiness",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Small Business",
+ "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityVoluntaryFilers": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityVoluntaryFilers",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Voluntary Filers",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityWellKnownSeasonedIssuer": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityWellKnownSeasonedIssuer",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Well-known Seasoned Issuer",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+ }
+ }
+ },
+ "auth_ref": [
+ "r17"
+ ]
+ },
+ "dei_Extension": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Extension",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Extension",
+ "documentation": "Extension number for local phone number."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_OtherReportingStandardItemNumber": {
+ "xbrltype": "otherReportingStandardItemNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "OtherReportingStandardItemNumber",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Other Reporting Standard Item Number",
+ "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r7"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r9"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_Security12gTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12gTitle",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(g) Security",
+ "documentation": "Title of a 12(g) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_SecurityReportingObligation": {
+ "xbrltype": "securityReportingObligationItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityReportingObligation",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Reporting Obligation",
+ "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r10"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r8"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://delta.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r18"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-23"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "g"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12, 13, 15d"
+ },
+ "r7": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r8": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r9": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r10": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "15",
+ "Subsection": "d"
+ },
+ "r11": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-K",
+ "Number": "249",
+ "Section": "310"
+ },
+ "r12": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-Q",
+ "Number": "240",
+ "Section": "308",
+ "Subsection": "a"
+ },
+ "r13": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 20-F",
+ "Number": "249",
+ "Section": "220",
+ "Subsection": "f"
+ },
+ "r14": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 40-F",
+ "Number": "249",
+ "Section": "240",
+ "Subsection": "f"
+ },
+ "r15": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Forms 10-K, 10-Q, 20-F",
+ "Number": "240",
+ "Section": "13",
+ "Subsection": "a-1"
+ },
+ "r16": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Regulation S-T",
+ "Number": "232",
+ "Section": "405"
+ },
+ "r17": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "405"
+ },
+ "r18": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ },
+ "r19": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Section": "B",
+ "Subsection": "2"
+ }
+ }
+}
+ZIP
+13
+0001683168-25-008823-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001683168-25-008823-xbrl.zip
+M4$L#!!0 ( ,U#@UN/:C44(P, -8+ 0 9&%L+3(P,C4Q,C S+GAS
+M9+56VW+:,!!][TS_0?5KQS.L&6B(B17DKG\?27;
+M,A>#"[3E2=X]Y^RN=U>F=;.<$3!'7&!&VY;O>!9 -& AII.V-1K:M\-.MVN!
+MF^O7KX#ZM=[8-KC'B(1-<,<"NTLC=@6^PAEJ@L^((@XEXU?@"9)$6]@])HB#
+M#IO%!$FD'%FD)KAPZA#8]A&R3XB&C(\&W4+V1X_P!7=Q?P4:X:
+MC5KR?;J%%+XMD(5LB>$$S"%0OJ&A;NKZ\
+MO$7=87SBUCS/=Y_[O6&*LS)@Z#^Y>7EV[J-= 2T>0X$*
+M9>7%%7A,A80TV,*'LB!L@AMNYMR"XKW0BPR*#31$.SB! F?"YJYR*'RM88")
+ML"<0Q@4X@F*4P1?LVK
+MJZ4B:(:HO&=\=HHJL .VU9VW% R6B&*,,5I
+MW'QO?&#K+4ET@>J8,EON+KBLE @4/M#K]!QS)!0]K:>G##D_AU1S TB"A)Q%
+M7>=7Q]9N>V%HZAMA9#8II<_5-6.FA^#
+MT $JMBYMT>Z+RN,:"P4-K\:?Y%#*G-2$EOM#"5WM806?6=[OFKBX73^Q$R?Q5E#$+"$
+M2KXZ91 V*>;AO&ZLO_?'-<+@LR;HOP#GACUC"LK!]XU R\W4U/$W4$L#!!0
+M ( ,U#@UN89#;N_0H '^& 4 9&%L+3(P,C4Q,C S7VQA8BYX;6S-
+MG5UOX[@5AN\+]#^P[DT+C..)@UT@V4Y(345#N^ Q]?W2"
+MT7@\H-IOA,:,?[V?U]4^YOES=C:9O+Z^'E'V@E\9?\J.(K895N$BQ_DVJVO[
+MN/M8_2G#/Z4)?3J3?ZUP1I X7#0[VV7)^4CNM]KMZ\D1X^O)]./'X\D_?[U>
+M1(]D@\<)E8W>#0(7\WUC)QG+3^'@Z/CD^VF7Q2!W\X@AREI)[\H"*9I[E
+M^V=!4I9($$;5MD=.'NQF4LXG,GY"R1KG))8[.I4[.OY>[NBOU>9KO"+I"$FE
+MX -LUVFKKBIHXMKL'>$)BR_I^USKT9[LB^\.S_^'!C3CG3=AR7*<.4+\ZBG<95B$C$Q-3WGX[0\
+MC&7X V<;ZVZK5C-+X1_IJHXO#XO8!6"T)>,D8UL>D3?U2M,M=)0J1YM4*.2*
+MBM#QU\7HQT*#?E>J_WR:'&IQT-%B";3=$)HO18V6%K2+776SS93JY699$)UL
+M,:3WL9(@J7'K!,YM4@+\OR6R(T=
+MPQB@=SWT=]K6YP*K. AHAC@$9XMF$*JC/'%T0>D6I_?DF?$N?-HRU]383.JP
+M-#5!,6(Q!J)1:E$I]D3$/[;BC)WP=-\+A:%TS05@54=#DP5%A]T;"$@M]\O(
+MDF.:)7( ZX7$E#H_W0#,&J<>FBXH3@!S\"E)K?=+RN*1I*F\'8!I_X!B$[NF
+M!3:L\V(J@R(&M 0E5*."KU_2"YI/ B16N<'$,VF
+M'8]*%" <;6=]: BU3S"NDBS":>GE2FS+.IIGT;H&!+2K0V((@P(%<@?"4@8H
+M9HH0K\#\BV ^#)>&T@\LAE4[*K4L0%!T;WV82+T72&9;SENNX1D'ECJ[*=MC
+MMKX_"^B" *7'G''7MI2W0/$T UW2/,GW\G&ZF^UF1;BE<:;$%1N0.<6$7AX$
+M"X IG8%2AJ0.E4(O/:_N$M!7N27 ;K)-05L3$ E68P -!VWQ3*D7
+M(F9B9.(XG=.8['XA>[!=ALXM$X#--A2:*" J[,X +"HQ*M1(R+V <<>3#>;[
+M11+U3!6FT"T:D-$V&[HJ(#@ :P =E1HMYC.?,\D2[^:Q #5Y2,KGP7LH ?5N
+M8>FQW68&$ >$3K=#@" 1A-I1/D&:TXCQ9]9XW&'&MF( W,]8#*]0>J+<0C6H
+M"6VT.D," FR(3P"S5NB'\ID4Q.1K/$4%2-;@A;B+.!8'*JO^N4XH.0;;;]6Z
+MI:O#;ILIBS @DF!W #^5\H/Z@&0,NJ6A0#-]0U.G_J&9#H5F&C0TT_= LWQE
+M@4!S\H:FGOB'YF0H-"=!0W/R+FA$QWL=:V;BXRU?LE?;P]F@T@LRIE4K, =9
+M>+@8WOI@D0%R/2-#?&)2+*QN^1UG+PF-X"4S)/<"#&#:2HVF#0\=N\$^?NH%
+ML8KS.M:4B_+>+XF2^1EEVB;M0TRI"0^2MK'>P:54^T3BCF4Y3O^=/'>>B-O%
+M7O"P&K9"TE*&AXK-7A\P90P203Y.K"ME**7'>S9)03#(P([6)GG6PQ5?=QHRR,+C8-&3U\>&84?$# EKGH:,J=Z6R\/HLT/6OXN23)]C6*IO(%1"P046#J0@"!="6SL%!B)32
+M,01WG$@(B>B(XB5 F5B(WSX\6&?[+K$K*/H-*SA@91"0]-K381$!XZ@1@95O"WP2/)<030J!Y "1#'R).D,E>J,I GVPM2+05\^/^>+I:)GEJ
+M.[DT)<[F),!(B8#UT$;#VM@A0NRU3A(AQZ7:5)FL,)"?L5+N&
+MHL.RSH=%&A0JL#]PS*A#T"'&=4;+(L693,_/-\7^K\0'2RL!G;.<%[3)[1+W(*G]W"&P@)'?\NG:G:>VM;:LV
+M(&8Z#4+O<%4M90R?B:76FG4\):ZIW">.,2R:N6-J24!XV'QU9)#A
+M2&F]L+#8X#3]O,T22C)X(M)4;EFP6FRST)($Q(+-%\!"(45*ZX6%RPWA:S&]
+M_LM-RQ'2X:^9@3ECP1=5C]#U\P$7];CZY=&
+MHDB^$%&NRFF,N0VA+K'S7QT!#1N_/6(H@P"IUQ[\.R1U!%(ACJFY%0SSYGE<
+M86*>DPWXMD-_B"N"AII7'/7I@Z!IH$F=J2*L?7)=!"(9Z3.;43.Y/;S$:XD<
+MKXPM!K6%<4,1!".@+6A9W/RM #^Y\[:K-(FN4H;AJRPMC>.,>:8]+5G>01 0
+M :8K*$5>(42%TDO_?\;TB6^?\VA_QUE$B'S**JM'J[[K;P.CW3+SIB:U:1H4
+M&A!G;_$+$'BH C7J^-"8L7Q>S),/C&ULS9S?<^(V$,??.]/_P:7/0(#V
+MVG!);Q(NW#"7NZ0A=]?VY4;8 C21)4:2 _SWE6S@^&')FQ=O\I 0LY+V^UE9
+M]EJ2+]ZM4AX]4Z69%)>-3NNL$5$1RX2)V67CR[AY-1Z,1HU(&R(2PJ6@EPTA
+M&^_^^OFGR/Y<_-)L1D-&>=*/WLNX.1)3^3;Z3%+:CSY0014Q4KV-OA*>N2-R
+MR#A5T4"F"TX-M5\4#?>C-ZT>B9I-0+5?J4BD^O(PVE4[-V:A^^WVUG:W.-C]%\0O.Q%/?_9H032.+2^C^2K/+AFMWT^RR
+MUY)JUNZ>G77:_WRZ'<=SFI(F$PY;3!O;4JZ6LG*=\_/S=O[MUO3$S_98%[/<\T:RO<_=N94Q,'O7*9B*OA?NON35KND/-3K?9Z[16.FEL
+MX><$E>3T@4ZC7&;?K!>V)VGF.D)CZ=[UG.U_#J0MGLV
+M(E?>1GWG;4*Y(2[*;?=->V/5/FASH:BFPN0R;^V!@\;IRMBN1)-M\ZZ:BMHW
+MQ9EQEIM>THF:KDMEJ6W(?BPL-UYL_> R/FB:._12'0K?=N,T-5$&T5BLZV)DPGE>?W?K.P]TQIR_SA5WG:7N8'A<\!0!@N]ACA1!M4@1N!(B(_R!+J2J ']H">3]
+M&R;O,FU(F/_.B#)4\36$](DQ$/;OF+ ]"I%X/RHB-'-\(,!/K8'$WZ#>>'@T
+M(B$?SRGG+G4C M3+R^R!V/_ Q.[7^0K WSR[Z[N]M,#9[Q4!XO_SM> _48L4
+M@7NJF$SL)5T!V)\8 ZF?8U+W*$3E?2,2*.V=*3C_P8=]) \)]9#IF/#"HZ$]
+MIL.X2\RAR%%RSDJ9J-C_I42!H>\90Y&CI*$5$FL&/LB4.G F.*KXK:'(41+0
+M*I$U,[\1AIFU>];_.4LG/QZ<'K(^M8(R1DDZ?:)0V&Z?- CCYC!"?(\MH8Q1
+MLQBZL'C5-;*&R4
+MS#(L$(7V(UF-$JN*35DQ"U@-W5L$RAXEK03)10G!2,12+>3>X^*!S.SYN![(
+M)#BD5Q2$A@,EWWR!=)2@7"6)Q:4W?VZ9H)U0*$K-P7-$> $(R'PEV+LOP]Z%
+M8T?)0RMEOA+LO9=A[\&QH^2BE3(QL0_LQSOU*)>>&6BO,10Y2BY:(1$3>'ZE
+MN5/W2CZS8C%4%?63$E#TB"EJ6"QJAR\N\I#>OK6$\D9,5\O%87*^E]H0_A];
+M5-U)EMM#F2,FKB&A=3]@+.+N'EKXEA(=F4#YHN2JI7+J1NHBK"CQ=]]#"RA0
+ME 2T3$S-/&^EF_N82Q%\'GMJ!>6*DDGZ1-4]\+I5Q-I[ZN]]#5[!AC*L'LNH
+M&>,WQ8SU8"#3-!.;9S2>63&/*10O2OH7E%X>H&.'EG,OL
+MH)!1DCV_L)H)WROJ(DWM;7>^CLMM,U!WTZEOY W90XFCY'K50G')C[3.J'HI
+M_Y)2T"B@I'U0T76/,S3.[+"W[G0GCV['C&>4.;&"LD9)^7RB:F;[63XJXO;H
+MC=?I1'+_]I!20RAAE 0O(*UFR =^E.,],H&"1'\.M-,4!T<6XX,H9 1U[R62D.!?)-2-;.#V@NQ'';B%%<247"5$>ZB%[*'?4
+MC95^H363OS-SJO;OGW)G1C9O"RUZJ"X%C0)*N@H5C7-MW=O)'[RT'MA!>2,F
+MIF7"MD]>]KW"7?(!5+V(80DM&F20GHYYTL>
+M80M08VS'LKGTU^^,)!L;3)JDI)?=]CFG"5@:C>8^HY%[^._YQ")3Y@GNV*_^
+M+.6+?Q)F&X[)[=&K/UO]=K?[Y[^;F<.Q#\-@J"U>9<>^[]8+A=ELEI]5\HXW
+M*I0.#@X*!9/#,5OPD4JA370\-1<3H@/WBVHAXFA?NK0FAKJAT.Y<*KETMY]>*@1T83Y
+MIK$EQ!EVR#X=]+C 141Q4VV0NYP37@ ,\JU<& @[.?>'!;4
+M@,SAA/F4(-@GK=85_$",22[WP,F5
+M@QO8^$VTX9MPPP\'42U&DYXPNW9PPT!X ''XKS5AM@G_^R<6'=T,J278(R#M
+MQ2!U;&# H@V@/&IU;9/-W[#%31'_E/<.BM6'@]T] O(>WY1NM-8K^/#5(T"4
+M;_ICZC%Q4[Z1-D[!$/*[1X Y1DRN-*C*&D*;8 \<&S(/'"R3,CG
+M:#CK0GI$0(=(-UXB92:U]Z:'&?:1B#)&^[\#2QWD(2,K%6O7@L#!H'A;6W(H7&I+\4;7> "A!_K^7.[8,0+T&QA=W1A17+*,4+YTRT?#!1.+
+MLW$)"/U$!W(0=R#Q-;--&?TE'<9A ;'=0/UMDN9[L0#DL->YN":]SM5E[UI)
+MW57@B8#:/O$=@&1@OD%*%7+9(Z7:"_,E<8;$'[/GQPW6#CSN#S,%T$95G3J>$6GKJ3?["BGFJY<[H0.@UYPO#NI/DJY
+M5(KZ*@MI;=T$Z!,8.S;I8@';8G92^4K%-.5+( =D8@:;#)B7J>P07&BC2MZC
+MF;^.4*QRKJTYIT+;'AMQ@94 '[.*=,;=W7V<7GAGNZ_=;!S#G.!?( \IE5W_
+MR<:R5%J/MI,H954BG5E)I.\WH[&,J1=8+'=%1S)9C*4O>C,@:62EV!QP,2$/"14$.$R Q, DW"01%\0,+U@
+M@+R7VT'IH)JO(6;P?RE?KG'[ ;KFTX'%X)%EN=24M<\LF [\#')DA)\?C9:6
+M"L.Q+.H*8'_X6R1(I2)*$D:1OA?"GS+/YP:D?AKC@>/[SD1'Y(>^N2)SZG&*
+MV.DE*N4_GF(*NC98?E<;_[X/IK*MZF5MQ]Q@&:IW7??UD57^>/KYJ28=*Y68
+MP/G,]9PIRL^:32^OVXA[<44+;]$9>(>-5L(WFX^G*Y)52TLT-J'>OOEHEJVS
+M*<[&=9;5$BP[X1:#O8$O2^?/K-<;+-JWWD=S]'0375DG_W)=3/A+.<@ARFNE
+MD%^?V.4$L:_IO*M+&8:4N_LHWZUU.V9Y[[0JGD[XE$K4!ARRS=I^KE@N[=>J
+M^_>RH>![3[0]J49?:AYQ/.) ^.Z1SQ!<"Y.K^%Y&_A!\\KBJO@REX3XVIB[5
+M=B83+D0$&460J-T_'6BWUR>=B6LY"\!>@DU2EUPX^9=)RA6DY_@OB B_(>A7
+MLM@R38\)H7^[%F[O9X.G*4%M7AA0$LLVK_&6>'#ESB.SW
+MBKL;E&%GK49PE+:U-OQZZ5T[,SM]8PQEVO()EMGC('
+M1'K3UA^V\RL'T+'^YN[F6&;JGLUKM4'ET]'CTM/$MO8W;BN!0;99*5;*Q=PN
+M3/F!V><+C1O6"%P/J,U=:A$V9T;@\RD&\F (F=A2F/[C#-XRH_S7/_;+I;V&
+M@&$6<\>.S8@M?<@.^BDKP' C X$C!9:;[!OJ(T4MA:C#+8"W6>[>?MHU)V]*
+M5W=G>T^7NT3-,;XF,+E:K+Y\J/*$%O[<@9#@"NES7Y!CE+\$X\K%X/SBZ2I3
+M3E1L5M?--O=*M5P9].2_NTB3(J$?V8 (#N$554KZ"&'$0[GHU/Z7HU"VV1XS
+M"-PAI"34!0\"I@G#S $X]0&SG!GALEQ,3L#C8$,%&7+8]XAP 4KL,Z"#F?$=
+M(-XD !K8S F$M2 "Z"2&"SE33W &L T5Z*D*-(G5+20]";47X;,AI/+.#.>A
+M5^,8B@KR0C!&3IG-/+"<71OF!BK\;>7+^8Q$]V5]:X39,IU7M;^EM?^CQWV@
+M(X;<@:U#89%N N9_M\1H][3_YN3VR47=@>-8C-KR('_%."3*@ZEH(5$.]JK5
+MQOTF+J5N6<1L4L,$7.- ,V[LP *KHS
+MZSA](X>6 ($L"N(Z>TI5"DC'.)0XWHGX4RWFU<@MLTC]':\]1@>2EYY# 4:FSCD.2&:+^]R.-SD<\W.X-TDF'ZSNX.YG:
+M_#DX7;V'TVL8?G=^5UBN^L)X&+_UV&?G]TKE,%T&MNJBGXA#S#VI@(9Y$!*Y
+M:8?P4JET@ .$K:\=C\2/0U:/2QZ]N=@9R#UG)5\['O$==]/9R#V'(I4_DN=R
+M@.X#RF-KHGR-O;OJ4-T8$\.B0L0KK!M*TNG'A/JA/F_<]/BKQSW5+>W,H\A9
+MTE],!H[UHS>U)79=J -)Q2T6FA"0_-F8PS=+]7ADF?P>&7SRUO5S=2)][YGR
+M$XFQJ52F[<6B5!Y(\4[W1V>B?>Y?W7Y\PZVG9_N),N[JNI#Y@5\ YO1]Q[C=
+M(2[UR)1: 2/_+.:QS$%<[$ =WW>R]U6I?2IWGH'^8;ZE-4\I7CKQ:W]7]^V3
+MX\D,V\B>2OQ$J3FQ:+9YW#K_KZ!I;46FP[!A!'HYIIY3>I
+M=BM,DH._IC0=3;V,HAX)J7?_J5@XZU1.:JLYZ3JU>\VF[ZNUOX[-)S>&W)>[
+MI!RSI"+WM;1EVX6:9ZG/;6)B=YBB""$K\3Q#:54FJ55\K= Y!IUA%B0$H#.V
+M(].#0# Y"M@DRZE$WA7D,F50-R204W(M:X&+SS@LC1)DP];@B<>F7, \T$1J
+M&UBRH8:\?8>#\:*F23U3J$(JPD_-32HO:)2;Q#4N3R*N_M3L>TYPL?9!;!QL
+MP)R[ --K "V["*6C7N]7W.B*=>^CC.EWT17K+\()N]+9/JIM[F'-<&M1 "YS
+M7]R=M($8+6?C_47+!"+1*Y0RHKJI32YQX4Z1M4&P@[].6AX=<".\@X>DOW :
+MY-*5=8PZ.9/7OI !>NEXFV<(2W:B;L"I\D>*B4]N!#U^Z.[U99,U9GN,WN8&
+M#)04L'2E@#R,P9&8QH0O+GKQ!>-[VV+W:MBI&@<51[ZXAGKJE&\)?\IE["C]
+M]I99C7 *M5?(^KT6>::VUX0Z/PBKKZ;6Z[I1S!92-&:W(L$-FEV?3'ALJ
+M!I%ZX8,>&P66.N4[.2;'7!B6@W?"\LN!<97:C@0/(KIO[695MME"CPF>51UH
+M4ML&CVHPTN$>P)PJ@=6TCGWF!)\OE8D,^E;^7&NBJT;OJ
+M1SIJT@]?$LBS,0<'[G"72M<-<2@E,S8PJ/#!N7M,@/O&=FZ?P'\(ZJWCC2AF
+M\-2VV(*<6LX O'\;K".&7N1?= (&O,=\RBT"W^K[JUB1":]E$'TM@\AKG;@J
+M@-ZO5VN$YB=YTKG>5EB]=0_=4B0PHFWM:%Y SF(JN6V
+M(&-&+7^\R PU1R)BW 6R59[@8!^ 0M2$;('8S0%0.!QO]RR08KMYHJ)?9!-$
+M;%-F00;NW,*:0D9Y'O,##U,CB+*X#>&<[/9Q(=[2=?CHB#M#P0M-L&O36T"$
+M,(0P4+/_PIDJQ#P&2J5@(<(C^-ZSL;A/Q#CP36<&U%)%-MB]6D6O#$)F*$K%
+M!$[V/*SN.@/BGO/I' /%(0?]Y!:$^I@GRL: .<<30=C\/\O%(IEPR^)XKQ'<
+MK))66"PY#H0*G;S0EZ)L29FHIO33RM7__Z@_/RM!#GFS"Y8(4@K/Q)>^J/QC
+MI-LP>*P-XR@O\_>P561'BAVWH]>>9%!5QAQU0]Z9D[H)'P<,!6@(ZL+%>"5!
+MB3Q-'#**D&7)!&K 0+LA+Y/2/HBLZY!;S P-;ZCG -=U!!,9 !4E/OLZZU%4
+MVU!WV,%:!YW(_&PGZL&>0=I%1##XS R)J\65TG#E&N3VA%IG!Y#U--HP%=2*
+M913>:MUEXS;L!%0N>ME ^%@F?+J5)CJG6\,Y5FA)HLSF!G/E_2"P#MCAA$TZ
+MS$?2^&/DBPC >"CX>7(=8]*,KU$:7 XUPP9Q *FM4M@Q@%;#&4J$8\R7=E(F
+MPPG>>_@V%D^R+X,K*,L-GR%50BLR6*A-)@(+O)'VTV:B$(Z RH"HSB#M)N?*
+M)Q#9:8L66RC')B.A%D?:*'F)CA+%!)[XCH5>. M/O+FO%D*U\U&O1J @DP3)1M""0POD)1
+M#&V(8F'.TBQ<8A\:EBQ\KBX5= QG/8@-+7E-J0,&7(]@P:"94!V
+M I AL%6!Y4L;8W+LCHC,#!B'(:"M:F?/)C\928A(@- PZ_(=J '*5C :P>K*
+M:JO.Q4WT0+O*P&-L(H'2$Q#*0;!4)XL#)K+'4KE3<&""8U[)@!B&BJX$5@D#
+M@3Y:OO\EI'RH791[AD>'/N*[_'T8/L,^5IEZ@$<7#8+U#&.LY$)6D$1HNH4^
+M3T'_Z3-C;#N6,P(_LH#]3P2D*K*6J2)MX(X3!:6:KQ" *CF3T$P*P3K:"J =
+MAA1JD8D4_!DDR?AS")D+Z"ER7]4_5?#!].XR(YGQ8#_]E!H+);0:2;0PZ#$<
+M"*J7O:=R5V#$,&I%''6_+](>MBTS!B, I#!]&CKP*R9+(7B.G3J*PXC'9"+T6*'G)^W
+M29C8JD=A\KJ#B>H8\IE%#E(1=-[! (PIAX0F$^7(4L/55J2^,W+M@>C+[ 8/
+MD;Q%(\YO#](3O!>A2N,ZHPFM@:QZ8WXE%*9()=GSY&']6Z5+N.,Q=X44F8R6
+M<\4>>=2%$B_"DO?,\2PS,K.@/J#3RHB!5(\AN\-Y6EG5' =%70-M*"R7&@FR
+MP4>VO-H&8>R2!1G-@25'I?5EGI05*0 (FT/@(&L!3"S;)V9,JE5CDU*H7FM]
+M!""WHO9I0+((W_J19.I!F'B./*9L4P-4?>!XN3#1C$G-RN84C$$@<./:_%#A
+MV"KN6RZ+SM_Q,+A?./BEY) -F33(F0PVJ;R:#FY/(%54ZX'&$&-"?Q%G \QA
+MD/,"HQC5N[)-KLVU34$48,^ -,4&$[&\)LQ0#P5K:QLQHLB8ND=E9!L6"8N<+*BH9*6."70CHAXH4%BPW&#&2E?
+MD(ZPF2QIHK&(#I;B>#228D\G6*@&4,A3B/L#Y9;EE@9 .G.-$Z#HLEQ(Y)6"
+M)2AJXDM46<8-!K)!>9'D!M8>C#$']D8Z*L"*T^4(Z>65M8U-\I@:RVSN8&!A
+M [ZRJK(4XUO(U9BZM8K1A;003@;K2,H4*,,C#W0-,$W2IH,(8Y
+MKH-)*$;@6!V#]:3GCQRCTH*&Q)OY7-X^6ZI3Z"3"P(#;)I 2)35R*1A+>9%3
+M<;Q5]P?QR)2#7@#6$_I9!1V8] G\)C)FVA5(U&*LAA !9 S""2J$8W IC52<\T \&0Z
+M]Q8Q.=5!Y0K-M"W+*%NVS"/"H"&V>3E^XJAR)^".:K#1X#1T^#JD4\>3-H&!
+M!$%L9TA_%I>_I5AE5)' NV7*%Z5) @1VL(*EK#]HE(=%D,6RF5 &#]M-_U=R
+MY^U!;9EJ[[)*M@P&@29@I&2)]^O)4$8F0SKUD2^?!(?JSQC#BEPB09)^XIY<
+M3$CW2\-N'31JC&8P:U#I'5NV54 SAH1PT41_.+/_.D30-)
+MT&4.[]-;((SNJW M"F(-*7H@ RY?_!=H]?XDKQQC>I]KNG%ZWK][U.
+M_]E?@?H<+0'?CW0K[:7Q%WJJ$Y18F+K6+[NAFIS2AV@&X,YD?&$FC^7D01K&
+MY/# 42^1&[ QM89AC5-Z-3T _#8+;"S/(CAPR6-(2+XP\Z<]X-W0H_.KW+U:
+ML]UI[V&"%;!;\U6VG$W_MQ&^Z>K-VDV"^'L;[WDMU,9Y]T_3HZHKP[:$_6,P
+M3AW[PW&ZOW/Y:%%/NU3R\!=3%42!'%,;G!%IY\EK:M]RK"]5#AJ_V(]MW#K;
+MNO"L4/;G0JX3O9WH ]9SKE0+&K@/U5G6'G,VA# EK#E?RE<8>1O>X;;5@%]?
+M@DII3UV]V:3"U>=*/!Z+![X4N9Y9[;Y[WECH5PM_?B_Q>XG?2_Q>XO<2OY?X
+MGUWB5\7_KDG[MU1#_$U74RO>LHC[3';8'
+M"^#&?]!O_^A&GQ+C267T[P"RU_.3SQ^*;V:?6^_&G<*[R\6\9OE.YX0M!B>\
+MQ$_ZMWPZHGM][_C"NJWL7];>5"[.:7>Q_V;QY6SVY=UHWKF^]:^[^Q?S3V,Z
+MF^]2WW]O./M_+=X>.-='M[3R\+#V=OG!X_LB:W\[$_/NM]V"]T[=OR26GLFZ.]OS[LO1[3
+MBV!4FA;N.M-/NWV7#3Y\Z)7?V?W3PG;^Z\410KXSQ?*?Q+3
+MGUC-_P!02P$"% ,4 " #-0X-;CVHU%",# #6"P $
+M@ $ 9&%L+3(P,C4Q,C S+GAS9%!+ 0(4 Q0 ( ,U#@UN89#;N_0H
+M '^& 4 " 5$# !D86PM,C R-3$R,#-?;&%B+GAM;%!+
+M 0(4 Q0 ( ,U#@UMV[F6E50< ,U7 4 " 8 . !D
+M86PM,C R-3$R,#-?<')E+GAM;%!+ 0(4 Q0 ( ,U#@ULEQ'SZT1D -MV
+M , " 0<6 !D96QT85\X:RYH=&U02P4& 0 ! #\
+) C
+
+end
+XML
+14
+delta_8k_htm.xml
+IDEA: XBRL DOCUMENT
+00000279042025-12-032025-12-03iso4217:USDsharesiso4217:USDsharesfalse00000279048-K2025-12-03DELTA AIR LINES, INC.DE001-0542458-0218548P.O. Box 20706AtlantaGA30320-6001(404)715-2600falsefalsefalsefalseCommon Stock, par value $0.0001 per shareDALNYSEfalse

@@ -1,0 +1,5 @@
+Score: 1/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Customer Concentration in the AI-Native Cohort']
+Themes missed: ['Usage-Based Revenue Durability and Optimization Risk', 'Platform Breadth Versus Point-Solution Competition', 'Margin Profile and the Growth-Durability Verdict']
+Cited files: 26

@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration"
+description = "Develop a grounded, position-taking view on Capital One's consumer-credit normalization and the financial and strategic effects of integrating the Discover acquisition, separating genuine credit and franchise trends from purchase-accounting and mix distortions."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "COF"]
+
+[metadata]
+uuid = "474d9227-b77a-5200-a0f7-7cc39c09802b"
+difficulty_explanation = "The task is hard because headline credit metrics are mechanically distorted by the mid-2025 Discover acquisition: the analyst must disentangle the CECL day-one non-PCD allowance build that inflated the 2025 provision and coverage ratio, and the acquired portfolio's effect on reported charge-off and delinquency rates, from true underlying credit health. It also demands normalizing GAAP earnings for large one-time integration costs, goodwill, and intangible amortization while judging integration-execution and impairment risk. A strong answer must reconcile a genuinely bullish balance-sheet and margin story against a bearish credit-and-execution story into a single defensible position rather than listing both."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

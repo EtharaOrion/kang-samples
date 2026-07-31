@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The trajectory shows source contents being opened and examined before those sources are relied upon in substantive reasoning.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of file reads, searches, excerpts, and analytical notes; substantive claims should follow examination of the relevant filings, financial data, profiles, or releases rather than filename-based assumptions."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The reconnaissance spans the distinct source families needed to investigate the company, its history, current developments, and peer context rather than relying on a narrow document subset.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an inventory or opening activity across company profiles, SCHW financial statements, annual and quarterly filings, pre-cutoff releases, and peer financial files, including documentation of files found irrelevant after review."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The broad research topic is decomposed into independently testable analytical workstreams before synthesis begins.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question tree for distinct workstreams such as the original cash-sorting episode, organic versus transferred deposits, net-interest drivers, remaining funding relief, lending growth, asset gathering, capital deployment, and peer-cycle context."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process classifies financial observations by measurement basis before making comparisons.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit treatment of period-end stocks, quarterly or annual flows, year-to-date amounts, and average balances in notes, tables, or calculation setup."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The evidence gathering investigates the pre-recovery client-cash episode as the causal baseline for the later deposit and funding trajectory.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect searches and extracted passages from historical filings for client cash reallocation, sweep behavior, alternative products, deposit outflows, and resulting use of supplemental funding before later recovery evidence is analyzed."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Quantitative derivations are made auditable rather than being introduced as unexplained figures.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for calculations labeled as derived, with visible formulas, period conventions, units, and source inputs for changes in deposits, margin, funding, lending, capital distributions, leverage, or peer measures."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "Major favorable recovery claims are subjected to explicit tests designed to weaken or overturn them.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect counter-evidence notes or claim-testing tables for challenges involving transfer-driven deposits, seasonality, rate sensitivity, slower net-interest growth, wholesale-funding dependence, market-driven client assets, leverage pressure, or broader peer-cycle effects."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests whether the historical funding-cost benefit remains repeatable by examining the residual supplemental-funding opportunity.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a comparison of historical supplemental-funding balances and paydowns with the amount still outstanding, followed by reasoning about the remaining scale of possible funding substitution."
+    },
+    {
+      "id": "c9",
+      "concern": "synthesis_presence",
+      "text": "Conflicting observations are actively reconciled through definitional or measurement analysis rather than merely presented side by side.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect discrepancy-resolution steps for checks of period endpoints, average versus ending balances, rounding, consolidation scope, transfer classifications, adjusted measures, or differing source definitions."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "Unresolved uncertainty is preserved explicitly instead of being smoothed over with unsupported certainty.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity log, limitation notes, confidence qualifiers, or final-answer caveats covering unresolved discrepancies, limited history, seasonality, transfer effects, or noncomparable peer classifications."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The final reasoning resolves the competing evidence into a causal account rather than a disconnected catalogue of positive and negative facts.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis for an explained progression from client-cash behavior to deposit funding, net-interest mechanics, remaining funding relief, lending or organic growth, and balance-sheet capacity, with explicit statements about which evidence carries greater weight."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in a definite investment-oriented position on the recovery rather than remaining agnostic after presenting the evidence.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look at the opening thesis and conclusion for a clear stance on durability, remaining earnings runway, and the principal balance-sheet constraint; the stance may be favorable, unfavorable, or conditional."
+    }
+  ]
+}

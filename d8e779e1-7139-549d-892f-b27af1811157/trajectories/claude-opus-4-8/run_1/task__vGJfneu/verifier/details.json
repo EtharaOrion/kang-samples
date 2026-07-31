@@ -1,0 +1,458 @@
+{
+  "score": 2,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 2,
+  "themes_hit": [
+    {
+      "label": "Traffic-vs-Ticket Decomposition of the Comparable-Sales Swing",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent explicitly decomposes FY2025 comparable sales of -2.6% into traffic of -2.2% and ticket of -0.4%, concluding that lost visits drove roughly 85% of the decline.",
+        "b": "The agent contrasts this with Q1 FY2026's +5.6% comparable sales, comprising +4.4% traffic and +1.1% ticket, and characterizes the traffic-led composition as higher quality than a price- or mix-led rebound.",
+        "c": "The agent stress-tests the rebound by emphasizing that Q1 FY2026 lapped the cycle's weakest comparison and by noting stores-originated comparable sales turned to +4.7%. Its additional two-year store-comparable-sales stack used to support this conclusion was flagged as unsupported, so the move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Digital and Omnichannel Contribution to the Recovery",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that FY2025 digital comparable sales rose 3.1% while store comparable sales fell 4.0%, meaning digital could not fully offset physical-store weakness. It also shows deceleration from FY2024 digital growth of 7.5% to FY2025 growth of 3.1%.",
+        "b": "The agent identifies the broadening in Q1 FY2026: digital comparable sales accelerated to +8.9% and store comparable sales turned positive at +4.7%, explicitly arguing that the recovery became genuine only when stores re-engaged guests.",
+        "c": "The agent links the store-anchored fulfillment model, approximately 97.6% store fulfillment, with Roundel and other higher-margin non-merchandise growth and assesses the resulting profitability implications. However, some supporting fulfillment-cost and productivity assertions were flagged as unsupported, making this move tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Operating-Margin Normalization Drivers: Gross Margin, Shrink, Markdowns, and SG&A Leverage",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent traces gross margin from 28.2% to 27.9% in FY2025 and then to 29.0% versus 28.2% in Q1 FY2026, reconciling FY2025 shrink improvement with markdown pressure and the subsequent favorable markdown and productivity inflection. Several of the detailed markdown and productivity assertions were flagged as unsupported.",
+        "b": "The agent says shrink reached pre-pandemic levels, cites an approximately $110 million sensitivity to a 10% reserve change, and concludes that the shrink tailwind is largely exhausted as a future source of upside. The sensitivity evidence was specifically flagged as unsupported.",
+        "c": "The agent distinguishes reported from adjusted SG&A, including FY2025's 20.6% reported versus 20.9% adjusted rate and Q1 FY2026's 21.9% rate versus an adjusted prior-year comparison, while identifying the interchange gain as a distortion. It then attributes depressed operating margins of 4.9% in FY2025 and 4.5% in Q1 to underlying SG&A deleverage and reinvestment despite gross-margin improvement; some cited compensation and spending details were flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive Positioning and a Clear Verdict on Recovery-to-Normalization",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent compares Target's revenue growth and operating margins with Walmart, Costco, and Dollar General and discusses peer consistency, but it does not use or analyze peer cash-flow data as required. In addition, multiple peer growth and margin figures were flagged as unsupported.",
+        "b": "The agent discusses Roundel, Circle 360, and the risk that customers choose solely on price or convenience, but it omits the required owned-brand differentiation lever representing about 30% of merchandise sales. It therefore does not complete the specified weighing of all three structural levers against commoditization risk.",
+        "c": "The agent provides an explicit synthesis: the traffic recovery is genuine but flattered by an easy comparison, while operating-margin normalization remains deferred because gross-margin benefits are being consumed by SG&A and the analysis uses adjusted results to remove the interchange distortion. Some evidence used in this synthesis, particularly detailed SG&A reinvestment and soft-comparison support, was flagged as unsupported, so the move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "the quarter ending 2026-05-02 is FY2026 Q1",
+      "cited_file": "company_profiles.json",
+      "issue": "The passages concern Costco quarters and do not contain Target's 2026-05-02 quarter or its fiscal-quarter designation.",
+      "evidence_check": "Searched the supplied passages for 2026-05-02, TGT, and FY2026 Q1; none appeared."
+    },
+    {
+      "claim": "Q1 FY2024 comp was -3.7%",
+      "cited_file": null,
+      "issue": "The passages contain Costco income-statement data, not Target comparable-sales data.",
+      "evidence_check": "Searched for Target, comparable sales, and -3.7%; no supporting Target metric appeared."
+    },
+    {
+      "claim": "Q1 FY2024 traffic was -1.9%",
+      "cited_file": null,
+      "issue": "The passages do not disclose Target traffic.",
+      "evidence_check": "Searched for traffic, transactions, and -1.9%; the supplied passages only show Costco financial statements."
+    },
+    {
+      "claim": "Q1 FY2024 ticket was -1.9%",
+      "cited_file": null,
+      "issue": "The passages do not disclose Target average transaction amount or ticket.",
+      "evidence_check": "Searched for ticket, average transaction amount, and -1.9%; no match appeared."
+    },
+    {
+      "claim": "Q1 FY2024 store comp was -4.8%",
+      "cited_file": null,
+      "issue": "The passages do not disclose Target store-originated comparable sales.",
+      "evidence_check": "Searched for store comp and -4.8%; only Costco income-statement records appeared."
+    },
+    {
+      "claim": "Q1 FY2024 digital comp was +1.4%",
+      "cited_file": null,
+      "issue": "The passages do not disclose Target digitally originated comparable sales.",
+      "evidence_check": "Searched for digital comp and 1.4%; no supporting Target metric appeared."
+    },
+    {
+      "claim": "Q2 FY2024 comp was +2.0%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q2 FY2024 comparable-sales metric.",
+      "evidence_check": "Searched for comparable sales and 2.0%; only Costco financial data appeared."
+    },
+    {
+      "claim": "Q2 FY2024 traffic was +3.0%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q2 FY2024 traffic metric.",
+      "evidence_check": "Searched for traffic, transactions, and 3.0%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2024 ticket was -0.9%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q2 FY2024 ticket metric.",
+      "evidence_check": "Searched for ticket, average transaction amount, and -0.9%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2024 store comp was +0.7%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q2 FY2024 store-comp metric.",
+      "evidence_check": "Searched for store-originated comparable sales and 0.7%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2024 digital comp was +8.7%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q2 FY2024 digital-comp metric.",
+      "evidence_check": "Searched for digitally originated comparable sales and 8.7%; no match appeared."
+    },
+    {
+      "claim": "Q3 FY2024 comp was +0.3%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q3 FY2024 comparable-sales metric.",
+      "evidence_check": "Searched for comparable sales and 0.3%; only Costco income-statement records appeared."
+    },
+    {
+      "claim": "Q3 FY2024 traffic was +2.4%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q3 FY2024 traffic metric.",
+      "evidence_check": "Searched for traffic, transactions, and 2.4%; no supporting metric appeared."
+    },
+    {
+      "claim": "Q3 FY2024 ticket was -2.0%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q3 FY2024 ticket metric.",
+      "evidence_check": "Searched for ticket, average transaction amount, and -2.0%; no match appeared."
+    },
+    {
+      "claim": "Q3 FY2024 store comp was -1.9%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q3 FY2024 store-comp metric.",
+      "evidence_check": "Searched for store-originated comparable sales and -1.9%; no match appeared."
+    },
+    {
+      "claim": "Q3 FY2024 digital comp was +10.8%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q3 FY2024 digital-comp metric.",
+      "evidence_check": "Searched for digitally originated comparable sales and 10.8%; no match appeared."
+    },
+    {
+      "claim": "Q4 FY2024 comp was +1.5%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q4 FY2024 comparable-sales metric.",
+      "evidence_check": "Searched for comparable sales and 1.5%; no supporting Target disclosure appeared."
+    },
+    {
+      "claim": "Q4 FY2024 traffic was +2.1%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q4 FY2024 traffic metric.",
+      "evidence_check": "Searched for traffic, transactions, and 2.1%; no match appeared."
+    },
+    {
+      "claim": "Q4 FY2024 ticket was -0.6%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q4 FY2024 ticket metric.",
+      "evidence_check": "Searched for ticket, average transaction amount, and -0.6%; no match appeared."
+    },
+    {
+      "claim": "Q4 FY2024 store comp was -0.5%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q4 FY2024 store-comp metric.",
+      "evidence_check": "Searched for store-originated comparable sales and -0.5%; no match appeared."
+    },
+    {
+      "claim": "Q4 FY2024 digital comp was +8.7%",
+      "cited_file": null,
+      "issue": "The passages contain no Target Q4 FY2024 digital-comp metric.",
+      "evidence_check": "Searched for digitally originated comparable sales and 8.7%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2025 comp was -1.9%",
+      "cited_file": "tgt_2025-08-20_8-k.txt",
+      "issue": "The retrieved passages are Costco income statements and do not contain the cited Target metric.",
+      "evidence_check": "Searched for TGT, comparable sales, and -1.9%; none appeared."
+    },
+    {
+      "claim": "Q2 FY2025 traffic was -1.3%",
+      "cited_file": "tgt_2025-08-20_8-k.txt",
+      "issue": "The retrieved passages do not contain Target traffic data.",
+      "evidence_check": "Searched for traffic, transactions, and -1.3%; only Costco records appeared."
+    },
+    {
+      "claim": "Q2 FY2025 ticket was -0.6%",
+      "cited_file": "tgt_2025-08-20_8-k.txt",
+      "issue": "The retrieved passages do not contain Target ticket data.",
+      "evidence_check": "Searched for average transaction amount and -0.6%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2025 store comp was -3.2%",
+      "cited_file": "tgt_2025-08-20_8-k.txt",
+      "issue": "The retrieved passages do not contain Target store comparable sales.",
+      "evidence_check": "Searched for store comp and -3.2%; no match appeared."
+    },
+    {
+      "claim": "Q2 FY2025 digital comp was +4.3%",
+      "cited_file": "tgt_2025-08-20_8-k.txt",
+      "issue": "The retrieved passages do not contain Target digital comparable sales.",
+      "evidence_check": "Searched for digital comp and 4.3%; no match appeared."
+    },
+    {
+      "claim": "Every single quarter of FY2025 posted negative traffic (-2.4, -1.3, -2.2, -2.9)",
+      "cited_file": "tgt_2026_10-k.txt",
+      "issue": "The cited passages provide only full-year FY2025 traffic of -2.2%, not all four quarterly traffic figures.",
+      "evidence_check": "Searched the supplied 10-K passages for -2.4, -1.3, and -2.9; they were absent."
+    },
+    {
+      "claim": "Traffic swung roughly seven points in two quarters (from -2.9% in Q4 FY2025 to +4.4% in Q1 FY2026).",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "The passages support Q1 FY2026 traffic of +4.4% but do not contain Q4 FY2025 traffic of -2.9%.",
+      "evidence_check": "Found +4.4% in the Q1 release; searched for -2.9% and found no match in the supplied passages."
+    },
+    {
+      "claim": "Management explicitly frames it as \"broad-based across merchandise categories, sales channels and across the quarter,\"",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "The attributed quotation is absent from this claim's supplied passages.",
+      "evidence_check": "Searched the passages for the quoted phrase and its distinctive terms; no match appeared."
+    },
+    {
+      "claim": "all six core categories growing",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "This concrete category-wide growth statement is not present in the supplied evidence for the claim.",
+      "evidence_check": "The evidence reports no local match; searched for 'all six,' 'core categories,' and equivalent category-wide language without a result."
+    },
+    {
+      "claim": "On a two-year stack, Q1 FY2026 store comp of +4.7% sits on top of the prior year's -5.7%, i.e. roughly -1% stacked",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated Costco and Dollar General income statements and contain neither Target store-comp input.",
+      "evidence_check": "Searched for TGT, +4.7%, and -5.7%; none appeared, so the stacked calculation cannot be verified."
+    },
+    {
+      "claim": "Same-day delivery powered by Target Circle 360 grew 25-36% in essentially every quarter",
+      "cited_file": null,
+      "issue": "The passages support a 36% increase in Q1 FY2025 only, not the asserted recurring 25-36% range across essentially every quarter.",
+      "evidence_check": "Found the Q1 36% statement; no evidence for the other quarters or the lower bound of 25% appeared."
+    },
+    {
+      "claim": "two-thirds of digital sales are fulfilled same-day through the store base",
+      "cited_file": "tgt_2026_10-k.txt",
+      "issue": "No supporting passage was retrieved for this specific fulfillment share.",
+      "evidence_check": "The evidence reports no local match for the two-thirds same-day fulfillment statement."
+    },
+    {
+      "claim": "Roundel advertising revenue inside Net Sales grew from $163M in Q1 FY2025 to $295M in Q4 FY2025",
+      "cited_file": "tgt_2026-03-03_8-k.txt",
+      "issue": "The passages show Q4 advertising revenue of $295M but do not show the Q1 FY2025 value of $163M.",
+      "evidence_check": "Found $295M in the Q4 table; searched for $163M and found no match in the supplied passages."
+    },
+    {
+      "claim": "Non-merchandise sales (Roundel, Target Circle 360 membership, Target Plus marketplace) grew double digits every quarter",
+      "cited_file": "tgt_2026-03-03_8-k.txt",
+      "issue": "The evidence supports strong Q4 non-merchandise growth but not the claim that it occurred in every quarter.",
+      "evidence_check": "Found Q4 growth over 25% and component commentary; no all-quarter series appeared."
+    },
+    {
+      "claim": "By Q4 FY2025 and Q1 FY2026 that flipped to \"lower supply chain and digital fulfillment costs\" and \"improved productivity in supply chain facilities\"",
+      "cited_file": "tgt_2026-03-03_8-k.txt; tgt_2026-05-20_8-k.txt",
+      "issue": "The supplied passages are unrelated Costco income statements and contain neither attributed phrase.",
+      "evidence_check": "Searched for both quoted phrases and Target; no match appeared."
+    },
+    {
+      "claim": "Target ran \"elevated levels of inventory shrink relative to historical levels\" through FY2023-FY2024",
+      "cited_file": "tgt_2024_10-k.txt; tgt_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the quoted shrink statement or evidence tying it to FY2023-FY2024.",
+      "evidence_check": "Searched for the quoted phrase and shrink terminology; the passages were unrelated company-profile and Costco data."
+    },
+    {
+      "claim": "It is cited as a gross-margin tailwind in every FY2025 quarter",
+      "cited_file": "tgt_2025-05-21_8-k.txt; tgt_2025-08-20_8-k.txt; tgt_2025-11-19_8-k.txt; tgt_2026-03-03_8-k.txt",
+      "issue": "The supplied passages do not show Target's gross-margin commentary for all four FY2025 quarters.",
+      "evidence_check": "Searched for shrink and gross-margin tailwind language; only unrelated Costco records were provided."
+    },
+    {
+      "claim": "the year-end shrink-reserve sensitivity (a 10% move) fell from ~$150M (FY2024) to ~$110M (FY2025)",
+      "cited_file": "tgt_2025_10-k.txt; tgt_2026_10-k.txt",
+      "issue": "Neither sensitivity amount nor the 10% assumption appears in the passages.",
+      "evidence_check": "Searched for 10%, $150M, $110M, shrink reserve, and sensitivity; no match appeared."
+    },
+    {
+      "claim": "Gross margin was pressured by \"higher markdown rates\" in Q1, Q2 and Q3 FY2025, plus \"purchase order cancellation costs\"",
+      "cited_file": "tgt_2025-05-21_8-k.txt; tgt_2025-08-20_8-k.txt; tgt_2025-11-19_8-k.txt; tgt_2026_10-k.txt",
+      "issue": "The supplied passages are unrelated Costco records and contain neither the quarterly markdown evidence nor purchase-order cancellation language.",
+      "evidence_check": "Searched for 'higher markdown rates' and 'purchase order cancellation costs'; no match appeared."
+    },
+    {
+      "claim": "\"reflecting improved productivity in supply chain facilities, growth in advertising and other non-merchandise revenues, and lower markdown rates, partially offset by higher product costs\"",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "The exact attributed quotation is absent from this claim's evidence.",
+      "evidence_check": "The evidence reports no local match; searched for the full quotation and distinctive clauses without a result."
+    },
+    {
+      "claim": "Q4 FY2025 +40bps, Q1 FY2026 +80bps YoY",
+      "cited_file": "tgt_2026-03-03_8-k.txt; tgt_2026-05-20_8-k.txt",
+      "issue": "The supplied passages are Costco income statements and do not contain Target's gross-margin rates needed for either basis-point comparison.",
+      "evidence_check": "Searched for Target, 40 bps, 80 bps, and the relevant margin rates; no match appeared."
+    },
+    {
+      "claim": "\"Higher product and import costs\" pressured Q4 FY2025 and Q1 FY2026 gross margin",
+      "cited_file": "tgt_2026-03-03_8-k.txt; tgt_2026-05-20_8-k.txt",
+      "issue": "The supplied evidence is unrelated Costco data and does not contain the asserted Target cost-pressure statements.",
+      "evidence_check": "Searched for 'higher product,' 'import costs,' and Target; no match appeared."
+    },
+    {
+      "claim": "FY2026 guidance explicitly \"excludes... impacts from any tariff refunds\"",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "The quoted tariff-refund exclusion does not appear in the supplied guidance passages.",
+      "evidence_check": "Searched for tariff, refund, excludes, and the quoted wording; no match appeared."
+    },
+    {
+      "claim": "\"higher compensation costs, including additional hours and training for field teams along with higher incentive compensation, planned spending related to capital projects, and higher marketing expense, partially offset by the leverage benefit of strong topline growth\"",
+      "cited_file": "tgt_2026-05-20_8-k.txt",
+      "issue": "The exact attributed quotation is absent from this claim's supplied evidence.",
+      "evidence_check": "The evidence reports no local match; searched for the full quotation and its distinctive clauses without a result."
+    },
+    {
+      "claim": "Target ran pre-2022 [operating margins of] ~6%",
+      "cited_file": null,
+      "issue": "The supplied passages do not provide Target's pre-2022 revenue and operating-income figures or a stated ~6% margin.",
+      "evidence_check": "Searched for pre-2022 Target operating margins; only company-profile and Costco records appeared."
+    },
+    {
+      "claim": "Dollar General FY25 Q1 (end 2025-05-02): +5.26%",
+      "cited_file": "dg_income_statement.json",
+      "issue": "The passages show FY2025 Q1 revenue but not the prior-year Q1 revenue needed to verify the 5.26% growth calculation.",
+      "evidence_check": "Found current revenue of $10.436B; the corresponding prior-year Q1 revenue was absent from this claim's passages."
+    },
+    {
+      "claim": "home furnishings & d\u00e9cor fell every quarter of FY2025",
+      "cited_file": "tgt_2025-11-19_8-k.txt",
+      "issue": "The passages show Q3 and nine-month category values but do not establish declines in every FY2025 quarter, including Q4.",
+      "evidence_check": "Found Q3 home furnishings and d\u00e9cor of $3.908B versus $4.185B; no complete four-quarter series appeared."
+    },
+    {
+      "claim": "Dollar General FY26 Q1 (end 2026-05-01): +3.36%",
+      "cited_file": "dg_income_statement.json",
+      "issue": "The passages show FY2026 Q1 revenue but not FY2025 Q1 revenue, so the 3.36% calculation is not supported here.",
+      "evidence_check": "Found current revenue of $10.787B; searched for the prior-year $10.436B comparison value and did not find it in the supplied passages."
+    },
+    {
+      "claim": "Costco in particular never decelerated below +8% YoY through this period",
+      "cited_file": "cost_income_statement.json",
+      "issue": "The passages supplied for this claim do not contain Costco's relevant revenue series or computed year-over-year growth rates.",
+      "evidence_check": "Searched for quarterly Costco revenue comparisons and an 8% floor; the passages instead contain profiles and Target peer-group text."
+    },
+    {
+      "claim": "Target's ~4.5-4.9% operating margin sits ABOVE Walmart's steady ~3.8-4.7%",
+      "cited_file": "wmt_income_statement.json",
+      "issue": "The passages do not provide Walmart's operating-margin series or the stated 3.8-4.7% range.",
+      "evidence_check": "Searched for Walmart operating margins and the comparison range; no supporting Walmart financial records appeared."
+    },
+    {
+      "claim": "Costco's [operating margin was] ~3.7-4.0%",
+      "cited_file": "cost_income_statement.json",
+      "issue": "The passages do not provide Costco revenue and operating-income figures supporting this margin range.",
+      "evidence_check": "Searched for Costco operating margin or corresponding Costco financial records; none appeared in the supplied passages."
+    },
+    {
+      "claim": "Dollar General [operating margin was] ~5.5-5.9%",
+      "cited_file": "dg_income_statement.json",
+      "issue": "The passages do not contain Dollar General financial figures supporting the stated margin range.",
+      "evidence_check": "Searched for Dollar General operating margin and 5.5-5.9%; no supporting DG record appeared."
+    },
+    {
+      "claim": "Dollar General's operating margin collapsed from ~8-11% to a 3.2% trough (FY24 Q3)",
+      "cited_file": "dg_income_statement.json",
+      "issue": "The FY24 Q3 3.2% margin is calculable, but the claimed earlier 8-11% range is absent from the supplied passages.",
+      "evidence_check": "Found FY24 Q3 revenue of $10.183B and operating income of $323.8M; searched for prior 8-11% margins and found no supporting values."
+    },
+    {
+      "claim": "the May 2025 \"acceleration office\" under Michael Fiddelke and subsequent CEO appointment",
+      "cited_file": "tgt_2025-05-21_8-k.txt; tgt_2025-08-20_8-k.txt",
+      "issue": "The supplied passages are unrelated Costco records and contain neither the acceleration-office announcement nor the subsequent CEO appointment.",
+      "evidence_check": "Searched for Michael Fiddelke, acceleration office, and CEO appointment; no match appeared."
+    },
+    {
+      "claim": "a February 2026 restructuring that installed a single chief merchandising officer and a COO and pushed out the chief commercial and apparel/home merchandising chiefs",
+      "cited_file": "tgt_2026-02-11_8-k.txt",
+      "issue": "The passage supports Cara Sylvester becoming the singular chief merchandising officer but does not show the COO appointment or the departures of the named functional chiefs.",
+      "evidence_check": "Found the singular merchandising-chief appointment; searched the supplied excerpt for COO, chief commercial, apparel/home chiefs, and departures without a result."
+    },
+    {
+      "claim": "Peer files (wmt/cost/dg income_statement.json) contain only Q1-Q3 (10-Q) quarters; every peer's Q4 holiday-peak quarter is missing",
+      "cited_file": "wmt_income_statement.json; cost_income_statement.json; dg_income_statement.json",
+      "issue": "The passages demonstrate the pattern only for Costco, not for Walmart and Dollar General or for every peer file.",
+      "evidence_check": "Reviewed all supplied passages; only Costco Q1-Q3 records were shown, with no corresponding WMT or DG file coverage."
+    }
+  ],
+  "synthesis_found": "Unified conclusion: Target bought a genuine, traffic-quality recovery by spending its margin-normalization dividend, not by banking it.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/income_statement/cost_income_statement.json",
+    "financials/income_statement/dg_income_statement.json",
+    "financials/income_statement/tgt_income_statement.json",
+    "financials/income_statement/wmt_income_statement.json",
+    "press_releases/tgt_2025-05-21_8-k.txt",
+    "press_releases/tgt_2025-11-19_8-k.txt",
+    "press_releases/tgt_2026-02-11_8-k.txt",
+    "press_releases/tgt_2026-03-03_8-k.txt",
+    "press_releases/tgt_2026-05-20_8-k.txt",
+    "sec_filings/10-k/tgt_2024_10-k.txt",
+    "sec_filings/10-k/tgt_2025_10-k.txt",
+    "sec_filings/10-k/tgt_2026_10-k.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 134,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "DECK",
+    "cik": "0000910521",
+    "companyName": "DECKERS OUTDOOR CORP",
+    "sic": "3021",
+    "sicDescription": "Rubber & Plastics Footwear",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0331",
+    "city": "GOLETA",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "NKE",
+    "cik": "0000320187",
+    "companyName": "NIKE, Inc.",
+    "sic": "3021",
+    "sicDescription": "Rubber & Plastics Footwear",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "OR",
+    "fiscalYearEnd": "0531",
+    "city": "BEAVERTON",
+    "stateOrCountry": "OR"
+  },
+  {
+    "symbol": "CROX",
+    "cik": "0001334036",
+    "companyName": "Crocs, Inc.",
+    "sic": "3021",
+    "sicDescription": "Rubber & Plastics Footwear",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "",
+    "fiscalYearEnd": "1231",
+    "city": "BROOMFIELD",
+    "stateOrCountry": "CO"
+  }
+]

@@ -1,0 +1,1497 @@
+EX-1.1
+2
+ef20053450_ex1-1.htm
+EXHIBIT 1.1
+
+Exhibit 1.1
+
+KKR & CO. INC.
+
+$900,000,000 5.100% Senior Notes due 2035
+
+UNDERWRITING AGREEMENT
+
+August 4, 2025
+
+Morgan Stanley & Co. LLC
+
+Goldman Sachs & Co. LLC
+
+HSBC Securities (USA) Inc.
+
+KKR Capital Markets LLC
+
+UBS Securities LLC
+
+As Representatives of the Underwriters
+
+c/o Morgan Stanley & Co. LLC
+
+1585 Broadway
+
+New York, New York 10036
+
+c/o Goldman Sachs & Co. LLC
+
+200 West Street
+
+New York, New York 10282
+
+c/o HSBC Securities (USA) Inc.
+
+66 Hudson Boulevard
+
+New York, New York 10001
+
+c/o KKR Capital Markets LLC
+
+30 Hudson Yards
+
+New York, New York 10001
+
+c/o UBS Securities LLC
+
+1285 Avenue of the Americas
+
+New York, New York 10019
+
+Ladies and Gentlemen:
+
+KKR & Co. Inc., a corporation organized under the laws of Delaware (the “Issuer”),
+
+ proposes to issue and sell to the several parties named in Schedule I hereto (the “Underwriters”), for whom you (the “Representatives”) are acting as representatives, $900,000,000 principal amount of its 5.100% SeniorNotes due 2035 (the “Notes”). The Notes will be guaranteed (the “Guarantee” and, together with the Notes, the “Securities”) by KKR Group Partnership L.P., a Cayman Islands exempted limited partnership (the “Guarantor”). The Securities are to be issued under
+ the indenture (the “Base Indenture”), dated as of May 28, 2025, between the Issuer and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), as supplemented by the second supplemental indenture to be dated as of August 7, 2025 (the “Supplemental Indenture”
+ and, together with the Base Indenture, the “Indenture”), among the Issuer, the Guarantor and the Trustee.
+
+Any reference herein to the Registration Statement, the Base Prospectus, any Preliminary Prospectus or the Final Prospectus shall be deemed to refer to
+ and include the
+
+1
+
+documents incorporated by reference therein pursuant to Item 12 of Form S-3 which were filed under the Exchange Act on or before the Effective Date of the Registration
+ Statement or the issue date of the Base Prospectus, any Preliminary Prospectus or the Final Prospectus, as the case may be; and any reference herein to the terms “amend,” “amendment” or “supplement” with respect to the Registration Statement, the
+ Base Prospectus, any Preliminary Prospectus or the Final Prospectus shall be deemed to refer to and include the filing of any document under the Exchange Act after the Effective Date of the Registration Statement or the issue date of the Base
+ Prospectus, any Preliminary Prospectus or the Final Prospectus, as the case may be, deemed to be incorporated therein by reference. The use of the neuter in this underwriting agreement (this “Agreement”) shall include the feminine and masculine wherever appropriate. Certain terms used herein are defined in Section 29 hereof.
+
+1.Representations
+
+ and Warranties.  Each of the Issuer and the Guarantor (collectively, the “KKR Parties” and each a “KKR Party”) jointly and severally represents and warrants to and agrees with each of the Underwriters that:
+
+(a)The KKR Parties meet the requirements for use
+ of Form S-3 under the Act and have prepared and filed with the Commission an automatic shelf registration statement, as defined in Rule 405 (file number 333-279233) on Form S-3, including a related Base Prospectus, for registration under the Act
+ of the offering and sale of the Securities.  Such Registration Statement, including any amendments thereto filed prior to the Execution Time, became effective upon filing. The KKR Parties may have filed with the Commission, as part of an
+ amendment to the Registration Statement or pursuant to Rule 424(b), one or more preliminary prospectus supplements relating to the Securities, each of which has previously been furnished to you.  The KKR Parties will file with the Commission a
+ final prospectus supplement relating to the Securities in accordance with Rule 424(b).  As filed, such final prospectus supplement shall contain all information required by the Act and the rules thereunder, and, except to the extent the
+ Representatives shall agree in writing to a modification, shall be in all substantive respects in the form furnished to you prior to the Execution Time or, to the extent not completed at the Execution Time, shall contain only such specific
+ additional information and other changes (beyond that contained in the Base Prospectus and any Preliminary Prospectus) as the KKR Parties have advised you, prior to the Execution Time, will be included or made therein.  The Registration
+ Statement, at the Execution Time, meets the requirements set forth in Rule 415(a)(1)(x). The initial Effective Date of the Registration Statement was not earlier than the date three years before the Execution Time.
+
+(b)On each Effective Date, the Registration
+ Statement did, and when the Final Prospectus is first filed in accordance with Rule 424(b) and on the Closing Date, the Final Prospectus (and any supplement thereto) will, comply in all material respects with the applicable requirements of the
+ Act and the Exchange Act and the respective rules thereunder; on each Effective Date and at the Execution Time, the Registration Statement did not and will not contain any untrue statement of a material fact or omit to state any material fact
+ required to be stated therein or necessary in order to make the statements therein not misleading; and on the date of any filing pursuant to Rule 424(b) and on the Closing Date, the Final Prospectus (together with any supplement thereto) will
+ not, include any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that the KKR Parties make no
+
+2
+
+representation or warranty as to the information contained in or omitted from the Registration Statement or the Final Prospectus, or any amendment or supplement thereto, in
+ reliance upon and in conformity with information furnished in writing to the KKR Parties by or on behalf of any Underwriter through the Representatives specifically for inclusion therein, it being understood and agreed that the only such information
+ furnished by or on behalf of any Underwriter consists of the information described as such in Section 8(b) hereof.
+
+(c)The Disclosure Package, as of the Execution
+ Time, does not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.  The preceding
+ sentence does not apply to statements in or omissions from the Disclosure Package based upon and in conformity with written information furnished to the KKR Parties by any Underwriter through the Representatives specifically for use therein, it
+ being understood and agreed that the only such information furnished by or on behalf of any Underwriter consists of the information described as such in Section 8(b) hereof.
+
+(d)(i) At the time of filing the Registration
+ Statement, (ii) at the time of the most recent amendment thereto for the purposes of complying with Section 10(a)(3) of the Act (whether such amendment was by post-effective amendment, incorporated report filed pursuant to Sections 13 or 15(d) of
+ the Exchange Act or form of prospectus), (iii) at the time the KKR Parties or any person acting on their behalf (within the meaning, for this clause only, of Rule 163(c)) made any offer relating to the Securities in reliance on the exemption in
+ Rule 163, and (iv) at the Execution Time (with such date being used as the determination date for purposes of this clause (iv)), the Issuer was or is (as the case may be) a “well-known seasoned issuer” as defined in Rule 405.  The KKR Parties
+ agree to pay the fees required by the Commission relating to the Securities within the time required by Rule 456(b)(1) without regard to the proviso therein and otherwise in accordance with Rules 456(b) and 457(r).
+
+(e)(i) At the earliest time after the filing of
+ the Registration Statement that the KKR Parties or another offering participant made a bona fide offer (within the meaning of Rule 164(h)(2)) of the Securities and (ii) as of the Execution Time (with such date being used as the determination date
+ for purposes of this clause (ii)), each KKR Party was not and is not an Ineligible Issuer (as defined in Rule 405), without taking account of any determination by the Commission pursuant to Rule 405 that it is not necessary that any KKR Party be
+ considered an Ineligible Issuer.
+
+(f)Each Issuer Free Writing Prospectus and the
+ final term sheet prepared and filed pursuant to Section 5(b) hereto does not include any information that conflicts with the information contained in the Registration Statement, including any document incorporated by reference therein and any
+ prospectus supplement deemed to be a part thereof that has not been superseded or modified.  The foregoing sentence does not apply to statements in or omissions from any Issuer Free Writing Prospectus based upon and in conformity with written
+ information furnished to the KKR Parties by any Underwriter through the Representatives specifically for use therein, it being understood and agreed that the only such information furnished by or on behalf of any Underwriter consists of the
+ information described as such in Section 8(b) hereof.
+
+3
+
+(g)The Issuer is subject to and in full
+ compliance with the reporting requirements of Section 13 or Section 15(d) of the Exchange Act.
+
+(h)None of the KKR Parties is, or after giving
+ effect to the offering and sale of the Securities and the application of the proceeds thereof as described in the Disclosure Package and the Final Prospectus will be, required to register as an investment company under the Investment Company Act.
+
+(i)None of the KKR Parties has taken, directly or
+ indirectly, any action designed to or that has constituted or that might reasonably be expected to cause or result, under the Exchange Act or otherwise, in stabilization or manipulation of the price of any security of any KKR Party to facilitate
+ the sale or resale of the Securities.
+
+(j)The Issuer has been duly organized, is
+ validly existing as a corporation in good standing under the laws of the State of Delaware with full power and authority to own or lease, as the case may be, and to operate its properties and conduct its business as described in the Disclosure
+ Package and the Final Prospectus, and is duly qualified to do business as a foreign corporation and is in good standing under the laws of each jurisdiction that requires such qualification, except to the extent that the failure to have such power
+ and authority or to be so qualified or be in good standing would not have a material adverse effect on the condition (financial or otherwise), earnings, business or properties of the Issuer and the Subsidiaries (as defined below), taken as a
+ whole, whether or not arising from transactions in the ordinary course of business (a “Material Adverse Effect”).
+
+(k)Each subsidiary of the Issuer, including
+ without limitation, KKR Group Holdings Corp., KKR Group Partnership L.P., The Global Atlantic Financial Group LLC and each of their respective subsidiaries, but not including the KKR Funds (as defined below) or their portfolio companies or
+ investments (each a “Subsidiary” and, collectively, the “Subsidiaries”) and each of the KKR Funds, has
+ been duly organized or formed, is validly existing as a corporation, limited liability company, general or limited or exempted limited partnership, trust or other entity, as applicable, in good standing (to the extent such concept exists in the
+ jurisdiction in question) under the laws of the jurisdiction in which it is chartered, registered or organized with full corporate, limited liability company, partnership, trust or other entity power and authority, as applicable, to own or lease,
+ as the case may be, and to operate its properties and conduct its business as described in the Disclosure Package and the Final Prospectus, and is duly qualified to do business as a foreign corporation, limited liability company, partnership,
+ trust or other entity, as applicable, and is in good standing (to the extent such concept exists in the jurisdiction in question) under the laws of each jurisdiction that requires such qualification, except to the extent that the failure to have
+ such power and authority or to be so qualified or be in good standing would not reasonably be expected to have a Material Adverse Effect. “KKR Funds” means, collectively, all
+ Funds (as defined below) (excluding their portfolio companies and investments thereof, and excluding special purpose entities formed to acquire any such portfolio companies and investments) (i) sponsored or promoted by any of the Subsidiaries,
+ (ii) for which any of the Subsidiaries acts as a general partner or managing member (or in a similar capacity) or (iii) for which any of the Subsidiaries acts as an investment adviser or investment manager; and “Fund” means any investment vehicle (whether open-ended or closed-ended) to manage investments on behalf of third party investors including, without limitation, an
+
+4
+
+investment company, a general and limited partnership, a trust, a company or other business entity organized in any jurisdiction that provides for management fees,
+ incentive fees or “carried interest” (or other similar profits allocations) to be borne directly or indirectly by investors therein.
+
+(l)All of the outstanding shares of capital
+ stock, partnership interests, partnership units, member interests or other equity interests of each Subsidiary have been duly authorized and validly issued and are fully paid (in the case of any Subsidiaries that are organized as limited
+ liability companies, limited partnerships or other entities, to the extent required under the applicable limited liability company, limited partnership or other organizational agreement) and non-assessable (except in the case of interests held in
+ partnerships, limited liability companies or similar entities under the applicable laws of other jurisdictions, in the case of any Subsidiaries that are organized as limited liability companies, as such non-assessability may be affected by
+ Section 18-607 or Section 18-804 of the Delaware Limited Liability Company Act (the “Delaware LLC Act”) or similar provisions under the applicable laws of other jurisdictions
+ or the applicable limited liability company agreement and, in the case of any Subsidiaries that are organized as limited partnerships, as such non-assessability may be affected by Section 17-607 or Section 17-804 of the Delaware Revised Uniform
+ Limited Partnership Act (the “Delaware RULPA”) or similar provisions under the applicable laws of other jurisdictions or the applicable limited partnership agreement), and,
+ to the extent owned directly or indirectly by the Issuer, are owned free and clear of any security interest, claim, lien or encumbrance, except (i) any security interest, claim, lien or encumbrance with respect to (A) the Third Amended and
+ Restated Credit Agreement dated as of July 3, 2024 among Kohlberg Kravis Roberts & Co. L.P. and the other parties thereto, (B) the Credit Agreement dated as of May 7, 2024 among Global Atlantic Financial Limited and the other parties thereto,
+ (C) the Fourth Amended and Restated 5-Year Revolving Credit Agreement dated as of April 4, 2024 among KKR Capital Markets Holdings, L.P. and the other parties thereto, (D) the 364-Day Revolving Credit Agreement dated as of April 2, 2025 among KKR
+ Capital Markets Holdings L.P. and the other parties thereto, and (E) customary interest rate and foreign exchange swaps, if any, and (ii) in each case as disclosed in the Disclosure Package and the Final Prospectus or as would not reasonably be
+ expected to have a Material Adverse Effect.
+
+(m)The statements in the Base Prospectus,
+ Preliminary Prospectus and the Final Prospectus under the headings “Description of Debt Securities and Guarantees,” “Description of the Notes,” “Plan of Distribution,” “Underwriting (Conflicts of Interest),” “Certain United States Federal Income
+ Tax Consequences,” and “Summary – Organizational Structure” fairly summarize the matters therein described in all material respects.
+
+(n)This Agreement has been duly authorized,
+ executed and delivered by or on behalf of each KKR Party.
+
+(o)The Indenture has been duly authorized by each
+ of the KKR Parties and, assuming due authorization, execution and delivery thereof by the Trustee, when executed and delivered by each of the KKR Parties, will constitute a legal, valid, binding instrument enforceable against each of the KKR
+ Parties in accordance with its terms (subject, as to the enforcement of remedies, to applicable bankruptcy, reorganization, insolvency, moratorium or
+
+5
+
+other laws affecting creditors’ rights generally from time to time in effect and to general principles of equity).
+
+(p)The Notes have been duly authorized, and, when
+ executed and authenticated in accordance with the provisions of the Indenture and delivered to and paid for by the Underwriters, will have been duly executed and delivered by the Issuer and will constitute the legal, valid and binding obligations
+ of the Issuer entitled to the benefits of the Indenture (subject, as to the enforcement of remedies, to applicable bankruptcy, reorganization, insolvency, moratorium or other laws affecting creditors’ rights generally from time to time in effect
+ and to general principles of equity).
+
+(q)The Guarantee have been duly authorized, and,
+ when executed and authenticated in accordance with the provisions of the Indenture and delivered to and paid for by the Underwriters, will have been duly executed and delivered by the Guarantor and will constitute the legal, valid and binding
+ obligations of the Guarantor entitled to the benefits of the Indenture (subject, as to the enforcement of remedies, to applicable bankruptcy, reorganization, insolvency, moratorium or other laws affecting creditors’ rights generally from time to
+ time in effect and to general principles of equity).
+
+(r)The Fourth Amended and Restated Limited
+ Partnership Agreement (dated as of August 6, 2024) of KKR Group Partnership L.P. has been duly authorized, executed and delivered by KKR Group Holdings Corp., KKR Intermediate Partnership L.P. and KKR Group Holdings L.P. (formerly known as KKR
+ Holdings L.P.) and is a valid and legally binding agreement of KKR Group Holdings Corp., in its capacity as the general partner, and KKR Intermediate Partnership L.P. and KKR Group Holdings L.P., in their capacity as limited partners, of KKR
+ Group Partnership L.P., enforceable against them in accordance with its terms, subject as to enforcement, to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or
+ affecting creditors rights and to general equity principles.
+
+(s)No consent, approval, authorization, filing
+ with or order of any court or governmental agency or body is required in connection with the transactions contemplated herein or in the Indenture, except such as may be required under the blue sky laws of any jurisdiction in which the Securities
+ are offered and sold and except for any such consents, approvals, authorizations, filings or orders the absence of which would not, singly or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+(t)None of the execution and delivery of this
+ Agreement or the Indenture, the issuance and sale of the Securities, or the consummation of any other of the transactions herein or therein contemplated, or the fulfillment of the terms hereof or thereof will conflict with, result in a breach or
+ violation or imposition of any lien, charge or encumbrance upon any property or assets of the Issuer or any of the Subsidiaries pursuant to (i) the charter or by-laws or comparable constituting documents of the Issuer or any of the Subsidiaries;
+ (ii) the terms of any indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other agreement, obligation, condition, covenant or instrument to which the Issuer or any of the Subsidiaries is a party or bound or to
+ which its or their property is subject; or (iii) any statute, law, rule, regulation, judgment, order or decree of any court, regulatory body, administrative agency,
+
+6
+
+governmental body, arbitrator or other authority having jurisdiction over the Issuer or any of the Subsidiaries or any of their respective properties, which conflict,
+ breach, violation or imposition would, in the case of clauses (ii) and (iii) above, either individually or in the aggregate with all other conflicts, breaches, violations and impositions referred to in this paragraph (t) (if any), have a Material
+ Adverse Effect.
+
+(u)The historical financial statements and
+ schedules (including the related notes) of the Issuer included or incorporated by reference in the Disclosure Package and the Final Prospectus present fairly in all material respects the financial position, the results of operations and the
+ changes in cash flows of the entities purported to be shown thereby as of the dates and for the periods indicated in conformity with accounting principles generally accepted in the United States of America (“GAAP”) and comply in all material respects with the requirements of the Act.
+
+(v)No action, suit or proceeding by or before any
+ court or governmental agency, authority or body or any arbitrator involving the Issuer, any of the Subsidiaries or any of the KKR Funds or its or their property is pending or, to the best knowledge of the KKR Parties, threatened that (i) could
+ reasonably be expected to have a material adverse effect on the performance of this Agreement, the Indenture or the consummation of any of the transactions contemplated hereby or thereby or (ii) could reasonably be expected to have a Material
+ Adverse Effect, except as set forth in or contemplated in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto).
+
+(w)None of the Issuer, any of the Subsidiaries nor
+ any of the KKR Funds is in violation or default of (i) any provision of its charter or bylaws or comparable constituting documents; (ii) the terms of any indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other
+ agreement, obligation, condition, covenant or instrument to which it is a party or bound or to which its property is subject; or (iii) any statute, law, rule, regulation, judgment, order or decree applicable to the Issuer, any of the Subsidiaries
+ or any of the KKR Funds of any court, regulatory body, administrative agency, governmental body, arbitrator or other authority having jurisdiction over the Issuer, any of the Subsidiaries or any of the KKR Funds or any of its or their properties,
+ as applicable, which violation or default would, in the case of clauses (ii) and (iii) above, either individually or in the aggregate with all other violations and defaults referred to in this paragraph (v) (if any), have a Material Adverse
+ Effect.
+
+(x)There has not occurred any material adverse
+ change, or any development involving a prospective material adverse change, in the condition, financial or otherwise, or in the earnings, business, operations, properties or partners’ capital of the Issuer and the Subsidiaries, taken as a whole,
+ from that set forth in the Disclosure Package.
+
+(y)Deloitte & Touche LLP, whose reports are
+ included or incorporated by reference in the Disclosure Package and the Final Prospectus, is and, during the periods covered by their reports, was an independent registered public accounting firm as required by the Act and the published rules and
+ regulations thereunder adopted by the Commission and the Public Company Accounting Oversight Board (United States).
+
+7
+
+(z)The Issuer and each of the Subsidiaries are
+ insured by insurers of recognized financial responsibility against such losses and risks and in such amounts as are prudent and customary in the businesses in which they are engaged; all material policies of insurance and fidelity or surety bonds
+ insuring the Issuer or any of the Subsidiaries or their respective businesses, assets, employees, officers and directors are in full force and effect in all material respects; and none of the Issuer nor any of the Subsidiaries has any reason to
+ believe that it will not be able to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from similar insurers as may be necessary to continue its business at a cost that would not have a Material
+ Adverse Effect except as set forth in or contemplated in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto).
+
+(aa)Each of the Issuer, the Subsidiaries and
+ the KKR Funds possess all licenses, certificates, permits and other authorizations issued by all applicable authorities necessary to conduct their respective businesses, and none of the Issuer, the Subsidiaries nor the KKR Funds has received any
+ notice of proceedings relating to the revocation or modification of any such certificate, authorization or permit which, singly or in the aggregate, if the subject of an unfavorable decision, ruling or finding, would have a Material Adverse
+ Effect, except as set forth in or contemplated in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto); each of the Issuer, the Subsidiaries and the KKR Funds, and each of their respective directors,
+ officers, partners and employees, is a member in good standing of each federal, state or foreign exchange, board of trade, clearing house, association, self-regulatory or similar organization, as applicable, in each case as are necessary to
+ conduct the businesses of the Issuer, the Subsidiaries and the KKR Funds, except as disclosed in the Disclosure Package and the Final Prospectus or as would not reasonably be expected to have a Material Adverse Effect.
+
+(bb)Each of the Issuer and the Subsidiaries
+ maintain a system of internal accounting controls sufficient to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations; (ii) transactions are recorded as necessary to
+ permit preparation of financial statements in conformity with GAAP and to maintain asset accountability; (iii) access to assets is permitted only in accordance with management’s general or specific authorization; and (iv) the recorded
+ accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences. Except as disclosed in the Disclosure Package and the Final Prospectus, since the end of the
+ Issuer’s most recent audited fiscal year, there has been (i) no material weakness in the Issuer’s or any of the Subsidiaries’ internal control over financial reporting (whether or not remediated) and (ii) no change in the Issuer’s or any of the
+ Subsidiaries’ internal control over financial reporting that has materially adversely affected, or is reasonably likely to materially adversely affect, the Issuer’s or any of the Subsidiaries’ internal control over financial reporting.
+
+(cc)The Issuer maintains “disclosure controls
+ and procedures” (as such term is defined in Rule 13a-15(e) under the Exchange Act); such disclosure controls and procedures are effective.
+
+8
+
+(dd)Each of the Issuer, the Subsidiaries and
+ the KKR Funds (i) that is required to be in compliance with, or registered, licensed or qualified pursuant to, the Investment Advisers Act of 1940, as amended, and the rules and regulations promulgated thereunder (the “Advisers Act”), the Investment Company Act, and the rules and regulations promulgated thereunder, or the U.K. Financial Services and Markets Act 2000 (the “FSMA”) and the rules and regulations promulgated thereunder, is in compliance with, or registered, licensed or qualified pursuant to, such laws, rules and regulations (and such registration, license or
+ qualification is in full force and effect), to the extent applicable, except as disclosed in the Disclosure Package and the Final Prospectus or where the failure to be in such compliance or so registered, licensed or qualified would not, singly
+ or in the aggregate, reasonably be expected to have a Material Adverse Effect; or (ii) that is required to be registered, licensed or qualified as a broker-dealer or as a commodity trading advisor, a commodity pool operator or a futures
+ commission merchant or any or all of the foregoing, as applicable, is so registered, licensed or qualified in each jurisdiction where the conduct of its business requires such registration, license or qualification (and such registration, license
+ or qualification is in full force and effect other than those jurisdictions where approval is being applied for and pending), and is in compliance with all applicable laws requiring any such registration, licensing or qualification, except as
+ disclosed in the Disclosure Package and the Final Prospectus or where the failure to be so registered, licensed, qualified or in compliance would not, singly or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+(ee)To the knowledge of the KKR Parties,
+ neither the Issuer nor any of the Subsidiaries which act as a general partner or managing member (or in a similar capacity) or as an investment adviser or investment manager of any KKR Fund has performed any act or otherwise engaged in any
+ conduct that would prevent the Issuer or such Subsidiary, as the case may be, from benefiting from any exculpation clause or other limitation of liability available to it under the terms of the management agreement or advisory agreement, as
+ applicable, between the Issuer or such Subsidiary, as the case may be, and the KKR Fund except, in each case, as would not, singly or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+(ff)The statistical and market and
+ industry-related data included in the Disclosure Package and the Final Prospectus are based on or derived from sources that the Issuer reasonably believes to be reliable and accurate in all material respects.
+
+(gg)Subsequent to the respective dates as of
+ which information is given in each of the Disclosure Package and the Final Prospectus, (i) neither the Issuer nor any of the Subsidiaries has incurred any liability or obligation, direct or contingent, nor entered into any transaction; (ii)
+ neither the Issuer nor any of the Subsidiaries has purchased any of their respective outstanding equity interests, nor declared, paid or otherwise made any dividend or distribution of any kind, except as disclosed (a) in the subsequent events
+ footnote in the financial statements for the year ended December 31, 2024, and (b) in the subsequent events footnote in the financial statements for the three months ended March 31, 2025; and (iii) there has not been any change in the respective
+ partners’ capital, short-term debt or long-term debt of any of the Issuer or the Subsidiaries, except in each case (x) as disclosed in each of the Disclosure Package and the Final Prospectus, respectively, or as would not, singly or in the
+ aggregate, reasonably be expected to have a Material Adverse Effect or (y) any transaction effectuated pursuant to a plan to repurchase shares of common stock pursuant to an announced repurchase program including a
+
+9
+
+plan that satisfies all of the requirements of Rule 10b5-1 under the Exchange Act existing on the date hereof.
+
+(hh)The operations of each of the Issuer, the
+ Subsidiaries and the KKR Funds are and have been conducted at all times in material compliance with applicable financial recordkeeping and reporting requirements, including those of the Bank Secrecy Act, as amended by Title III of the Uniting and
+ Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act), and the anti-money laundering statutes and the rules and regulations thereunder and any related or similar rules,
+ regulations or guidelines, issued, administered or enforced by any governmental agency (collectively, the “Anti-Money Laundering Laws”), as applicable, and no action, suit or
+ proceeding by or before any court or governmental agency, authority or body or any arbitrator involving any of the Issuer, the Subsidiaries or the KKR Funds with respect to the Anti-Money Laundering Laws is pending or, to the knowledge of the KKR
+ Parties, threatened.
+
+(ii)None of the Issuer, the Subsidiaries nor
+ the KKR Funds nor, to the knowledge of the KKR Parties, any director, officer, agent, employee or Affiliate of any of the Issuer, the Subsidiaries or the KKR Funds, is an individual or entity (“Person”) that is, or is owned or controlled by a Person that is currently subject to any sanctions (“Sanctions”) administered by the Office of
+ Foreign Assets Control of the U.S. Department of the Treasury (“OFAC”), and each of the KKR Parties represents and covenants that they will not, directly or indirectly, use
+ the proceeds of the offering of the Securities hereunder, or lend, contribute or otherwise make available such proceeds to any of the Issuer, the Subsidiaries or the KKR Funds, joint venture partner or other Person for the purpose of financing
+ the activities of any person that is the subject of Sanctions.
+
+(jj)None of the Issuer, the Subsidiaries nor
+ the KKR Funds, nor, to the knowledge of the KKR Parties, any director, officer, agent, employee or other person associated with, affiliated with or acting on behalf of any of the Issuer, the Subsidiaries or the KKR Funds, has taken any action in
+ furtherance of an offer, payment, promise to pay, or authorization or approval of the payment or giving of money, property, gifts or anything else of value, directly or indirectly, to any “government official” (including any officer or employee
+ of a government or government-owned or controlled entity or of a public international organization, or any person acting in an official capacity for or on behalf of any of the foregoing, or any political party or party official or candidate for
+ political office) to illegally influence official action or secure an improper advantage in violation of the Foreign Corrupt Practices Act of 1977, the U.K. Bribery Act 2010, or similar law of any jurisdiction applicable to the Issuer, the
+ Subsidiaries or the KKR Funds; and each of the Issuer, the Subsidiaries and the KKR Funds have conducted their businesses in compliance with applicable anti-corruption laws and have instituted and maintain policies and procedures designed to
+ promote and achieve compliance with such laws and with the representation and warranty contained herein.
+
+(kk)Any certificate signed by any officer, or
+ where applicable, the general partner, of any KKR Party and delivered to the Representatives or counsel for the Underwriters in connection with the offering of the Securities shall be deemed a representation and warranty by the relevant KKR
+ Party, as to matters covered thereby, to each Underwriter.
+
+10
+
+(ll)The interactive data in the eXtensible
+ Business Reporting Language (“XBRL”) included or incorporated by reference in the Disclosure Package and the Final Prospectus fairly presents the information called for in
+ all material respects and has been prepared in all material respects in accordance with the Commission’s rules and guidelines applicable thereto.
+
+(mm)Each of the Issuer and the Subsidiaries has
+ timely filed all U.S. federal, and material U.S. state, local and foreign tax returns required to be filed through the date of this Agreement; all such returns were true and complete in all material respects; and all taxes shown as due and
+ payable on such returns have been timely paid, or withheld and remitted, to the appropriate taxing authority, except (i) for any taxes that are being contested in good faith and for which adequate reserves have been established in accordance with
+ GAAP or (ii) where failure to pay such taxes would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+2.Purchase
+
+ and Sale.  Subject to the terms and conditions and in reliance upon the representations and warranties herein set forth, the Issuer agrees to sell to each Underwriter, and each Underwriter agrees, severally and not jointly, to
+ purchase from the Issuer, the principal amount of the Notes set forth in Schedule I hereto opposite such Underwriter’s name at a purchase price (the “Purchase Price”) equal
+ to 99.102% of the principal amount of the Notes plus accrued interest, if any, from August 7, 2025 to the Closing Date (as defined in Section 3).
+
+3.Delivery
+
+ and Payment.  Delivery of and payment for the Notes shall be made at 10:00 A.M., New York Citytime, on August 7, 2025, or at such time on such later date not
+ more than three Business Days after the foregoing date as the Representatives shall designate, which date and time may be postponed by agreement between the Representatives and the Issuer or as provided in Section 9 hereof (such date and time of
+ delivery and payment for the Notes being herein called the “Closing Date”).  Delivery of the Securities shall be made to the Representatives for the respective accounts of
+ the several Underwriters against payment by the several Underwriters through the Representatives of the Purchase Price thereof to or upon the order of the Issuer by wire transfer payable in same-day funds to the account specified by the Issuer. 
+ Delivery of the Securities shall be made through the facilities of The Depository Trust Company, unless the Representatives shall otherwise instruct.
+
+4.Offering
+
+ by Underwriters.  It is understood that the several Underwriters propose to offer the Securities for sale to the public as set forth in the Disclosure Package and that the Underwriters may offer and sell Securities to or through
+ any affiliate of an Underwriter.
+
+5.Agreements. 
+
+ Each of the KKR Parties agrees with each Underwriter that:
+
+(a)The KKR Parties will furnish to each
+ Underwriter and to counsel for the Underwriters, without charge, copies of the Registration Statement (including exhibits thereto) and, so long as delivery of a prospectus by an Underwriter or dealer may be required by the Act (including in
+ circumstances where such requirement may be satisfied pursuant to Rule 172), as many copies of each Preliminary Prospectus, the Final Prospectus and each Issuer Free Writing Prospectus and any supplement thereto as the Representatives may
+ reasonably request. The KKR
+
+11
+
+Parties will pay the expenses of printing or other production of all documents relating to the offering.
+
+(b)The KKR Parties will prepare a final term
+ sheet, containing solely a description of final terms of the Securities and the offering thereof, in the form approved by you and attached as Schedule III hereto and will file such term sheet pursuant to Rule 433(d) within the time required by
+ such Rule.
+
+(c)The KKR Parties will not amend or supplement
+ the Registration Statement or the Final Prospectus other than by the Issuer filing documents under the Exchange Act that are incorporated by reference therein,without the
+ prior written consent of the Representatives; provided, however, that prior to the completion of
+ the distribution of the Securities by the Underwriters (as defined by the Underwriters), the Issuer will not file any document under the Exchange Act that is incorporated by reference in the Registration Statement or the Final Prospectus unless,
+ prior to such proposed filing, the KKR Parties have furnished the Representatives with a copy of such document for their review and the Representatives have not reasonably objected to the filing of such document.  The KKR Parties will promptly
+ advise the Representatives when any document filed under the Exchange Act that is incorporated by reference in the Disclosure Package or the Final Prospectus shall have been filed with the Commission. The KKR Parties will cause the Final
+ Prospectus, properly completed, and any supplement thereto to be filed in a form approved by the Representatives with the Commission pursuant to the applicable paragraph of Rule 424(b) within the time period prescribed and will provide evidence
+ satisfactory to the Representatives of such timely filing.  The KKR Parties will promptly advise the Representatives (i) when the Final Prospectus, and any supplement thereto, shall have been filed (if required) with the Commission pursuant to
+ Rule 424(b), (ii) when, prior to termination of the offering of the Securities, any amendment to the Registration Statement shall have been filed or become effective, (iii) of any request by the Commission or its staff for any amendment of the
+ Registration Statement, or for any supplement to the Final Prospectus or for any additional information, (iv) of the issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement or of any notice
+ objecting to its use or the institution or threatening of any proceeding for that purpose and (v) of the receipt by any KKR Party of any notification with respect to the suspension of the qualification of the Securities for sale in any
+ jurisdiction or the institution or threatening of any proceeding for such purpose.  The KKR Parties will use their best efforts to prevent the issuance of any such stop order or the occurrence of any such suspension or objection to the use of the
+ Registration Statement and, upon such issuance, occurrence or notice of objection, to obtain as soon as possible the withdrawal of such stop order or relief from such occurrence or objection, including, if necessary, by filing an amendment to the
+ Registration Statement or a new registration statement and using its best efforts to have such amendment or new registration statement declared effective as soon as practicable.
+
+(d)If at any time when a prospectus relating to
+ the Securities is required to be delivered under the Act (including in circumstances where such requirement may be satisfied pursuant to Rule 172), any event occurs as a result of which the Disclosure Package or the Final Prospectus as then
+ amended or supplemented, would include any untrue statement of a material fact or omit to state any material fact necessary to make the statements therein, in the light of the circumstances under which they were made at such time not misleading,
+ or if it shall be
+
+12
+
+necessary to amend the Registration Statement, file a new registration statement or supplement the Final Prospectus to comply with the Act or the Exchange Act or the
+ respective rules thereunder, including in connection with use or delivery of the Final Prospectus, the KKR Parties promptly will (i) notify the Representatives of any such event; (ii) prepare and file with the Commission, subject to the requirements
+ of Section 5(c), an amendment or supplement or new registration statement which will correct such statement or omission or effect such compliance; (iii) use its best efforts to have any amendment to the Registration Statement or new registration
+ statement declared effective as soon as practicable in order to avoid any disruption in use of the Final Prospectus and (iv) supply any supplemented Final Prospectus to the Representatives and counsel for the Underwriters without charge in such
+ quantities as they may reasonably request.
+
+(e)The KKR Parties agree that, unless they have
+ or shall have obtained the prior written consent of the Representatives, and each Underwriter, severally and not jointly, agrees with the KKR Parties that, unless it has or shall have obtained, as the case may be, the prior written consent of the
+ KKR Parties, it has not made, used, prepared, authorized, approved or referred to and will not prepare, make, use, authorize, approve or refer to any “written communication” (as defined in Rule 405 under the Act) that constitutes an offer to sell
+ or solicitation of an offer to buy the Securities that would constitute an Issuer Free Writing Prospectus or that would otherwise constitute a “free writing prospectus” (as defined in Rule 405) required to be filed by the KKR Parties with the
+ Commission or retained by the KKR Parties under Rule 433, other than a free writing prospectus containing the information contained in the final term sheet prepared and filed pursuant to Section 5(b) hereto; provided that the prior written consent of the parties hereto shall be deemed to have been given in respect of the Free Writing Prospectuses included in Schedule II hereto.  Any such free writing prospectus
+ consented to by the Representatives or the KKR Parties is hereinafter referred to as a “Permitted Free Writing Prospectus.”  Each KKR Party agrees that (x) it has treated and
+ will treat, as the case may be, each Permitted Free Writing Prospectus as an Issuer Free Writing Prospectus and (y) it has complied and will comply, as the case may be, with the requirements of Rules 164 and 433 applicable to any Permitted Free
+ Writing Prospectus, including in respect of timely filing with the Commission, legending and record keeping.
+
+(f)The KKR Parties will arrange, if necessary,
+ for the qualification of the Securities for sale by the Underwriters under the laws of such jurisdictions as the Representatives may designate (including Japan and certain provinces of Canada) and will maintain such qualifications in effect so
+ long as required for the sale of the Securities; provided that in no event shall the KKR Parties be obligated to qualify to do business in any jurisdiction where it is not
+ now so qualified or to take any action that would subject it to service of process in suits, other than those arising out of the offering or sale of the Securities, in any jurisdiction where it is not now so subject. The KKR Parties will promptly
+ advise the Representatives of the receipt by any KKR Party of any notification with respect to the suspension of the qualification of the Securities for sale in any jurisdiction or the initiation or threatening of any proceeding for such purpose.
+
+(g)As soon as practicable, the Issuer will make
+ generally available to its security holders and to the Representatives an earnings statement or statements of the Issuer and its subsidiaries which will satisfy the provisions of Section 11(a) of the Act and Rule 158.
+
+13
+
+(h)The KKR Parties will cooperate with the
+ Representatives and use their best efforts to permit the Securities to be eligible for clearance and settlement through The Depository Trust Company.
+
+(i)The KKR Parties will use the net proceeds
+ received by the Issuer from the sale of the Securities pursuant to this Agreement in the manner specified in the Disclosure Package and the Final Prospectus under the caption “Use of Proceeds.”
+
+(j)The KKR Parties will not for the period
+ between the Execution Time and the Closing Date, without the prior written consent of the Representatives, offer, sell, contract to sell, pledge, otherwise dispose of, or enter into any transaction which is designed to, or might reasonably be
+ expected to, result in the disposition (whether by actual disposition or effective economic disposition due to cash settlement or otherwise) by the KKR Parties or any Affiliate of the KKR Parties or any person in privity with the KKR Parties or
+ any Affiliate of the KKR Parties, directly or indirectly, or announce the offering, of any debt securities issued or guaranteed by the KKR Parties (other than the Securities).
+
+(k)The KKR Parties will not take, directly or
+ indirectly, any action designed to, or that has constituted or that might reasonably be expected to, cause or result, under the Exchange Act or otherwise, in stabilization or manipulation of the price of any security of the KKR Parties to
+ facilitate the sale or resale of the Securities.
+
+(l)The KKR Parties will, for a period of twelve
+ months following the Execution Time, furnish to the Representatives (i) all reports or other communications (financial or other) regarding the Issuer generally made available to its security holders, and deliver such reports and communications to
+ the Representatives as soon as they are available, unless such documents are furnished to or filed with the Commission or any securities exchange on which any class of securities of the Issuer is listed and generally made available to the public
+ and (ii) such additional information concerning the business and financial condition of the KKR Parties as the Representatives may from time to time reasonably request (such statements to be on a consolidated basis to the extent the accounts of
+ the KKR Parties and their subsidiaries are consolidated in reports furnished to their security holders).
+
+(m)The KKR Parties agree to pay the costs and
+ expenses relating to the following matters: (i) the preparation of the Indenture and the issuance of the Securities and the fees of the Trustee and any agent of the Trustee; (ii) the preparation, printing or reproduction and filing with the
+ Commission of the Registration Statement (including financial statements and exhibits thereto), each Preliminary Prospectus, the Final Prospectus and each Issuer Free Writing Prospectus, and each amendment or supplement to any of them; (iii) the
+ printing (or reproduction) and delivery (including postage, air freight charges and charges for counting and packaging) of such copies of the Registration Statement, each Preliminary Prospectus, the Final Prospectus and each Issuer Free writing
+ Prospectus, and all amendments or supplements to any of them, as may, in each case, be reasonably requested for use in connection with the offering and sale of the Securities; (iv) the preparation, printing, authentication, issuance and delivery
+ of the Securities; (v) any stamp or transfer taxes in connection with the original issuance and sale of the Securities; (vi) the printing (or reproduction) and delivery of this Agreement, any blue sky memorandum and all other agreements or
+ documents printed (or reproduced) and delivered in
+
+14
+
+connection with the offering of the Securities; (vii) the registration of the Securities under the Exchange Act; (viii) any registration or qualification of the Securities
+ for offer and sale under the securities or blue sky laws of the several states, Japan, the provinces of Canada and any other jurisdictions specified pursuant to Section 5(f) (including filing fees and the reasonable fees and expenses of counsel for
+ the Underwriters relating to such registration and qualification); (ix) any filings required to be made with the Financial Industry Regulatory Authority, Inc. (“FINRA”)
+ (including filing fees and the reasonable fees and expenses of counsel for the Underwriters relating to such filings); (x) the transportation and other expenses incurred by or on behalf of representatives of the KKR Parties in connection with
+ presentations to prospective purchasers of the Securities; (xi) the fees and expenses of the KKR Parties’ accountants and the fees and expenses of counsel (including local and special counsel) for the KKR Parties in respect of the transactions
+ contemplated hereby; (xii) any fees charged by the rating agencies for the rating of the Securities; and (xiii) all other costs and expenses incident to the performance by the KKR Parties of their obligations hereunder.  It is understood, however,
+ that the Underwriters will pay transfer taxes, if any, on resale of any of the Securities by them.
+
+6.Conditions
+
+ to the Obligations of the Underwriters.  The obligations of the Underwriters to purchase the Securities shall be subject to the accuracy of the representations and warranties of the KKR Parties contained herein at the Execution
+ Time and the Closing Date, as the case may be, to the accuracy of the statements of the KKR Parties made in any certificates pursuant to the provisions hereof, to the performance by the KKR Parties of its obligations hereunder and to the
+ following additional conditions:
+
+(a)The Final Prospectus, and any supplement
+ thereto, have been filed in the manner and within the time period required by Rule 424(b); the final term sheet contemplated by Section 5(b) hereto, and any other material required to be filed by the KKR Parties pursuant to Rule 433(d) under the
+ Act, shall have been filed with the Commission within the applicable time periods prescribed for such filings by Rule 433; and no stop order suspending the effectiveness of the Registration Statement or any notice objecting to its use shall have
+ been issued and no proceedings for that purpose shall have been instituted or threatened.
+
+(b)The Issuer shall have requested and caused
+ Simpson Thacher & Bartlett LLP, counsel for the KKR Parties, to furnish to the Representatives its opinion and disclosure letter, dated the Closing Date and addressed to the Representatives, substantially in the forms attached hereto as
+ Exhibits A-1 and A-2, respectively.
+
+(c)The Issuer shall have requested and caused
+ Maples and Calder (Cayman) LLP, special Cayman counsel for KKR Group Partnership L.P., to furnish to the Representatives its opinion, dated the Closing Date and addressed to the Representatives, substantially in the form attached hereto as
+ Exhibit B.
+
+(d)The Representatives shall have received from
+ Davis Polk & Wardwell LLP, counsel for the Underwriters, such opinion or opinions, dated the Closing Date and addressed to the Representatives, with respect to the issuance and sale of the Securities, the Indenture, the Disclosure Package,
+ the Final Prospectus (as amended or supplemented at the Closing Date) and other related matters as the Representatives may reasonably require, and the KKR Parties shall
+
+15
+
+have furnished to such counsel such documents as they request for the purpose of enabling them to pass upon such matters.
+
+(e)The Representatives shall have received on the
+ Closing Date: (i) certificates, dated the Closing Date and each signed by an executive officer or, where applicable, the general partner of each KKR Party, on behalf of each of the KKR Parties to the effect that (x) each of the signers of such
+ certificate has carefully examined the Disclosure Package and the Final Prospectus and any supplements or amendments thereto, and this Agreement, (y) the representations and warranties of the KKR Parties contained in this Agreement are true and
+ correct on and as of the Closing Date and that the KKR Parties have complied with all of the agreements and satisfied all of the conditions on their part to be performed or satisfied hereunder on or before the Closing Date and (z) since the date
+ of the most recent financial statements included or incorporated by reference in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto), there has been no material adverse change, or any development
+ involving a prospective material adverse change, in or affecting the condition (financial or otherwise) earnings, business or properties of the Issuer and the Subsidiaries taken as a whole, whether or not arising from transactions in the ordinary
+ course of business, except as set forth in or contemplated in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto), provided
+ that any executive officer signing and delivering such certificate may rely upon his or her knowledge as to proceedings threatened; and (ii) a certificate, dated the Closing Date and signed by the chief financial officer of the Issuer on behalf
+ of the Issuer, substantially in the form attached hereto as Exhibit C.
+
+(f)At the Execution Time and at the Closing Date,
+ Deloitte & Touche LLP shall have furnished to the Representatives letters, at the request of the KKR Parties, dated respectively as of the Execution Time, as of the Closing Date, and addressed to the Underwriters, in form and substance
+ reasonably satisfactory to the Representatives, containing statements and information of the type customarily included in accountants’ “comfort letters” to underwriters with respect to the financial statements and certain financial information
+ contained or incorporated by reference in each of the Disclosure Package, the Preliminary Prospectus and the Final Prospectus; provided that the letter delivered on the
+ Closing Date shall use a “cut-off” date no more than three business days prior to the Closing Date.
+
+(g)Subsequent to the Execution Time or, if
+ earlier, the dates as of which information is given in the Disclosure Package (exclusive of any amendment or supplement thereto) and the Final Prospectus (exclusive of any amendment or supplement thereto), there shall not have been (i) any change
+ or decrease specified in the letter or letters referred to in paragraph (f) of this Section 6; or (ii) any change, or any development involving a prospective change, in or affecting the condition (financial or otherwise) earnings, business or
+ properties of the Issuer and the Subsidiaries taken as a whole, whether or not arising from transactions in the ordinary course of business, except as set forth in or contemplated in the Disclosure Package and the Final Prospectus (exclusive of
+ any amendment or supplement thereto), the effect of which, in any case referred to in clause (i) or (ii) above, is, in the sole judgment of the Representatives, so material and adverse as to make it impractical or inadvisable to proceed with the
+ offering or delivery of the Securities as contemplated in the Disclosure Package and the Final Prospectus (exclusive of any amendment or supplement thereto).
+
+16
+
+(h)Subsequent to the Execution Time, there shall
+ not have been any decrease in the rating of any of the Issuer’s debt securities by any “nationally recognized statistical rating organization” (as defined for purposes of Section 3(a)(62) under the Exchange Act) or any notice given of any
+ intended or potential decrease in any such rating or of a possible change in any such rating that does not indicate the direction of the possible change.
+
+(i)[Reserved.]
+
+(j)Prior to the Closing Date, the KKR Parties
+ shall have furnished to the Representatives such further information, certificates and documents as the Representatives may reasonably request.
+
+If any of the conditions specified in this Section 6 shall not have been fulfilled when and as provided in this Agreement, or if any of the opinions and
+ certificates mentioned above or elsewhere in this Agreement shall not be reasonably satisfactory in form and substance to the Representatives and counsel for the Underwriters, this Agreement and all obligations of the Underwriters hereunder may be
+ cancelled at, or at any time prior to, the Closing Date by the Representatives.  Notice of such cancellation shall be given to the KKR Parties in writing or by telephone or facsimile confirmed in writing.
+
+The documents required to be delivered by this Section 6 will be delivered at the office of counsel for the Underwriters, Davis Polk & Wardwell LLP,
+ at 450 Lexington Avenue, New York, New York 10017, on the Closing Date.
+
+7.Reimbursement
+
+ of Expenses.  If the sale of the Securities provided for herein is not consummated because any condition to the obligations of the Underwriters set forth in Section 6 hereof is not satisfied, because of any termination pursuant to
+ Section 10 hereof or because of any refusal, inability or failure on the part of the KKR Parties to perform any agreement herein or comply with any provision hereof other than by reason of a default by any of the Underwriters, the KKR Parties,
+ jointly and severally, will reimburse the Underwriters severally through the Representatives on demand for all out-of-pocket expenses (including reasonable fees and disbursements of counsel) that shall have been incurred by them in connection
+ with the proposed purchase and sale of the Securities.
+
+8.Indemnification
+
+ and Contribution.  (a) The KKR Parties, jointly and severally, agree to indemnify and hold harmless each Underwriter, the directors, officers, employees, Affiliates and agents of each Underwriter and each person who controls any
+ Underwriter within the meaning of either the Act or the Exchange Act against any and all losses, claims, damages or liabilities, joint or several, to which they or any of them may become subject under the Act, the Exchange Act or other U.S.
+ federal or state statutory law or regulation, at common law or otherwise, insofar as such losses, claims, damages or liabilities or actions in respect thereof arise out of or are based upon (i) any untrue statement or alleged untrue statement of
+ a material fact contained in the registration statement for the registration of the Securities as originally filed or in any amendment thereof, or arise out of or are based upon the omission or alleged omission therefrom of a material fact
+ required to be stated therein or necessary to make the statements therein not misleading or (ii) any untrue statement or alleged untrue statement of a material fact included in the Base Prospectus, any Preliminary Prospectus or any other
+ preliminary prospectus
+
+17
+
+supplement relating to the Securities, the Final Prospectus, any Issuer Free Writing Prospectus or the information contained in the final term sheet required to be prepared
+ and filed pursuant to Section 5(b) hereto, or in any amendment or supplement thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the
+ statements therein, in the light of the circumstances under which they were made, not misleading; and agrees to reimburse each such indemnified party, as incurred, for any legal or other expenses reasonably incurred by it in connection with
+ investigating or defending any such loss, claim, damage, liability or action; provided, however, that
+ the KKR Parties will not be liable in any such case to the extent that any such loss, claim, damage or liability arises out of or is based upon any such untrue statement or alleged untrue statement or omission or alleged omission made therein in
+ reliance upon and in conformity with written information furnished to the KKR Parties by or on behalf of any Underwriter through the Representatives specifically for inclusion therein.  This indemnity agreement will be in addition to any liability
+ that the KKR Parties may otherwise have.
+
+(b)Each Underwriter severally, and not jointly,
+ agrees to indemnify and hold harmless each KKR Party, each of its directors, each of its officers, and each person who controls any KKR Party within the meaning of either the Act or the Exchange Act, to the same extent as the foregoing indemnity
+ to each Underwriter, but only with reference to written information relating to such Underwriter furnished to the Issuer by or on behalf of such Underwriter through the Representatives specifically for inclusion in the documents referred to in
+ the foregoing indemnity.  This indemnity agreement will be in addition to any liability that any Underwriter may otherwise have.  The Issuer acknowledges that (i) the statements set forth in the first sentence of the last paragraph of the cover
+ page regarding delivery of the Securities and (ii) under the heading “Underwriting (Conflicts of Interest),” the seventh, eighth, ninth and tenth paragraphs related to stabilization, syndicate covering transactions and penalty bids in the
+ Preliminary Prospectus and the Final Prospectus constitute the only information furnished in writing by or on behalf of the Underwriters for inclusion in the Preliminary Prospectus, the Final Prospectus, any Issuer Free Writing Prospectus or any
+ other written information used by or on behalf of the KKR Parties in connection with the offer or sale of the Securities, or in any amendment or supplement thereto.
+
+(c)Promptly after receipt by an indemnified party
+ under this Section 8 of notice of the commencement of any action, such indemnified party will, if a claim in respect thereof is to be made against the indemnifying party under this Section 8, notify the indemnifying party in writing of the
+ commencement thereof; but the failure so to notify the indemnifying party (i) will not relieve it from liability under paragraph (a) or (b) above unless and to the extent it did not otherwise learn of such action and such failure results in the
+ forfeiture by the indemnifying party of substantial rights and defenses and (ii) will not, in any event, relieve the indemnifying party from any obligations to any indemnified party other than the indemnification obligation provided in paragraph
+ (a) or (b) above.  The indemnifying party shall be entitled to appoint counsel (including local counsel) of the indemnifying party’s choice at the indemnifying party’s expense to represent the indemnified party in any action for which
+ indemnification is sought (in which case the indemnifying party shall not thereafter be responsible for the fees and expenses of any separate counsel, other than local counsel if not appointed by the indemnifying party, retained by the
+ indemnified party or parties except as set forth below); provided, however, that such counsel
+
+18
+
+shall be satisfactory to the indemnified party.  Notwithstanding the indemnifying party’s election to appoint counsel (including local counsel) to represent the indemnified
+ party in an action, the indemnified party shall have the right to employ separate counsel (including local counsel), and the indemnifying party shall bear the reasonable fees, costs and expenses of such separate counsel if (i) the use of counsel
+ chosen by the indemnifying party to represent the indemnified party would present such counsel with a conflict of interest; (ii) the actual or potential defendants in, or targets of, any such action include both the indemnified party and the
+ indemnifying party and the indemnified party shall have reasonably concluded that there may be legal defenses available to it and/or other indemnified parties that are different from or additional to those available to the indemnifying party; (iii)
+ the indemnifying party shall not have employed counsel satisfactory to the indemnified party to represent the indemnified party within a reasonable time after notice of the institution of such action; or (iv) the indemnifying party shall authorize
+ the indemnified party to employ separate counsel at the expense of the indemnifying party.  An indemnifying party will not, without the prior written consent of the indemnified parties, settle or compromise or consent to the entry of any judgment
+ with respect to any pending or threatened claim, action, suit or proceeding in respect of which indemnification or contribution may be sought hereunder (whether or not the indemnified parties are actual or potential parties to such claim or action)
+ unless such settlement, compromise or consent (i) includes an unconditional release of each indemnified party from all liability arising out of such claim, action, suit or proceeding and (ii) does not include a statement as to, or an admission of,
+ fault, culpability or a failure to act, by or on behalf of any indemnified party.
+
+(d)In the event that the indemnity provided in
+ paragraph (a) or (b) of this Section 8 is unavailable to or insufficient to hold harmless an indemnified party for any reason, the KKR Parties and the Underwriters severally agree to contribute to the aggregate losses, claims, damages and
+ liabilities (including legal or other expenses reasonably incurred in connection with investigating or defending any loss, claim, damage, liability or action) (collectively “Losses”)
+
+ to which the KKR Parties and one or more of the Underwriters may be subject in such proportion as is appropriate to reflect the relative benefits received by the KKR Parties on the one hand and by the Underwriters on the other from the offering
+ of the Securities; provided, however, that in no case shall any Underwriter be responsible for any
+ amount in excess of the underwriting discount or commission applicable to the Securities purchased by such Underwriter hereunder.  If the allocation provided by the immediately preceding sentence is unavailable for any reason, the KKR Parties and
+ the Underwriters severally shall contribute in such proportion as is appropriate to reflect not only such relative benefits but also the relative fault of the KKR Parties on the one hand and the Underwriters on the other in connection with the
+ statements or omissions that resulted in such Losses, as well as any other relevant equitable considerations.  Benefits received by the KKR Parties shall be deemed to be equal to the total net proceeds from the offering (before deducting
+ expenses) received by it, and benefits received by the Underwriters shall be deemed to be equal to the total underwriting discounts and commissions, in each case as set forth on the cover page of the Final Prospectus.  Relative fault shall be
+ determined by reference to, among other things, whether any untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information provided by the KKR Parties on the one hand or
+ the Underwriters on the other, the intent of the parties and their relative knowledge, access to information and opportunity to correct or prevent such untrue statement or omission.  The KKR Parties and the Underwriters
+
+19
+
+agree that it would not be just and equitable if contribution were determined by pro rata allocation or any other method of allocation that does not take account of the
+ equitable considerations referred to above.  Notwithstanding the provisions of this paragraph (d), no person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Act) shall be entitled to contribution from any person who
+ was not guilty of such fraudulent misrepresentation.  For purposes of this Section 8, each person who controls an Underwriter within the meaning of either the Act or the Exchange Act and each director, officer, employee, Affiliate and agent of an
+ Underwriter shall have the same rights to contribution as such Underwriter, and each person who controls the relevant KKR Parties within the meaning of either the Act or the Exchange Act and each officer and each director of such KKR Parties shall
+ have the same rights to contribution as such KKR Parties, subject in each case to the applicable terms and conditions of this paragraph (d).
+
+9.Default
+
+ by an Underwriter.  If any one or more Underwriters shall fail to purchase and pay for any of the Securities agreed to be purchased by such Underwriter hereunder and such failure to purchase shall constitute a default in the
+ performance of its or their obligations under this Agreement, the remaining Underwriters shall be obligated severally to take up and pay for (in the respective proportions which the principal amount of Securities set forth opposite their names in
+ Schedule I hereto bears to the aggregate principal amount of Securities set forth opposite the names of all the remaining Underwriters) the Securities which the defaulting Underwriter or Underwriters agreed but failed to purchase; provided, however, that in the event that the aggregate principal amount of Securities which the
+ defaulting Underwriter or Underwriters agreed but failed to purchase shall exceed 10% of the aggregate principal amount of Securities set forth in Schedule I hereto, the remaining Underwriters shall have the right to purchase all, but shall not
+ be under any obligation to purchase any, of the Securities, and if such nondefaulting Underwriters do not purchase all the Securities, this Agreement will terminate without liability to any nondefaulting Underwriter or any KKR Party.  In the
+ event of a default by any Underwriter as set forth in this Section 9, the Closing Date shall be postponed for such period, not exceeding five Business Days, as the Representatives shall determine in order that the required changes in the
+ Registration Statement and the Final Prospectus or in any other documents or arrangements may be effected.  Nothing contained in this Agreement shall relieve any defaulting Underwriter of its liability, if any, to any KKR Party or any
+ nondefaulting Underwriter for damages occasioned by its default hereunder.
+
+10.Termination. 
+
+ This Agreement shall be subject to termination in the absolute discretion of the Representatives, by notice given to any KKR Parties prior to delivery of and payment for the Securities, if at any time prior to such time (i) trading in the
+ Issuer’s common stock shall have been suspended by the Commission or the New York Stock Exchange (“NYSE”) or trading in securities generally on the NYSE shall have been
+ suspended or limited or minimum prices shall have been established on such exchange; (ii) there shall have occurred a material disruption in clearance or settlement services in the United States; (iii) a banking moratorium shall have been
+ declared either by U.S. federal or New York State authorities; or (iv) there shall have occurred any outbreak or escalation of hostilities, declaration by the United States of a national emergency or war or other calamity or crisis the effect of
+ which on financial markets is material and adverse and which, singly or together with any other event specified in this clause (iv), makes it, in the sole judgment of the Representatives, impractical or inadvisable
+
+20
+
+to proceed with the offering or delivery of the Securities as contemplated by any Preliminary Prospectus or the Final Prospectus (exclusive of any amendment or supplement
+ thereto).
+
+11.Research
+
+ Analyst Independence.  The KKR Parties acknowledge that the Underwriters’ research analysts and research departments are required to be independent from their respective investment banking divisions and are subject to certain
+ regulations and internal policies, and that such Underwriters’ research analysts may hold views and make statements or investment recommendations and/or publish research reports with respect to the KKR Parties and other Subsidiaries and/or the
+ offering that differ from the views of their respective investment banking divisions.  The KKR Parties hereby waive and release, to the fullest extent permitted by law, any claims that the KKR Parties or any other Subsidiary may have against the
+ Underwriters with respect to any conflict of interest that may arise from the fact that the views expressed by their independent research analysts and research departments may be different from or inconsistent with the views or advice
+ communicated to any KKR Party or any other Subsidiary by such Underwriters’ investment banking divisions.  The KKR Parties acknowledge that each of the Underwriters is a full service securities firm and as such from time to time, subject to
+ applicable securities laws, may effect transactions for its own account or the account of its customers and hold long or short positions in debt or equity securities of the entities that may be the subject of the transactions contemplated by this
+ Agreement.
+
+12.Representations
+
+ and Indemnities to Survive.  The respective agreements, representations, warranties, indemnities and other statements of the KKR Parties or their respective officers and of the Underwriters set forth in or made pursuant to this
+ Agreement will remain in full force and effect, regardless of any investigation made by or on behalf of the Underwriters or the KKR Parties or any of the indemnified persons referred to in Section 8 hereof, and will survive delivery of and
+ payment for the Securities.  The provisions of Sections 7 and 8 hereof shall survive the termination or cancellation of this Agreement.
+
+13.Notices. 
+
+ All communications hereunder will be in writing and effective only on receipt, and, if sent to the Representatives, will be mailed, delivered or telefaxed to:
+
+21
+
+•
+Morgan Stanley & Co. LLC, 1585 Broadway, 29th Floor, New York, New York 10036, Attention: Investment Banking Division (fax: (212) 507-8999)
+
+•
+Goldman Sachs & Co. LLC, 200 West Street, New York, New York 10282, Attention: Registration Department , Fax No.: (212) 902-9316, Email: registration-syndops@ny.email.gs.com
+
+•
+HSBC Securities (USA) Inc., 66 Hudson Boulevard, New York, New York 10001, Attention: DCM Legal Americas
+
+•
+KKR Capital Markets LLC, 30 Hudson Yards, New York, New York, 10001, Attention: Legal Department; Fax: (212) 859-4000 or email richard.chand@kkr.com
+
+•
+UBS Securities LLC, 1285 Avenue of the Americas, New York, New York 10019, Attention: Fixed Income Syndicate; Email: dl-synd-stamford@ubs.com
+
+or, if sent to any of the KKR Parties, will be mailed, delivered or telefaxed to (212) 750-0003 and confirmed to it at 30 Hudson Yards, New York, New York 10001, Attention:
+ Chief Legal Officer.
+
+14.Successors. 
+
+ This Agreement will inure to the benefit of and be binding upon the parties hereto and their respective successors and the indemnified persons referred to in Section 8 hereof and their respective successors, and no other person will have any
+ right or obligation hereunder.
+
+15.Jurisdiction.
+ KKR Group Partnership L.P. agrees that any suit, action or proceeding against it brought by any Underwriter, the directors, officers, employees and agents of any Underwriter, or by any person who controls any Underwriter, arising out of or based
+ upon this Agreement or the transactions contemplated hereby may be instituted in any State or U.S. federal court in The City of New York and County of New York, and waives any objection which either may now or hereafter have to the laying of
+ venue of any such proceeding, and each irrevocably submits to the non-exclusive jurisdiction of such courts in any suit, action or proceeding. KKR Group Partnership L.P. hereby appoints its general partner, KKR Group Holdings Corp., as its
+ authorized agent (the “Authorized Agent”) upon whom process may be served in any suit, action or proceeding arising out of or based upon this Agreement or the transactions
+ contemplated herein that may be instituted in any State or U.S. federal court in The City of New York and County of New York, by any Underwriter, the directors, officers, employees, Affiliates and agents of any Underwriter, or by any person who
+ controls any Underwriter, and expressly accepts the non-exclusive jurisdiction of any such court in respect of any such suit, action or proceeding. KKR Group Partnership L.P. hereby represents and warrants that the Authorized Agent has accepted
+ such appointment and has agreed to act as said agent for service of process, and KKR Group Partnership L.P. agrees to take any and all action, including the filing of any and all documents that may be necessary to continue such appointment in
+ full force and effect as aforesaid. Service of process upon the Authorized Agent shall be deemed, in every respect, effective service of process upon KKR Group Partnership L.P. Notwithstanding
+
+22
+
+the foregoing, any action arising out of or based upon this Agreement may be instituted by any Underwriter, the directors, officers, employees, Affiliates and agents of any
+ Underwriter, or by any person who controls any Underwriter, in any court of competent jurisdiction in the Cayman Islands.
+
+16.Integration. 
+
+ This Agreement supersedes all prior agreements and understandings (whether written or oral) between the KKR Parties and the Underwriters, or any of them, with respect to the subject matter hereof.
+
+17.Applicable
+
+ Law.  This Agreement and any claim, controversy or dispute arising under or related to this Agreement will be governed by and construed in accordance with the laws of the State of New York applicable to contracts made and to be
+ performed within the State of New York.
+
+18.Waiver
+
+ of Jury Trial.  Each of the KKR Parties hereby irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the
+ transactions contemplated hereby.
+
+19.No
+
+ Fiduciary Duty.  Each of the KKR Parties hereby acknowledges that (a) the purchase and sale of the Securities pursuant to this Agreement is an arm’s-length commercial transaction between the KKR Parties, on the one hand, and the
+ Underwriters and any Affiliate through which it may be acting, on the other, (b) the Underwriters are acting as principal and not as an agent or fiduciary of any of the KKR Parties and (c) the KKR Parties’ engagement of the Underwriters in
+ connection withthe offering and the process leading up to the offering is as independent contractors and not in any other capacity. Furthermore, each of the KKR Parties agrees that it is
+ solely responsible for making its own judgments in connection with the offering (irrespective of whether any of the Underwriters has advised or is currently advising any of the KKR Parties on related or other matters). Each of the KKR Parties
+ agrees that they will not claim that the Underwriters have rendered advisory services of any nature or respect, or owe an agency, fiduciary or similar duty to any of the KKR Parties, in connection with such transaction or the process leading
+ thereto. The KKR Parties acknowledge that in connection with the offering of the Securities none of the activities of the Underwriters in connection with the transactions contemplated herein constitutes a recommendation, investment advice, or
+ solicitation of any action by the Underwriters with respect to any entity or natural person.
+
+20.Currency.
+ Each reference in this Agreement to U.S. dollars (the “relevant currency”), including by use of the symbol “$”, is of the essence.  To the fullest extent permitted by law, the obligation of KKR Group Partnership L.P. in respect of any amount due
+ under this Agreement will, notwithstanding any payment in any other currency (whether pursuant to a judgment or otherwise), be discharged only to the extent of the amount in the relevant currency that the party entitled to receive such payment
+ may, in accordance with its normal procedures, purchase with the sum paid in such other currency (after any premium and costs of exchange) on the Business Day immediately following the day on which such party receives such payment.  If the amount
+ in the relevant currency that may be so purchased for any reason falls short of the amount originally due, KKR Group Partnership L.P. will pay such additional amounts, in the relevant currency, as may be necessary to compensate for the
+ shortfall.  Any obligation of KKR Group Partnership L.P. not discharged by such payment will, to the fullest extent permitted by
+
+23
+
+applicable law, be due as a separate and independent obligation and, until discharged as provided herein, will continue in full force and effect.
+
+21.Waiver
+
+ of Immunity. To the extent that KKR Group Partnership L.P. has or hereafter may acquire any immunity (sovereign or otherwise) from any legal action, suit or proceeding, from jurisdiction of any court or from set-off or any legal
+ process (whether service or notice, attachment in aid or otherwise) with respect to itself or any of its property, KKR Group Partnership L.P. hereby irrevocably waives and agrees not to plead or claim such immunity in respect of its obligations
+ under this Agreement.
+
+22.Waiver
+
+ of Tax Confidentiality.  Notwithstanding anything herein to the contrary, purchasers of the Securities (and each employee, representative or other agent of a purchaser) may disclose to any and all persons, without limitation of any
+ kind, the U.S. tax treatment and U.S. tax structure of any transaction contemplated herein and all materials of any kind (including opinions or other tax analyses) that are provided to the purchasers of the Securities relating to such U.S. tax
+ treatment and U.S. tax structure, other than any information for which nondisclosure is reasonably necessary in order to comply with applicable securities laws.
+
+23.Patriot
+
+ Act.  In accordance with the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)), the Underwriters are required to obtain, verify and record information that identifies their
+ respective clients, including the KKR Parties, which information may include the name and address of their respective clients, as well as other information that will allow the Underwriters to properly identify their respective clients.
+
+24.Counterparts. 
+
+ This Agreement or any document to be signed in connection with this Agreement may be signed in one or more counterparts by manual, facsimile or electronic signature, each of which shall constitute an original and all of which together shall
+ constitute one and the same agreement. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Agreement or any document to be signed in connection with this Agreement shall be deemed to include
+ electronic signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based
+ recordkeeping system, as the case may be, and the parties hereto consent to conduct the transactions contemplated hereunder by electronic means.
+
+25.Headings. 
+
+ The section headings used herein are for convenience only and shall not affect the construction hereof.
+
+26.Contractual
+
+ Recognition of Bail-In (UK). Notwithstanding and to the exclusion of any other term of this Agreement or any other agreements, arrangements or understanding among the parties to this Agreement, each of the parties to this Agreement
+ acknowledges and accepts that a UK Bail-in Liability arising under this Agreement may be subject to the exercise of UK Bail-in Powers by the relevant United Kingdom (“UK”) resolution authority, and acknowledges, accepts and agrees to be bound by:
+
+24
+
+(a)the effect of the exercise of UK Bail-in
+ Powers by the relevant UK resolution authority in relation to any UK Bail-in Liability of the Initial Purchasers to the Issuer or the Guarantors under this Agreement, which (without limitation) may include and result in any of the following or
+ some combination thereof: (w) the reduction of all, or a portion, of the UK Bail-in Liability or outstanding amounts due thereon; (x) the conversion of all, or a portion, of the UK Bail-in Liability into shares, other securities or other
+ obligations of the Initial Purchasers or another person (and the issue to or conferral on the Issuer or the Guarantors of such shares, securities or obligations); (y) the cancellation of the UK Bail-in Liability; and/or (z) the amendment or
+ alteration of any interest, if applicable, thereon, the maturity or the dates on which any payments are due, including by suspending payment for a temporary period; and
+
+(b)the variation of the terms of this Agreement,
+ as deemed necessary by the relevant UK resolution authority, to give effect to the exercise of UK Bail-in Powers by the relevant UK resolution authority.
+
+As used in this Section:
+
+“UK Bail-in Legislation” means Part I of the UK Banking Act 2009 and any other law or regulation applicable in the UK relating to the resolution of
+ unsound or failing banks, investment firms or other financial institutions or their affiliates (otherwise than through liquidation, administration or other insolvency proceedings).
+
+“UK Bail-in Liability” means a liability in respect of which the UK Bail-in Powers may be exercised.
+
+“UK Bail-in Powers” means the powers under the UK Bail-In Legislation to cancel, transfer or dilute shares issued by a person that is a bank or
+ investment firm or affiliate of a bank or investment firm, to cancel, reduce, modify or change the form of a liability of such a person or any contract or instrument under which that liability arises, to convert all or part of that liability into
+ shares, securities or obligations of that person or any other person, to provide that any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of that liability.
+
+27.Recognition
+
+ of the U.S. Special Resolution Regimes.  In the event that any Underwriter that is a Covered Entity becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer from such Underwriter of this Agreement, and
+ any interest and obligation in or under this Agreement, will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if this Agreement, and any such interest and obligation, were governed by the
+ laws of the United States or a state of the United States. In the event that any Underwriter that is a Covered Entity or a BHC Act Affiliate of such Underwriter becomes subject to a proceeding under a U.S. Special Resolution Regime, Default
+ Rights under this Agreement that may be exercised against such Underwriter are permitted to be exercised to no greater extent than such Default Rights could be exercised under the U.S. Special Resolution Regime if this Agreement were governed by
+ the laws of the United States or a state of the United States.
+
+25
+
+(a)“BHC Act Affiliate” has the meaning assigned
+ to the term “affiliate” in, and shall be interpreted in accordance with, 12 U.S.C. § 1841(k).
+
+(b)“Covered Entity” means any of the following:
+
+(i)a “covered entity” as
+ that term is defined in, and interpreted in accordance with, 12 C.F.R. § 252.82(b);
+
+(ii)a “covered bank” as
+ that term is defined in, and interpreted in accordance with, 12 C.F.R. § 47.3(b); or
+
+(iii)a “covered FSI” as that
+ term is defined in, and interpreted in accordance with, 12 C.F.R. § 382.2(b).
+
+(c)“Default Right” has the meaning assigned to
+ that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
+
+(d)“U.S. Special Resolution Regime” means each of
+ (i) the Federal Deposit Insurance Act and the regulations promulgated thereunder and (ii) Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act and the regulations promulgated thereunder.
+
+28.Investment
+
+ Advisor. With respect to any Underwriter who is affiliated with any person or entity engaged to act as an investment adviser on behalf of an advisory client or account who has or will have indirect or direct interest in the
+ Securities, the Securities being sold to such Underwriter shall not include any Securities attributable to such client (with any such Securities being allocated and sold to the other Underwriters) and, accordingly, the fees or other amounts
+ received by such Underwriter in connection with the transactions contemplated hereby shall not include any fees or other amounts attributable to such client (and, if there is any unsold allotment in the offering at the Closing Date, such unsold
+ allotment in respect of Securities attributable to such client shall be allocated solely to Underwriters not affiliated with such client).
+
+29.Definitions. 
+
+ The terms that follow, when used in this Agreement, shall have the meanings indicated.
+
+“Act” shall mean the Securities Act of 1933, as amended, and the rules and
+ regulations of the Commission promulgated thereunder.
+
+“Affiliate” shall have the meaning specified in Rule 501(b) of Regulation D.
+
+“Base Prospectus” shall mean the base prospectus referred to in Section 1(a)
+ above contained in the Registration Statement at the Execution Time.
+
+“Business Day” shall mean any day other than a Saturday, a Sunday or a legal
+ holiday or a day on which banking institutions or trust companies are authorized or obligated by law to close in The City of New York.
+
+ “Code” shall mean the Internal Revenue Code of 1986, as amended.
+
+26
+
+“Commission” shall mean the Securities and Exchange Commission.
+
+“Disclosure Package” shall mean (i) the Base Prospectus, (ii) the Preliminary
+ Prospectus used most recently prior to the Execution Time, (iii) the Issuer Free Writing Prospectuses, if any, and any other pricing information set forth in Schedule II hereto, (iv) the final term sheet prepared and filed pursuant to Section 5(b)
+ hereto, if any, and (v) any other Free Writing Prospectus that the parties hereto shall hereafter expressly agree in writing to treat as part of the Disclosure Package.
+
+“Effective Date” shall mean each date and time that the Registration Statement
+ and any post-effective amendment or amendments thereto became or becomes effective
+
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended, and
+ the rules and regulations of the Commission promulgated thereunder.
+
+“Execution Time” shall mean the date and time that this Agreement is executed and
+ delivered by the parties hereto.
+
+“Final Prospectus” shall mean the prospectus supplement relating to the
+ Securities that was first filed pursuant to Rule 424(b) after the Execution Time, together with the Base Prospectus.
+
+“Free Writing Prospectus” shall mean a free writing prospectus, as defined in
+ Rule 405.
+
+“Investment Company Act” shall mean the Investment Company Act of 1940, as
+ amended, and the rules and regulations of the Commission promulgated thereunder.
+
+“Issuer Free Writing Prospectus” shall mean an issuer free writing prospectus, as
+ defined in Rule 433.
+
+“Preliminary Prospectus” shall mean any preliminary prospectus supplement to the
+ Base Prospectus referred to in Section 1(a) above which is used prior to the filing of the Final Prospectus, together with the Base Prospectus.
+
+“Registration Statement” shall mean the registration statement referred to in
+ Section 1(a) above, including exhibits and financial statements and any prospectus supplement relating to the Securities that is filed with the Commission pursuant to Rule 424(b) and deemed part of such registration statement pursuant to Rule 430B,
+ as amended on each Effective Date and, in the event any post-effective amendment thereto becomes effective prior to the Closing Date, shall also mean such registration statement as so amended.
+
+“Regulation D” shall mean Regulation D under the Act.
+
+“Rule 158”, “Rule
+
+ 163”, “Rule 164”, “Rule 172”, “Rule
+
+ 405”, “Rule 415”, “Rule 424”, “Rule
+
+ 430B” and “Rule 433” refer to such rules under the Act.
+
+[Signature pages follow]
+
+27
+
+If the foregoing is in accordance with your understanding of our agreement, please sign and return to us the enclosed duplicate hereof, whereupon this
+ letter and your acceptance shall represent a binding agreement by and among each of the KKR Parties and the Representatives, acting on behalf of the Underwriters.
+
+Very truly yours.
+
+KKR & Co. Inc.
+
+By:
+
+/s/ Robert H. Lewin
+
+Name:Robert H. Lewin
+
+Title:Chief Financial Officer
+
+KKR Group Partnership L.P.
+
+By:
+
+KKR Group Holdings Corp., its general partner
+
+By:
+
+/s/ Robert H. Lewin
+
+Name:Robert H. Lewin
+
+Title:Chief Financial Officer
+
+1
+
+The foregoing Agreement is hereby confirmed and accepted as of the date first above written.
+
+Morgan Stanley & Co. LLC
+
+By:
+
+/s/ Hector Vazquez
+
+Name:Hector Vazquez
+
+Title:Executive Director
+
+Goldman Sachs & Co. LLC
+
+By:
+
+/s/ Thomas Healy
+
+Name:Thomas Healy
+
+Title:Managing Director
+
+HSBC Securities (USA) Inc.
+
+By:
+
+/s/ Patrice Altongy
+
+Name:Patrice Altongy
+
+Title:Managing Director
+
+KKR Capital Markets LLC
+
+By:
+
+/s/ John Knox
+
+Name:John Knox
+
+Title:CFO
+
+UBS Securities LLC
+
+By:
+
+/s/ Jay Anderson
+
+Name:Jay Anderson
+
+Title:Managing Director
+
+By:/s/ Aaditya Niranjan
+
+Name:Aaditya Niranjan
+
+Title:Director
+
+SCHEDULE I
+
+Underwriters
+
+Principal Amount of Notes to be Purchased
+
+Morgan Stanley & Co. LLC
+
+$
+
+139,500,000
+
+Goldman Sachs & Co. LLC
+
+$
+
+139,500,000
+
+HSBC Securities (USA) Inc.
+
+$
+
+139,500,000
+
+KKR Capital Markets LLC
+
+$
+
+139,500,000
+
+UBS Securities LLC
+
+$
+
+139,500,000
+
+Academy Securities, Inc.
+
+$
+
+6,750,000
+
+Barclays Capital Inc.
+
+$
+
+6,750,000
+
+Blaylock Van, LLC
+
+$
+
+6,750,000
+
+BMO Capital Markets Corp.
+
+$
+
+6,750,000
+
+BNP Paribas Securities Corp.
+
+$
+
+6,750,000
+
+BNY Mellon Capital Markets, LLC
+
+$
+
+6,750,000
+
+BofA Securities, Inc.
+
+$
+
+6,750,000
+
+CIBC World Markets Corp.
+
+$
+
+6,750,000
+
+Citigroup Global Markets Inc.
+
+$
+
+6,750,000
+
+Credit Agricole Securities (USA) Inc.
+
+$
+
+6,750,000
+
+Drexel Hamilton, LLC
+
+$
+
+6,750,000
+
+Independence Point Securities LLC
+
+$
+
+6,750,000
+
+ING Financial Markets LLC
+
+$
+
+6,750,000
+
+J.P. Morgan Securities LLC
+
+$
+
+6,750,000
+
+Loop Capital Markets LLC
+
+$
+
+6,750,000
+
+Mischler Financial Group, Inc.
+
+$
+
+6,750,000
+
+Mizuho Securities USA LLC
+
+$
+
+6,750,000
+
+RBC Capital Markets, LLC
+
+$
+
+6,750,000
+
+Santander US Capital Markets LLC
+
+$
+
+6,750,000
+
+Scotia Capital (USA) Inc.
+
+$
+
+6,750,000
+
+SG Americas Securities, LLC
+
+$
+
+6,750,000
+
+Siebert Williams Shank & Co. LLC
+
+$
+
+6,750,000
+
+SMBC Nikko Securities America, Inc.
+
+$
+
+6,750,000
+
+Standard Chartered Bank
+
+$
+
+6,750,000
+
+Stern Brothers & Co.
+
+$
+
+6,750,000
+
+Strong Capital Markets, LLC
+
+$
+
+6,750,000
+
+TD Securities (USA) LLC
+
+$
+
+6,750,000
+
+Truist Securities, Inc.
+
+$
+
+6,750,000
+
+U.S. Bancorp Investments, Inc.
+
+$
+
+6,750,000
+
+Wells Fargo Securities, LLC
+
+$
+
+6,750,000
+
+Total
+
+$
+
+900,000,000
+
+SCHEDULE II
+
+List of Free Writing Prospectuses (expressly included in the Disclosure Package):
+
+The Pricing Term Sheet in the form of Schedule III.
+
+SCHEDULE III
+
+Pricing Term Sheet
+
+[Attached]
+
+KKR & Co. Inc.
+
+5.100% Senior Notes due 2035
+
+Final Pricing Term Sheet
+
+August 4, 2025
+
+The information in this pricing term sheet should be read together with KKR & Co. Inc.’s preliminary
+ prospectus supplement dated August 4, 2025 (the “Preliminary Prospectus Supplement”), including the documents incorporated by reference therein and the related base prospectus dated May 8, 2024, filed pursuant to Rule 424(b) under the Securities Act
+ of 1933, as amended, Registration No. 333-279233. Terms not defined in this pricing term sheet have the meanings given to such terms in the Preliminary Prospectus Supplement. The information in this pricing term sheet supersedes the information in
+ the Preliminary Prospectus Supplement and the accompanying prospectus to the extent it is inconsistent with the information in the Preliminary Prospectus Supplement or the accompanying prospectus.  All references to dollar amounts are references to
+ U.S. dollars.
+
+Issuer:
+
+KKR & Co. Inc.
+
+Initial Guarantor:
+
+KKR Group Partnership L.P.
+
+Securities:
+
+5.100% Senior Notes due 2035 (the “notes”)
+
+Ranking:
+
+Senior unsecured
+
+Principal Amount 
+
+Offered:
+
+$900,000,000
+
+Trade Date:
+
+August 4, 2025
+
+Settlement Date*:
+
+August 7, 2025 (T+3)
+
+Maturity Date:
+
+August 7, 2035
+
+Coupon:
+
+5.100%
+
+Underwriting 
+
+Discount:
+
+0.650%
+
+Price to Public:
+
+99.752% of principal amount, plus accrued interest, if any, from August 7, 2025 to the date of delivery
+
+Benchmark Treasury:
+
+UST 4.250% due May 15, 2035
+
+Benchmark Treasury 
+
+Price; Yield:
+
+100-12; 4.202%
+
+Spread to Benchmark 
+
+Treasury:
+
+T+93 basis points
+
+Yield to Maturity:
+
+5.132%
+
+Interest Payment 
+
+Dates:
+
+February 7 and August 7 of each year, commencing on February 7, 2026
+
+Record Dates:
+
+Interest payments on the notes will be made to the holders of record at the close of business on January 23 or July 23, as the case may be, immediately
+ preceding such February 7 and August 7, whether or not a business day
+
+Optional Redemption:
+
+At any time prior to May 7, 2035 (three months prior to the maturity date) (the “Par Call Date”), at a make-whole price equal to the greater of (1)(a) the sum
+ of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the notes matured on the Par Call Date) on a semi-annual basis (assuming a 360-day year consisting of
+ twelve 30-day months) at the Treasury Rate plus 15 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the notes to be redeemed, plus, in either case, accrued and unpaid interest thereon
+ to, but not including, the redemption date. At any time on or after the Par Call Date, at 100% of the principal amount of the notes being redeemed, plus accrued and unpaid interest to, but not including, the redemption date
+
+Change of Control 
+
+Offer to Repurchase:
+
+If a Change of Control (as defined in the Preliminary Prospectus Supplement) occurs, the ratings on the notes are lowered in respect of a Change of Control and
+ the notes are rated below investment grade by S&P Global Ratings Services and Fitch Ratings Inc., the Issuer must offer to repurchase the notes at a purchase price equal to 101% of the principal amount plus any accrued and unpaid interest
+ to, but excluding, the repurchase date
+
+Day Count/Business 
+
+Day Convention:
+
+30/360 Following, Unadjusted
+
+Gross Proceeds (before 
+
+expenses and 
+
+underwriting 
+
+discount):
+
+$897,768,000
+
+Denominations:
+
+$2,000 and integral multiples of $1,000 in excess thereof
+
+Expected Ratings**:
+
+S&P: A / Stable / Fitch: A / Stable
+
+CUSIP / ISIN:
+
+48251WAB0 / US48251WAB00
+
+Joint Book-Running 
+
+Managers:
+
+Morgan Stanley & Co. LLC
+
+Goldman Sachs & Co. LLC
+
+HSBC Securities (USA) Inc.
+
+KKR Capital Markets LLC
+
+UBS Securities LLC
+
+Co-Managers:
+
+Academy Securities, Inc.
+
+Barclays Capital Inc.
+
+Blaylock Van, LLC
+
+BMO Capital Markets Corp.
+
+BNP Paribas Securities Corp.
+
+BNY Mellon Capital Markets, LLC
+
+BofA Securities, Inc.
+
+CIBC World Markets Corp.
+
+Citigroup Global Markets Inc.
+
+Credit Agricole Securities (USA) Inc.
+
+Drexel Hamilton, LLC
+
+Independence Point Securities LLC
+
+ING Financial Markets LLC
+
+J.P. Morgan Securities LLC
+
+Loop Capital Markets LLC
+
+Mischler Financial Group, Inc.
+
+Mizuho Securities USA LLC
+
+RBC Capital Markets, LLC
+
+Santander US Capital Markets LLC
+
+Scotia Capital (USA) Inc.
+
+SG Americas Securities, LLC
+
+Siebert Williams Shank & Co. LLC
+
+SMBC Nikko Securities America, Inc.
+
+Standard Chartered Bank
+
+Stern Brothers & Co.
+
+Strong Capital Markets, LLC
+
+TD Securities (USA) LLC
+
+Truist Securities, Inc.
+
+U.S. Bancorp Investments, Inc.
+
+Wells Fargo Securities, LLC
+
+*Note: Under Rule 15c6-1 under the Securities Exchange Act of 1934, as amended, trades in the secondary market are required to settle in one business
+ day, unless the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the notes prior to the first business day before the delivery of the notes will be required, by virtue of the fact that the notes initially
+ settle in T+3, to specify an alternate settlement arrangement at the time of any such trade to prevent a failed settlement. Purchasers of the notes who wish to trade the notes during such period should consult their advisors.
+
+**Note: A security rating is not a recommendation to buy, sell or hold securities and should be evaluated independently of any other rating. Each rating
+ is subject to revision or withdrawal at any time by the assigning rating organization.
+
+The Issuer has filed a registration statement, including the Preliminary Prospectus Supplement and the accompanying prospectus, with the Securities and Exchange Commission
+ for the offering to which this communication relates. Before you invest, you should read the Preliminary Prospectus Supplement and the accompanying prospectus in that registration statement and other documents the Issuer has filed with the Securities
+ and Exchange Commission (the “SEC”) for more complete information about the Issuer and this offering. You may get these documents for free by visiting the SEC’s website at www.sec.gov. Alternatively, the joint book-running managers will arrange to
+ send you the prospectus supplement if you request it by calling Morgan Stanley & Co. LLC toll-free at 1-866-718-1649 or emailing prospectus@morganstanley.com; Goldman Sachs & Co. LLC toll-free at 1-866-471-2526 or emailing
+ prospectus-ny@ny.email.gs.com; HSBC Securities (USA) Inc. toll-free at 1-866-811-8049; KKR Capital Markets LLC toll-free at 1-212-230-9433; or UBS Securities LLC toll-free at 1-833-481-0269.
+
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED.  SUCH DISCLAIMERS OR OTHER
+ NOTICES WERE AUTOMATICALLY GENERATED AS A RESULT OF THIS COMMUNICATION BEING SENT VIA BLOOMBERG OR ANOTHER EMAIL SYSTEM.
+
+EXHIBIT A-1
+
+FORM OF OPINION TO BE PROVIDED BY
+
+SIMPSON THACHER & BARTLETT LLP
+
+[Attached]
+
+EXHIBIT A-2
+
+FORM OF DISCLOSURE LETTER TO BE PROVIDED BY
+
+SIMPSON THACHER & BARTLETT LLP
+
+[Attached]
+
+EXHIBIT B
+
+FORM OF OPINION TO BE PROVIDED BY
+
+MAPLES AND CALDER GROUP – SPECIAL CAYMAN COUNSEL
+
+[Attached]
+
+EXHIBIT C
+
+FORM OF CHIEF FINANCIAL OFFICER CERTIFICATE
+
+KKR & CO. INC.
+
+CHIEF FINANCIAL OFFICER’S CERTIFICATE
+
+August [•], 2025
+
+I, Robert H. Lewin, as Chief Financial Officer of KKR & Co. Inc., a Delaware corporation (the “Company”) who is issuing $[•] principal amount of its [•]% Senior Notes due 2035 (the “Notes”), do hereby certify, in my capacity as an officer of
+ the Company and not in my individual capacity, on behalf of the Company that:
+
+1.I am providing this certificate in
+ connection with the offering (the “Offering”) of the Notes by the Company and related guarantees on the terms and subject to the conditions described in the final prospectus
+ supplement dated August [•], 2025 (the “FinalProspectus Supplement”).
+
+2.I am knowledgeable with respect to the
+ accounting records and internal accounting practices, policies, procedures and controls of the Company and its consolidated subsidiaries and have had responsibility for financial and accounting matters with respect to the Company and its
+ consolidated subsidiaries.
+
+3.I have read and am familiar with the
+ Final Prospectus Supplement and the financial statements and other financial and statistical information set forth or incorporated by reference therein, including the audited consolidated statements of the financial condition of the Company as of
+ December 31, 2024; the audited consolidated statements of operations, changes in equity and cash flows of the Company for the year ended December 31, 2024; the unaudited consolidated statements of the financial condition of the Company as of
+ March 31, 2025; the unaudited consolidated statements of operations, changes in equity and cash flows of the Company for the quarter ended March 31, 2025 and the unaudited condensed consolidated results of operations and segment operating results
+ for the six months ended June 30, 2025.
+
+4.I have reviewed the circled information
+ contained on the attached Exhibit A and marked with an “A” (the “Tickmark A Circled Information”), which is included or incorporated by reference in the Final Prospectus
+ Supplement.  As of the date hereof, the Tickmark A Circled Information is accurately derived from internal records or schedules prepared by management.
+
+Capitalized terms used herein and not otherwise defined have the meanings assigned to them in the Underwriting Agreement, dated August [•], 2025, among
+ the Company, the other KKR Parties as defined therein and party thereto and the Underwriters named in Schedule I thereto.
+
+This certificate is being furnished to the Underwriters of the Offering solely to assist them in conducting their investigation of the Company and its
+ subsidiaries in order to establish appropriate defenses under applicable securities laws or other similar laws relating to disclosure to investors, in connection with the Offering.
+
+[Signature page follows]
+
+IN WITNESS WHEREOF, the undersigned has executed and delivered this Officer’s Certificate on behalf of the Company as of the date first written above.
+
+KKR & Co. Inc.
+
+By:
+
+Robert H. Lewin
+
+Chief Financial Officer

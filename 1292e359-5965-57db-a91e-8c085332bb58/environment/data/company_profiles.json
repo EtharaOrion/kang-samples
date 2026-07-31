@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "ADBE",
+    "cik": "0000796343",
+    "companyName": "ADOBE INC.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1127",
+    "city": "SAN JOSE",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "CRM",
+    "cik": "0001108524",
+    "companyName": "Salesforce, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "SAN FRANCISCO",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "NOW",
+    "cik": "0001373715",
+    "companyName": "ServiceNow, Inc.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "SANTA CLARA",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "INTU",
+    "cik": "0000896878",
+    "companyName": "INTUIT INC.",
+    "sic": "7372",
+    "sicDescription": "Services-Prepackaged Software",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0731",
+    "city": "MOUNTAIN VIEW",
+    "stateOrCountry": "CA"
+  }
+]

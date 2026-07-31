@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability"
+description = "Develop a grounded, position-taking view on whether Palo Alto Networks' platformization strategy is producing durable, high-quality recurring demand — testing its billings/RPO growth, NGS ARR mix shift, deal-financing trade-offs, and margin/FCF quality against competition."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "PANW"]
+
+[metadata]
+uuid = "8161efaa-aea0-51bc-b16e-e67bb257e9de"
+difficulty_explanation = "The analyst must separate genuine forward-demand durability from growth that is pulled forward by multi-year customer financing and inflated by the CyberArk and Chronosphere acquisitions, using RPO, deferred revenue, and revenue-mix signals across the 10-K, 10-Q, and financial statements. It requires reconciling headline strength (rising RPO, an 80%-plus subscription mix, and strong free cash flow) against management's own caveats that NGS ARR and RPO are non-GAAP metrics that do not represent GAAP revenue, plus cash-timing and competitive counter-evidence. Reaching a single defensible position — rather than listing metrics in parallel — is what makes the task hard."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

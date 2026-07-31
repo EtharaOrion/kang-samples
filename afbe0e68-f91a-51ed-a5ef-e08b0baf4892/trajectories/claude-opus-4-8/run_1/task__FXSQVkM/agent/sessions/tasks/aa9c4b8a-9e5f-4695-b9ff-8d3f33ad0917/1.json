@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Write premium-spend durability analysis to /app/answer.txt",
+  "description": "Synthesize AXP financials + filings into a 4-theme analysis with a clear position, grounded in /app/data files. Awaiting 3 extraction agents (press releases, 10-Ks, 10-Qs).",
+  "activeForm": "Awaiting extraction agents, then writing analysis",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

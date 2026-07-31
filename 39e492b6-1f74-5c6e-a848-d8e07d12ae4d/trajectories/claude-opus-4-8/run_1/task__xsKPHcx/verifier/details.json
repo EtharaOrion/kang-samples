@@ -1,0 +1,395 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Unit-Revenue Durability as ASMs Grow",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent traces FY2025 erosion with PRASM falling from 16.66\u00a2 to 16.18\u00a2, TRASM from 18.34\u00a2 to 17.88\u00a2, and ASMs growing 6.1%, concluding that capacity growth diluted unit revenue. The capacity-versus-unit-revenue relationship was flagged as unsupported in the verification evidence.",
+        "b": "The agent contrasts Q1 2026 capacity growth of 3.4% with PRASM of 16.95\u00a2, TRASM of 18.80\u00a2, and a return to positive yield, judging that slower supply growth restored pricing. The asserted reversal relationship, including that capacity growth had effectively halved, appears among the flagged claims.",
+        "c": "The agent provides meaningful geographic decomposition, especially domestic PRASM and capacity comparisons, but does not analyze the required load-factor swing from 82.2% in FY2025 to 81.6% in Q1 2026. Geographic analysis alone does not complete this combined move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Premium and Loyalty Mix as Unit-Revenue Defense",
+      "moves_hit": [
+        "b"
+      ],
+      "moves_missed": [
+        "a",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent sizes Chase-related recognition at $870 million in Q1 2026 and discusses the loyalty liability, but never states that MileagePlus flight awards represented approximately 10.3% of total RPMs. Thus it does not complete the specified two-part sizing move.",
+        "b": "The agent identifies ancillary fees of $4.8 billion in 2025 versus $4.5 billion and $4.1 billion previously, and connects United Next's Basic-Economy-to-Polaris segmentation to structural revenue support.",
+        "c": "The answer discusses loyalty and co-brand growth as a cushion, but it does not explicitly compare roughly 10% growth in total Other operating revenue with passenger-revenue growth to show that Other revenue was outpacing and supporting TRASM."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cost Trajectory (CASM and Fuel) versus Margin",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives the 16.99\u00a2 to 16.70\u00a2 to 16.46\u00a2 CASM path and distinguishes cheaper fuel from underlying CASM-ex and labor pressure, characterizing 2025's improvement as fuel-assisted. The CASM series and parts of the fuel comparison were flagged as unsupported in the verification evidence.",
+        "b": "The answer states that Q1 2026 CASM rose to 17.52\u00a2, fuel returned to $2.78 per gallon, fuel expense rose 12.6%, and salaries rose 9.8%, then assesses the resulting margin threat. Its labor-driven CASM-ex attribution and fuel-tailwind-to-headwind framing were flagged.",
+        "c": "The agent reconciles operating results with costs by noting FY2025 margin compression and explaining that Q1 2026's unit-revenue recovery was largely absorbed by fuel and labor inflation, with GAAP improvement inflated by special gains. This reconciliation relies in part on flagged revenue, fuel, and labor claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive Capacity Discipline and the Durability Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent benchmarks United against Delta, American, and Southwest using quarterly revenue growth and operating-margin comparisons, including United's relative Q1 strength and Delta's stronger peak-quarter conversion. Nearly all peer figures and rankings used for this move were flagged as unverifiable from the supplied evidence.",
+        "b": "The answer weighs United's warnings about price discounting and competitor capacity against its 6.1% ASM growth and large United Next fleet ramp, concluding that growth is a unit-revenue risk unless capacity is restrained. Supporting claims about the supply inflection, management actions, and aircraft commitments were flagged.",
+        "c": "The agent explicitly reconciles FY2025 PRASM/TRASM erosion under faster capacity growth with Q1 2026 recovery under slower growth, concluding that unit-revenue durability is real but conditional while margin durability is cost-gated. It also engages counter-evidence, including the limits of one quarter and rising costs, but the central capacity-versus-unit-revenue evidence was flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "When United grew capacity 6-7% through 2025, unit revenue fell every quarter; when it decelerated capacity to +3.4% in Q1 2026, unit revenue snapped positive.",
+      "cited_file": null,
+      "issue": "The passages contain income-statement amounts but no capacity-growth or unit-revenue figures needed for this comparison.",
+      "evidence_check": "Checked the supplied UAL income-statement excerpts for ASMs, PRASM, TRASM, or the cited percentages; none appear."
+    },
+    {
+      "claim": "Labor-driven CASM-ex has inflected upward (+5.9% YoY in Q1 2026)",
+      "cited_file": "press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "The +5.9% CASM-ex increase is supported, but the passages do not attribute that increase specifically to labor.",
+      "evidence_check": "Found CASM-ex of 13.95 cents versus 13.17 cents, up 5.9%; no labor-causation statement appears in the supplied passages."
+    },
+    {
+      "claim": "fuel has flipped from a 2025 tailwind to a 2026 headwind.",
+      "cited_file": null,
+      "issue": "The supplied passages contain no fuel expense or fuel-price comparisons.",
+      "evidence_check": "Checked the income-statement excerpts for aircraft fuel, average fuel price, or year-over-year fuel changes; none are provided."
+    },
+    {
+      "claim": "it is now restraining supply defensively \u2014 because of fuel, not because demand collapsed.",
+      "cited_file": "press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "No passage was supplied to substantiate the asserted motivation or the claim that demand had not collapsed.",
+      "evidence_check": "The evidence block reports no local match for this claim."
+    },
+    {
+      "claim": "Q3 2025 is the cleanest proof of the inverse relationship \u2014 United's worst unit-revenue quarter in the dataset.",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain unit-revenue data for the dataset, so the 'worst' ranking cannot be checked.",
+      "evidence_check": "Checked the income-statement excerpts for PRASM or TRASM; neither metric appears."
+    },
+    {
+      "claim": "an industry \"supply inflection beginning in mid-August, similar to 2024\"",
+      "cited_file": "press_releases/ual_2025-10-15_8-k.txt",
+      "issue": "The attributed quote does not appear in the supplied Q3 2025 release passages.",
+      "evidence_check": "Searched the provided passages for 'supply inflection,' 'mid-August,' and 'similar to 2024'; none occur."
+    },
+    {
+      "claim": "Capacity growth halved to +3.4%",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt; press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "The +3.4% figure is supported, but the comparison value required to establish that growth 'halved' is absent.",
+      "evidence_check": "Found Q1 2026 capacity growth of 3.4%; no preceding approximately 6.8% comparison appears in the supplied passages."
+    },
+    {
+      "claim": "Premium and loyalty revenue grew double digits THROUGHOUT the 2025 decline",
+      "cited_file": null,
+      "issue": "The passages contain no premium- or loyalty-revenue growth rates for 2025.",
+      "evidence_check": "Checked the supplied income-statement excerpts for premium and loyalty metrics; none appear."
+    },
+    {
+      "claim": "the Q1 2026 quarter is seasonally weak (airline Q1 is the trough)",
+      "cited_file": null,
+      "issue": "The passages do not establish airline seasonality or identify Q1 as the trough.",
+      "evidence_check": "Searched the supplied excerpts for 'seasonal,' 'seasonally weak,' and 'trough'; no supporting statement appears."
+    },
+    {
+      "claim": "The recovery is a two-quarter sequential improvement (Q3 \u2192 Q4 \u2192 Q1)",
+      "cited_file": null,
+      "issue": "No passages were supplied with the three-quarter sequence needed to verify this trend.",
+      "evidence_check": "The evidence block reports no local match."
+    },
+    {
+      "claim": "The peer income statements contain NO Q4 quarters for any carrier (only Q1/Q2/Q3 for 2023-2025 plus 2026 Q1)",
+      "cited_file": "financials/income_statement/*_income_statement.json",
+      "issue": "Only excerpts from UAL's income-statement file are supplied, so the assertion about every peer file cannot be verified.",
+      "evidence_check": "Reviewed the supplied file excerpts; no DAL, AAL, or LUV income-statement contents are shown."
+    },
+    {
+      "claim": "premium and loyalty grew every quarter",
+      "cited_file": "press_releases/ual_2025-07-16_8-k.txt; press_releases/ual_2025-10-15_8-k.txt; press_releases/ual_2026-01-20_8-k.txt; press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "No passages were supplied for the claimed every-quarter comparison.",
+      "evidence_check": "The evidence block reports no local match."
+    },
+    {
+      "claim": "ACCELERATED into the unit-revenue recovery (+14% / +13% in Q1 2026)",
+      "cited_file": "press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "The Q1 2026 premium and loyalty growth rates are supported, but prior-period rates needed to show acceleration are absent.",
+      "evidence_check": "Found premium revenue up 14% and loyalty revenue up 13%; no comparison periods appear in these passages."
+    },
+    {
+      "claim": "consistently outgrew Basic Economy",
+      "cited_file": "press_releases/ual_2025-07-16_8-k.txt; press_releases/ual_2025-10-15_8-k.txt; press_releases/ual_2026-01-20_8-k.txt; press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "Only the Q1 2026 comparison is supplied, not the multiple periods required by 'consistently.'",
+      "evidence_check": "Found Q1 2026 premium growth of 14%, loyalty growth of 13%, and Basic Economy growth of 7%; no other quarters appear."
+    },
+    {
+      "claim": "This revenue stream is tied to cardholder SPEND, not to airfare",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The passage says increased mileage revenue included credit-card spending, but does not say the entire revenue stream is exclusively tied to cardholder spend rather than airfare.",
+      "evidence_check": "Found 'including credit card spending' and broader references to mileage revenue from partner agreements; no exclusive 'not airfare' characterization appears."
+    },
+    {
+      "claim": "premium and loyalty growth of +5-14% did NOT prevent blended PRASM from falling -2.9% for full-year 2025",
+      "cited_file": "sec_filings/10-k/ual_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the claimed +5% to +14% premium and loyalty growth range or the cited PRASM comparison.",
+      "evidence_check": "Checked all supplied passages for premium revenue, loyalty revenue, and -2.9% PRASM; those figures are absent."
+    },
+    {
+      "claim": "A ~$700M year-over-year swing in the fuel line, from tailwind to headwind, in two quarters.",
+      "cited_file": null,
+      "issue": "The supplied passages do not provide the two fuel-expense changes needed to calculate a roughly $700 million swing.",
+      "evidence_check": "The Q2 excerpt supplies operating statistics but no year-over-year fuel-expense dollar change, and no Q1 2026 fuel comparison is included."
+    },
+    {
+      "claim": "FY 2025    +0.4%          (n/a)",
+      "cited_file": "press_releases/ual_2026-01-20_8-k.txt",
+      "issue": "The supplied passage actually provides the full-year CASM-ex value, so labeling it 'n/a' is contradicted by the evidence.",
+      "evidence_check": "Found FY2025 CASM-ex of 12.64 cents versus 12.58 cents, up 0.4%."
+    },
+    {
+      "claim": "ratification voting closing May 12, 2026",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The supplied passages for this claim do not contain the May 12, 2026 date or a ratification-vote statement.",
+      "evidence_check": "Searched the provided excerpts for 'May 12, 2026,' 'ratification,' and 'voting'; none appear."
+    },
+    {
+      "claim": "The CASM line in the 10-K improved (16.46\u00a2 vs 16.70\u00a2 vs 16.99\u00a2 across 2025/2024/2023)",
+      "cited_file": "sec_filings/10-k/ual_2025_10-k.txt",
+      "issue": "None of the three asserted CASM values appears in the supplied passages for this claim.",
+      "evidence_check": "Checked the supplied 10-K excerpts for 16.46, 16.70, and 16.99; no match appears."
+    },
+    {
+      "claim": "best of any quarter in the seasonally weak Q1 series",
+      "cited_file": "financials/income_statement/ual_income_statement.json",
+      "issue": "No evidence was supplied for either the Q1-series ranking or the seasonality characterization.",
+      "evidence_check": "The evidence block reports no local match."
+    },
+    {
+      "claim": "in Q1 2026 United \"took immediate and decisive actions ... including reducing lower-margin capacity and adjusting fares and fees\"",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The attributed quotation is absent from the supplied passages.",
+      "evidence_check": "Searched the provided excerpts for 'immediate and decisive actions,' 'lower-margin capacity,' and 'adjusting fares and fees'; none appear."
+    },
+    {
+      "claim": "Q1 2026 firm commitments detailed at sec_filings/10-q/ual_2026q1_10-q.txt, line 1374",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The supplied passages do not show line 1374 or any firm-aircraft-commitments details.",
+      "evidence_check": "Reviewed the provided 10-Q excerpts; they contain filing headers, balance-sheet material, and cash-flow data, but no firm-commitment table."
+    },
+    {
+      "claim": "The Q3 2025 release cited an industry \"supply inflection beginning in mid-August, similar to 2024\" as the trigger for the -5.0% PRASM quarter",
+      "cited_file": "press_releases/ual_2025-10-15_8-k.txt",
+      "issue": "The -5.0% PRASM result is present, but the attributed supply-inflection quote and causal 'trigger' statement are absent from the Q3 release passages.",
+      "evidence_check": "Found consolidated PRASM down 5.0%; searched for 'supply inflection,' 'mid-August,' and 'similar to 2024' with no match."
+    },
+    {
+      "claim": "Q1 2025 operating margin 4.59% led the group",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "UAL's margin can be calculated, but no peer data are supplied to establish that it led the group.",
+      "evidence_check": "Found UAL revenue of $13.213 billion and operating income of $607 million; no DAL, AAL, or LUV Q1 2025 figures appear."
+    },
+    {
+      "claim": "Q1 2026 operating margin 6.82% was the highest of ANY carrier that quarter",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "UAL's 6.82% margin is calculable, but no peer-quarter figures are supplied for the superlative comparison.",
+      "evidence_check": "Found UAL revenue of $14.608 billion and operating income of $997 million; no DAL, AAL, or LUV Q1 2026 values appear."
+    },
+    {
+      "claim": "DAL fell to 3.16%",
+      "cited_file": "financials/income_statement/dal_income_statement.json",
+      "issue": "No Delta income-statement figures are present in the supplied passages.",
+      "evidence_check": "The passages are unrelated UAL materials and contain no DAL revenue or operating income supporting 3.16%."
+    },
+    {
+      "claim": "AAL was NEGATIVE at -0.29%",
+      "cited_file": "financials/income_statement/aal_income_statement.json",
+      "issue": "No American Airlines income-statement figures are present in the supplied passages.",
+      "evidence_check": "The passages are UAL materials and contain no AAL revenue or operating income supporting -0.29%."
+    },
+    {
+      "claim": "Q2 2025 DAL operating margin 12.63% vs UAL 8.70%",
+      "cited_file": "financials/income_statement/{dal,ual}_income_statement.json",
+      "issue": "UAL's figures are supplied, but Delta's figures and the 12.63% comparison are absent.",
+      "evidence_check": "Found UAL Q2 revenue of $15.236 billion and operating income of $1.325 billion; no DAL Q2 data appear."
+    },
+    {
+      "claim": "Q3 2025 DAL 10.10% vs UAL 9.16%",
+      "cited_file": "financials/income_statement/{dal,ual}_income_statement.json",
+      "issue": "UAL's figures are supplied, but Delta's figures and the 10.10% comparison are absent.",
+      "evidence_check": "Found UAL Q3 revenue of $15.225 billion and operating income of $1.395 billion; no DAL Q3 data appear."
+    },
+    {
+      "claim": "AAL is structurally weakest (negative operating margin in Q1 2025 -2.15% and Q1 2026 -0.29%)",
+      "cited_file": "financials/income_statement/aal_income_statement.json",
+      "issue": "The supplied passages contain no AAL figures for either quarter and cannot support the structural ranking.",
+      "evidence_check": "Reviewed the provided evidence; it consists of UAL income-statement excerpts only."
+    },
+    {
+      "claim": "LUV posted the biggest swing (Q1 2026 operating margin +4.55%, its best Q1 in the dataset)",
+      "cited_file": "financials/income_statement/luv_income_statement.json",
+      "issue": "The supplied passages contain no Southwest figures or Q1-series comparison.",
+      "evidence_check": "Reviewed the evidence for LUV revenue, operating income, and prior Q1 margins; none are present."
+    },
+    {
+      "claim": "2026 Q1 YoY revenue growth was UAL +10.56%, DAL +12.92%, AAL +10.84%, LUV +12.77%",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "Only UAL's Q1 2025 and Q1 2026 revenue values are supplied; the three peer growth rates cannot be checked.",
+      "evidence_check": "Verified UAL's $14.608 billion versus $13.213 billion, approximately +10.56%; no DAL, AAL, or LUV revenue values appear."
+    },
+    {
+      "claim": "United did NOT out-grow the field on the top line.",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "No peer top-line growth data are supplied for the field comparison.",
+      "evidence_check": "The provided passages are unrelated UAL filings and do not contain comparative DAL, AAL, or LUV revenue growth."
+    },
+    {
+      "claim": "Q1 2026 operating cash flow $4,799M was the highest in the group (+29% YoY) vs DAL $2,432M, AAL $4,223M, LUV $1,418M",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "Income-statement passages do not contain the asserted operating-cash-flow figures or peer comparisons.",
+      "evidence_check": "Searched the supplied passages for $4,799M, $2,432M, $4,223M, and $1,418M; none appear."
+    },
+    {
+      "claim": "DAL posted a Q1 2026 NET LOSS of -$289M despite +$501M operating income (~$715M of below-the-line drag)",
+      "cited_file": "financials/income_statement/dal_income_statement.json",
+      "issue": "No Delta Q1 2026 income-statement data are supplied.",
+      "evidence_check": "The passages show UAL figures and an unrelated UAL balance sheet; -$289M, $501M, and approximately $715M do not appear."
+    },
+    {
+      "claim": "the peer income-statement files contain NO Q4 quarters for any carrier",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "The supplied passages do not show the contents of all four peer files.",
+      "evidence_check": "Reviewed the evidence; it contains unrelated UAL 8-K passages rather than the four income-statement datasets."
+    },
+    {
+      "claim": "Grow ASMs 6-7% and unit revenue falls 3-5% (2025)",
+      "cited_file": null,
+      "issue": "The supplied passages contain neither ASM growth nor unit-revenue changes.",
+      "evidence_check": "Checked the UAL income-statement excerpts for ASMs, PRASM, and TRASM; none appear."
+    },
+    {
+      "claim": "a $7.9B and still-growing frequent-flyer deferred-revenue book",
+      "cited_file": "sec_filings/10-q/ual_2026q1_10-q.txt; press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "The supplied passage contains no frequent-flyer deferred-revenue balance or growth history.",
+      "evidence_check": "Searched the provided excerpt for 'frequent flyer deferred revenue,' '$7.9B,' and '$7,934M'; no match appears."
+    },
+    {
+      "claim": "a $3.2B/yr Chase co-brand stream",
+      "cited_file": "sec_filings/10-k/ual_2025_10-k.txt",
+      "issue": "The $3.2 billion amount covers revenue associated with various partner agreements, including but not limited to the co-brand agreement; the passage does not identify all $3.2 billion as a Chase-only stream.",
+      "evidence_check": "Found $3.2 billion tied to 'various partner agreements including, but not limited to, our Co-Brand Agreement.'"
+    },
+    {
+      "claim": "Fuel has flipped from a $360M FY2025 tailwind to a +12.6%/+$339M Q1 2026 headwind",
+      "cited_file": "sec_filings/10-k/ual_2025_10-k.txt; sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The Q1 2026 increase is supported, but the supplied passages do not contain the asserted $360 million FY2025 decrease.",
+      "evidence_check": "Found Q1 fuel expense up $339 million, or 12.6%; no FY2025 $360 million fuel decrease appears in this claim's passages."
+    },
+    {
+      "claim": "United has the best trough-quarter margins",
+      "cited_file": "financials/income_statement/{ual,dal,aal,luv}_income_statement.json",
+      "issue": "No peer margin data or definition of the trough quarter are supplied.",
+      "evidence_check": "The passages are unrelated UAL filing excerpts and provide no four-carrier margin comparison."
+    },
+    {
+      "claim": "the strongest premium/loyalty franchise and balance sheet in the peer set",
+      "cited_file": null,
+      "issue": "No peer-set premium, loyalty, or balance-sheet comparisons are supplied to support both superlatives.",
+      "evidence_check": "The evidence block reports no local match."
+    },
+    {
+      "claim": "Absolute premium/loyalty revenue dollars are not disclosed; only growth rates and a 12%-of-seats figure",
+      "cited_file": "press_releases/ual_2025-07-16_8-k.txt; press_releases/ual_2025-10-15_8-k.txt; press_releases/ual_2026-01-20_8-k.txt; press_releases/ual_2026-04-21_8-k.txt",
+      "issue": "The supplied passages do not include the 12%-of-seats figure or enough of all cited releases to verify the claimed disclosure limitation.",
+      "evidence_check": "Reviewed the excerpts for absolute premium/loyalty dollars and '12%'; neither the seat-share figure nor a complete disclosure set appears."
+    },
+    {
+      "claim": "Peer files lack all Q4 quarters",
+      "cited_file": "financials/income_statement/*_income_statement.json",
+      "issue": "The supplied passages do not show the peer income-statement files or their period coverage.",
+      "evidence_check": "The evidence consists of unrelated UAL press-release passages, not the wildcard income-statement datasets."
+    },
+    {
+      "claim": "Q1 is seasonally weak",
+      "cited_file": null,
+      "issue": "No supplied passage establishes this seasonality claim.",
+      "evidence_check": "The evidence block reports no local match."
+    },
+    {
+      "claim": "the Q3->Q4->Q1 sequential narrowing gives it trend support.",
+      "cited_file": null,
+      "issue": "No supplied passages contain the three-quarter sequence needed to verify the asserted narrowing.",
+      "evidence_check": "The evidence block reports no local match."
+    }
+  ],
+  "synthesis_found": "The reconciliation of the 2025-decline vs 2026-recovery conflict is that the 2025 unit-revenue erosion was a SUPPLY phenomenon \u2014 United's own growth plus industry-wide oversupply \u2014 not erosion of United's pricing power or brand.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/ual_income_statement.json",
+    "press_releases/ual_2025-07-09_8-k.txt",
+    "press_releases/ual_2025-07-16_8-k.txt",
+    "press_releases/ual_2025-10-15_8-k.txt",
+    "press_releases/ual_2026-01-20_8-k.txt",
+    "press_releases/ual_2026-04-21_8-k.txt",
+    "sec_filings/10-k/ual_2025_10-k.txt",
+    "sec_filings/10-q/ual_2025q3_10-q.txt",
+    "sec_filings/10-q/ual_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 147,
+  "grounding_claims_no_match": 10,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

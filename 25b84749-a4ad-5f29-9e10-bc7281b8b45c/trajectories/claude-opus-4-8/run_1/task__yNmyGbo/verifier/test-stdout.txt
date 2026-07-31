@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Commercial Aftermarket as the Primary Growth Engine', 'The GTF Powder-Metal Charge: One Accounting Event, a Multi-Year Cash Tail', "Does Aftermarket Growth Actually Repair Pratt & Whitney's Segment Economics?", 'Consolidated Cash, Margin, and Competitive Positioning: The Net Verdict']
+Cited files: 12

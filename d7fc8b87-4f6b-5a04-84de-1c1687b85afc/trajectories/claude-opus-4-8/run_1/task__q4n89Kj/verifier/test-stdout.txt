@@ -1,0 +1,5 @@
+Score: 1/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: ['Regulatory and Tax Overhang']
+Themes missed: ['Demand Durability and the Quality of Growth', 'Take-Rate Expansion and the Single-Fee Transition', 'Cash Generation, Margins, and the Investment Verdict']
+Cited files: 21

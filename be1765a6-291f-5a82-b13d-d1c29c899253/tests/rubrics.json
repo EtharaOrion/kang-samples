@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process materially explores every analytically relevant source family rather than relying on a narrow subset or on filenames alone.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for directory enumeration plus content inspection across company profiles, Snowflake financial statements, annual filings, quarterly filings, press releases, and peer financial files, with files classified by likely analytical use."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into testable questions covering consumption-led revenue durability, forward contract indicators, economic profitability, and AI-related competitive effects.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an issue tree, question list, hypothesis map, or equivalent planning artifact that makes the major analytical questions explicit before synthesis."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process operationalizes key metrics with definitions that prevent unlike concepts from being treated as interchangeable.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for metric definitions or comparison rules distinguishing items such as consumption revenue from ratable subscriptions, obligations from consumption timing, product margin from total margin, company-defined from mechanical free cash flow, and weighted-average from period-end shares."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "Substantive factual inferences are formed only after the relevant underlying sources have been opened and inspected.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect trajectory ordering for source reads preceding extraction notes, calculations, or interpretive claims about retention, obligations, revenue, margins, cash flow, equity costs, AI adoption, or competitive risks."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively searches for evidence that could contradict the emerging interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for targeted searches or a two-sided evidence artifact addressing disconfirming evidence such as retention deceleration, obligation seasonality, billing-cadence effects, stock-compensation economics, AI infrastructure costs, or evidence of operating improvement despite risks."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "Plausible alternative explanations are tested for their effect on the developing view rather than merely being listed.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for explicit tests of whether observed changes could reflect seasonality, optimization, contract timing, working capital, definition changes, product availability without monetization, or other alternatives, followed by a documented interpretation of what survives the test."
+    },
+    {
+      "id": "c8",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process maintains an auditable distinction between reported observations and analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a workbook, table, code output, or calculation log showing reported inputs, derived outputs, formulas, periods, units, and relevant definition caveats for calculations used in the analysis."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Comparability is checked before performing cross-period or peer analysis.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for checks concerning standalone versus year-to-date quarters, fiscal-calendar alignment, restatements, revenue-recognition differences, business mix, margin definitions, free-cash-flow definitions, or share-count conventions before comparisons are made."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The process integrates conflicting evidence through a causal explanation that connects consumption, contractual visibility, gross profit, equity costs, and AI economics.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a synthesis section or pre-writing outline that explains how the major evidence categories interact and why some observations are more decision-relevant, temporary, or structural than others."
+    },
+    {
+      "id": "c11",
+      "concern": "position_taking",
+      "text": "The synthesis states a direct, falsifiable position resolving the linked questions of growth durability and margin-path credibility.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look near the start of the synthesis or final response for an explicit stance, such as strong, conditional, or weak durability and credible, delayed, or impaired margin progression, rather than a neutral catalogue of facts."
+    },
+    {
+      "id": "c12",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly preserves material uncertainty when the available evidence cannot establish a conclusion.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity log or clearly marked limitations concerning matters such as AI monetization, obligation-conversion timing, causal attribution, definition changes, or the path from cash generation to GAAP profitability, without unsupported gap-filling."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-07-30T19:06:50.830551Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "harbor",
+        "run",
+        "-p",
+        "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/task",
+        "-a",
+        "claude-code",
+        "-m",
+        "claude-opus-4-8",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/hb_overlay.yaml",
+        "-o",
+        "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "VerifierOutputParseError",
+            "RewardFileEmptyError",
+            "AgentTimeoutError",
+            "VerifierTimeoutError",
+            "RewardFileNotFoundError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:7ab84a77dead05e0c5e25b0e0b81fc3f94f86ea46175483851522eca8331d91b",
+                "path": "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "claude-code",
+                "model_name": "claude-opus-4-8",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "kang/harness/.runs/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition__2026-07-31__00-36-47/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition/hb_overlay.yaml",
+                    "digest": "sha256:c7177392f7aadaa1aafaace0d01455aa19254baf5fadb07b835e3e52b30bf87a"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

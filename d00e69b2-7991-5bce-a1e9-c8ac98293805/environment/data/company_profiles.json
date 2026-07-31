@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "SBUX",
+    "cik": "0000829224",
+    "companyName": "STARBUCKS CORP",
+    "sic": "5810",
+    "sicDescription": "Retail-Eating & Drinking Places",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "WA",
+    "fiscalYearEnd": "0928",
+    "city": "SEATTLE",
+    "stateOrCountry": "WA"
+  },
+  {
+    "symbol": "MCD",
+    "cik": "0000063908",
+    "companyName": "MCDONALDS CORP",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "CHICAGO",
+    "stateOrCountry": "IL"
+  },
+  {
+    "symbol": "YUM",
+    "cik": "0001041061",
+    "companyName": "YUM BRANDS INC",
+    "sic": "5812",
+    "sicDescription": "Retail-Eating  Places",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NC",
+    "fiscalYearEnd": "1231",
+    "city": "LOUISVILLE",
+    "stateOrCountry": "KY"
+  },
+  {
+    "symbol": "DPZ",
+    "cik": "0001286681",
+    "companyName": "DOMINOS PIZZA INC",
+    "sic": "5140",
+    "sicDescription": "Wholesale-Groceries & Related Products",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0102",
+    "city": "ANN ARBOR",
+    "stateOrCountry": "MI"
+  }
+]

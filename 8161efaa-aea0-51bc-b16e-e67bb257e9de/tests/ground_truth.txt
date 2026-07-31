@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Platformization Strategy and the Customer-Financing / Deal-Economics Trade-off
+PANW's platformization strategy bundles its Strata, Prisma, and Cortex offerings into a tightly integrated architecture to win larger, longer-term deals, but leans on deferred payments and multi-year customer financing that pull demand forward at the cost of near-term cash and non-payment risk.
+[a] Characterize the platformization thesis from the filings (combining products and services into one integrated architecture) and tie the recent CyberArk (February 2026, identity security) and Chronosphere (January 2026, observability) acquisitions to platform breadth across network, endpoint/Cortex, and cloud.
+[b] Assess the deal-economics trade-off: customer financing and deferred-payment arrangements (payment terms generally two to five years) can lift bookings and RPO while negatively impacting short-term cash flows and exposing PANW to end-customer non-payment and reserve risk.
+[c] Weigh the execution risk that management flags — that platformization "may fail or may not be as successful as intended" — and whether discounting or free periods used to drive adoption pressure product economics.
+Source: sec_filings/10-k/panw_2025_10-k.txt, sec_filings/10-q/panw_2026q3_10-q.txt, financials/balance_sheet/panw_balance_sheet.json, press_releases/
+
+2. Billings / RPO / Deferred-Revenue Durability as a Forward-Demand Signal
+Remaining performance obligations grew from $15.8 billion to $18.4 billion, but management cautions that RPO and deferred revenue should be viewed independently of GAAP revenue, so their durability as a demand signal must be tested rather than assumed.
+[a] Track RPO growth ($15.8 billion at July 31, 2025 to $18.4 billion at April 30, 2026) and the near-term recognizable portion (approximately $7.0 billion rising to $8.3 billion expected over the next 12 months) as a forward-visibility and coverage metric.
+[b] Cross-check RPO against current and long-term deferred-revenue balances, and separate organically driven backlog from growth pulled forward by financing terms and by the CyberArk and Chronosphere acquisitions.
+[c] Engage the strongest counter-evidence: management's own caveats that these metrics can be affected by contract start/end dates and renewal rates and do not represent revenue under U.S. GAAP or a revenue forecast.
+Source: sec_filings/10-k/panw_2025_10-k.txt, sec_filings/10-q/panw_2026q3_10-q.txt, financials/balance_sheet/panw_balance_sheet.json
+
+3. NGS ARR Growth and the Mix Shift to Subscription & Support
+PANW is transitioning from hardware/product toward recurring subscription and support revenue, with Next-Generation Security ARR as its headline growth engine, yet NGS ARR is a non-GAAP operating metric that excludes hardware and legacy attached offerings.
+[a] Quantify the revenue mix and momentum: product revenue at 19.8% of total revenue versus subscription and support at 80.2%, on total revenue growth of 31% year over year in fiscal Q3 2026.
+[b] Interpret NGS ARR conceptually as the annualized allocated value of active next-generation contracts (excluding hardware and legacy attach), noting it generally increases as PANW introduces or acquires new offerings — and that its dollar level is not disclosed in the SEC filings text.
+[c] Distinguish organic mix shift from acquisition-inflated growth (CyberArk software licenses lifting product revenue; CyberArk and Chronosphere subscriptions lifting recurring revenue and amortization of acquired intangibles).
+Source: sec_filings/10-q/panw_2026q3_10-q.txt, financials/income_statement/panw_income_statement.json, press_releases/
+
+4. Margin / FCF Quality and Competitive Positioning
+This theme reconciles forward-demand strength against cash and margin quality and against an intensely competitive landscape, forcing a judgment on whether reported durability is high-quality or partly engineered.
+[a] Assess free-cash-flow quality: PANW reports strong non-GAAP free cash flow, but flag that customer financing and deferred payments push cash collection into future periods and add non-payment and reserve risk.
+[b] Position PANW against its named competitors CrowdStrike, Fortinet, and Zscaler in an industry the company itself calls intensely competitive with expanding competitor scope, benchmarking growth and margin using the peer income-statement and cash-flow files.
+[c] Weigh gross- and operating-margin trajectory, including how amortization of acquired intangibles and cloud-hosting costs pressure the cost of subscription and support revenue.
+[d] SYNTHESIS — Take a clear position: reconcile the RPO and subscription-mix strength against the cash-timing, acquisition-inflation, and competitive counter-evidence into one unified view on whether platformization is producing durable, high-quality recurring demand that justifies the financing-driven cash trade-off, or whether reported durability is partly manufactured by pulled-forward payments and M&A.
+Source: sec_filings/10-k/panw_2025_10-k.txt, sec_filings/10-q/panw_2026q3_10-q.txt, financials/income_statement/panw_income_statement.json, financials/cash_flow/panw_cash_flow.json, financials/balance_sheet/panw_balance_sheet.json

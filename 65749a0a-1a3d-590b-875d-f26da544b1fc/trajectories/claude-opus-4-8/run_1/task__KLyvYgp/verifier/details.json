@@ -1,0 +1,223 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Top-Line Growth and the Deliveroo Inorganic Overlay",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives Q1 2026 Marketplace GOV of $31.6 billion, up 37%, and revenue of $4.0 billion, up 33%, but does not establish Q1 Total Orders of 933 million, up 27%; therefore the full scale move is incomplete.",
+        "b": "The agent explicitly separates the inorganic overlay, stating that excluding Deliveroo, Q1 2026 GOV grew 24% and revenue grew 21%, and treats those as the more representative organic growth rates.",
+        "c": "The agent identifies Net Revenue Margin compression and links it partly to Deliveroo-related mix dilution. However, it states a decline from 13.8% to 12.8% rather than the supported Q1 year-over-year comparison of 13.1% to 12.8%, and that numerical claim is flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Inflection: Adjusted EBITDA Versus GAAP Net Income",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent directly contrasts Q1 2026 Adjusted EBITDA of $754 million, described as up 28%, with GAAP net income of $184 million, down 5% year over year. The $754 million support is included in a separately flagged EBITDA claim, so this move is tainted.",
+        "b": "The agent discusses a peak at 3.0% followed by declines to 2.6% and 2.4%, and mentions contribution margins between 4.4% and 5.1%, but it does not provide the required five-quarter Adjusted EBITDA margin trajectory of 2.6% / 2.7% / 3.0% / 2.6% / 2.4%. Instead, it substitutes a flagged and inaccurately characterized 'steady' rise from 2.2%.",
+        "c": "The agent does not ground the profitability discussion in the 10-K disclosure that DoorDash incurred net losses in every year before the year ended December 31, 2024."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "New-Vertical (Grocery and Retail) Expansion Durability",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent identifies strong grocery and retail demand, including record new-consumer acquisition and growth in engagement, but it omits the expansion of selection into newer categories such as apparel and auto parts, leaving the required momentum move incomplete.",
+        "b": "The agent discusses grocery chains' bargaining power and delivery fleets, but it does not weigh the complete competitive set required by the move, including Amazon, Uber Eats, Prosus, and Delivery Hero. The grocery-chain evidence it does cite is also separately flagged as unsupported in the supplied passage.",
+        "c": "Although the agent briefly mentions a rising advertising mix elsewhere, it does not assess advertising as a high-margin, value-added revenue stream capable of offsetting weaker new-vertical unit economics across the Marketplaces."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "International Integration Drag and the Profitable-Scaling Verdict",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Deliveroo is expected to contribute approximately $200 million of 2026 Adjusted EBITDA, but it does not establish the accelerated year-over-year growth in Deliveroo MAUs, Total Orders, and Marketplace GOV across the U.K., France, and Italy.",
+        "b": "The agent discusses integration and geographic complexity across more than 40 countries, but it does not clearly present the 10-K's specific warning that geographic dispersion increases the difficulty of achieving profitability, operating leverage, and scale relative to concentrated growth.",
+        "c": "The agent takes an explicit bullish-but-calibrated position on durability and repeatedly reconciles rising Adjusted EBITDA with declining GAAP net income and post-Deliveroo margin compression. This reconciliation relies partly on flagged claims, including the incorrect 13.8%-to-12.8% Net Revenue Margin comparison and the mischaracterization of $1.5 billion of acquired intangibles as amortization."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "\"Q4 2025 GOV grew 25%\"",
+      "cited_file": "dash_2026-02-18_8-k.txt",
+      "issue": "The 25% growth rate applies only when excluding Deliveroo; reported Marketplace GOV growth was 39%. The claim omits the necessary qualifier.",
+      "evidence_check": "The passage states reported Q4 2025 Marketplace GOV increased 39% Y/Y and, separately, increased 25% Y/Y excluding the acquisition of Deliveroo."
+    },
+    {
+      "claim": "\"Q4 2025 Total Orders 20%\"",
+      "cited_file": "dash_2026-02-18_8-k.txt",
+      "issue": "The 20% rate applies only when excluding Deliveroo; reported Total Orders growth was 32%. The claim omits the necessary qualifier.",
+      "evidence_check": "The passage reports Total Orders increased 32% Y/Y and says they increased 20% Y/Y excluding Deliveroo."
+    },
+    {
+      "claim": "\"12 of the 27 points of order growth in Q1 2026 are simply Deliveroo being bolted on\"",
+      "cited_file": null,
+      "issue": "The cited passages contain no order-growth figures or Deliveroo attribution. Moreover, the relevant disclosed rates elsewhere are 27% reported and 16% excluding Deliveroo, implying an 11-point difference, not 12 points.",
+      "evidence_check": "Searched the supplied passages for 27%, 16%, 12 points, Total Orders, and Deliveroo; none appears in the claim-specific evidence."
+    },
+    {
+      "claim": "\"there is even a reconciliation table\"",
+      "cited_file": "dash_2025-11-05_8-k.txt",
+      "issue": "No reconciliation table is present in the claim-specific passages.",
+      "evidence_check": "The evidence explicitly says no local match found; no table or reconciliation language was returned for this claim."
+    },
+    {
+      "claim": "\"Adjusted EBITDA margin (as a % of Marketplace GOV) climbed steadily from 2.2% in Q2 2024 to a peak of 3.0% in Q3 2025\"",
+      "cited_file": "dash_2025-11-05_8-k.txt",
+      "issue": "The claim-specific passages do not contain the 2.2% starting value, and the displayed intervening series was not steady: 2.7%, 2.7%, 2.6%, 2.7%, and 3.0%.",
+      "evidence_check": "Searched the passages for 2.2% and the quarterly margin sequence. They show 3.0% in Q3 2025 and a dip to 2.6% in Q1 2025, but no 2.2% value."
+    },
+    {
+      "claim": "\"Contribution Profit margin rose in lockstep from 4.2% to a peak of 5.1% over the same window\"",
+      "cited_file": "dash_2025-11-05_8-k.txt",
+      "issue": "The 4.2% starting value is absent from the claim-specific passages, and the displayed margins did not rise in lockstep; they moved 4.6%, 4.5%, 4.4%, 4.7%, and 5.1%.",
+      "evidence_check": "Searched for 4.2% and the margin sequence. The passages show the 5.1% peak but not 4.2%, and include multiple declines."
+    },
+    {
+      "claim": "\"Management attributes the gain to durable, structural drivers: improved logistics efficiency, a rising advertising mix, and lower credits/refunds\"",
+      "cited_file": "dash_2025-08-06_8-k.txt",
+      "issue": "The claim-specific passages do not contain the asserted management attribution or any of the three listed drivers.",
+      "evidence_check": "Searched the returned passages for improved logistics efficiency, advertising contribution/mix, and credits/refunds; none appears."
+    },
+    {
+      "claim": "\"Absolute Adjusted EBITDA nearly doubled, from $430m in Q2 2024 to $754m in Q1 2026\"",
+      "cited_file": "dash_2025-08-06_8-k.txt; dash_2026-05-06_8-k.txt",
+      "issue": "Neither comparison value appears in the claim-specific passages, which consist mainly of cash-flow records and unrelated CART data.",
+      "evidence_check": "Searched the supplied passages for Adjusted EBITDA, $430m, and $754m; no matching EBITDA figures were returned."
+    },
+    {
+      "claim": "\"Contribution Profit margin rose in lockstep from 4.2% to a peak of 5.1% over the same window\"",
+      "cited_file": "dash_2025-11-05_8-k.txt",
+      "issue": "Beyond the missing 4.2% starting value, describing the movement as 'in lockstep' is contradicted by the reported quarterly declines before the 5.1% peak.",
+      "evidence_check": "The passage reports 4.6%, 4.5%, 4.4%, 4.7%, and 5.1%, rather than a continuously rising series."
+    },
+    {
+      "claim": "\"Instacart (CART / Maplebear) is the pure grocery-delivery play\"",
+      "cited_file": null,
+      "issue": "The passages establish only the CART symbol and financial figures; they do not identify the company as Maplebear or characterize it as a pure grocery-delivery business.",
+      "evidence_check": "Searched the passages for Instacart, Maplebear, grocery, and pure play; none appears."
+    },
+    {
+      "claim": "\"~18% operating margin\"",
+      "cited_file": "cart_income_statement.json",
+      "issue": "The claim-specific passages do not contain CART revenue or operating income and therefore do not support the approximately 18% calculation.",
+      "evidence_check": "The returned passages are DoorDash press-release excerpts and do not show CART's $182m operating income or $1,019m revenue."
+    },
+    {
+      "claim": "\"an entrenched specialist already earns ~18% margins\"",
+      "cited_file": "cart_income_statement.json",
+      "issue": "The passages do not identify the specialist, provide CART's operating figures, or establish the approximately 18% margin.",
+      "evidence_check": "Searched the returned evidence for CART, $182m, $1,019m, and 18%; none appears."
+    },
+    {
+      "claim": "\"DoorDash's own 10-K names grocery chains with \\\"strong bargaining power\\\" and their own fleets as competitors\"",
+      "cited_file": "dash_2025_10-k.txt",
+      "issue": "The supplied 10-K passages discuss competition generally but do not contain the quoted phrase, grocery chains, or their own delivery fleets.",
+      "evidence_check": "Searched the passages for 'strong bargaining power,' grocery chains, fleets, and delivery operations; no such statement appears."
+    },
+    {
+      "claim": "\"Net Revenue Margin slipped from 13.8% to 12.8%\"",
+      "cited_file": "dash_2026q1_10-q.txt",
+      "issue": "The cited 10-Q comparison is 13.1% in Q1 2025 to 12.8% in Q1 2026, not 13.8% to 12.8%.",
+      "evidence_check": "The passages define Net Revenue Margin and explicitly report 13.1% for Q1 2025 and 12.8% for Q1 2026; 13.8% does not appear."
+    },
+    {
+      "claim": "\"the 10-Q attributes partly to Deliveroo's lower-margin mix\"",
+      "cited_file": "dash_2026q1_10-q.txt",
+      "issue": "The 10-Q attributes the Net Revenue Margin decline partly to the acquisition of Deliveroo, but it does not characterize Deliveroo as a 'lower-margin mix' in the supplied passages.",
+      "evidence_check": "The passage cites lower consumer fees and the acquisition of Deliveroo, partially offset by advertising and lower credits/refunds; no lower-margin-mix wording appears."
+    },
+    {
+      "claim": "\"It has never integrated an acquisition of this size or cross-border complexity\"",
+      "cited_file": null,
+      "issue": "This is a concrete historical assertion about DoorDash's acquisition experience, but no evidence was provided.",
+      "evidence_check": "The claim-specific evidence says no local match found, and no passage establishes DoorDash's prior integration history or that this acquisition is unprecedented in size or complexity."
+    },
+    {
+      "claim": "\"the 10-K flags integration, labor/works-council, and regulatory risk explicitly\"",
+      "cited_file": "dash_2025_10-k.txt",
+      "issue": "The supplied passages mention the ability to integrate acquisitions generally, but do not contain labor, works-council, or the asserted explicit regulatory-risk discussion.",
+      "evidence_check": "Searched the passages for integration risk, labor, works council, and regulatory risk; only a general forward-looking statement about integrating acquisitions appears."
+    },
+    {
+      "claim": "\"the 2H 2026 margin re-acceleration\"",
+      "cited_file": null,
+      "issue": "No margin guidance or second-half 2026 re-acceleration appears in the claim-specific passages.",
+      "evidence_check": "The returned evidence consists of unrelated financial JSON excerpts and contains no 2H 2026 margin outlook."
+    },
+    {
+      "claim": "\"non-cash amortization of $1.5bn of acquired intangibles\"",
+      "cited_file": "dash_2026q1_10-q.txt",
+      "issue": "The $1.5bn figure is the acquisition-date carrying value of Deliveroo's acquired intangible assets, not an amortization expense. Q1 2026 total D&A was $269m, including an $83m increase in acquired-intangible amortization.",
+      "evidence_check": "The passages show $1,498m of acquired intangible assets but do not show $1.5bn being amortized as an expense in the period."
+    }
+  ],
+  "synthesis_found": "The truth sits between the two lenses: Adjusted EBITDA modestly overstates the cash economics (SBC), while GAAP net income understates the steady-state run-rate (front-loaded deal amortization).",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/dash_cash_flow.json",
+    "financials/income_statement/cart_income_statement.json",
+    "financials/income_statement/dash_income_statement.json",
+    "press_releases/dash_2025-08-06_8-k.txt",
+    "press_releases/dash_2025-11-05_8-k.txt",
+    "press_releases/dash_2026-02-18_8-k.txt",
+    "press_releases/dash_2026-05-06_8-k.txt",
+    "sec_filings/10-k/dash_2025_10-k.txt",
+    "sec_filings/10-q/dash_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 115,
+  "grounding_claims_no_match": 13,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

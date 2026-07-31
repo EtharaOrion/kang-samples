@@ -1,0 +1,257 @@
+DOMINO'S PIZZA (DPZ): SAME-STORE-SALES RECOVERY AND UNIT-GROWTH DURABILITY
+Analyst view as of the Q1 2026 print (fiscal quarter ended March 22, 2026)
+
+=====================================================================
+THESIS (the position, stated up front)
+=====================================================================
+The bull narrative is that Domino's "recovery holds": a U.S. reacceleration,
+a 32nd straight year of international comps, record unit growth, and a
+"Hungry for MORE" flywheel. I disagree with that framing. The evidence in
+/app/data shows two different things happening that the "recovery" label
+smooths over:
+
+  1. The 2025 U.S. reacceleration was a one-time distribution-and-innovation
+     STEP-UP (stuffed crust + "Best Deal Ever" + finishing the Uber/DoorDash
+     rollout), not a durable trend. It already halved from its Q3 2025 peak
+     of +5.2% to +0.9% in Q1 2026.
+
+  2. International same-store sales did not recover at all in 2025 — they
+     DECELERATED every single quarter, from +3.7% in Q1 2025 to an outright
+     DECLINE of -0.4% in Q1 2026. And international is where ~78% of the unit
+     growth is going.
+
+So what is actually durable is NOT the same-store-sales growth story. It is
+the ECONOMIC ENGINE — royalty + supply-chain profit dollars, prodigious free
+cash flow, deleveraging, and capital return — which keeps compounding
+operating income (+9.6% in Q1 2026) even as both comp legs weaken. My view:
+own DPZ as an asset-light cash compounder and share-gainer, but the "SSS
+recovery" thesis is largely spent, and management is now adding units into a
+softening same-store base against an "intensifying macro and competitive
+environment" (its own words, dpz_2026-04-27_8-k.txt) — with a CEO change
+landing at the same time (dpz_2026-06-22_8-k.txt).
+
+The single most important table in the file set:
+
+  Same-store sales growth (U.S. total / International ex-FX)
+  Q1 2025:  -0.5%  /  +3.7%   (per dpz_2026-04-27_8-k.txt prior-year column)
+  Q2 2025:  +3.4%  /  +2.4%   (dpz_2025-07-21_8-k.txt)
+  Q3 2025:  +5.2%  /  +1.7%   (dpz_2025-10-14_8-k.txt)
+  Q4 2025:  +3.7%  /  +0.7%   (dpz_2026-02-23_8-k.txt)
+  FY 2025:  +3.0%  /  +1.9%   (dpz_2026-02-23_8-k.txt)
+  Q1 2026:  +0.9%  /  -0.4%   (dpz_2026-04-27_8-k.txt)
+
+The U.S. line is an inverted-V that peaks and fades; the international line is
+a monotonic slide into negative territory. That shape, not any single number,
+is the story.
+
+=====================================================================
+THEME 1 — U.S. REACCELERATION vs. INTERNATIONAL DECELERATION
+=====================================================================
+POSITION: The U.S. "reacceleration" was real but transient; the international
+"deceleration" is the more structurally worrying signal, and the two are now
+pointing the same way (down).
+
+U.S. — what drove the 2025 spike is exactly what makes it non-repeatable.
+CEO Russell Weiner attributed Q3's +5.2% to "our Best Deal Ever promotion and
+stuffed crust pizza product innovation" (dpz_2025-10-14_8-k.txt), and in Q2
+he flagged that Domino's had just gone "fully rolled out on the two largest
+aggregators" and now offered "all the major crust types, including stuffed
+crust" (dpz_2025-07-21_8-k.txt). These are one-time unlocks: you can only
+launch stuffed crust once, and you can only finish adding Uber Eats/DoorDash
+distribution once. The 10-K confirms the aggregator relationships are
+"multinational agreements with Uber Technologies, Inc. and DoorDash, Inc."
+(dpz_2025_10-k.txt). Once those laps arrive, the comp reverts toward category
+growth — which is precisely what Q1 2026 shows: U.S. SSS decelerated to +0.9%
+(dpz_2026-04-27_8-k.txt).
+
+COUNTER-EVIDENCE (engaged, not dodged): Q1 2026 was not a bad-quality +0.9%.
+The 10-Q states the increase "was driven by both higher average ticket and
+higher customer transaction counts" (dpz_2026q1_10-q.txt), i.e. positive
+ORDER COUNTS, not just pricing. Management stresses continued U.S. market-
+share gains "well ahead of the QSR Pizza category" (dpz_2026-02-23_8-k.txt).
+This is the strongest bull point and it is genuine: traffic is still positive
+and Domino's is still taking share. But it does not rescue the "recovery"
+thesis — it reframes it. Share gains inside a low-single-digit category get
+you low-single-digit comps, not the mid-single-digit reacceleration of 2025.
++0.9% with positive traffic is a normalization, not a recovery.
+
+International — this is the part the "32nd consecutive year" headline hides.
+Yes, FY2025 international SSS was +1.9% and management touted the 32-year
+streak (dpz_2026-02-23_8-k.txt). But the intra-year path is deteriorating:
++2.4% -> +1.7% -> +0.7% -> -0.4%. The streak is a lagging annual artifact; the
+run-rate exiting into 2026 is negative. Because international is the unit-growth
+engine (Theme 2), a negative international comp is a bigger problem for Domino's
+than a decelerating U.S. comp.
+
+RECONCILIATION: The U.S. and international lines look opposite in 2025 (one up,
+one down) but they converge in Q1 2026 (both near or below zero). The unifying
+read: 2025 masked underlying category softness with U.S.-specific one-time
+catalysts. Strip those out and the true underlying trend — visible cleanly in
+international all year and now in the U.S. — is deceleration toward flat.
+
+=====================================================================
+THEME 2 — UNIT-GROWTH DURABILITY, FORTRESSING, MASTER-FRANCHISE ENGINE
+=====================================================================
+POSITION: Unit COUNT growth is durable; unit QUALITY is not obviously durable,
+because Domino's is now adding stores fastest exactly where same-store sales
+are weakest — the textbook fortressing risk, which its own 10-K flags.
+
+The count is genuinely strong. FY2025 net store growth was +776, ending at
+22,142 stores; trailing-four-quarter net growth through Q1 2026 reached +964
+to 22,322 stores (dpz_2026-02-23_8-k.txt; dpz_2026-04-27_8-k.txt). The engine
+is the asset-light master-franchise model: the 10-K notes "the vast majority of
+our international stores operate under master franchise agreements," requiring
+"only a modest amount of general and administrative expenses" and carrying "no
+cost of sales component" (dpz_2025_10-k.txt). That is structurally durable and
+high-margin — a real strength.
+
+But look at WHERE the units go. Of FY2025's +776 net stores, +604 were
+international vs. only +172 U.S.; in Q1 2026 it was +161 international vs. +19
+U.S. (dpz_2026-02-23_8-k.txt; dpz_2026-04-27_8-k.txt). So ~78% of unit growth
+is landing in the geography whose same-store sales just went NEGATIVE (-0.4%,
+Theme 1). Domino's explicitly calls this strategy "fortressing" and warns it
+"may negatively impact sales at existing stores" and "could also result in
+store closures if executed too rapidly, as seen in certain international
+markets in recent years" (dpz_2025_10-k.txt). The data already shows the
+closures: FY2025 international closings were 356 stores (dpz_2026-02-23_8-k.txt).
+
+CONCENTRATION RISK: The engine leans heavily on one operator. The largest
+master franchisee, Domino's Pizza Enterprises (DMP:ASX), ran 3,524 stores
+across 12 markets — ~24% of international and ~16% of GLOBAL store count
+(dpz_2025_10-k.txt). And the China master franchisee is DPC Dash, in which DPZ
+holds an equity stake described as "inherently risky" (dpz_2025_10-k.txt); that
+stake's mark-to-market swings have repeatedly whipsawed net income — a $27.4M
+unfavorable pre-tax swing in Q2 2025 (dpz_2025-07-21_8-k.txt) and a $30.0M
+unfavorable swing in Q1 2026 (dpz_2026-04-27_8-k.txt).
+
+COUNTER-EVIDENCE: A bull can argue units grow retail sales and royalties even
+if each new store's comp is modest — global retail sales still grew +5.4% in
+FY2025 (dpz_2026-02-23_8-k.txt), so the count IS converting to system sales.
+True. But that is a decelerating-quality version of growth: you cannot
+indefinitely add units into a base whose same-store sales are declining without
+eventually pressuring average unit volumes and franchisee returns, which is the
+very outcome the 10-K's fortressing language warns about.
+
+RECONCILIATION: "Record unit growth" and "decelerating comps" are not
+contradictory — they are causally linked. The master-franchise engine is
+durable as a UNIT-adding and royalty-collecting machine, but 2025-2026 is the
+first sign that its output is shifting from higher-quality (comp + units) to
+lower-quality (units offsetting weak/negative comps) growth.
+
+=====================================================================
+THEME 3 — AGGREGATOR CHANNEL, LOYALTY, AND "HUNGRY FOR MORE"
+=====================================================================
+POSITION: The "Hungry for MORE" model demonstrably drives traffic and share,
+but it is increasingly value/promotion- and aggregator-dependent — a mix that
+lifts orders while diluting per-order profitability. It is a share-taking model,
+not a margin-expansion or durable-comp model.
+
+The strategy's four imperatives are "Most Delicious Food, Operational
+Excellence, Renowned Value, and Enhanced by Best-in-Class Franchisees," aiming
+for "MORE sales, MORE stores and MORE profits" (dpz_2025_10-k.txt). The
+mechanics that actually moved the 2025 comp were the value/innovation levers:
+"Best Deal Ever" and stuffed crust (dpz_2025-10-14_8-k.txt), plus completing
+aggregator distribution (dpz_2025-07-21_8-k.txt). Loyalty is a real asset —
+Domino's Rewards is "bigger than ever" (dpz_2025-07-21_8-k.txt) and the U.S.
+system generated "more than 85% of U.S. retail sales in 2024 via digital
+channels" (dpz_2025-07-21_8-k.txt), which is the data spine that makes the
+loyalty/aggregator flywheel work.
+
+THE PROFITABILITY CATCH (the key counter to the bull case): The 10-K concedes
+aggregator orders "may not have the same level of store-level profitability as
+orders through our owned channels" and that the opportunity's size "may not meet
+our expectations" (dpz_2025_10-k.txt). So the very channel that helped power the
+2025 U.S. comp is structurally margin-dilutive. And the value push shows up in
+margins: U.S. company-owned store gross margin fell 2.4 points for FY2025 to
+14.3% (dpz_2026-02-23_8-k.txt / dpz_2025_10-k.txt), pressured by "higher
+insurance costs," "higher wage rates," and food-basket inflation partly offset
+by sales leverage (dpz_2025-07-21_8-k.txt; dpz_2025-10-14_8-k.txt).
+
+COUNTER-EVIDENCE: Order counts stayed positive even as the comp faded — Q3
+2025 "positive order counts" (dpz_2025-10-14_8-k.txt) and Q1 2026 growth from
+BOTH higher transactions and ticket (dpz_2026q1_10-q.txt). So the model is not
+broken; it is doing what a value-led QSR model does — buying traffic and share.
+
+RECONCILIATION: "Hungry for MORE" delivers MORE ORDERS and MORE SHARE, but the
+data shows the "MORE profits" leg comes from the SYSTEM (royalties, supply
+chain, units, buybacks) rather than from richer store-level economics. The
+sales model is a durable share-taker; it is not evidence that same-store sales
+will re-accelerate.
+
+=====================================================================
+THEME 4 — ECONOMIC ENGINE AND COMPETITIVE POSITION: DOES THE RECOVERY HOLD?
+=====================================================================
+POSITION: The ECONOMIC ENGINE holds and is genuinely durable. The SAME-STORE
+"RECOVERY" does not hold. Separate the two and the picture is coherent: a
+high-quality cash compounder whose growth algorithm is downshifting.
+
+Why the engine is durable — the cash math keeps working regardless of the comp:
+  - Operating income grew despite fading comps: +8.5% for FY2025 to $954.0M and
+    +9.6% in Q1 2026 to $230.4M (dpz_2026-02-23_8-k.txt; dpz_2026-04-27_8-k.txt).
+  - Free cash flow is prodigious: +43.9% to $331.7M in H1 2025 and +31.8% to
+    $495.6M through three quarters of 2025 (dpz_2025-07-21_8-k.txt;
+    dpz_2025-10-14_8-k.txt).
+  - Deleveraging: leverage ratio fell from 5.0x (Q2 2024) to 4.3x (Q1 2026),
+    aided by a September 2025 $1.0B refinancing of the securitized notes
+    (dpz_2026-04-27_8-k.txt; dpz_2025-08-06_8-k.txt; dpz_2025-10-14_8-k.txt;
+    debt-indenture exhibits dpz_2025-08-13_8-k.txt and dpz_2025-09-08_8-k.txt).
+  - Capital return: dividend raised 15% to $1.99/quarter (dpz_2026-02-23_8-k.txt)
+    and a fresh $1.0B buyback lifting total authorization to $1.29B
+    (dpz_2026-04-27_8-k.txt), on top of ongoing share shrinkage.
+This is a securitized, negative-equity, cash-return machine — the balance sheet
+carries a total stockholders' DEFICIT of ~$3.97B on ~$4.98B of debt
+(dpz_2025-07-21_8-k.txt) — but the model is designed that way and the coverage
+(4.3x, falling) is inside its historical 4x-6x band.
+
+Competitive position — the comparison that complicates the bull case: On the
+income statements, DPZ Q1 2026 revenue grew only +3.5% YoY ($1,150.6M vs
+$1,112.1M), versus WING +7.4% ($183.7M vs $171.1M), QSR +7.3% ($2,264M vs
+$2,109M) and YUM +15.2% ($2,059M vs $1,787M) (dpz/wing/qsr/yum_income_
+statement.json). DPZ's reported revenue mixes lower-margin supply-chain and
+company-store sales, so its ~20% operating margin understates franchise economics
+versus purer franchisors (YUM ~31%, QSR ~27%, WING ~27% in Q1 2026 — same
+files); that caveat is fair. But the top-line growth gap still says Domino's is
+the SLOWER-growing name in the peer set right now, consistent with a comp
+story that has downshifted rather than one that is "recovering."
+
+Two more "does it hold?" flags in the data:
+  - Management's own tone shifted from "strong Q2 results" (dpz_2025-07-21) to
+    operating in "an intensifying macro and competitive environment"
+    (dpz_2026-04-27_8-k.txt).
+  - Leadership transition: an employment agreement makes Joseph H. Jordan CEO
+    effective October 1, 2026, succeeding Weiner (dpz_2026-06-22_8-k.txt) — a
+    handoff arriving precisely as the comp fades.
+
+RECONCILIATION / FINAL VIEW: The conflicting data points — record units but
+negative international comps; growing operating income but decelerating sales;
+positive order counts but a halving U.S. comp; a 32-year streak but a negative
+Q1 2026 — reconcile cleanly once you stop treating "recovery" as one thing.
+The correct decomposition:
+    DURABLE:  the economic engine (royalty + supply chain + asset-light units +
+              FCF + deleveraging + buybacks) and continued U.S. share gains.
+    NOT DURABLE: the 2025 same-store-sales reacceleration, which was a
+              U.S.-specific, one-time distribution/innovation step-up now
+              normalizing, set against a genuinely deteriorating international
+              comp and margin-dilutive channel mix.
+So: the RECOVERY (as a same-store-sales growth story) does NOT hold; the
+COMPOUNDER (as a cash-return and share-taking story) does. Bet on the second,
+not the first.
+
+=====================================================================
+AMBIGUITIES / WHAT WOULD CHANGE MY MIND (not smoothed over)
+=====================================================================
+- One quarter is not a trend. Q1 2026's +0.9% U.S. / -0.4% international is a
+  single data point and may reflect tough prior-year compares and calendar; the
+  data does not isolate a clean weekly run-rate (dpz_2026-04-27_8-k.txt).
+- Order counts stayed POSITIVE through the deceleration (dpz_2026q1_10-q.txt);
+  a value-led traffic model that keeps taking share can re-accelerate on the
+  next innovation. Management points to a "new brand campaign and e-commerce
+  site" as 2026 catalysts (dpz_2026-02-23_8-k.txt) — unproven in the data here.
+- The files contain NO peer same-store-sales figures — only peer revenue and
+  margins (yum/qsr/wing_income_statement.json). My "slower-growing" competitive
+  read rests on reported revenue growth, which differs by business model, so it
+  is directional, not apples-to-apples.
+- International weakness is reported only in aggregate; the data does not break
+  out which markets (or how much the DPE / DPC Dash concentration) drives the
+  -0.4%, so the durability of the master-franchise engine at the market level is
+  genuinely uncertain (dpz_2025_10-k.txt).

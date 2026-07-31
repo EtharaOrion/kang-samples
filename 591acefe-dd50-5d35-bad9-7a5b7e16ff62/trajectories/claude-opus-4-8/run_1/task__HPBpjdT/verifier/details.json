@@ -1,0 +1,402 @@
+{
+  "score": 1,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 1,
+  "themes_hit": [
+    {
+      "label": "Customer Concentration in the AI-Native Cohort",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports about 4,550 customers with at least $100,000 of ARR as of March 31, 2026, up 21% year over year, and characterizes this cohort as approximately 90% of ARR, equivalent to the rubric's roughly 89% anchor.",
+        "b": "The agent states that the AI-native cohort includes Datadog's largest customer and contributed approximately seven percentage points to Q4 2025 year-over-year revenue growth. This move is tainted because the seven-point disclosure was flagged as unsupported by the supplied verification passages.",
+        "c": "The agent frames the cohort as the primary durability risk because these customers can optimize usage or fail to renew, directly linking concentrated growth to potential churn and weaker future economics."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Usage-Based Revenue Durability and Optimization Risk",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Q1 2026 revenue reached roughly $1 billion with 32% year-over-year growth and describes DBNR at about 120% in Q2 2025 versus the mid-110%s a year earlier. This move is tainted because the verification block flags the cited Q2 2025 DBNR value as unsupported in the supplied evidence.",
+        "b": "The agent discusses revenue being recognized as products are used and calls products additional usage meters, but it never specifies pricing primarily per host and per indexed data volume or that usage above contractual commitments is billed as consumed.",
+        "c": "The agent explicitly says AI-native customers rapidly increased usage and then optimized, may optimize in the future, or may fail to renew, and connects that behavior to revenue fluctuations and DBNR pressure."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Platform Breadth Versus Point-Solution Competition",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Although the agent emphasizes multi-product adoption and a platform with more than 20 products, it does not establish the required single-agent architecture, more than 1,000 integrations, or the specified breadth across observability, security, software delivery, and service management.",
+        "b": "The agent names Cisco, New Relic, and Dynatrace as APM competitors, but it does not complete the move by identifying home-grown and open-source alternatives and noting that many competitors possess greater financial and brand resources.",
+        "c": "The agent discusses hyperscaler competition and marketplace margin pressure, but it omits Datadog's approximately $187 billion 2029 market opportunity and does not explicitly weigh that ambition against bundled or lower-cost products eroding demand."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Profile and the Growth-Durability Verdict",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent contrasts roughly 1% GAAP operating margin with a 22%-24% non-GAAP margin, but it does not provide the required $7 million versus $223 million operating-income comparison and reports approximately $323 million rather than $289 million of free cash flow.",
+        "b": "The agent does not state Q2 2026 revenue guidance of $1.07-$1.08 billion or full-year 2026 revenue guidance of $4.30-$4.34 billion as the forward durability test.",
+        "c": "The agent takes an explicit constructive position and reconciles strong retention and cash generation with optimization volatility, AI-native concentration, thin GAAP profitability, and competition. This move is tainted because parts of the supporting synthesis rely on flagged cohort-contribution and retention-series claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "revenue growth is RE-ACCELERATING, not fading: 25% YoY in Q1 2025 to 32% YoY in Q1 2026",
+      "cited_file": "press_releases/ddog_2025-05-06_8-k.txt; press_releases/ddog_2026-05-07_8-k.txt",
+      "issue": "The 32% Q1 2026 figure is supported, but the passages do not provide the claimed 25% Q1 2025 growth rate.",
+      "evidence_check": "Checked the supplied passages for Q1 2025 revenue growth; only Q1 2026's 32% growth and comparative revenue amounts were retrieved."
+    },
+    {
+      "claim": "\"Fluctuations in usage of our platform and products\" is listed as a results-variability factor in all three 10-Ks",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The phrase is shown only in the 2025 10-K passage, so its presence in all three 10-Ks is not verified.",
+      "evidence_check": "The supplied evidence contains the factor in ddog_2025_10-k.txt but no passages from the 2023 or 2024 10-Ks."
+    },
+    {
+      "claim": "a ~30-point DBNR drawdown driven purely by existing-customer usage behavior",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-q/ddog_2024q2_10-q.txt",
+      "issue": "The supplied passages for this claim contain neither the DBNR endpoints nor the explanation for the drawdown.",
+      "evidence_check": "Searched the claim-specific passages for mid-140%, mid-110%, and slower usage growth; none appears."
+    },
+    {
+      "claim": "DBNR climbed back: high-110%'s (Q1 2025), about 120% (Q2 and Q3 2025), and low-120%'s as of March 31, 2026",
+      "cited_file": "sec_filings/10-q/ddog_2025q1_10-q.txt; sec_filings/10-q/ddog_2025q2_10-q.txt; sec_filings/10-q/ddog_2025q3_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The evidence supports high-110%'s at March 31, 2025 and low-120%'s at March 31, 2026, but not the claimed Q2 and Q3 2025 values of about 120%.",
+      "evidence_check": "The only substantive DBNR passage is from the Q1 2026 10-Q and contains no June or September 2025 DBNR figures."
+    },
+    {
+      "claim": "each increase \"attributable to increased usage growth from existing customers\"",
+      "cited_file": "sec_filings/10-q/ddog_2025q1_10-q.txt; sec_filings/10-q/ddog_2025q2_10-q.txt; sec_filings/10-q/ddog_2025q3_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The attribution is shown for the March 2026 increase only, not for each cited quarter.",
+      "evidence_check": "The supplied passage contains the quoted attribution in ddog_2026q1_10-q.txt but no corresponding passages from the three 2025 10-Qs."
+    },
+    {
+      "claim": "quarterly revenue YoY went 25% (Q1'25) -> 28% (Q2'25) -> 28% (Q3'25) -> 29% (Q4'25) -> 32% (Q1'26)",
+      "cited_file": "press_releases/ddog_2025-05-06_8-k.txt through press_releases/ddog_2026-05-07_8-k.txt",
+      "issue": "Only the final 32% Q1 2026 growth rate is present in the supplied passages.",
+      "evidence_check": "Checked for 25%, both 28% figures, and 29%; the claim-specific passages show only Q1 2026's 32%."
+    },
+    {
+      "claim": "This is the highest growth rate in the observable window",
+      "cited_file": "press_releases/ddog_2025-05-06_8-k.txt through press_releases/ddog_2026-05-07_8-k.txt",
+      "issue": "No comparison series is supplied to establish that 32% is the highest rate in the window.",
+      "evidence_check": "The evidence section reports no local match and provides none of the window's comparison values."
+    },
+    {
+      "claim": "Remaining performance obligations rose from $1,792M (June 30, 2024) to $3,484M (March 31, 2026)",
+      "cited_file": "sec_filings/10-q/ddog_2024q2_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The March 2026 RPO of $3,484.4 million is supported, but the June 2024 value of $1,792 million is absent.",
+      "evidence_check": "Checked the supplied passages for $1,792 million or a June 30, 2024 RPO amount; neither appears."
+    },
+    {
+      "claim": "up ~94%",
+      "cited_file": "sec_filings/10-q/ddog_2024q2_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The claim-specific evidence does not contain the two RPO values needed to calculate approximately 94% growth.",
+      "evidence_check": "The supplied passage concerns R&D expense and does not show either $1,792 million or $3,484 million."
+    },
+    {
+      "claim": "revenue over a comparable span grew far less",
+      "cited_file": "sec_filings/10-q/ddog_2024q2_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "No revenue endpoints or calculated comparable-span growth are provided.",
+      "evidence_check": "The evidence section reports no local match and supplies no figures supporting the comparison."
+    },
+    {
+      "claim": "RPO is contractually committed",
+      "cited_file": "sec_filings/10-q/ddog_2024q2_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The supplied passages do not include the RPO definition or language establishing the claimed contractual commitment.",
+      "evidence_check": "Reviewed the claim-specific excerpts; they contain filing metadata and unrelated accounting material, not the RPO definition."
+    },
+    {
+      "claim": "Existing customers drove ~65% of incremental revenue in FY2023 but ~75% in both FY2024 and FY2025",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "Only the FY2025 figure of approximately 75% is shown.",
+      "evidence_check": "The supplied substantive passage states 75% for 2025 versus 2024; it does not show 65% for FY2023 or 75% for FY2024."
+    },
+    {
+      "claim": "The \"AI-native cohort\" first appears in the Q3 2024 10-Q as ~4 percentage points of YoY revenue growth",
+      "cited_file": "sec_filings/10-q/ddog_2024q3_10-q.txt",
+      "issue": "The four-percentage-point disclosure is supported, but the assertion that this was its first appearance is not established.",
+      "evidence_check": "The evidence shows the phrase in the Q3 2024 10-Q but provides no earlier filings against which to verify first appearance."
+    },
+    {
+      "claim": "It then rose to ~6 pts (Q1 2025)",
+      "cited_file": "sec_filings/10-q/ddog_2025q1_10-q.txt",
+      "issue": "The supplied passages do not contain the six-percentage-point AI-native cohort contribution.",
+      "evidence_check": "The excerpts contain filing metadata and balance-sheet material only; no AI-native cohort contribution appears."
+    },
+    {
+      "claim": "peaked at ~10 pts (Q2 2025)",
+      "cited_file": "sec_filings/10-q/ddog_2025q2_10-q.txt",
+      "issue": "The supplied passages do not contain the ten-percentage-point cohort contribution or establish that it was a peak.",
+      "evidence_check": "Checked the excerpts for AI-native, ten percentage points, and largest customer; none appears."
+    },
+    {
+      "claim": "eased to ~8 pts (Q3 2025)",
+      "cited_file": "sec_filings/10-q/ddog_2025q3_10-q.txt",
+      "issue": "The supplied passages do not contain the eight-percentage-point cohort contribution.",
+      "evidence_check": "The excerpts contain filing metadata and financial statements but no AI-native cohort disclosure."
+    },
+    {
+      "claim": "At the Q2 2025 peak, ~10 of the 28 points of total YoY growth \u2014 over a third \u2014 came from a single named cohort",
+      "cited_file": "sec_filings/10-q/ddog_2025q2_10-q.txt",
+      "issue": "The 28% total growth rate is present, but the claim-specific passages do not show the cohort's approximately ten-point contribution.",
+      "evidence_check": "Found 28% revenue growth in the supplied MD&A excerpt, but no ten-point AI-native cohort disclosure."
+    },
+    {
+      "claim": "the FY2024 10-K put the cohort at ~5 pts of Q4 YoY growth with no mention of the largest customer",
+      "cited_file": "sec_filings/10-k/ddog_2024_10-k.txt",
+      "issue": "Neither the five-point contribution nor the asserted absence of a largest-customer reference is demonstrated by the supplied passages.",
+      "evidence_check": "The passages contain filing metadata and unrelated sections; no AI-native cohort disclosure appears."
+    },
+    {
+      "claim": "the FY2025 10-K raised it to ~7 pts of Q4 YoY growth",
+      "cited_file": "sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the seven-percentage-point Q4 disclosure.",
+      "evidence_check": "The excerpts contain filing metadata and MD&A introductory text but no cohort contribution figure."
+    },
+    {
+      "claim": "The cohort's marginal contribution is ALREADY moderating (10 pts -> 8 pts -> high-single-digits)",
+      "cited_file": "sec_filings/10-q/ddog_2025q2_10-q.txt; sec_filings/10-q/ddog_2025q3_10-q.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The claim-specific passages contain none of the stated cohort-contribution sequence.",
+      "evidence_check": "Checked for ten points, eight points, and high single digits; the supplied excerpts are unrelated filing text."
+    },
+    {
+      "claim": "No single customer has ever tripped the 10%-of-revenue disclosure threshold.",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The passages discuss geographic concentration, not whether any individual customer reached 10% of revenue across all periods.",
+      "evidence_check": "Found the statement that no country other than the United States accounted for 10% or more; no customer-concentration threshold statement appears."
+    },
+    {
+      "claim": "None of the three 10-Ks contains a customer-concentration note",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The supplied excerpts are insufficient to establish the absence of such a note from all three complete filings.",
+      "evidence_check": "Only miscellaneous excerpts from the 2025 10-K are supplied, with no full-note inventory or passages from the 2023 and 2024 filings."
+    },
+    {
+      "claim": "the only >10% concentration disclosed is geographic (the U.S.)",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The U.S. geographic concentration is supported, but the exclusivity claim is not established.",
+      "evidence_check": "The evidence shows that only the U.S. exceeded the 10% country threshold, but does not rule out every other type of concentration disclosure."
+    },
+    {
+      "claim": "up from 88% (FY24) and 86% (FY23)",
+      "cited_file": "sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2023_10-k.txt",
+      "issue": "The FY2023 value of 86% is present, but the FY2024 value of 88% is not supplied.",
+      "evidence_check": "The substantive passage is solely from the 2023 10-K and reports 86% for 2023 and 85% for 2022."
+    },
+    {
+      "claim": "Datadog discloses the cohort's contribution to YoY revenue GROWTH in percentage points \u2014 never its share of total ARR or revenue.",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated and do not establish either the disclosure practice or the asserted absence of ARR/revenue-share disclosure.",
+      "evidence_check": "Reviewed the company profile and convertible-note indenture excerpts; neither discusses AI-native cohort disclosure metrics."
+    },
+    {
+      "claim": "Customers using 4+ products went 47% (FY23) -> 50% (FY24) -> 55% (FY25)",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The evidence supports 50% for FY2024 and 55% for FY2025, but not 47% for FY2023.",
+      "evidence_check": "The supplied product-adoption passage states 55%, up from 50%; no 47% figure appears."
+    },
+    {
+      "claim": "6+ products 22% -> 26% -> 33%",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The evidence supports 26% and 33%, but not the initial 22% figure.",
+      "evidence_check": "The supplied passage states 33%, up from 26%; no 22% value appears."
+    },
+    {
+      "claim": "the IPO baseline \u2014 five products",
+      "cited_file": "sec_filings/s-1/ddog_2019_s-1.txt",
+      "issue": "The claim-specific passages do not identify a five-product IPO baseline.",
+      "evidence_check": "The excerpts concern dual-class stock, valuation, and financial statements; no product count appears."
+    },
+    {
+      "claim": "this is a platform that has widened from 5 to 20+ meters",
+      "cited_file": "sec_filings/s-1/ddog_2019_s-1.txt; sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The supplied passages contain neither the five-product baseline nor the over-20-products endpoint.",
+      "evidence_check": "The claim-specific excerpts are unrelated cash-flow, intangible-asset, and convertible-note text."
+    },
+    {
+      "claim": "The log-management competitor changed from Splunk (FY23) to Cisco (FY24-25) after Cisco acquired Splunk",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The supplied passages do not show Splunk as the FY2023 competitor, Cisco as the later replacement, or Cisco's acquisition of Splunk.",
+      "evidence_check": "The excerpts are unrelated financial-statement and exhibit material and contain no competitor comparison."
+    },
+    {
+      "claim": "All three 10-Ks concede \"the competitive environment will remain intense going forward\"",
+      "cited_file": "sec_filings/10-k/ddog_2023_10-k.txt; sec_filings/10-k/ddog_2024_10-k.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The quote is shown only in the 2025 10-K passage, not in all three filings.",
+      "evidence_check": "Found the exact language in ddog_2025_10-k.txt; no corresponding 2023 or 2024 passages were supplied."
+    },
+    {
+      "claim": "Across 2025-2026 Datadog shipped LLM Observability, three Bits AI agents (SRE, Dev, Security), AI Agent Monitoring, an AI Agents Console, GPU Monitoring, and an MCP Server",
+      "cited_file": "press_releases/ddog_2025-08-07_8-k.txt; press_releases/ddog_2025-11-06_8-k.txt; press_releases/ddog_2026-02-10_8-k.txt; press_releases/ddog_2026-05-07_8-k.txt",
+      "issue": "The supplied evidence supports GPU Monitoring only; the other named products and agents are absent from the claim-specific passages.",
+      "evidence_check": "Checked for LLM Observability, Bits AI SRE/Dev/Security, AI Agent Monitoring, AI Agents Console, and MCP Server; none appears in the provided excerpts."
+    },
+    {
+      "claim": "SNOW +33.5% and NET +33.5%",
+      "cited_file": "financials/income_statement/snow_income_statement.json; financials/income_statement/net_income_statement.json",
+      "issue": "NET's approximately 33.5% growth is calculable, but no Snowflake comparison values supporting 33.5% are supplied.",
+      "evidence_check": "The passages contain NET revenue of $639.755 million versus $479.087 million, but no SNOW passage."
+    },
+    {
+      "claim": "Datadog is decisively highest.",
+      "cited_file": "financials/income_statement/ddog_income_statement.json; financials/income_statement/snow_income_statement.json; financials/income_statement/mdb_income_statement.json; financials/income_statement/net_income_statement.json",
+      "issue": "The claim-specific passages contain no peer financial metrics from which to establish that Datadog is highest.",
+      "evidence_check": "Only company-profile and convertible-note indenture excerpts are supplied."
+    },
+    {
+      "claim": "DDOG is the ONLY peer at/above breakeven \u2014 +0.7% in Q1 2026",
+      "cited_file": "financials/income_statement/ddog_income_statement.json",
+      "issue": "Datadog's approximately 0.7% operating margin is supported, but the assertion that it is the only peer at or above breakeven lacks peer evidence.",
+      "evidence_check": "Calculated $7.327 million operating income divided by $1,006.426 million revenue; no SNOW, MDB, or NET comparison appears."
+    },
+    {
+      "claim": "SNOW roughly -23%",
+      "cited_file": "financials/income_statement/snow_income_statement.json",
+      "issue": "The supplied Snowflake excerpts do not support a roughly negative 23% operating margin for the indicated latest comparison.",
+      "evidence_check": "The visible Q1 FY2026 figures are operating loss of $447.257 million on $1,042.074 million revenue, approximately negative 43%; the later Q1 figures needed for roughly negative 23% are not in these passages."
+    },
+    {
+      "claim": "it builds its own edge network with heavy capex",
+      "cited_file": "financials/cash_flow/net_cash_flow.json",
+      "issue": "The cash-flow passages show capital expenditure amounts but do not state that Cloudflare builds its own edge network.",
+      "evidence_check": "The evidence section reports no local match for the edge-network statement."
+    },
+    {
+      "claim": "Gross margin is quietly slipping \u2014 81% (FY23) -> 81% (FY24) -> 80% (FY25)",
+      "cited_file": "sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The claim-specific passages do not contain the three-year gross-margin series.",
+      "evidence_check": "Reviewed the supplied excerpts; they concern taxes, credit risk, and NOLs, not gross margins."
+    },
+    {
+      "claim": "diluted shares rose from ~359M (FY24) to ~365M (Q1 2026)",
+      "cited_file": "press_releases/ddog_2026-02-10_8-k.txt; press_releases/ddog_2026-05-07_8-k.txt",
+      "issue": "The Q1 2026 diluted-share figure of 364.731 million is supported, but the FY2024 figure of approximately 359 million is absent.",
+      "evidence_check": "The supplied passages show Q1 2026 and Q1 2025 diluted shares only."
+    },
+    {
+      "claim": "the FY2025 10-K extended the useful life of capitalized internal-use software from two to three years",
+      "cited_file": "sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "No useful-life change from two years to three years appears in the supplied passages.",
+      "evidence_check": "The excerpts contain filing metadata and MD&A introductory material only."
+    },
+    {
+      "claim": "committed backlog (RPO) nearly doubled to $3.48B",
+      "cited_file": "sec_filings/10-q/ddog_2026q1_10-q.txt",
+      "issue": "The claim-specific passages do not provide the $3.48 billion RPO figure or the earlier comparison needed for 'nearly doubled.'",
+      "evidence_check": "Reviewed the supplied filing metadata, accounting-policy, and securities excerpts; no RPO amount appears."
+    },
+    {
+      "claim": "the AI-native cohort that supplies up to a third of growth \"includes our largest customer\"",
+      "cited_file": "sec_filings/10-q/ddog_2025q2_10-q.txt; sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The largest-customer phrase and seven-point contribution are supported, but the claim-specific passage does not establish the 'up to a third of growth' calculation.",
+      "evidence_check": "The supplied passage states approximately seven percentage points for Q4 2025; it does not show the Q2 ten-of-28 comparison."
+    },
+    {
+      "claim": "Datadog does not disclose the cohort's absolute size",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated and cannot establish the absence of an absolute cohort-size disclosure.",
+      "evidence_check": "Reviewed the company profile and convertible-note indenture excerpts; neither addresses the AI-native cohort."
+    },
+    {
+      "claim": "two files in press_releases/ are not earnings releases and carry no operating figures",
+      "cited_file": null,
+      "issue": "The evidence does not identify both files or establish that neither carries operating figures.",
+      "evidence_check": "No local match or supporting file inventory was provided."
+    },
+    {
+      "claim": "the convertible notes and Nevada incorporation are corroborated in company_profiles.json",
+      "cited_file": "company_profiles.json",
+      "issue": "The company profile supports Nevada incorporation but contains no convertible-note information.",
+      "evidence_check": "Checked the Datadog profile fields; it lists stateOfIncorporation as NV but has no debt or notes fields."
+    },
+    {
+      "claim": "The AI-native-cohort, net-retention, and optimization disclosures live in the 10-Q/10-K filings, not the earnings press releases.",
+      "cited_file": null,
+      "issue": "The supplied passages do not compare the contents of SEC filings with the earnings releases or establish the asserted absence from releases.",
+      "evidence_check": "The claim-specific evidence consists of cash-flow JSON excerpts and contains none of the named disclosures."
+    }
+  ],
+  "synthesis_found": "The two conflicting data points that most define the debate \u2014 a decelerating AI-native cohort contribution (10 -> 8 -> high-single-digit points) alongside ACCELERATING total growth (28% -> 32%) \u2014 reconcile in Datadog's favor: the broad base is strengthening faster than the concentrated cohort is fading, so the business is becoming LESS dependent on its riskiest customers even as it grows faster (sec_filings/10-q/ddog_2025q2_10-q.txt through ddog_2026q1_10-q.txt; press_releases/ddog_2026-05-07_8-k.txt).",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/cash_flow/ddog_cash_flow.json",
+    "financials/cash_flow/mdb_cash_flow.json",
+    "financials/cash_flow/net_cash_flow.json",
+    "financials/cash_flow/snow_cash_flow.json",
+    "financials/income_statement/ddog_income_statement.json",
+    "financials/income_statement/mdb_income_statement.json",
+    "financials/income_statement/net_income_statement.json",
+    "financials/income_statement/snow_income_statement.json",
+    "press_releases/ddog_2024-12-12_8-k.txt",
+    "press_releases/ddog_2025-05-06_8-k.txt",
+    "press_releases/ddog_2025-08-07_8-k.txt",
+    "press_releases/ddog_2025-11-06_8-k.txt",
+    "press_releases/ddog_2026-02-10_8-k.txt",
+    "press_releases/ddog_2026-04-22_8-k.txt",
+    "press_releases/ddog_2026-05-07_8-k.txt",
+    "sec_filings/10-k/ddog_2023_10-k.txt",
+    "sec_filings/10-k/ddog_2024_10-k.txt",
+    "sec_filings/10-k/ddog_2025_10-k.txt",
+    "sec_filings/10-q/ddog_2024q2_10-q.txt",
+    "sec_filings/10-q/ddog_2024q3_10-q.txt",
+    "sec_filings/10-q/ddog_2025q1_10-q.txt",
+    "sec_filings/10-q/ddog_2025q2_10-q.txt",
+    "sec_filings/10-q/ddog_2025q3_10-q.txt",
+    "sec_filings/10-q/ddog_2026q1_10-q.txt",
+    "sec_filings/s-1/ddog_2019_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 110,
+  "grounding_claims_no_match": 9,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

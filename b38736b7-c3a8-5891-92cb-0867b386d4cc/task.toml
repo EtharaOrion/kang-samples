@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics"
+description = "Assess how durable Costco's membership growth is and how its fee revenue and thin retail margins interact, taking a clear position on whether the membership/fee profit engine is strengthening or eroding."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "COST"]
+
+[metadata]
+uuid = "b38736b7-c3a8-5891-92cb-0867b386d4cc"
+difficulty_explanation = "The analyst must disentangle a one-time September 2024 fee increase from organic sign-up growth as its contribution laps and fades, and read small but real declines in already very high renewal rates without over- or under-reacting. Judging true margin requires stripping gasoline, foreign-currency, and LIFO distortions out of a roughly eleven-percent gross margin and recognizing that membership fees, not merchandise mark-up, drive profit. Reconciling the recurring-fee moat and steady member growth against fading tailwinds, cannibalization, and geographic concentration into a single defensible verdict demands genuine synthesis rather than a balanced list."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

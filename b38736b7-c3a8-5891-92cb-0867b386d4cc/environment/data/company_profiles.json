@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "COST",
+    "cik": "0000909832",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "sic": "5331",
+    "sicDescription": "Retail-Variety Stores",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "WA",
+    "fiscalYearEnd": "0830",
+    "city": "ISSAQUAH",
+    "stateOrCountry": "WA"
+  },
+  {
+    "symbol": "WMT",
+    "cik": "0000104169",
+    "companyName": "Walmart Inc.",
+    "sic": "5331",
+    "sicDescription": "Retail-Variety Stores",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0131",
+    "city": "BENTONVILLE",
+    "stateOrCountry": "AR"
+  },
+  {
+    "symbol": "BJ",
+    "cik": "0001531152",
+    "companyName": "BJ's Wholesale Club Holdings, Inc.",
+    "sic": "5331",
+    "sicDescription": "Retail-Variety Stores",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "0130",
+    "city": "MARLBOROUGH",
+    "stateOrCountry": "MA"
+  },
+  {
+    "symbol": "TGT",
+    "cik": "0000027419",
+    "companyName": "TARGET CORP",
+    "sic": "5331",
+    "sicDescription": "Retail-Variety Stores",
+    "exchanges": [
+      "NYSE"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "MN",
+    "fiscalYearEnd": "0201",
+    "city": "MINNEAPOLIS",
+    "stateOrCountry": "MN"
+  }
+]

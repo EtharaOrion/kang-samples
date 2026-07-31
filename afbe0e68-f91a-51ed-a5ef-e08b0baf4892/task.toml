@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization"
+description = "Take a clear position on whether American Express's premium-spend durability and 18%-growing card-fee engine outweigh credit-cost normalization and interchange/cobrand regulatory pressure, reconciling best-in-class credit metrics and scale-driven earnings against cyclical discretionary exposure."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "AXP"]
+
+[metadata]
+uuid = "afbe0e68-f91a-51ed-a5ef-e08b0baf4892"
+difficulty_explanation = "The analyst must resist the 'best-in-class credit' narrative and read the monthly delinquency and write-off tables to judge whether credit costs are normalizing off cycle-low levels rather than simply holding. Premium-spend durability is genuinely strong yet management explicitly flags its cyclical, discretionary nature, so the bull and bear cases live in the same filing. Layering interchange regulation, cobrand-renewal risk (including portfolios reclassified to held for sale), and BNPL competition onto a scale-driven earnings machine forces a real reconciliation rather than a one-sided read."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

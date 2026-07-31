@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['EYLEA Franchise Erosion: Biosimilar Competition and the Patent Litigation Endgame', 'EYLEA HD as the Offset Engine: Growth Rate vs. Dollar Sufficiency', 'Dupixent Collaboration Profit as the Real Diversification Buffer', 'Pipeline Breadth Beyond Dupixent and the Verdict on Offset Sufficiency']
+Cited files: 7

@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk"
+description = "Take a clear position on whether Airbnb's demand durability and guided take-rate expansion outweigh its structural regulatory and tax risk, separating volume from price/FX, analyzing the single-fee transition, and reconciling elite free-cash-flow conversion against short-term-rental and payments regulation."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "ABNB"]
+
+[metadata]
+uuid = "d7fc8b87-4f6b-5a04-84de-1c1687b85afc"
+difficulty_explanation = "The analyst must decompose headline GBV growth into volume, ADR, and FX to see that underlying nights growth is decelerating even as reported numbers look strong. The take-rate story is deliberately muddy because the October 2025 shift from a split-fee to a single-fee structure changes the optics of revenue-to-GBV conversion, so the analyst has to reconcile 2025 compression against a guided expansion. Finally, the regulatory and tax overhang is diffuse across many filings and must be weighed against elite free-cash-flow economics to reach a defensible position rather than a balanced survey."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

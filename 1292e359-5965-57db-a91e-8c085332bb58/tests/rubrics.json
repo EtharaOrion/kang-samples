@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process opens and validates source contents before relying on filenames, ticker labels, or period labels to characterize a company or document.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early file-read steps for validation of company identity, document type, fiscal period, and publication date before those attributes appear in analytical notes."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a chronology that distinguishes fiscal coverage dates from filing or release dates.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an inventory, timeline, or dated notes mapping annual filings, quarterly filings, and releases without mixing period ends with publication dates."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the broad investment question into separately testable workstreams for ecosystem durability, AI disruption, AI monetization, and financial capacity.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or research questions for distinct inquiries corresponding to moat durability, competitive disruption, incremental monetization, and capacity to adapt."
+    },
+    {
+      "id": "c4",
+      "concern": "counter_evidence_engagement",
+      "text": "The process defines in advance what observations would support, weaken, or leave ambiguous each major analytical proposition.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a decision-test table, hypothesis matrix, or equivalent pre-analysis notes that preserve favorable, unfavorable, and inconclusive outcomes."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process explores the relevant breadth of the corpus rather than relying on a single document class or reporting period.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect file-access history for use of current annual and quarterly filings, earnings releases, historical Adobe materials, financial-statement JSON files, and company-profile data when peer context is considered."
+    },
+    {
+      "id": "c6",
+      "concern": "grounding_before_claim",
+      "text": "The process reads metric definitions and surrounding disclosure before interpreting company-defined operating measures or accounting figures.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for extraction notes containing nearby definitional language for ARR, AI-related ARR, RPO, segment measures, or cash-flow fields before analytical claims based on those measures."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process deliberately develops the strongest evidence for both moat durability and AI-driven erosion.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the trajectory for a two-sided evidence log, adversarial search steps, or explicit strongest-case summaries for each opposing interpretation."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process stress-tests whether reported AI growth demonstrates material incremental economics rather than accepting the reported metric at face value.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for analysis comparing AI-related measures with the total business and investigating whether new customers, upsells, embedded usage, acquisitions, or cannibalization can be distinguished."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process keeps company-reported figures separate from analyst-derived calculations while matching periods, units, and definitions used in each calculation.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect quantitative worktables or calculation steps for explicit reported-versus-derived labels and matched inputs for ratios such as AI ARR share, margins, free cash flow, or implied current RPO."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly marks material questions as unresolved when the available disclosures do not support disaggregation or reliable comparison.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for limitation notes concerning retention, AI unit economics, attach rates, cannibalization, cohort behavior, segment reorganization, metric-definition changes, or other missing disclosures instead of unsupported estimates."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process reconciles conflicting evidence through a causal explanation of why one side carries greater analytical weight.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analysis for reasoning that connects ecosystem protection, AI pressure, monetization evidence, and financial capacity rather than presenting disconnected pro-and-con lists."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process reaches an explicit position on which force currently dominates over a stated time horizon.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a provisional thesis or final conclusion that chooses moat durability or disruption risk as dominant, or states a genuinely conditional position with clearly identified deciding conditions and horizon."
+    }
+  ]
+}

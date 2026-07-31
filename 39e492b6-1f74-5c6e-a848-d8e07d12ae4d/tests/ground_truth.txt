@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Unit-Revenue Durability as ASMs Grow
+United's core tension: full-year 2025 PRASM and TRASM fell as capacity was added, yet the most recent quarter shows unit revenue re-accelerating on more restrained growth — testing whether unit-revenue softness was structural or a digestion effect.
+[a] Trace the 2025 unit-revenue erosion — PRASM falling from 16.66 to 16.18 cents and TRASM from 18.34 to 17.88 cents while ASMs grew 6.1% — establishing that heavy capacity growth diluted unit revenue (sec_filings/10-k/ual_2025_10-k.txt).
+[b] Contrast the Q1 2026 reversal — PRASM of 16.95 cents (up 7.4%), TRASM of 18.80 cents and yield of 20.77 cents against capacity growth of only 3.4% — and judge whether slower growth restored pricing power (sec_filings/10-q/ual_2026q1_10-q.txt).
+[c] Decompose the story by geography and load factor — e.g., Pacific PRASM rising while domestic PRASM fell in 2025, and the load-factor swing from 82.2% (2025 full year) to 81.6% in Q1 2026 — rather than treating system PRASM as one number (sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt).
+Source: sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt, financials/income_statement/ual_income_statement.json
+
+2. Premium and Loyalty Mix as Unit-Revenue Defense
+United argues that diversified, high-margin revenue streams — MileagePlus, the Chase co-brand, ancillary and premium-cabin fees, and Basic-Economy-to-Polaris segmentation — insulate total unit revenue from main-cabin yield pressure as capacity grows.
+[a] Size the loyalty engine — Other operating revenue growth driven by mileage revenue from the JPMorgan Chase co-brand ($870 million recognized in Q1 2026), with MileagePlus flight awards representing about 10.3% of total RPMs (sec_filings/10-q/ual_2026q1_10-q.txt, sec_filings/10-k/ual_2025_10-k.txt).
+[b] Assess the ancillary and premium trajectory — ancillary fees within Passenger revenue of $4.8 billion in 2025 (versus $4.5 and $4.1 billion prior years) and the United Next product-segmentation strategy — as a structural unit-revenue support (sec_filings/10-k/ual_2025_10-k.txt).
+[c] Evaluate whether Other operating revenue's roughly 10% growth is outpacing passenger revenue growth and thereby cushioning TRASM even when PRASM softens (sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt).
+Source: sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt, financials/income_statement/ual_income_statement.json
+
+3. Cost Trajectory (CASM and Fuel) versus Margin
+Unit costs improved in 2025 on a falling fuel price, but the latest quarter shows CASM rising again as fuel rebounds — the question is whether ex-fuel cost discipline and scale can hold margin as United Next capacity ramps.
+[a] Trace the CASM path — 16.99 to 16.70 to 16.46 cents across 2023-2025 — and separate the fuel tailwind (average price per gallon falling from 3.01 to 2.65 to 2.44) from underlying unit-cost movement (sec_filings/10-k/ual_2025_10-k.txt).
+[b] Show the Q1 2026 cost pressure — CASM rising to 17.52 cents with fuel per gallon back up to $2.78 and fuel and salaries expense both climbing double digits — and assess the threat to operating margin (sec_filings/10-q/ual_2026q1_10-q.txt).
+[c] Reconcile the unit-cost picture against the operating-income and operating-margin trajectory quarter by quarter, testing whether revenue gains are outrunning cost inflation and headcount growth (financials/income_statement/ual_income_statement.json, sec_filings/10-q/ual_2026q1_10-q.txt).
+Source: sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt, financials/income_statement/ual_income_statement.json
+
+4. Competitive Capacity Discipline and the Durability Verdict
+United is adding capacity aggressively under United Next even as its 10-K warns the industry is prone to price discounting from capacity swings; the analyst must decide whether unit-revenue and margin durability survives that growth relative to Delta, American and Southwest.
+[a] Benchmark United's revenue and operating-margin trajectory against Delta, American and Southwest using peer income statements and the point-in-time profiles (financials/income_statement/ual_income_statement.json, company_profiles.json).
+[b] Weigh the 10-K's own risk-factor language on industry capacity and price discounting against United's 6.1% ASM growth and the United Next fleet ramp, judging whether United's growth is disciplined or a unit-revenue risk (sec_filings/10-k/ual_2025_10-k.txt).
+[c] Synthesize into an explicit position: reconcile the 2025 PRASM/TRASM erosion under fast capacity growth with the Q1 2026 unit-revenue recovery under slower growth into one conclusion on whether unit revenue and margin are durable as United Next scales — engaging the strongest counter-evidence rather than listing both sides (sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt, financials/income_statement/ual_income_statement.json).
+Source: sec_filings/10-k/ual_2025_10-k.txt, sec_filings/10-q/ual_2026q1_10-q.txt, financials/income_statement/ual_income_statement.json, company_profiles.json

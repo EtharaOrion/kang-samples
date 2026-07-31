@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process creates a source inventory before forming a thesis, using document contents and metadata to track identity, document type, covered period, and publication or filing date.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the early trajectory for an inventory or equivalent notes populated from company-profile data, filing or release headers, and financial-JSON metadata rather than inferred only from filenames."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process translates the durability assignment into a question-to-source plan that covers operating growth, usage-model sensitivity, customer concentration, platform competition, economic conversion, and forward expectations.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning steps for a matrix, outline, or search plan mapping the major analytical dimensions to specific source types or files before detailed evidence selection."
+    },
+    {
+      "id": "c3",
+      "concern": "counter_evidence_engagement",
+      "text": "The process defines in advance what observations would weaken or falsify a favorable durability interpretation.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for pre-analysis decision standards, contrary indicators, or falsifiers involving optimization, retention deterioration, concentration, renewal pressure, competition, or weak economic conversion."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The evidence-gathering process explores multiple relevant corpus classes rather than relying primarily on one document or one source type.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect read or search steps for meaningful use of company-profile metadata, recent releases, annual and quarterly filings, standardized financial statements, and historical comparison documents where relevant."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "Substantive analytical claims are formed only after the process inspects the relevant document contents rather than assuming contents from filenames or issuer conventions.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect trajectory ordering for document reads, searches, or extracted passages preceding the associated claim notes, calculations, or synthesis statements."
+    },
+    {
+      "id": "c6",
+      "concern": "counter_evidence_engagement",
+      "text": "The process deliberately develops evidence both for and against its emerging position.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a two-sided evidence table, separate supporting and adverse claim lists, or explicit searches for facts that challenge the provisional interpretation."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process explains why the strongest opposing evidence changes or does not change the provisional position instead of merely juxtaposing positive and negative facts.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the preliminary synthesis or conflict-resolution steps for comparative weighting of the strongest adverse evidence against the main supporting evidence."
+    },
+    {
+      "id": "c8",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work visibly distinguishes issuer-reported metrics from analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables or notes for reported-versus-derived labels, identifiable inputs, formulas for derived values, units, periods, and accounting basis."
+    },
+    {
+      "id": "c9",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process reconciles duplicated or apparently conflicting metrics across releases, filings, and financial statements before using them in synthesis.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for cross-checks that compare period coverage, measurement dates, units, metric definitions, accounting basis, or reconciliation formulas when the same observation appears in multiple files."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly preserves material uncertainty or non-comparability instead of filling evidentiary gaps with unstated assumptions.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect for an ambiguity or limitations log covering unavailable current metrics, mismatched dates, unclear cohort definitions, missing renewal detail, or non-comparable margin definitions; the final synthesis may also visibly retain these limits."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process produces a causal synthesis that connects usage mechanics, operating indicators, concentration, competitive position, economic conversion, and forward tests rather than presenting an unweighted catalogue of facts.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the synthesis steps or final analytical structure for explicit cause-and-effect links showing how the evidence bears on durability and what future disclosure would test that interpretation."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in an unambiguous directional position on durability rather than stopping at a neutral summary of competing considerations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the opening or closing synthesis statement for a clear conclusion that indicates which side of the durability question the analysis supports, including a qualified position if the qualification is explicit."
+    }
+  ]
+}

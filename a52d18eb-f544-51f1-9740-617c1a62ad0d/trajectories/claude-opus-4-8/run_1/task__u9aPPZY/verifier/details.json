@@ -1,0 +1,266 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "U.S. Reacceleration vs. International Deceleration in Same-Store Sales",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent contrasts FY2025 U.S. and international comps of 3.0% and 1.9% with Q1 2026 U.S. growth of 0.9% against a prior 0.5% decline and international contraction of 0.4% against prior growth of 3.7%. The flagged claims question the support for the quarterly international sequence and endpoints, so this move is tainted.",
+        "b": "The answer says Q1 2026 U.S. growth was driven by both higher average ticket and higher customer transaction counts and discusses stuffed-crust innovation as a sales catalyst. The transaction-and-ticket attribution is specifically flagged as unsupported, making the move tainted.",
+        "c": "The agent explicitly judges the low-single-digit U.S. result against international deterioration, concluding that the pattern is normalization or global deceleration rather than a durable recovery. This assessment relies partly on flagged comp comparisons, including the asserted halving and international quarterly trajectory, so it is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Unit-Growth Durability, Fortressing, and the Master-Franchise Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The answer quantifies FY2025 net growth at 776, split between 172 U.S. and 604 international stores, and Q1 2026 growth at 180, split between 19 U.S. and 161 international stores. It therefore establishes that international accounts for most additions, but the verification flags state that the supporting passages did not provide these counts or the related 78% calculation.",
+        "b": "The agent explains fortressing as adding stores while warning that it may reduce existing-store sales and cause closures if pursued too rapidly. The core tension is directly addressed, but the supporting statement that FY2025 international closures were 356 is flagged as erroneous because 349 were international and 356 were global, so the move is tainted.",
+        "c": "The answer discusses the master-franchise model, identifies DPC Dash as the China master franchisee in which Domino's holds an equity stake, and argues that weak international comps may undermine franchisee returns and unit growth. That argument also relies on the flagged international growth-share and negative-comp claims, making the move tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Aggregator Channel, Loyalty, and the \"Hungry for MORE\" Sales Model",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent places multinational Uber and DoorDash aggregator agreements within the Hungry for MORE sales model and treats completed aggregator distribution as a transaction and comp catalyst. The verification flags the identification of Uber and DoorDash and the characterization of the rollout as a one-time driver as unsupported in the cited claim passages.",
+        "b": "The agent does address the filing's lower store-level profitability caveat and identifies loyalty as a demand lever, but it never analyzes the required carryout-versus-delivery mix. Because that material component of the move is absent, the composite move is missed.",
+        "c": "The answer explicitly concludes that aggregator-supported traffic may produce more orders and share while diluting per-order profitability, characterizing it as lower-quality comp rather than proportionate profit growth. That directly supplies the required judgment."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Economic Engine and Competitive Position: Does the Recovery Hold?",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The answer generally discusses royalties, supply chain, and unit-driven system growth and states Q1 2026 revenue growth of 3.5%, but it does not provide the required 2.6% food-basket pricing increase or clearly connect advertising revenue to the retail-sales mechanics. The cited 3.5% Domino's revenue comparison is also flagged as unsupported, so the full move is not satisfied.",
+        "b": "The agent discusses U.S. share gains and compares reported income-statement growth and margins with YUM, QSR, and Wingstop, but it does not situate Domino's against the specifically required Pizza Hut, Papa John's, Little Caesars, and aggregator competitors, nor does it test the claim using peer cash-flow data. Moreover, most of the peer figures used are flagged as unsupported.",
+        "c": "The final verdict explicitly reconciles continued units, positive U.S. traffic and operating growth with international comp weakness, hard comparisons, and margin-dilutive aggregator volume. It concludes that the cash-generating economic engine is durable while the same-store-sales recovery is not, satisfying the synthesis requirement; however, several inputs to that reconciliation, including the international comp trajectory and the claimed halving of the U.S. comp, are flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Analyst view as of the Q1 2026 print (fiscal quarter ended March 22, 2026)",
+      "cited_file": "null",
+      "issue": "The supplied financial passage is for WING and identifies Q1 2026 as ending March 28, 2026, not March 22, 2026.",
+      "evidence_check": "Checked the quarter-end fields in the supplied income-statement passage; it shows symbol WING and end/date 2026-03-28."
+    },
+    {
+      "claim": "a 32nd straight year of international comps",
+      "cited_file": "null",
+      "issue": "The supplied passages do not state a 32-year or 32nd-consecutive-year international same-store-sales record.",
+      "evidence_check": "Searched the claim passages for '32nd,' 'consecutive year,' and international same-store sales; no supporting statement appears."
+    },
+    {
+      "claim": "The 2025 U.S. reacceleration was a one-time distribution-and-innovation STEP-UP (stuffed crust + \"Best Deal Ever\" + finishing the Uber/DoorDash rollout)",
+      "cited_file": "null",
+      "issue": "The passages support stuffed crust and rollout on two aggregators, but do not identify Uber and DoorDash, mention Best Deal Ever, or characterize the effect as one-time.",
+      "evidence_check": "Checked for 'Best Deal Ever,' 'Uber,' 'DoorDash,' and 'one-time'; none appears in the claim-specific passages."
+    },
+    {
+      "claim": "It already halved from its Q3 2025 peak of +5.2% to +0.9% in Q1 2026.",
+      "cited_file": "null",
+      "issue": "The claim-specific passages do not provide the asserted Q3-to-Q1 comparison, and a decline from 5.2% to 0.9% is substantially more than a halving.",
+      "evidence_check": "Checked for a Q3 2025 5.2% value paired with Q1 2026 0.9%; the passages do not present that comparison."
+    },
+    {
+      "claim": "International same-store sales did not recover at all in 2025 \u2014 they DECELERATED every single quarter, from +3.7% in Q1 2025 to an outright DECLINE of -0.4% in Q1 2026.",
+      "cited_file": "null",
+      "issue": "The supplied passages do not show the full quarterly international same-store-sales sequence needed to establish deceleration in every quarter or the stated endpoints.",
+      "evidence_check": "Searched the claim passages for 3.7%, -0.4%, and quarterly international same-store-sales figures; the sequence is absent."
+    },
+    {
+      "claim": "international is where ~78% of the unit growth is going.",
+      "cited_file": "null",
+      "issue": "The supplied passages do not contain the unit-growth counts or a 78% calculation.",
+      "evidence_check": "Checked for net store growth split between U.S. and international operations; no relevant figures appear."
+    },
+    {
+      "claim": "operating income (+9.6% in Q1 2026)",
+      "cited_file": "null",
+      "issue": "The claim-specific passages do not show Domino's Q1 2026 operating-income growth of 9.6%; the financial passage shown is for WING.",
+      "evidence_check": "Checked the supplied passages for a Domino's Q1 2026 9.6% operating-income comparison; none is present."
+    },
+    {
+      "claim": "with a CEO change landing at the same time (dpz_2026-06-22_8-k.txt).",
+      "cited_file": "dpz_2026-06-22_8-k.txt",
+      "issue": "The agreement supports Joseph Jordan becoming CEO effective October 1, 2026, but does not establish that the change occurred 'at the same time' as the Q1 2026 print or operating deterioration.",
+      "evidence_check": "Checked the agreement dates: made June 19, 2026 and effective October 1, 2026; no linkage to the April Q1 print is stated."
+    },
+    {
+      "claim": "FY2025 international closings were 356 stores (dpz_2026-02-23_8-k.txt).",
+      "cited_file": "dpz_2026-02-23_8-k.txt",
+      "issue": "The table reports 349 international closures; 356 is total global closures, including seven U.S. franchise closures.",
+      "evidence_check": "Read the fiscal-2025 store-count table: U.S. closures were 7, international closures were 349, and total closures were 356."
+    },
+    {
+      "claim": "~78% of unit growth is landing in the geography whose same-store sales just went NEGATIVE (-0.4%, Theme 1).",
+      "cited_file": "null",
+      "issue": "The claim-specific passages do not provide either the approximately 78% unit-growth split or the -0.4% same-store-sales figure.",
+      "evidence_check": "Searched the passages for international/U.S. net-store counts, 78%, and -0.4%; the required figures are absent."
+    },
+    {
+      "claim": "succeeding Weiner (dpz_2026-06-22_8-k.txt)",
+      "cited_file": "dpz_2026-06-22_8-k.txt",
+      "issue": "The supplied employment-agreement passage names Joseph Jordan as the incoming CEO but does not state that he is succeeding Russell Weiner.",
+      "evidence_check": "Searched the supplied passage for 'Weiner,' 'succeed,' and predecessor language; none appears."
+    },
+    {
+      "claim": "U.S. company-owned store gross margin fell 2.4 points for FY2025 to 14.3% (dpz_2026-02-23_8-k.txt / dpz_2025_10-k.txt)",
+      "cited_file": "dpz_2026-02-23_8-k.txt / dpz_2025_10-k.txt",
+      "issue": "The supplied claim passages are unrelated WING income-statement excerpts and do not contain Domino's 14.3% margin or 2.4-point decline.",
+      "evidence_check": "Checked all supplied passages for 14.3%, 16.7%, and a 2.4-point Domino's margin decline; none appears."
+    },
+    {
+      "claim": "food-basket inflation partly offset by sales leverage (dpz_2025-07-21_8-k.txt; dpz_2025-10-14_8-k.txt).",
+      "cited_file": "dpz_2025-07-21_8-k.txt; dpz_2025-10-14_8-k.txt",
+      "issue": "The claim-specific evidence consists only of unrelated WING financial data and does not contain the attributed explanation.",
+      "evidence_check": "Searched the supplied passages for 'food basket' and 'sales leverage'; no match appears."
+    },
+    {
+      "claim": "Q1 2026 growth from BOTH higher transactions and ticket (dpz_2026q1_10-q.txt).",
+      "cited_file": "dpz_2026q1_10-q.txt",
+      "issue": "The supplied 10-Q excerpts do not contain the asserted transaction-and-ticket explanation.",
+      "evidence_check": "Searched the claim passages for 'higher average ticket,' 'transaction counts,' and equivalent wording; no supporting text appears."
+    },
+    {
+      "claim": "leverage ratio fell from 5.0x (Q2 2024) to 4.3x (Q1 2026)",
+      "cited_file": "dpz_2026-04-27_8-k.txt",
+      "issue": "The passages show 4.3x for Q1 2026 and 4.9x for Q1 2025, but do not contain the claimed Q2 2024 comparison value of 5.0x.",
+      "evidence_check": "Checked the supplied leverage tables and highlights; 5.0x for Q2 2024 is absent."
+    },
+    {
+      "claim": "aided by a September 2025 $1.0B refinancing of the securitized notes (dpz_2026-04-27_8-k.txt; dpz_2025-08-06_8-k.txt; dpz_2025-10-14_8-k.txt; debt-indenture exhibits dpz_2025-08-13_8-k.txt and dpz_2025-09-08_8-k.txt).",
+      "cited_file": "dpz_2026-04-27_8-k.txt; dpz_2025-08-06_8-k.txt; dpz_2025-10-14_8-k.txt; dpz_2025-08-13_8-k.txt; dpz_2025-09-08_8-k.txt",
+      "issue": "The relevant supplied passage says the company intended to issue $1.0 billion of notes; it does not establish completion in September 2025 or show that the refinancing caused the leverage decline.",
+      "evidence_check": "Checked for completion language and a September closing date; only the August 6 announcement of an intended transaction is shown."
+    },
+    {
+      "claim": "DPZ Q1 2026 revenue grew only +3.5% YoY ($1,150.6M vs $1,112.1M)",
+      "cited_file": "dpz_income_statement.json",
+      "issue": "The supplied passages do not contain the cited Domino's Q1 2026 revenue figures; the income-statement data shown is for WING.",
+      "evidence_check": "Searched the passages for $1,150.6M, $1,112.1M, and 3.5%; none appears in the claim-specific evidence."
+    },
+    {
+      "claim": "QSR +7.3% ($2,264M vs $2,109M)",
+      "cited_file": "qsr_income_statement.json",
+      "issue": "No Restaurant Brands International/QSR income-statement figures supporting the claimed revenue comparison appear in the passages.",
+      "evidence_check": "Searched for symbol QSR, $2,264M, $2,109M, and a 7.3% revenue increase; no supporting match appears."
+    },
+    {
+      "claim": "YUM +15.2% ($2,059M vs $1,787M) (dpz/wing/qsr/yum_income_statement.json).",
+      "cited_file": "yum_income_statement.json",
+      "issue": "The supplied passage is a Domino's statement and contains no YUM revenue figures or 15.2% comparison.",
+      "evidence_check": "Searched for YUM, $2,059M, $1,787M, and 15.2%; no match appears."
+    },
+    {
+      "claim": "YUM ~31%",
+      "cited_file": "yum_income_statement.json",
+      "issue": "The supplied passages contain no YUM operating-income or revenue figures from which a 31% margin could be verified.",
+      "evidence_check": "Checked for YUM financial data and a 31% margin; none appears."
+    },
+    {
+      "claim": "QSR ~27%",
+      "cited_file": "qsr_income_statement.json",
+      "issue": "The supplied passages contain no QSR operating-income and revenue figures supporting a roughly 27% margin.",
+      "evidence_check": "Checked for symbol QSR and the components of a 27% operating margin; none appears."
+    },
+    {
+      "claim": "Domino's is the SLOWER-growing name in the peer set right now",
+      "cited_file": "dpz/wing/qsr/yum_income_statement.json",
+      "issue": "The claim-specific passages provide Domino's information but no comparable WING, QSR, and YUM growth figures needed to rank the peer set.",
+      "evidence_check": "Searched the passages for current revenue-growth comparisons across all four companies; the peer data is absent."
+    },
+    {
+      "claim": "positive order counts but a halving U.S. comp",
+      "cited_file": "null",
+      "issue": "The supplied passages do not establish the asserted halving comparison, and the only displayed U.S. comp in them is Q2 2025's 3.4%.",
+      "evidence_check": "Checked for two U.S. same-store-sales values demonstrating a halving alongside positive order counts; the required comparison is absent."
+    },
+    {
+      "claim": "a 32-year streak but a negative Q1 2026",
+      "cited_file": "null",
+      "issue": "The claim-specific passages do not contain the 32-year streak statement and do not clearly present the complete Q1 2026 international same-store-sales figure.",
+      "evidence_check": "Searched for '32nd consecutive year' and the Q1 2026 -0.4% international comp; the supplied excerpts do not provide both facts."
+    },
+    {
+      "claim": "Order counts stayed POSITIVE through the deceleration (dpz_2026q1_10-q.txt)",
+      "cited_file": "dpz_2026q1_10-q.txt",
+      "issue": "The supplied 10-Q excerpts do not state that order counts were positive or that they remained positive through a deceleration period.",
+      "evidence_check": "Searched the claim passages for 'positive order count,' 'customer transaction counts,' and equivalent language; no supporting statement appears."
+    }
+  ],
+  "synthesis_found": "The conflicting data points \u2014 record units but negative international comps; growing operating income but decelerating sales; positive order counts but a halving U.S. comp; a 32-year streak but a negative Q1 2026 \u2014 reconcile cleanly once you stop treating \"recovery\" as one thing.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/wing_income_statement.json",
+    "press_releases/dpz_2025-07-21_8-k.txt",
+    "press_releases/dpz_2025-08-06_8-k.txt",
+    "press_releases/dpz_2025-08-13_8-k.txt",
+    "press_releases/dpz_2025-09-08_8-k.txt",
+    "press_releases/dpz_2025-10-14_8-k.txt",
+    "press_releases/dpz_2026-02-23_8-k.txt",
+    "press_releases/dpz_2026-04-27_8-k.txt",
+    "press_releases/dpz_2026-06-22_8-k.txt",
+    "sec_filings/10-k/dpz_2025_10-k.txt",
+    "sec_filings/10-q/dpz_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 98,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

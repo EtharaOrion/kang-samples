@@ -1,0 +1,350 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "EYLEA Franchise Erosion: Biosimilar Competition and the Patent Litigation Endgame",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives the required 42% FY2025 U.S. decline and characterizes erosion as severe, but it never supplies the required 36% Q1 2026 year-over-year decline for EYLEA alone; its Q1 discussion instead focuses on the combined franchise declining 10%.",
+        "b": "The agent names biosimilar pressure, compounded bevacizumab linked to affordability, and migration to EYLEA HD, but it does not make the rubric's required distinction that only one of those three is a genuine external competitive threat; it instead treats compounded bevacizumab as another structural competitive driver.",
+        "c": "The agent lays out the Mylan/Biocon, Sandoz/Formycon, Celltrion, and Samsung launch restrictions, contrasts them with Pavblu's Q4 2024 launch, and concludes that litigation merely 'bought time' rather than removing the cliff. This move is tainted because flagged claims challenge the support for the launch-count characterization and the asserted future biosimilar timing."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "EYLEA HD as the Offset Engine: Growth Rate vs. Dollar Sufficiency",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent performs the dollar-sufficiency test, citing Q1 EYLEA HD at about $468 million, combined U.S. franchise sales of about $941 million and a 10% decline, and concludes that HD narrows rather than closes the dollar hole. The Q1 EYLEA HD figures used in this analysis were flagged as unsupported in the separate verification.",
+        "b": "The answer does not provide the required mix-shift comparison showing EYLEA HD at 37% of combined U.S. franchise sales in FY2025 versus 50% in Q1 2026.",
+        "c": "The answer never discusses the EYLEA HD pre-filled syringe delay, the Catalent Indiana re-inspection, or the FDA missing the April 2026 PDUFA date for the second contract manufacturer application."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Dupixent Collaboration Profit as the Real Diversification Buffer",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent quantifies collaboration profit at $3,923.5 million in FY2024 and $5,241.6 million in FY2025, and Q1 antibody profit share at $1,450.8 million versus $1,018.2 million. It also places the Q1 profit share against the approximately $941 million combined U.S. EYLEA franchise, establishing its larger scale.",
+        "b": "The agent explicitly traces combined U.S. EYLEA concentration from 42% to 31% to 26% and interprets the shift as a dependency handoff toward non-EYLEA revenue. This move is tainted because the three concentration percentages were flagged as unsupported in the separate verification.",
+        "c": "The answer weighs the buffer against Sanofi's commercialization control and cites the mixed itepekimab result, stating that AERIFY-1 succeeded while AERIFY-2 missed. This move is tainted because both the control characterization and the AERIFY-2 endpoint claim appear among the flagged claims."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Pipeline Breadth Beyond Dupixent and the Verdict on Offset Sufficiency",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives Libtayo's FY2025 sales of $1,452.2 million and 19% growth, but it does not provide the required $1,216.8 million FY2024 base or the specific 63% year-over-year growth in Q1 2026 rest-of-world sales; it instead cites 54% growth in global Q1 sales.",
+        "b": "The agent notes Ordspono's July 2025 Complete Response Letter and rising annual R&D, but it does not connect the CRL to the Catalent Indiana inspection issue or provide the required Q1 R&D increase from $1,327.4 million to $1,543.5 million. Thus it does not complete the specific setback-versus-investment analysis required by the move.",
+        "c": "The agent explicitly reconciles Q1 consolidated revenue growth of 19% with the combined EYLEA franchise's 10% contraction and defends a clear verdict: the offset is sufficient today because of Dupixent, but its durability is fragile because the buffer is concentrated and externally controlled. This synthesis is tainted because the 19% consolidated growth evidence and several supporting durability claims were flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "EYLEA HD is a genuine, patent-protected, share-gaining second-generation asset",
+      "cited_file": null,
+      "issue": "The passages support approvals and sales growth but do not establish patent protection, market-share gains, or the claimed second-generation classification.",
+      "evidence_check": "Searched the supplied passages for patent terms, market-share data, and a second-generation description; none appeared."
+    },
+    {
+      "claim": "it is itself being compressed on net price",
+      "cited_file": null,
+      "issue": "No evidence passage was retrieved for this concrete net-price assertion.",
+      "evidence_check": "The claim-specific evidence states '(no local match found)' and contains no net-selling-price disclosure."
+    },
+    {
+      "claim": "The real buffer holding Regeneron's consolidated P&L flat-to-up is Regeneron's ~29% profit share on Dupixent.",
+      "cited_file": null,
+      "issue": "The claim-specific passages do not contain the approximately 29% figure or identify the reported Sanofi collaboration revenue as a Dupixent-only profit share.",
+      "evidence_check": "Searched the supplied passages for '29%' and a Dupixent profit-share percentage; neither was present."
+    },
+    {
+      "claim": "That single line grew by more than the entire global EYLEA franchise fell in 2025",
+      "cited_file": null,
+      "issue": "If 'single line' refers to the preceding profit-share line, the assertion is numerically false: the profit share increased by $1,318.1M, less than the combined global EYLEA franchise decline of $1,654.0M.",
+      "evidence_check": "Compared the relevant disclosed values elsewhere in the supplied evidence: $5,241.6M minus $3,923.5M equals $1,318.1M, while $9,545.0M minus $7,891.0M equals $1,654.0M."
+    },
+    {
+      "claim": "it turned a declining EYLEA business into a +19% consolidated top line in Q1 2026.",
+      "cited_file": null,
+      "issue": "The claim-specific passages do not contain Regeneron's Q1 2026 consolidated revenue or the 19% growth figure; the financial JSON shown is for Biogen.",
+      "evidence_check": "Searched the supplied passages for Regeneron Q1 2026 revenue and 19%; no matching Regeneron result appeared."
+    },
+    {
+      "claim": "The pipeline beyond Dupixent is genuinely deep (~45-50 candidates)",
+      "cited_file": "regn_2026-04-29_8-k.txt",
+      "issue": "The source says Regeneron has nearly 50 candidates in total, including marketed products under study for additional indications; it does not say 45-50 candidates exist beyond Dupixent.",
+      "evidence_check": "The passages state 'nearly 50 product candidates in clinical development' for the whole portfolio, not the portfolio excluding Dupixent."
+    },
+    {
+      "claim": "facing a biosimilar wave for EYLEA 2mg that has not even fully arrived yet.",
+      "cited_file": null,
+      "issue": "The claim-specific passages discuss EYLEA sales and EYLEA HD milestones but contain no biosimilar-launch information.",
+      "evidence_check": "Searched the supplied passages for 'biosimilar,' launch timing, and EYLEA 2 mg competition; no such disclosure appeared."
+    },
+    {
+      "claim": "through the reporting window, most of that erosion is NOT from launched biosimilars.",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The supplied passages do not identify how much erosion was attributable to launched biosimilars versus other causes.",
+      "evidence_check": "Searched the claim-specific passages for launch counts and attribution of the sales erosion; neither was present."
+    },
+    {
+      "claim": "the EYLEA decline was driven by \"lower sales volumes as a result of continued competitive pressures... loss in market share to compounded bevacizumab due to patient affordability constraints, and the continued transition of patients to EYLEA HD, and... a lower net selling price.\"",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The attributed quotation is not contained in the supplied passages for this claim.",
+      "evidence_check": "Searched the passages for 'continued competitive pressures,' 'compounded bevacizumab,' 'patient affordability constraints,' and 'lower net selling price'; the quoted language was absent."
+    },
+    {
+      "claim": "Only ONE aflibercept biosimilar has actually launched in the U.S.",
+      "cited_file": "regn_2025q3_10-q.txt",
+      "issue": "The passages identify Pavblu as launched but do not state that it was the only launched U.S. aflibercept biosimilar.",
+      "evidence_check": "Searched for 'one such product,' 'only one,' or a complete U.S. launch count; none appeared."
+    },
+    {
+      "claim": "Amgen's Pavblu (aflibercept-ayyh), launched at-risk in Q4 2024",
+      "cited_file": "regn_2025q3_10-q.txt",
+      "issue": "The Q4 2024 U.S. launch is supported, but the characterization 'at-risk' is absent.",
+      "evidence_check": "The passages state Pavblu launched in the fourth quarter of 2024; no passage calls the launch 'at-risk.'"
+    },
+    {
+      "claim": "every inter partes review petition against the key '865 patent was denied institution",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The claim-specific passage confirms denials for Samsung Bioepis, Formycon, and Celltrion but ends after noting that Fresenius filed another petition, without giving that petition's outcome.",
+      "evidence_check": "Reviewed all IPR outcomes in the supplied passage; the Fresenius '865 petition was mentioned but its denial was not shown there."
+    },
+    {
+      "claim": "Amgen has counterclaimed with Sherman Act Section 2 / Walker Process fraud allegations",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The passages support Section 2 allegations involving allegedly fraudulently obtained patents, but do not identify a Walker Process claim.",
+      "evidence_check": "Searched the supplied passages for 'Walker Process'; no match appeared."
+    },
+    {
+      "claim": "the company won the injunctions and IPRs, yet the franchise still halved.",
+      "cited_file": null,
+      "issue": "No claim-specific evidence supports this blanket litigation characterization, and the supplied record elsewhere says Regeneron's preliminary injunction against Amgen was denied.",
+      "evidence_check": "The claim has no local match; related supplied passages report a denied preliminary injunction on September 23, 2024."
+    },
+    {
+      "claim": "the biosimilar contribution is still AHEAD of us, clustering in 2H 2026-Jan 2027 exactly as the settlements expire.",
+      "cited_file": null,
+      "issue": "The claim-specific passages do not contain the settlement launch restrictions or the 2H 2026-January 2027 timing.",
+      "evidence_check": "Searched the supplied passages for settlement expirations and biosimilar launch dates; no matching information appeared."
+    },
+    {
+      "claim": "Q1'25 $307M (+54%)",
+      "cited_file": "regn_2025-04-29",
+      "issue": "Neither $307M nor 54% appears in the claim-specific passages, and the cited Regeneron file is not represented in them.",
+      "evidence_check": "Searched all supplied passages for the two claimed figures; no matching Q1 2025 EYLEA HD disclosure appeared."
+    },
+    {
+      "claim": "Q2'25 $393M (+29%)",
+      "cited_file": "regn_2025-08-01",
+      "issue": "Neither $393M nor 29% appears in the claim-specific passages.",
+      "evidence_check": "Searched the supplied passages for '$393' and '29%'; no matching Q2 2025 Regeneron result appeared."
+    },
+    {
+      "claim": "Q3'25 $431M (+10%)",
+      "cited_file": "regn_2025-10-28",
+      "issue": "The claim-specific passages are Biogen financial data and do not contain the claimed Regeneron EYLEA HD figures.",
+      "evidence_check": "Searched the supplied passages for $431M and 10% EYLEA HD growth; no match appeared."
+    },
+    {
+      "claim": "Q1'26 $468M (+52%)",
+      "cited_file": "regn_2026-04-29",
+      "issue": "The claim-specific passages are from the January 2026 release and do not contain the Q1 2026 values $468M or 52%.",
+      "evidence_check": "Searched the supplied passages for '$468' and '52%'; neither appeared."
+    },
+    {
+      "claim": "HD growth is \"due to higher sales volumes... partly offset by a lower net selling price\"",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The attributed quotation does not appear in the supplied 10-K passages for this claim.",
+      "evidence_check": "Searched the passages for 'higher sales volumes' and 'lower net selling price'; no matching quote appeared."
+    },
+    {
+      "claim": "EYLEA HD has no U.S. regulatory exclusivity",
+      "cited_file": "regn_2024_10-k.txt",
+      "issue": "The supplied passages do not state that EYLEA HD lacks U.S. regulatory exclusivity.",
+      "evidence_check": "Searched the passages for 'regulatory exclusivity,' exclusivity dates, or an explicit statement of none; no match appeared."
+    },
+    {
+      "claim": "protection rests solely on patents",
+      "cited_file": "regn_2024_10-k.txt",
+      "issue": "No passage supports the categorical claim that patents are the sole source of protection.",
+      "evidence_check": "The claim-specific evidence states '(no local match found)' and provides no exclusivity analysis."
+    },
+    {
+      "claim": "it precedes the 2H-2026 biosimilar entries",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the alleged second-half 2026 biosimilar-entry dates.",
+      "evidence_check": "Searched the claim-specific passages for biosimilar entry timing; none appeared."
+    },
+    {
+      "claim": "exceeded the U.S. EYLEA HD+EYLEA product-sales decline (-$1,584M) outright.",
+      "cited_file": "regn_2026-01-30_8-k.txt",
+      "issue": "The implied comparison is false: the preceding Dupixent/Sanofi profit-share increase of $1,318.1M did not exceed the approximately $1,583.5M U.S. EYLEA franchise decline.",
+      "evidence_check": "Calculated $5,241.6M-$3,923.5M=$1,318.1M and $5,968.2M-$4,384.7M=$1,583.5M."
+    },
+    {
+      "claim": "The collaboration splits U.S. profits 50/50",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The supplied passages for this claim discuss development funding and co-commercialization but do not state the 50/50 U.S. profit split.",
+      "evidence_check": "Searched the claim-specific passages for 'equally share,' '50/50,' or U.S. profit-sharing terms; no match appeared."
+    },
+    {
+      "claim": "the EYLEA U.S. franchise fell from 42% to 31% to 26% of revenue",
+      "cited_file": "regn_2025_10-k.txt; regn_2026q1_10-q.txt",
+      "issue": "The claim-specific passages contain only unrelated Biogen financial data and none of the three Regeneron percentages.",
+      "evidence_check": "Searched the supplied passages for 42%, 31%, 26%, and Regeneron EYLEA revenue concentration; no matching disclosure appeared."
+    },
+    {
+      "claim": "EYLEA + Dupixent together were ~72% of FY2025 revenue.",
+      "cited_file": null,
+      "issue": "The claim-specific evidence does not contain the relevant Regeneron revenue shares or enough figures to substantiate 72%.",
+      "evidence_check": "The supplied passages are primarily unrelated Biogen data and an incomplete Regeneron product-sales table; no 72% calculation is shown."
+    },
+    {
+      "claim": "Bayer can terminate on 6-12 months' notice",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "No supplied passage contains Bayer termination rights or a 6-12 month notice period.",
+      "evidence_check": "Searched the claim-specific passages for 'terminate,' 'notice,' 'six months,' and '12 months'; no matching term appeared."
+    },
+    {
+      "claim": "No imminent biosimilar date is disclosed",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "No evidence passage was supplied to substantiate this source-wide negative assertion.",
+      "evidence_check": "The claim-specific evidence states '(no local match found)'; the supplied excerpts do not establish what the full filing did or did not disclose."
+    },
+    {
+      "claim": "The breadth is real: Libtayo, Lynozyfic (linvoseltamab), cemdisiran, pozelimab, garetosmab, fianlimab, the Factor XI antibodies (REGN7508/9933), and the in-licensed GLP-1/GIP agent olatorepatide in obesity",
+      "cited_file": "regn_2025_10-k.txt; regn_2026q1_10-q.txt",
+      "issue": "The passages support the named programs and olatorepatide's GLP-1/GIP obesity program, but do not state that olatorepatide is in-licensed.",
+      "evidence_check": "Searched the supplied passages for licensing or acquisition terms tied to olatorepatide; none appeared."
+    },
+    {
+      "claim": "Regeneron books 100% of global sales",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The claim-specific passages do not identify the product to which this refers or state that Regeneron records 100% of its global sales.",
+      "evidence_check": "Searched the passages for 'global net product sales' recorded by Regeneron or '100%'; no matching statement appeared."
+    },
+    {
+      "claim": "~10% of revenue",
+      "cited_file": null,
+      "issue": "The claim-specific passages contain unrelated Biogen financial data and do not establish what represents approximately 10% of Regeneron's revenue.",
+      "evidence_check": "Searched the supplied evidence for a Regeneron numerator, denominator, or explicit 10% revenue share; none appeared."
+    },
+    {
+      "claim": "itepekimab's AERIFY-2 COPD Phase 3 MISSED its primary endpoint",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The claim-specific passages do not mention AERIFY-2 or its primary endpoint result.",
+      "evidence_check": "Searched all supplied passages for 'AERIFY-2,' 'COPD,' and 'primary endpoint'; no match appeared."
+    },
+    {
+      "claim": "Biogen's revenue was roughly flat-to-down across the same window (~$2.43B Q1'25 to ~$2.48B Q1'26)",
+      "cited_file": "biib_income_statement.json",
+      "issue": "The supplied passages for this claim do not contain either the Q1 2025 or Q1 2026 revenue values.",
+      "evidence_check": "Searched the excerpts for $2.43B/$2.431B and $2.48B/$2.4778B; neither comparison value appeared."
+    },
+    {
+      "claim": "the broad pipeline (not yet material, and dented by three late-stage misses).",
+      "cited_file": null,
+      "issue": "No claim-specific evidence identifies three late-stage misses.",
+      "evidence_check": "The evidence states '(no local match found)' and contains no enumerated trial or regulatory failures."
+    },
+    {
+      "claim": "The buffer is a single, ~29%, Sanofi-controlled profit stream",
+      "cited_file": null,
+      "issue": "The claim-specific passages do not contain the approximately 29% realized share or establish Sanofi's control of the stream.",
+      "evidence_check": "Searched for '29%,' commercialization control, and payor-negotiation responsibility; none appeared in these passages."
+    },
+    {
+      "claim": "the company itself flags as a substantial dependency",
+      "cited_file": "regn_2025_10-k.txt",
+      "issue": "The attributed company statement is absent from the claim-specific evidence.",
+      "evidence_check": "The claim-specific evidence states '(no local match found)' and does not contain 'substantially dependent' or equivalent wording."
+    },
+    {
+      "claim": "a new MFN pricing regime pressures net price across the portfolio",
+      "cited_file": null,
+      "issue": "The passages discuss proposed 2025 government measures and uncertainty, not an implemented new regime or demonstrated portfolio-wide net-price pressure.",
+      "evidence_check": "Searched for an executed MFN agreement, effective pricing regime, and actual portfolio-wide net-price impact; none was present."
+    },
+    {
+      "claim": "What is actually keeping Regeneron growing through EYLEA's collapse is Dupixent \u2014 a booming asset it does not control and books a minority of.",
+      "cited_file": null,
+      "issue": "The passages support Dupixent growth and EYLEA decline but do not support the concrete assertions that Regeneron does not control Dupixent and books only a minority share.",
+      "evidence_check": "Searched the claim-specific passages for collaboration-control terms and Regeneron's realized sales/profit percentage; neither appeared."
+    },
+    {
+      "claim": "a biosimilar wave that, for EYLEA, has only just begun.",
+      "cited_file": null,
+      "issue": "The claim-specific passages contain no biosimilar launch count or timing evidence.",
+      "evidence_check": "Searched the supplied passages for 'biosimilar,' launched competitors, and future entry dates; no matching disclosure appeared."
+    }
+  ],
+  "synthesis_found": "Regeneron has not diversified away from concentration risk; it has migrated it from an eroding wholly-owned franchise to a growing partner-run one.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/income_statement/biib_income_statement.json",
+    "press_releases/regn_2026-01-30_8-k.txt",
+    "press_releases/regn_2026-04-29_8-k.txt",
+    "sec_filings/10-k/regn_2024_10-k.txt",
+    "sec_filings/10-k/regn_2025_10-k.txt",
+    "sec_filings/10-q/regn_2025q3_10-q.txt",
+    "sec_filings/10-q/regn_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 119,
+  "grounding_claims_no_match": 8,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

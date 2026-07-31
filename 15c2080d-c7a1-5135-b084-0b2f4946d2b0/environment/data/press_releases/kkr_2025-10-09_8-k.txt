@@ -1,0 +1,1540 @@
+0001140361-25-037759.txt : 20251009
+0001140361-25-037759.hdr.sgml : 20251009
+20251009065045
+ACCESSION NUMBER: 0001140361-25-037759
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20251009
+ITEM INFORMATION: Regulation FD Disclosure
+FILED AS OF DATE: 20251009
+DATE AS OF CHANGE: 20251009
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: KKR & Co. Inc.
+ CENTRAL INDEX KEY: 0001404912
+ STANDARD INDUSTRIAL CLASSIFICATION: INVESTMENT ADVICE [6282]
+ ORGANIZATION NAME: 02 Finance
+ EIN: 881203639
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-34820
+ FILM NUMBER: 251383584
+
+ BUSINESS ADDRESS: 
+ STREET 1: 30 HUDSON YARDS
+ CITY: NEW YORK
+ STATE: NY
+ ZIP: 10001
+ BUSINESS PHONE: 212-750-8300
+
+ MAIL ADDRESS: 
+ STREET 1: 30 HUDSON YARDS
+ CITY: NEW YORK
+ STATE: NY
+ ZIP: 10001
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: KKR & Co. L.P.
+ DATE OF NAME CHANGE: 20070627
+8-K
+1
+ef20056795_8k.htm
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 9, 2025
+
+KKR & CO. INC.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+001-34820
+
+88-1203639
+
+(State or other jurisdiction of incorporation)
+
+(Commission File Number)
+
+(IRS Employer Identification No.)
+
+30 Hudson Yards
+
+New York, NY10001
+
+Telephone: (212)
+ 750-8300
+
+(Address, zip code, and telephone number, including
+
+area code, of registrant’s principal executive office.)
+
+NOT APPLICABLE
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+ following provisions (see General Instruction A.2. below):
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock
+
+KKR
+
+New York Stock Exchange
+
+6.25% Series D Mandatory Convertible Preferred Stock
+
+KKR PR D
+
+New York Stock Exchange
+
+4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC
+
+KKRS
+
+New York Stock Exchange
+
+6.875% Subordinated Notes due 2065
+KKRTNew York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+ chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+☐
+
+Emerging growth company
+
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+ pursuant to Section 13(a) of the Exchange Act.
+
+Item 7.01
+Regulation FD Disclosure.
+
+KKR & Co. Inc. (together with its subsidiaries, “KKR”) posted a presentation on its website for KKR common stockholders and analysts entitled “Asset-Based Finance
+ Overview”. The presentation is accessible at the Investor Center for KKR & Co. Inc. at https://ir.kkr.com/events-presentations/. From time to time, KKR uses its website as a channel of distribution of financial and other important
+ information about the company.
+
+The information in this Item 7.01 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended
+ (the “Exchange Act”), nor shall it be deemed to be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+ undersigned hereunto duly authorized.
+
+KKR & CO. INC.
+
+Date: October 9, 2025
+By: 
+/s/ Christopher Lee
+
+Name: 
+Christopher Lee
+
+Title: 
+Secretary
+
+EX-101.SCH
+2
+kkr-20251009.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+000100 - Document - Document and Entity Informationlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+kkr-20251009_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+EX-101.LAB
+4
+kkr-20251009_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+Common Stock [Member]Class of Stock [Domain]Class of Stock [Axis]Cover [Abstract]Document TypeWritten CommunicationsSoliciting MaterialPre-commencement Tender OfferPre-commencement Issuer Tender OfferAmendment FlagDocument Fiscal Year FocusDocument Fiscal Period FocusDocument Period End DateEntity Registrant NameEntity Central Index KeyEntity File NumberEntity Tax Identification NumberEntity Incorporation, State or Country CodeEntity Emerging Growth CompanyEntity Address, Address Line OneEntity Address, Address Line TwoEntity Address, Address Line ThreeEntity Address, City or TownEntity Address, State or ProvinceEntity Address, CountryEntity Address, Postal Zip CodeCity Area CodeLocal Phone NumberEntity Listings [Table]Entity Listings [Line Items]Title of 12(b) SecurityNo Trading Symbol FlagTrading SymbolSecurity Exchange Name4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC [Member]6.875% Subordinated Notes due 2065 [Member]6.25% Series D Mandatory Convertible Preferred Stock [Member]EX-101.PRE
+5
+kkr-20251009_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Document and Entity Information
+
+Oct. 09, 2025
+
+Entity Listings [Line Items]
+
+Document Type8-K
+
+Amendment Flagfalse
+
+Document Period End DateOct. 09, 2025
+
+Entity File Number001-34820
+
+Entity Registrant NameKKR & CO. INC.
+
+Entity Central Index Key0001404912
+
+Entity Incorporation, State or Country CodeDE
+
+Entity Tax Identification Number88-1203639
+
+Entity Address, Address Line One30 Hudson Yards
+
+Entity Address, City or TownNew York
+
+Entity Address, State or ProvinceNY
+
+Entity Address, Postal Zip Code10001
+
+City Area Code212
+
+Local Phone Number750-8300
+
+Entity Emerging Growth Companyfalse
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Common Stock [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) SecurityCommon Stock
+
+Trading SymbolKKR
+
+Security Exchange NameNYSE
+
+6.25% Series D Mandatory Convertible Preferred Stock [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security6.25% Series D Mandatory Convertible Preferred Stock
+
+Trading SymbolKKR PR D
+
+Security Exchange NameNYSE
+
+4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC
+
+Trading SymbolKKRS
+
+Security Exchange NameNYSE
+
+6.875% Subordinated Notes due 2065 [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security6.875% Subordinated Notes due 2065
+
+Trading SymbolKKRT
+
+Security Exchange NameNYSE
+
+XML
+8
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+9
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.2html5221false40false0falsefalseR1.htm000100 - Document - Document and Entity InformationSheethttp://kkr.com/role/DocumentAndEntityInformationDocument and Entity InformationCover1falsefalseAll ReportsBookAll Reportsef20056795_8k.htmkkr-20251009.xsdkkr-20251009_def.xmlkkr-20251009_lab.xmlkkr-20251009_pre.xmlhttp://xbrl.sec.gov/dei/2025truefalseJSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "ef20056795_8k.htm": {
+ "nsprefix": "kkr",
+ "nsuri": "http://kkr.com/20251009",
+ "dts": {
+ "inline": {
+ "local": [
+ "ef20056795_8k.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "kkr-20251009.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2004/ref-2004-08-10.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/arcrole/factExplanatory-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/currency/2025/currency-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/exch/2025/exch-2025.xsd",
+ "https://xbrl.sec.gov/naics/2025/naics-2025.xsd",
+ "https://xbrl.sec.gov/sic/2025/sic-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "kkr-20251009_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "kkr-20251009_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "kkr-20251009_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 0,
+ "memberStandard": 1,
+ "memberCustom": 3,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 5,
+ "entityCount": 1,
+ "segmentCount": 4,
+ "elementCount": 37,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 31
+ },
+ "report": {
+ "R1": {
+ "role": "http://kkr.com/role/DocumentAndEntityInformation",
+ "longName": "000100 - Document - Document and Entity Information",
+ "shortName": "Document and Entity Information",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c20251009to20251009",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "div",
+ "div",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ef20056795_8k.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c20251009to20251009",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "div",
+ "div",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ef20056795_8k.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Class of Stock [Domain]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_CommonStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "CommonStockMember",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Common Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "xbrltype": "fiscalPeriodItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalPeriodFocus",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Period Focus",
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "xbrltype": "gYearItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalYearFocus",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Year Focus",
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCountry": {
+ "xbrltype": "countryCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCountry",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Country",
+ "documentation": "ISO 3166-1 alpha-2 country code."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityListingsLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityListingsLineItems",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Listings [Line Items]",
+ "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityListingsTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityListingsTable",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Listings [Table]",
+ "documentation": "Container for exchange listing information for an entity"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "kkr_Four625SubordinatedNotesDue2061OfKKRGroupFinanceCoIXLLCMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://kkr.com/20251009",
+ "localname": "Four625SubordinatedNotesDue2061OfKKRGroupFinanceCoIXLLCMember",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "kkr_Six25SeriesDMandatoryConvertiblePreferredStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://kkr.com/20251009",
+ "localname": "Six25SeriesDMandatoryConvertiblePreferredStockMember",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "6.25% Series D Mandatory Convertible Preferred Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "kkr_Six875SubordinatedNotesDue2065Member": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://kkr.com/20251009",
+ "localname": "Six875SubordinatedNotesDue2065Member",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "6.875% Subordinated Notes due 2065 [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://kkr.com/role/DocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+14
+0001140361-25-037759-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001140361-25-037759-xbrl.zip
+M4$L#!!0 ( %4V25O!?UB0CQ0 'R/ 1 968R,# U-C^7+5EJ$]\X=LYR
+M!G)__=>2[>"\($!XS4!-36RK);5:K7[IM?6OJWY"OD,NXRS]\(ZVC7<$4IZ)
+M.+WX\&[G;/?P\-V_MG_9ZA4(AJ"I[%Z%>1)_6.L5Q:#;Z5Q>7K;5EW:67W1,
+MP[ Z<2H+EG)8J^"3./UV [A*#ID<@U_-P%]:&IH&0=#1J6-0&<\#Q&)IY\^O
+M7\YX#_JL-8V/JEY<9VQBXW;*Q!HTEIEM4N^FQI80=0:9%V/@B,E0 ^)'!#:=
+M<:E7BPJDBGK80OCSX^F7:_!B/OPU:*?(62JC+.^S OM1U6:T#+-%S48A+0E\
+MHB!\;U]DWV\LASHMPV]9M"YG*%L7C UF&UDE3#14P!29ZQHQ80*09\.TR$?S
+M@:O$R0S#/$NV709IN+?"$'!!U,K0%3
+M%G,Y'R6=-(&/C/E\4$R8!"P&^0)(3)D A2O>FP^J4B8I"-$"XD$T"3@2"P!'
+M8@+PV[=K-/&YS;.^3J=(I0IF\;!6\F5M^Q="MGK A'K QR(N$MC>ZI2_Y;=_
+MM%KD2\PAE2!(D77)QSQC(H_%!6@ _;>7\6$?TH+P'%B!@$.)\JP!2DY.CZ,X
+M 6(Z;6JT:=NQ+.LZ_VXV&.7Q1:\@B)U#6D2UHYF]U:K0Z4/!B&I4"_X[C+]_
+M6-O-T@)K;ITC+ZT17KY]6"O@JNCH1G90FG;*1OZR%69B1&0Q2N##&L^2+.^2
+M7PW]MTDBS-N*6#].1EWR[CSN@R1'<$E.LSY+WU7I,OX?= DU!L4F476T6!)?
+MI%V20(1?0L:_7>0X?D2K+CW2?YM(ZRT1?RV!YSDK*^R@IQ=P=[0*A>.$C8Q9JN
+MZ8#QXF]J4P@#;GB^26W'X3[0T/8MZGJ100TOK*AV59PJ%N4U"Q79-3.5$NK#
+M&DJU;A1?@4 Z):A"MO7/5F<"I<48[J?(6:-=1#%GR6$JX.HSC!J8>BZE2"PS
+MBIBPJ,P+'L9GK,N-V3+>Q)ZEMV $U9[#J3-(PAPB4U *YO:647%=J
+M]85%$ZWTNKU8B#IX-SO\\\N7W5?-(@]J\ROF
+MEJ!Q*'I=XK>=."UAE2>4U\"*W)!7AC@IWUIA5A19'XW_P16161(+$B9H[X_3
+MBVS0)?9T8HT8N@Q7FV3**[C!89CP+M#]*B#?)&4C6LK9J%M2?6'RXJ2898(Q.>/H\/S_3UR=KYSOG_V4I ZV]_]X_3P_'#_C.P<[9']
+M/W=_WSGZM$]VC[]^/3P[.SP^>F),S468_IO)'OKH199ND+U==+@=.WABW(Q%
+MN)&M,*]X&-%X6J3\14@=')]^)0M=VSH"4H8AQAXM,WEH1G[D^!%'WYOZ/O>%
+ML&T[LL"@PE_"H_5;GV==V44DN6&8W[EKUK9_^Y6ZQN8S=L9"#L%1=KI_=$Y.
+M]T^.3\]?"E8GPUP.65J0(B-GP%5(EU"+9#FASKIX3[*(%#U02<,RR] ++#"Y5, \M>KC4ZX+2V6&A?(WE#J^:1HB'I9\J^$_/LY/M.6R7]HSS6";\(3E"]_S
+MA8$#'@**0\AAH>FZD>4&UAV#;>@40*N/.7H*A99@H]8(L6Y!NK9]S(M,F97!
+MA@Z7+B\D'M:53]N#YD)5>TN4\10N8JFF5XHC3>D./;GG TP
+MUPY$%/@L%!R6$,EH=9/?6'^PB7J]30Z/=MLSQ'\),E/7@B9Q@55PI-CZ_A42
+M0%-*<7\^IA!ADL@!<.7,"#2A,8LD*)AP,.3OGXB/"H8N+U(A25!.<#4;NJ;B
+MO?@^8$+4[Z6IK1_OB42M%+$G_SDVW9'H"1M(A*F?YD7WIR<,JLP5OEUBU)Z$
+M^KN>W%"/6T6^W?A2)6\5HFY&A95E(5(Z ,!94M=>.A[W$7P353Z$]^XV]@Y3
+MGN4H2_6DIG9Q=\LYQ=U,3 A+L+A#:6@PF]DNCL!0&)8*]AN!Z02A>S=AJ>9;
+ME3-:P"#/OBNC=\$,,H'-V=5A%E[@>
+M1#-]$GAFY'+FV!'X=A0I_15R.W09]I!/O6@9Q\)O4=.P7"M84:?\HC_ETY\>
+M(OJ*;/"LW3:C0K4T4Q9]AI9\3OZ#AKP4<6GJHTZ-FY+O_+C<7Z>7:8-@@FTK$08H6/J"IMZH<\MSW,%
+MM3V#!9POX9)N*W3_RO)OTY3:6.PH3^"EI>9Q?H)V6:Q7!HZ1 V9;D8W6G@NV
+M[;C"%]2E:&^8U'0$^,OTYM%?TV@MB=5)AM9B\G_Q8,HLY7X 1F#[H2$B&X+
+MMRD$B!$S@%M(QR5PHFJZ:'F/_&EYZ1P2&/2R%('6%U)*L=).#FR*-AX%(0!-
+M#!>9R4._F5/AFU;D!]0.0]-<@C;F[-J<]]=AHD7X?,E0'9PHK&=L(3 -;E)N
+M<8YBP>$T"#Q;<-MBID=Y!$LL<-KV'*/E6\:L>?IB?/>*9S?(_^(!5B1@@[!4
+MH)=:]25)-5DVE F2#)7#_&)P1^^+52A/A!U^^]4WJ;*W/I,H3M2JV%CB&"T@%7I!+9*H/TP*ED(VE,F(2+0A
+M9332.:L,68C(L]K%4 F-T-T0RT':IZ,J;2Q)HRQ!)%1^%0Z)E8TNR;H$()\@
+MA1P'VV&*90Q+WV6G;;9+M-]W7U3$CZN%$>6:V2_8YG.5:47!OV>)\)F>PF.N
+M?[,BMERH0O^=QP7RG?+9AFGEK,B&'C4LZCL&$T[$A6V&0>AXH<&IB2J?>[['
+M[A&."[,L"1DR8H'#0DTHHFJV-V^/-RSM+9;"?RXY9[MWI0[D_+FSBL9(J2:1
+MR: Q,W@Z1+9'D[<:NE,S@FHB<)UZ9/?@E)B6T4; E3J3;Z/NB4?=6:877V%+
+MOJ)Z0!V1-$U7="LB'&] 3; ]AJ^1[3H"_:'(Y<#NN#;_YQQRUP0F_8K"L^.-
+MVJQ%S<:0FYAY'P\XVVB7D&]C[C6/N9,\VWF
+MN($+GFTXP*S0HC0 )PRHX5A+N+)O8P\)W>(-2M^J]Z@M6N9Z^'ZYD5C"OHW%
+M'V@L'DHYA'S^B&0.]4/3#\#UF6TQGX%G63QDEAVY3NC=''+WZP;QU@%KJ5?X[TG6E7O:M"S7?5M<3;[A1+?>AV\?U0M3M2L#[4>0OEYV8OQR[60??3U*'.%13\6(H%G
+M(MA-0892#XVH&6KI,6%4N8:!K.)&D6O[G :6\$+#]]T@$*YKBUN-JKOMORX_
+M$?UM]8N][C:X[M];JY!L+Y57*OEVIL5;<]K;LJFP# _ #6PO9*$%GA&90@C7
+M#@+&5\PHGS^?_C3\,5?XOE3^J&5)[05,K9\71A395N!:0)D=FE' /&6^M5NF]$-Z[13F:-/1,8)2% ;>MT&$6!^1&ZG/?!GN)L[96
+MS8*O5W\^WY+OJ5VU#PX56FT+_]3Q#\WE5*GJF*3Z]IWE,<-?O=!GF(-6519Y]@U;5Q3H=??@"=)Y&^V>/P%"4-AUG
+M@]3_O:_0$<"KK16MHA?S;RE(>7WDQPQ,O6YM47I5W3A]?/Y>>4 G^4?<5TO6
+MD.Y(ZB1CQ?7)?$W^F*+=4N)CCI7E"_#MT$;7W/!LZH>!:?* FJ[%A.T:GO,0
+MT?' LW/LMJOMK49VHO,3,02B2E A&Z7L="&D*@6ML38Y_)-@2;,BI=H-WMP4
+M_BBJ[YYBY$<( +P)L34
+M8)AZ]GPRZ"W.= ]3VA$Y862X=F10BUIFZ 7!\W'3SV93/\3U
+M>E--;ZKI9=C7@6>%MLLC/U3V-8? #:(( @<"<4>I0U[%L9MI!&#@TH!0\QQ;8
+MX$=GA-78JS_AZL[#5*AULT#"$>%ZLV>?(:4N>Z /?YG:B1E+@A($^TEM2[X@
+M* OBYY:?CM0NS,9:GF(4 ;I ];*/6"&,^=(R.N3("VRKD:$MZGW@=7 L1S3
+M'+MJH(YH4YMPR[6\9M@RESQF/VK>-)R]_
+M](R9\S;6>SG<=AC=H"G4"1YSU4X\L_>_ATH%$N#*D4PSO=U@*$%#8;.J$P:4
+MO1_K+0CE:?MJL.NZDI&J_#+&JI6"2K&-F)+#]UA=]17IR)?:2\FXOA%.+XDN
+MU+QS+F1YI@"6/]5V,G_O@[7.QGL?FKJH_4C[2%;2J^6A^$K&3>I!LO1- 3.7
+M 31O"IBY1N!Y;@J88U95,NCCZ[XV++=ND
+MI4[U97Q?PM0H65C'N/P!?FF%ZE.+184B+TLNV4A.CK697IAP3.?@6'9(Z;8V
+M!>.8\$VZCV7B+-VKI%GBO9E+2&*K;3F/*_/G;APX1 ^)>&UUZM:KM$'F-NH4
+M+H9)>?++P1[9BR5/,CG,X;'DYJOST":%RBJE__R>6T71C=/#U?J(E+?)>I%=
+ME#ZE5L?J^&TY#&4L8J:6>VT0=526:6QB5OU$-]^302:5WF>HBD&BU*\.""H/
+M[[X$S(T6A-+UJCY>[LJ0RL?O(6]!+O7Q82QER4AB!GWY3X+E537M2 E%ZR-3
+MID U"3;!;<_G:',LCV_'<\K%0.*.YK]DJA1IX^H@R*!2!4% A$M6] 7P2&SGDZ%54"$W'D1Y3X;S9KBNQ79_M
+MR,.SPT]'.^=_G"Y[I=P+38/)E__\^C+^=Z
+M"=U1(3-OY<8]UUD_ M[A35<7H[[-!LHE_0+P;-+FZ0?Y
+M"D6-6I;Q+-RR$C9X8X$58*'7A+Y>'D#;/(>"Y2N=E_[1':M55G/W ->MEVNO
+M@HZ+IR?K\(!YM_# W"G%R:G.>TTP7C\WGE;01].4J&^)[X29&*G?7M%/MO\?
+M4$L#!!0 ( %4V25N[+LGX!00 ,3 0 :VMR+3(P,C4Q,# Y+GAS
+M9,U7VV[;.!!]7V#_0=6[;G:=UD:<8C=IBJ!.4R0MT+>"EL8.$8G4DE1B_WV'
+ME"C+UUI6B^T;+^?,C:/1S/F[198ZSR DY6SL1G[H.L!BGE V'[N%](B,*77?
+M7?S]U_DKS_L # 11D#C3I?.OX"01-)F#\_G^;D93<'H#/PK]R!_T^_W&O>=I
+M_D*.9/P(&7$4$7-0GT@&,BX,H#(=H2PH9,'7-
+M178%,U*D:NS^5Y"4SB@DKH/&,SE:R%K"R\N+_]+WN9BCD# *OMU.'HQ.BT45
+M!]25F)2RIS6)BZE(K:\]H+(Z\?62:F
+MPSIQ1N34D.S-FB(IU#Y\?542,#L<1^<'88PKHC 7S5%UF.>4S7AU@F%SHRO4/2]XS1=7R!E-89":%7(ZR+$PA:&CN=8"00,R9I
+M7*0G$-=S<3>O.K7QMQ4BV"@1Y<%Z(=%E!+.-"^6PK;].LXK-"V+2V%_(Q&;001OV5.R#-FS"]:*#UI@73(EE&\U-BMUT
+ML: 0 IN/=B8T.?6N@Q&PB!_;&%#CS:J#8D9H+-MH7A'*90?=DL9M-%NX7K33
+MNEFVAV6U9##77>5N]9NT5(@UEJ?E>%'/B\ZZVZ%:VZ!.T;\>3I6+5N&W>+/J
+M]@#-GO,8QPU%[SS+T^[WM?O]Z&0K7@="_ZN/-,"@M5KL3]]Z.'"TBOI6_WRD
+M5DO0BH^/][X6N>!;=S3Y^O/\@>)%?XR5^\)?\YMMD/[ O- %V_?['-HL.G_<>@_TTU\-J2@
+ML;&UL
+MU9Q;;^(X&(;O5]K_P++7$ [+S+0:9M2E[0A-3RI=[>S>5"8Q8#6QD>.T\._'
+M#G$;)W9B#LV$FQ;B-Z^_SX]M')/P^>LJ\!O/D(:(X&&SV^XT&Q"[Q$-X/FQ&
+M80N$+D+-KU]^_^WS'ZW6-X@A!0QZC>FZ\3KD(T;"X86YXZSLO+2_NEWR9T[O0Z
+MG:[SX_IJXBY@ %H(APQ@%S8;7'\:Q@>OB M8''3J]-64^M*@[[S6952(=RTI
+M:XE#K6ZOU>^V5Z'73$(4Q1:52/DJIT]RZIZ:-LE@2...^?$C0*(V1GV+C!#
+M;#W&,T*#N%EYG;$16R_AL!FB8.E#>6Q!X6S8Y%:\Q7J#;J=S(MKKSV([)Q4=
+MH*X,,'F9CO$U-X29XZ' 230.\/WRL RM*1M)0![$X<9N!XB*OX98#)^6!V<@
+M\MD!8]1X'S9B$@!DP7J7@!/K0\0;6[4"&$PA/62PJN\!(EWPH*@;36'KM2$.
+M&*_6/1TU[R0((S'>KOA;I6*X8A![T)-5BW!WF!7BRF1U/G&5.GPQ)1.:SRZ4
+M;19"MSTGSXX'D2/F#O$BGD0V/"!ZW%1YA4+&/X%"G@8<,QB$TM,'4^@/FR4J
+M7BBR,ZJ<=T]#-N(#=\S$KBM* E:+U"C?V)Y1-5[>^:1/T@]W'%(S2H+RMB6%
+M*;R%>=HP.#48::@.A'J0)JN/]V=SQBOV1.67/IAGX&C+DM0R9?7%4Y2$)9^,
+M10*H5PT@V3GN($6$3T+>.5]R&D:15I,93AE-?<'9)+7E ,M8)2#[U8*\1*$+
+M_/\@H)?\2'8R+U%E8.94]<=9G-B60'-F"=*_?@723>\JAZK1:;$JNF,!:TYN
+M)[2*70)W4 W<38R7_$K^)DHWC++JRASCG
+MP5& V0T(LI^311*%6U92=W:%*6W%+^N4,/Q8)<,1'_X4^&-^B;;Z#M=:B :-
+M0C&GJ3O&XJ2VXIBS2D!^JA+D&+N$+@F-+YKI5V@4TAK=76G7)[<5H2U=I)N1;M&IDAZEG1[
+MEG1[QT@WF]R>='MO="O:DV[>DVS]&NMGD]J3;?Z-;T3Z4$LF(O[RE
+M#^0%%['-JW1DTZHCX6I,;!>J:3/)M**-*"6.>+%W2^\H>4:;+\R-8 U2'=V<
+M]$@0%Z>X"^>Y6)4'<
+MD9 !_W^T-%X7%PEU0#/"(\%:E-XN<#-^$G%%FUGB\^",0J"!JBM*\E2+Z@NN
+M( 5+5*J#A%/1!I6X8\Z_6Q"LW]TW%2<9YHOK"ZHD%4M8>1<)K*(MI ET(\JC
+MZ_:F#R+R##!3<9)EOKB^P$I2L026=Y'W+52T _1 @;AQ=K(.IL3/T-*6)?EE
+MRNK+J2@)2T@9"TFHHEV<&Z+4K[D#J$"1)*I5U)=9>4*6Y+1&DE]%^S1RB%^L
+MW 7 6&+$0F6 .LO
+MZ@J5RJ6 05E?LO8);G4Q8#"4G"O:HOF7]S0&,:\^B'#RW4SV/J%"39*Z05-?
+MJC9)6?(T6$F2%>V_3(B/7"2BNP8,4@2RJQNS0$ZY&D%] 9:F8SO=:GPDNHIV
+M7>XH%)T'8A?&-UR+IP#H[6R6N_XK%R:Y%PGKB]0Z/4NT17X2<46[+IE0QF$8
+M06H-VBC7X];(CP9Z6:J[H=>XR@Y0Z:U',M8',,WM%10HE 541O&>9%-/\VVY
+M7"I*8ZME4L9(4HNW=UCWU/5)"+UAD]$(;@X0S."*7?@Q]V$SA'/Q8G_$,Q!.
+MXT:*PM8<@.6&,_19*(^\ 4\./,;?R8CJ1SX(P]O9A!'WZ6R%LBNL4IW\A#;K
+MWK,;%#PRI^L6*G-BGYZY8\26\:>UV>J03RCM CL=T;GRT*;<7C<*Y":[1O"N
+M$[?A(=,-U')JQ"*G-%.C8[SOKG$Z0J2/V?ML?B%4]5GGO:CFTMJ#ZV/OL$^K
+M[426+P[$#:@\J&NH^:;%6"ZIYLM_T1*K8 22\CS2&/-.,;^\PY[#,O>K!/S
+MXP2M>H,)O_Z"X?DUP)XX;3TB^!E2AOCDSQ=T?-E&H6=FMH^%_(#=R:*6Y _0
+M&N6=8[=*]AS\VOYS22+Z@<<23;D[PN('4&X(XV%%L-?YT+V=??]^_XV2:'G)
+M"_E5P8B,?UQ=C;0=Z2!>21ONZ57+KG7(]BGO8WO6MN?CM*;)ZM-'4T0#T^1D
+M?93^+7CC;'Q1_QZT!??@)02P,$
+M% @ 539)6PG;LZ7G"@ ]6\ !0 !K:W(M,C R-3$P,#E?;&%B+GAM
+M;,V=;V\BNQ6'WU?J=W"I*K72!0(TVR;:S%5*-JMHLTF4Y*K;7E6K 0P9[3!&
+MGF%#OGWM^0-C^]AC\$R8-[O@\_,YML]S;)C \/'7S3)$/S&- Q)== :]DP["
+MT93,@FAQT5G'73^>!D'G5^^/?_CXIV[W,XXP]1,\0Y,W]"]*_!D-9@N,'A[O
+MYT&(T?"T-SCI#7JGH]&H9.]V>?\PB'Z<\W\F?HP1BQO%YYLXN.B\),GJO-]_
+M?7WMO8YZA"[ZPY.30?_;U]NGZ0M>^MT@BA,_FN(.8OKS.&V\)5,_20==ZKZ9
+MT+!P,.IO8VD5_%FWD'5Y4WW_@2'+&3:/7E;X8M.
+M'"Q7(2[:7BB>PWY"2K=N^.J<\=49?."K\^>=Y[[+\!:2^&$]XTS]J6-5
+MPK@/^JZNI34-^:[.5695CM]AE4MAW ?]@&E 9I^B6?,#ET/5-?BGQ*?O@(H:
+MS'T"S8\:&&K(FV[9(R$NWB0XFN%9$9G[-NR=:>ATLTT];WV3J> UY*<(H>IT
+M8N8U]3CWXTGJEAV&"]]?,??#TSX.D[AHZ?*6=$YYP_#G!
+M6__IU"XZ6GL2)'Q6@+TO3H/[$29"<4S6=(JE2)4CLEI&@8)LB";'RY"%YZ\?
+M<-3][:F#@IE)[V5-*&U#OV>M__O8WTU#G?HE%=/HTVDQ/O:P8DZYHC\E[&Q=
+M)5UA>G-*EJ8$$8LUS9392JW;PTC9$Y@6X6?NQP=7GB=BLK(2NHA/8K4[YN\#+CKP$
+M+W&4E =TN0EBB:M*73YY@\Z1Z,H1N()M"F#B6]]/P9RW'AGRZD22/=9<1%XK
+M+Y-O3\C>!1#C:6]!?O9G.,C89P]VR+,G[,A@;](/STN5.":$_U:B4B5%051QE0U -2_
+M:9"P=V[\A>XZ"K)K=O+);-3D4])H'%@S1G6!3N=81Q^L]_)F)+8?ET=SIHC%
+MPHJ$@M("5;N4-\#L$PF#:9 $T>(K.^AIX(<2/GI!\1H2$#B@JH_GPBGH502-5*2J\#%5U!I45J&T#R@6)>!YA-/=V]^;4P>C^?*]>6
+MJH7Y1$U"!U2KX[L@:_2N0]?0R6.V[K1D1)D5I>;CPFR126*[YB+<>GT!^1YP
+M- _[31RO,;5&7BN'P0?D]>&O'4N-10#%L"P%M:M:$)FFO76A3S=<'55XP#6B
+M]-)42C5-#=3+)8L\X]&O0W\A00G:\JE*-@?LP2@NC,L.=4"+.F_[%/'GQ^44
+M7GEB6#"10$%2X&9.68,7!*Z#>.J'_\$^O68M\CNX"I5TF4!1U7#%0!.YCHL'
+MJNNJZPARC]TEAP/YM4T SJ0
+M9T%7&]% ]/J8%IW;45WNHW"=&=M'-I1#D&U]LD&Z2W*8;Q,4#1*^_2S+%7N/
+MJJ$;U$AD2YH:J :CUD&T[+B*9E&_(SE'F!D0M[2#8CA7Q&)I87H%J4RN.>D-
+M4/LI8J-\>\2+@/^A(TKN_*6,D$F23Q&6."!KBNE"K,:O#EA0[F6M:->,>/MQ
+M:34FB50OJL@JI"Q0M\YNTH-2!F:0.QNEP1BZ6%F)6D(K1526^,VNL@Q'=KX..(.K/ :MGL
+MC*D:RYU0P:<9SI*TX)(WH:RM#40"R2#F!80XW*E$! VY;(R^9W]S,V/H!_/\
+M+WD&%"NT I=:K3.D%:-P)U8?P(ROKE_!,K,C4= BLJMR2_9( <2\IHM8 +;0
+M-%8--]&4T!6A:?#TXV1CLF;GPMN8S."7OE8]A,JHZ.%<'U8C+B-A2/'01D[RQ!A63L*);3?J0U5E2?EI@N@FCQF9+7
+MY&5,EBL_@E^<&Y5"$6F4SL5C'(%[T>C7LQGC+<[_NPTB/ "I-^@$YD&=,_&&Z.Z\P\[-M$-]"M;S
+MQE^*!XB;T7W4BE/ E$=BN>00Z8!D?&A)^="2\F$CE ^;I'QX .7#
+M"LJ?7TD[*1_:4BXGO(+R817E*ACO2/G(DO*1)>6C1B@?-4GYZ #*1U64LR2U
+M=#_I R4_@TB!RT8*<:U(
+MZX);,X;:"%?]6V$N=U-8WUZ>*20M EZ75XAZ,P,0^E(/D/\J7!K?TK-+/\;]
+M7)2 FWDAJ6TG%V/6MXUO_=KMX;EH#B1,__&^PTEYU-PDA;"5A7?""\6M#6/9N!;+82<$Y,R-F;\W%)Z L\]*7QOQI
+M"T@$%YWH%TNDK:S8WB' E*L&B.+W70P?7D@$?Y9$9\XGHIH=Z-+%+JF+/A@.'GF0Y: TIGSZ:EFEUM@:&(YW0!#]:F]_84L]=+_^(W1
+M!L._3OZ&"L&1;X"ARP@QKZ((I*S:WOJB*J$-('A'GJG/;T?^]+:@J/-$\([+'+SRQ+!@(F>"I"#,G+(&C]]/F^D+
+M2P &OA=GDDC'L"BIX2B&8M9Q'$M^JXYD0>X5K:AH;L'WXHQ)(M6+"I_.9:5\
+M0AMS;4/JCQ\T97%PW_O,0]_064?*'6"9FN,N!O^0IHY0JDGE+M"8])#-]\0<]>2&\/70RVI
+M&QYQ@W#RRW>2N@97U[[S%&S^^0_=4$[![66?+L4Y:=7%8;.P"5#;GK!/,%WI
+MV_OP/O28TE3AIRVIX+W ( Z7_0Q,7%KOH.<.%6C7L'K+,Z#PYNJ-8#?;+J38_GM"^Z
+M0MO>J-0=;?NWZJ=:G- C-:&@U/O>[DKU?^A0\M]0*F7CECWBO[R7-P79+]5Y
+M_P=02P,$% @ 539)6Q-1^GMF!P 9E( !0 !K:W(M,C R-3$P,#E?
+M<')E+GAM;-5<77/B-A1][TS_@TN?P0&:[":SV0XEFQUF2<($.MWV94?8@FAB
+M6XQL-O#O*QF)8%F2Q4>">,F'=7QTS[W'LB1L/OVYB"/O)R0IPLEUK=DXJWDP
+M"7"(DNEU;9[601H@5/OS\Z^_?/JM7O\*$TA !D-OO/3^(AB$!(53Z T>'R8H
+M@E[KO-$\:S0;Y^UV>Z.]7F?G1RAYOF(_QB"%'NTW2:\6*;JN/679[,KW7UY>
+M&B_M!B93OW5VUO2_W_6'P1.,01TE:0:2 -8\BK]*\X-]'( L#WKC],681(*@
+M[:_[TB+8?W4!J[-#]6:KWFXV%FE8XR&R9HM.!'Q1PG--S*G\$1_ 13CSV^^_'GO;L2Y\A_ 1F?3"&$>TR/SU;SN!U+47Q+(+B
+MV!.!$S5/1,B:AF7GDF6G><&R\_LKL[]/>%/FIA'.0'28.'.^ZV3_H 20(AU^2\.T#E[LZ5/###)!WL$JYL_T%O'W4
+M6X3Z_$P: 8Y7K#$ZH I%8VG==ZD,>71F.DV
+MHYL1F%)@WM*G!PI]P44&DQ"&HC<6Z@[QY]V)#B,<%/J(V(T/DW(%4MI'GOX4
+M!HTI_NF'$/E,)?LCEYM+I?_\Z&)ZR^^,TXR (!-,$2O%=4W91B-D2J0V_\T#
+M7>6FC]*,3DC2$1B_5I*':T#PH)6(?4.?@'2<^YS.D:8 S%;QPRA+Q9%7(?S
+M#WIM9I 5O1N!-'V8##,*X, /N&/(VH[C!,4")["PM0-A+ 3B*
+M$AS'.,G#N(/Q&)+2):)I7U\FI?:BC,U!I$.*D@ )!!W]LS""E*>('.'/ *%\
+M]> )1>O!9T)P;$PZKE:R&>B55^;R,NPI.# )(;FNG;'E!*680$+X4&_0D@N)
+M-N\'6U6]-*;3 S^&:-$Z']([(TQO[D 2LM.679S082Q#=" 8B.#TQ=Z'0ERH
+M.U$X:ID#Y,/&5;MUPXW7/+KQ;O&<7% !\S$-"27Y7!YG5,L
+MOQ(\G]W21KK&Z^+>]WZ_JW3@0;AXZO?D>AKQC^DRK&FR_0BCF3T&:6U%/=HQYW%XK1+HBASVJ1EY25:"4*\4-U-O+
+M$/L!(\HHQ:YJX@$7FQQQ:SF[V"C"9-(U%S-JD>,$O-FAT88LXML(3*6J*MMX
+M1J0VE^MJDF%=6(GD&)/X'2_7]9[Q#1U#-=>M$B-=P!+&Y8K;R-KZDI;(CC%!
+MWM$!MR@-0/0O!.26'I'O.Q4HR04EU"GXP"QM:R>4Z X\!WY[+ZR\7.T&!4[I
+MAP+N=!RAE[>C)PJ$W!5_..R*E;!;%,'[N6(AK6LNS$4WFUTN?848ZXJ7>7BA
+MSYTO]".<(O;!6)+=@UC]*94:4BBX#'&_Z$916Q9>YN+%OW"^^%TJDH"HEX1P
+M\0TNE=778 KE+V'(Y%;/LXE ]
+M&EB=47!'Q1GN>V4;R5LZIX*:^^BC\SX:@44OI+K1!*T><#1,'BJP!>]HL>Z[
+MQD[FEG[1DG*G7#KOE$X84LDI_\4D-I4N,> *#E'BW'='M;PMG:$D%'M2+F\W
+MZL)O6=JB96F+UFG:0I:WMRU:K[9P>:]2%W[;TA9M2UNT3],6LKR];=%^M87+
+M&YB%\+OTSPC!], G=SA<0HO.'R+BB[WW4(
+M! HWJ)IX>HI-+E?<(,*ZQD4.4567=S;9.[;1X DGZD^P=,T\,>5FERM<(<:Z
+MRF4>46F7]QZ',)@3*JG9&H^88*G2NF:>G'*SRY6N$&-=Z3*/J+3+>X_[O'A: 5#QT:$#P_2H3+Q:Z6
+M9%UR)94HO,L[?&(D^K((GD RA8H'$$P0:10O0ERNO86HK4?S(I>HOOL;>5]B
+M2*94U5>"7[*G+HYG(%$OSHW(PLI,@W39$O82MUR;:2B%05S>W/N'^CJ#"7M/
+M=Y[P3SOE1Q.-&)XQ#<9E.]C(LC:"ADQ8P.6=NR&.4("8I#N008* //73 \3=
+M00%PN?*5@NSO# HF47.7]^L&!#*KPB3(W^X:L6\F(0^326D=7PWD*3,!7?:"
+MM4!K3Y@8A3=XML
+15
+ef20056795_8k_htm.xml
+IDEA: XBRL DOCUMENT
+00014049122025-10-092025-10-090001404912us-gaap:CommonStockMember2025-10-092025-10-090001404912kkr:Six875SubordinatedNotesDue2065Member2025-10-092025-10-090001404912kkr:Six25SeriesDMandatoryConvertiblePreferredStockMember2025-10-092025-10-090001404912kkr:Four625SubordinatedNotesDue2061OfKKRGroupFinanceCoIXLLCMember2025-10-092025-10-09false00014049128-K2025-10-09KKR & CO. INC.DE001-3482088-120363930 Hudson YardsNew YorkNY10001212750-8300falsefalsefalsefalseCommon StockKKRNYSE6.25% Series D Mandatory Convertible Preferred StockKKR PR DNYSE4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLCKKRSNYSE6.875% Subordinated Notes due 2065KKRTNYSEfalse

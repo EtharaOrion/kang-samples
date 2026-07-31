@@ -1,0 +1,1452 @@
+0000004962-26-000148.txt : 20260415
+0000004962-26-000148.hdr.sgml : 20260415
+20260415120104
+ACCESSION NUMBER: 0000004962-26-000148
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20260415
+ITEM INFORMATION: Regulation FD Disclosure
+FILED AS OF DATE: 20260415
+DATE AS OF CHANGE: 20260415
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: AMERICAN EXPRESS CO
+ CENTRAL INDEX KEY: 0000004962
+ STANDARD INDUSTRIAL CLASSIFICATION: FINANCE SERVICES [6199]
+ ORGANIZATION NAME: 02 Finance
+ EIN: 134922250
+ STATE OF INCORPORATION: NY
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-07657
+ FILM NUMBER: 26863235
+
+ BUSINESS ADDRESS: 
+ STREET 1: 200 VESEY STREET
+ STREET 2: 50TH FLOOR
+ CITY: NEW YORK
+ STATE: NY
+ ZIP: 10285
+ BUSINESS PHONE: 2126402000
+
+ MAIL ADDRESS: 
+ STREET 1: 200 VESEY STREET
+ STREET 2: 50TH FLOOR
+ CITY: NEW YORK
+ STATE: NY
+ ZIP: 10285
+8-K
+1
+axp-20260415.htm
+8-K
+axp-20260415
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 15, 2026
+
+AMERICAN EXPRESS COMPANY
+
+(Exact name of registrant as specified in its charter)
+
+New York1-765713-4922250
+
+(State or other jurisdiction of incorporation)(Commission File Number)(IRS Employer Identification No.)
+
+200 Vesey Street, 
+
+New York, New York10285
+
+(Address of principal executive offices and zip code)
+
+(212) 640-2000
+
+(Registrant's telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each classTrading Symbol(s)Name of each exchange on which registered
+
+Common Shares (par value $0.20 per Share)AXPNew York Stock Exchange
+
+3.433% Fixed-to-Floating Rate Notes due May 20, 2032AXP32New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01Regulation FD Disclosure
+
+American Express Company (the “Company”) is hereby furnishing below delinquency and write-off statistics for its U.S. Consumer and U.S. Small Business Card Member loans held for investment for the months ended March 31, February 28 and January 31, 2026 and the three months ended March 31, 2026; Card Member loans classified as held for sale on the Consolidated Balance Sheets are not reflected in the table below.
+
+American Express Company
+
+U.S. Consumer and U.S. Small Business
+
+Delinquency and Write-off Rate Statistics
+
+As of and for the months ended March 31, February 28 and January 31, 2026 and the three months ended March 31, 2026
+
+(Billions, except percentages)
+
+(Preliminary)
+
+March 31,
+
+2026February 28,
+
+2026January 31,
+
+2026(Preliminary)
+
+Three Months Ended March 31,
+
+2026
+
+U.S. Consumer Card Member loans:
+
+Total loans
+$97.5$95.1 $97.2 $97.5
+
+30 days past due loans as a % of total1.4%1.4 %1.4 %1.4%
+
+Average loans
+$96.3$96.1 $98.7 $97.5
+
+Net write-off rate – principal only (a)
+2.2%2.0 %1.9 %2.0%
+
+U.S. Small Business Card Member loans:
+
+Total loans
+$32.2$31.3 $31.4 $32.2
+
+30 days past due loans as a % of total1.7%1.7 %1.7 %1.7%
+
+Average loans
+$31.7$31.4 $31.1 $31.4
+
+Net write-off rate – principal only (a)
+2.9%2.8 %2.8 %2.8%
+
+  Total Card Member loans held for investment– U.S. Consumer and U.S. Small Business$129.7$126.4 $128.6 $129.7
+
+(a)Net write-off rate based on principal only (i.e., excluding interest and/or fees).
+
+The statistics presented above provide information that is additional to the data reported by the American Express Credit Account Master Trust (the “Lending Trust”) in its monthly Form 10-D report filed with the Securities and Exchange Commission. The Card Member loans that have been securitized through the Lending Trust do not possess identical characteristics with those of the total U.S. Consumer or U.S. Small Business Card Member loan portfolios, which include securitized and non-securitized Card Member loans. The reported credit performance of the Lending Trust may, on a month-to-month basis, be better or worse as a result of, among other things, differences in the mix, vintage and aging of loans, the use of end-of-period principal loan balances 
+
+-2-
+
+to calculate write-off statistics in the Lending Trust compared to the use of average loan balances over the reporting period used in the statistics of the U.S. Consumer and U.S. Small Business Card Member loan portfolios, as well as other mechanics of the calculation for the Lending Trust net write-off rate, which is impacted by any additions to the Lending Trust within a particular period. In addition, statistics for the U.S. Consumer and U.S. Small Business Card Member loan portfolios and the Lending Trust for any particular monthly period may be subject to variability due to a number of factors, including the number of days in a month, timing of holidays and weekends, seasonality and the timing of information received from third parties.
+
+Set forth below is certain information regarding the credit performance of the Lending Trust for its three most recent monthly reporting periods, as reported in its Form 10-D report filed with respect to each such period. 
+
+American Express Credit Account Master Trust
+
+(Billions, except percentages)
+
+March 1, 2026
+
+through
+
+March 31, 2026
+February 1, 2026
+
+through
+
+February 28, 2026January 1, 2026
+
+through
+
+January 31, 2026
+
+Ending total principal balance$25.1$24.4 $25.2 
+
+Defaulted amount$0.04$0.04 $0.04 
+
+Annualized default rate, net of recoveries1.2%1.3 %1.1 %
+
+Total 30+ days delinquent$0.2$0.2 $0.2 
+
+-3-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+AMERICAN EXPRESS COMPANY
+
+(REGISTRANT)
+
+By:/s/ James J. Killerlane III
+
+Name:  James J. Killerlane III
+
+Title:    Corporate Secretary
+
+Date: April 15, 2026
+
+-4-
+
+EX-101.SCH
+2
+axp-20260415.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Document and Entity Informationlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.DEF
+3
+axp-20260415_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+4
+axp-20260415_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Fixed-To-Floating Rate NoteFixed-To-Floating Rate Note [Member]Fixed-To-Floating Rate NoteSoliciting MaterialSoliciting MaterialWritten CommunicationsWritten CommunicationsLocal Phone NumberLocal Phone NumberClass of Stock [Domain]Class of Stock [Domain]Amendment FlagAmendment FlagEntity Emerging Growth CompanyEntity Emerging Growth CompanyEntity File NumberEntity File NumberSecurity Exchange NameSecurity Exchange NameEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Address, Address Line OneEntity Address, Address Line OneCity Area CodeCity Area CodeCover page.Cover [Abstract]Entity Information [Line Items]Entity Information [Line Items]Document Period End DateDocument Period End DatePre-commencement Tender OfferPre-commencement Tender OfferClass of Stock [Axis]Class of Stock [Axis]Entity Central Index KeyEntity Central Index KeyPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Tax Identification NumberEntity Tax Identification NumberEntities [Table]Entities [Table]Entity Registrant NameEntity Registrant NameTrading SymbolTrading SymbolCommon StockCommon Stock [Member]Entity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeTitle of 12(b) SecurityTitle of 12(b) SecurityEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Address, City or TownEntity Address, City or TownDocument TypeDocument TypeEX-101.PRE
+5
+axp-20260415_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Document and Entity Information
+
+Apr. 15, 2026
+
+Entity Information [Line Items]
+
+Document Type8-K
+
+Document Period End DateApr. 15, 2026
+
+Entity Registrant NameAMERICAN EXPRESS CO
+
+Entity Incorporation, State or Country CodeNY
+
+Entity File Number1-7657
+
+Entity Tax Identification Number13-4922250
+
+Entity Address, Address Line One200 Vesey Street
+
+Entity Address, City or TownNew York
+
+Entity Address, State or ProvinceNY
+
+Entity Address, Postal Zip Code10285
+
+City Area Code212
+
+Local Phone Number640-2000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Entity Emerging Growth Companyfalse
+
+Amendment Flagfalse
+
+Entity Central Index Key0000004962
+
+Common Stock
+
+Entity Information [Line Items]
+
+Title of 12(b) SecurityCommon Shares (par value $0.20 per Share)
+
+Trading SymbolAXP
+
+Security Exchange NameNYSE
+
+Fixed-To-Floating Rate Note
+
+Entity Information [Line Items]
+
+Title of 12(b) Security3.433% Fixed-to-Floating Rate Notes due May 20, 2032
+
+Trading SymbolAXP32
+
+Security Exchange NameNYSE
+
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+9
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.26.1html3221false20false0falsefalseR1.htm0000001 - Document - Document and Entity InformationSheethttp://www.americanexpress.com/role/DocumentandEntityInformationDocument and Entity InformationCover1falsefalseAll ReportsBookAll Reportsaxp-20260415.htmaxp-20260415.xsdaxp-20260415_def.xmlaxp-20260415_lab.xmlaxp-20260415_pre.xmlhttp://xbrl.sec.gov/dei/2025truefalseJSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "axp-20260415.htm": {
+ "nsprefix": "axp",
+ "nsuri": "http://www.americanexpress.com/20260415",
+ "dts": {
+ "inline": {
+ "local": [
+ "axp-20260415.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "axp-20260415.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "axp-20260415_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "axp-20260415_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "axp-20260415_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 0,
+ "memberStandard": 1,
+ "memberCustom": 1,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 3,
+ "entityCount": 1,
+ "segmentCount": 2,
+ "elementCount": 29,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 25
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.americanexpress.com/role/DocumentandEntityInformation",
+ "longName": "0000001 - Document - Document and Entity Information",
+ "shortName": "Document and Entity Information",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "axp-20260415.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "axp-20260415.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Domain]",
+ "label": "Class of Stock [Domain]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_CommonStockMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "CommonStockMember",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Common Stock",
+ "label": "Common Stock [Member]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Cover page.",
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntitiesTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitiesTable",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entities [Table]",
+ "label": "Entities [Table]",
+ "documentation": "Container to assemble all relevant information about each entity associated with the document instance"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInformationLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInformationLineItems",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Information [Line Items]",
+ "label": "Entity Information [Line Items]",
+ "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "axp_FixedToFloatingRateNoteMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://www.americanexpress.com/20260415",
+ "localname": "FixedToFloatingRateNoteMember",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Fixed-To-Floating Rate Note",
+ "label": "Fixed-To-Floating Rate Note [Member]",
+ "documentation": "Fixed-To-Floating Rate Note"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Class of Stock [Axis]",
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.americanexpress.com/role/DocumentandEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+14
+0000004962-26-000148-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0000004962-26-000148-xbrl.zip
+M4$L#!!0 ( "%@CUQ^G;EQ_1< *(= 0 0 87AP+3(P,C8P-#$U+FAT
+M;>T]:W?BQI+?\RMZR)A[;[[U]D/[_]+4?[X>/T;^>19X9BY 3D7C ;,)G<\&)%@Q,CO
+MGOC&;RFYZ4J]7^F:E9M0-
+MO7IBMXQ^HU+3[*H],.U*0Z\W68TVF6'5F&$8NEF1\XX"P!GP=OT/I5$03%KE
+M\MW=G7IGJIX8EO5FLUF^QS:EJ%&+WP>*SZR%QO!='7JW9>XZW&5(FW(@J.LC
+MZC0 8I8-3:\J6D,Q]8=Q%H:X[PM'S@@MS;F!YJ9-;__8G(:F:(:B&\D@]SY/
+M0]+0-+W\Q\5O/6O$QE3AKA]0UV))+YL]])+3)NC" YRDFC0,?65(Z636>$#]
+MOIP@?K#0&$?BZTB@(0D6H<"G]A(@<>-:.7J8-*7WDX6!Z9@);E&7W4\$\WW5
+M\L8(2DVKZ#-P@(C?'H$&'_>I_P#-2OL%AL&GLFG+H;!W2LQ5OO9*9^]'C-IG
+M[\:]\]L,//[P/>."P
+M,\!.2:!_7XY^>U^.1NY[]O3LO^#:S;X4+(4X%<7Z ?=7Q?)NMSY
+M+/EISDV^PE43P"63T&>*C:!4%>6?YV0Q,>TW3Y$GR/9FDO(!W.AF,
+M[TV&&!LV1-Z)OMHPV?W$X18/+MBX#U/8')Y*]5:*A5*K%P!*V.?%PZ_I2)\W\H?1[ZQ%IAS%UEQ- .
+M:^F-27!ZQ^U@U-(U[:>2;'?VWI]0D*=]@1(O^AP-,AMJ?9.Y>=!04@ C0:V@
+MY8?C,1734T11H0X?NBT+:,Y$*1HKZ61YCB=:/T8,=3H FB@#.N;.M/7N!CC$
+M)Y?LCEQ[8^J^._&!@(.HC<__9BW= &SDU[L(O3H,@?;1#%T#I&7"^'M%H)**P#]_U&O:
+MZ>N0N+$1B3]_N;X@F]M6B<<6&9J1:042HJ'\NFQ7D6*9=K@38!=?=RYOR'7G
+MZLOUS2:0_AGZH#RG!3%7(;P*A1]2-R"!1WK,0E\W EHWB2>(7CVRCXDWD($(
+M>!X*'G"8N'-OC< ;8*1M!?A8;YJ58B5>M!)HS" IK]G$$P$Y2KXS"N8,\P/"
+M;C$\).1C9A^W8I2VEE=7TE#J1.93B40Q#C!_[H.6#;\H8)T'(^RFV'2J3&%^
+MA;DSW[%TUIX([@!GG,BX4R'KG@6A4=N(*;8-)URS(?ZZN.[T>6#W+*W=QU;[\3S9V2/IR'77NP?:5../&$#-<"?6)/V$6
+M.D@VX2[A@4] 0,$^$<=9QBABP/F_";0![3LL@:3O"?!7% #(H1.?M9(/ITE$
+M*HI;*K+3:;S/^EX0>.-6%0"Y92+@%G5B;"7BT>/86VE6U$9-1WX+P"T*[&3B
+MV)=1 =;RZN^FIE:-:NHC3=6W^MU0JXWM>JP#RFBJ3;.9,:" 4K5ZY=&ARI+R
+M$?5A?9$+/I3,4M)X0FT\.6@9DWNBITG/E47V)GOE9^TYXJKK6IX ?29C[#(^
+M<>Z%;B"FYYZ]J)K0^\7H0, FPKO%<1YT4J5TAJ#_QQ/?5B.:\>8/[&=0UF&#
+MU+9WI2KU6K1<+?H@+?D/ONW'$TY*R
+M87'U:[#ZIE)I&H91U1[E@%U+U4AK[M4YD 0\DL(1/3(//#%!_@1'S+>Y]-?0
+M%N+S@O0X=YL@'>G<;H(U:X@G']S'H#Q!B48BIBY6*YNKU;WNDNKQJIPI2_L[%Y[OM@*Y;=MXVA__\QN,IR?"N%XZ,S2-_ _SV93T L%8
+ML"R23_(4%'@F:<[AXQ=QX]W-S-+&>K/T9(LP\\(L4@U\$5=@ W.9S[&AB=Q<
+M#\MS0;GR8"[G?_DDLM7C^+<&JEDS&M6MPT*QN]J$-7I-GD@/PQS%.*.JG0B@
+M/)]0A[![9H4!O\5H!(@&F(FZ-OF;3X"&-EL?>,@>SQ]MS@/(YVW!Z,*JZR #
+M])4TE>,M6.LW#^3]U[PP7!A[ALI*'\2@;<05'#?9 [ 7-M
+M6*C @[4:ATY 7>:%OC,E/IBZ_F J>\8=O#[@21.?$Q_,Q>!#& >8P)TFSP8@
+M=;P[[(?V"$>_QR='/F/D9^8R 0JTZT+?,')BVZJA1N >MS)-[/S%Z2NJ9CP>
+M?-Y8@IMJO5[+K@1O ^<[Y*O+48&2BQXL,G5]Y;M'K7X7/("-A Y^Z,9.HK]J
+MG/<]S^E3V!4![,V9A6,B3S7KE>6M,U_-D)B8@=@'B'H'8E.,JA\YQ#Z0AXY@V
+MJ^RF5RBX%W,M5#
+M9ST@D6+-T>A)J:=7;,4XZA]OQHA1VX(5EUFQZ_LA$\]@R%K!D,L,:3*EY,,-,*MJK;*;
+MS!A-K9K&;M)UH(.1-:#,IEJI-O;JYKS.P7($E\VL^.2X);<\MBJ=W6 Q9)2
+M:HV(A35#6TA$#=&."7B@]!%4!FQ[TW'?EJ@/D*9W
+M(PZ_/(CF&AJ9@'*6SXZ_O^7R6H3\?DD%V6>-6,!$\F7&%XW26?N/JV+%#W'%$V&0
+MF-M1#O^R'X/2=/%T7Y\[WB>RK'=FL1]8=MPS*&QN(FX-K71FJA73_(G(.F@E
+M\)2D$II@*33!6FB?V"!]+^B4&!I6OYBK;V8X9!O@I<1/%6B&+@5:06;X4G89HU93"RX=Z2Y,<8=_ZJ3P121IS6?@T
+MP<(G/)J/ CI&7S$V+.*<#8K!G8=^<\.JVYV3[WUM.NETGB6@[3NN^:RDP@2)
+MGR4.YQ$*&X8TC:\)*O)?]EBF>[@D0V*R5FINYVOI$",8!LSAUGX^C;7
+MDT'$T&>R%:QVG&B![Q7C,K 8O;$$%U7.Y4QQ__RQ81C:
+MZ7EBN\$W_?08+3RP^QCHAT$H7"[?U!/GWMD,YO@K9*XUE>GA=V!\,<4;#%!X
+M!Z YN.5+%8 UZU_5G@H3NGXH$RJAN?RE-P8=3SZ&/D"+$('$)_%[OL!'=7%R
+M)](CW+UE?B"/^? K@BQ?YP!Z26J?"RJL$3'U$_*9]45(!;BR#3G1+]257_&9
+M?)\H_HC]@Y%@:T?!EJ;+]M4C@@YUR'U.8YP;OHMD^^E24N2+R]B8\7IUUO0N+]5]1\Y(Z#
+M^14G>/K%)@%:^P@I6*C^:FE'INS)9D.MZ=NG%YA@3VYWDK_6--75NOYXFO'F
+MO]<;V[VBY*T"I:M-?3?I$Q6U:C[N#6R,7E5M:#M)Q,A?B#C=!#^Z O^:@P<+
+MPO98BHN9-)7?%B3J(4;.TTN2YM31FZ;#G!K>&1EJ^2/#ZBZYD6;(162&=!;-
+MD'1*/?]P- NO9)#"8M&B7_'26IO$*R)C RUB\)^)]-@( GVZY=9YHEDQS_,'
+MV#JV9EF,/3?DM&R#I[1EEN&;$[;]1O]J;GF!44>V3F=_OEF
+MYW2R8$9K=&9'X7_RDTP30:OZ68R>0I>,,[JN5O+!Y^DL
+MMP6?[YVT/^TB'R)5F^25!=,9 5CP@'@A'<>"%PI>^/Z\\%9YJ5!MKZK:WG
+MM@TPTB$K0K#9CRVLV?D-A9 ,^^U0"A;-O0E"^;*0@3FJF-EB:Z?SETVX+G.UC6L3P)85Y^\&1D@
+M3*GMP[04I:(:JQ'M/O59] J@(WJ<[A W>TBXK..$0Q5.R!>
+M*"+)+XLD-PM>*"+).U)M6J':]AA)3N:/6QJ:-$M?R1DL^A](_WR^@V&+4H>G
+MZN0W*GAX%751]-]__RRAR/1]\GO>(8!&4
+M7G_ L6U&3I9YH3CL*GBA..S*@OPM5-M^#[O>8@"V*)O(36QAC3.0&RF1D9!&
+M'MFY")45?%7PU0OY*J?E.$4(-J\AV-R4/62B;*+HGY^RB7D72JFJE8RD
+MN42B(_H;Y8EO=-]@XGIM=XO<,P135H)X+SWK2$,MF[)6-YIY.>QXL2+;C3V3
+M1WY^:5 ZB_R\)EG$J.W_+9L%8[T%QFJHM7PRUHX,F^PHK><==^3/QSQ Y;Q.
+M1B6V^,KEXLF42]?WHN^WWXM3*VK=,+:].-50C?IN+MYL5M6JL9/K,C.J.:++
+M_>8.2)Z^TC#+F*2<8.$YD(U7I"\=81UQE:GR+F$G1+S \PJ8 -\+7:PR>&(#
+MQOQC=34JLK)9=HBE\126\BKDFQ'NP-E=]W@?.EX6:1/:]VX9?/=NNZ*T:VNEOS)7$E$_D;_KI,=XUSP,_NK,:2/\9P"*ZIGR*
+MYR4#[L#<=SP8R=E[S IA$3D0"]W=SKTUHNX0+[@?C[GO _@J(4B$53]:XCFB
+MMWBE/8,UB4?ZF^'=V2 [A]$,"V 2VR.N%Y")Y_N(*\< G(R@7D%M0#3F-(Q
+MA)[/9'4*7L8M_?E%%QUX9Y.7)Q!$?> YW/-/R-V(6R.@$S(C6P ;*>!ZKC+_
+MVPK>,3UFRVA%RS5A0K* :\T 7L1\3*VA"^W[GA,&Z[O@FB@@!9%'6K#VH."F:V^XWX\4E/)!,92E
+M ^^YOR/Q(-"'3.D+1K\I= " MJAS1Z<^*K5Y$P!4=C(Z'M(O$V/]1>NO)R!!
+MM,'VM4('%<"#/IB3F3%7+NX&RQM/J$!1XUQ8P!:\8] :_HWVW9BAA)R;),$>13]&%5=Q=5H H3BY@6*NFZL]XG\]1(H'HQ.62?
+M59AP? 1]#J1$_<3+!+(/Y9L?]O]D5H"8W5+!:9\[/)C*-HN/$=H[QKX!L#"2SZB/RAAG
+M3/!XZ#2OP 6S&(@OFPR$-T9!"P21N#%?72L)Y\SW^FX3BC;;ASTF%P+U"7.\
+M.V0M"ZQ$BO; FY#6-^$GIOJ+ADM#U#EXT748P]^0B*!=9(L]/+.C+;.3$G&
+M5LECU@CHN4G,'(S"WO!#^).P]GH--$?WYJ*EO* 2TH3F]J/LQS66Z[F-6;B"
+MUJ,X[]W3/OK('0=%FG0!V$0R'-(5)+U_G +?WAW?2J6RM>/;4/5:92>>KZ&K
+M%2W]T;JAUD]1T>L'#M3CX88-8P0;7I2^H0,>\5-*DNFKR1"Y\2ZH !FJGQ!#
+M,VIK95\& (W]Q2R#&-'23"7F!I&F>+8%.9%1&D9R'8$/LZ&U;>Q!;!FBT
+M@8U,?+3["<*?R9/$'967;HAT-L][C*JJY^.X9RMJ9[%T,%^;8T=%A3G9'&N2
+MMRO/+6,MN+3@TKUQ:54U,L6EA_%B\'1B?V(#&CKRN'&,49\B]32;&57I.&FJ
+MEI-BWHSD<>61G=].@B"R<\%7!5\="%\=XD-[FN&M7=9#F;5;79S'$E]),;[I' Z R96JZ0:5]TKKOG[4O2^>/JNM/K
+MD?,O%U?MR_]L$P/) YX'M6A'UYV?N[V;Z_;ES?$;6Z@"F2PA4_!;MI#Y.&T=
+M""9EOTQ^H3C6+RKYE3L.$PYU&>EVNP4''@(R:Y,JM=6\RDQB>@G'F>FZ1I&UK1(HV-
+M"0G8Q$#C#3GQI;5([,QV:/GWLYUX4.A:NKU,RU-R]WV7.]_GLX^.5U6)'D J
+M)O@TB'M1@(#G@C(^GP8WUZ?X,#B>'1P<\>"/I:$ET(66$\<[0343]*-E]HU(_Z(P_S7CF)XC%-T_$0#]+#
+M#*(L&48X@=&HB"BD_=A/XKB\/;B_)N#!AVV
+M9/Q^#;W*9.GQ26C=&5'@X615KZ%)!9+EA,.JEJ!4+Q=5:(N.!O'0/[K'U1+K!]K4)LYQAU:M_W/ $,:X)E;$SD'?6D*4C7)X>U5S@X0LBU@52VD1OQ5A(*HS&7>
+M*#PGI+94LSAMR\Y%3K13HD4K W>%;N2$4&KE+=A:>BM%@W!G!MO6?%,:&RGV
+M"WL>MB8<]\WB_W$.3]K:+P?/^\L<-NKH=TW9Q73?ZHUIN$ *\MYK:\8+T1J,R:[?Q"_B%11^F[X:!=W@B,?C<>B\9HU%#5(S4 ]'R,NP$)",0W,,,%^&]V9G=4SB7C$J_CK0K#NT&Y&
+MLZ-=N>=/]?@0MB730)DVE-"NT#],3@-_K!-./W'-].,9MV>X$U. +/3FZFSG*>!RV1K*I^"3>.K:+')/C/#3
+M'>/9JXF&VG#H6;RC\&64%_$;!?0+G[GWEQND(W>0+<2C&5+@^I]KOM5EF)UEWA+O^&0'=G;(5T&MQ6@H#X_,KSM$;$LVY*H@2T.,VQ19SXH8&NWS@VECW;B&L=*R59\/:D_I"AAX(97
+ME,W7T^&DJF8GH]'#P\/Q0MK\V-CQ* P",EJW'JZ:+UKM'TC3&G/.1\W5[TW+
+MK*NAZQ:/_OCT\59-8"I05I25*-23 6=>5]]_^%Q-/%I>=$W+[*1L?O_1*%$U
+M@-XFPS*:S'-;G)A;25]6OAUR+BFLY/]>]C;PU39P0
+MJ^82D#L+11WB/6KLZMU?\_>^D(94S/.J1\7MOGO5:Z8BZ]/!K:Y[4-MTA*8P
+ME6#[E/JBWV7/V7D-VW[+@),-5!=/R?B.?I"E!/$XT8EHS2C1A/*5M
+MS.4Z;$I0QV/S;>2L.-9A7!_4_ER!WFI[Z4V/$650W@F9P^8@*.:(,2I0P$-,
+M-3 2,>$_B+6YE[J?XN#PNH'^4AY(K9GV3JPR?;AL"<1I'@Z,U6!=Y>,N
+M-3?UB7"]D,.=8B[&P_&]<&NP.8I
+M'-X4TV-X;$G)'>&R&UOS(WS<%3&>\)_K>=\DD#^EZ'ZC,.B)?EM-C]A?K6J>
+MH/>,R_P07_\]41"X:*>Q1A RG&K.(R#;,M@_F?Z+&O$?!'^;BW\$=#.=FJ(1
+M]*FI&3<%!8G+@9KR^D@030--->Z;^::(/I%W%=IMWKYD-D%[N;7-.=B5LZO!
+M[R^S!>@[;]#E&&]@
+MG)65%47U64Q;>F*ID$RI8X[&%5X*75O6?K[UG12+=6&..@ L6,\%I$J2]K/]L$7$@X/MS=#L.B'\<
+M7&8Y?)YWU0.<822E$"@!C@6-&0YBOSR\:?% "._HPC;.R!_GG5A<:9=(LC1;
+M;G=U"U,NE<@HQ8BD.)$ZQB#3J >VKY@_$-!].+=-/?:G?JYUO8^P^E,/%[>&
+MZB85)ER:822,N2 ,F.R#>(?I Z'MZ]0VZ:0WTA?N\(N],P^M9T.M$B0Y8#=2
+M"BIE(E"J8T=N5\Y/A@^+\HX.;3.FO3%N:H4O]MJ:;UFA6J4"(11QSC32#!.=
+ML'Q9M']>VD;/>D%^;LA+Y?[-95VVHW1$G,D0A#8 %(<$19_T!
+M?V'[L'#O[M8V;.X#NYYESBV(3AUQBB3%*8H@(K$"2K'TF[B?6]M[H#N[KF-A
+MQ&O=JWZ/++^>F.*5FC^4 C$J $D6N]) :1T$@1?'38M[S]++A1T\O5:Z?K=9
+M54%1;WO,BU5=WQI:B$,DPX"AA*1,$JVP8,H+:J?9O2?K[\P.O%ZK7;/(\^6FMLV]!^OIQ@ZJ7FM7UQ;J& -7
+MO#5[(?6KA2A*_I\]Y9[1.IB,>2!PGZEU%L*#HV\GXL[^'LM9=5
+M[5?9TD0A]UP.2*DD((((5\D3OQE\P^+>\_5R80=/KZ6L.ROJ_XVY?9Q*T\HC
+M(7#$,64(0AVK1&+,0K_Z^86YO2>YN_,Z,'JM5JUCZL-"340QAJZ-3283Q#"6
+M2+F HE0J0;%G<=5A=>^A>KNR@VT/RU(?IF#'+MA^M>:AFK@$,1/%8^OIV^D2
+MH0I0E$ "(N(R2?UNV"W&]YYT7X[M .ZU-'7NTKZN4_]E+L:MT0F!N X5$ES0
+M-*!)$'IN'KTPM_=0=W=>Q[L=7JM3R\%=."E6Y%>N?%O\!UJ!Q5/IDKT@B$B!
+M(18Q /2Q=;!A=N^Q^CNS ^]JL>K=:,,K3N[7LZ/5Z?JC_A?3LZ/_ 5!+ P04
+M " A8(]<:S![49(+ !D:P % &%X<"TR,#(V,#0Q-5]L86(N>&UL
+MQ5UM;YPZ%O[>7^'-_;(K76? O%=MKKIINXHV;:,FU;W:ZBHRMIF@,A !:9)_
+MOX9Y"0P&;#-#OZ03<[P<(Z-3=_\\;1*P$^6%W&6OCTQ3XT3P%*2T3A=
+MOCWY=O,1^B=_G+UZ]>8?$/[U[Z^7X'U&'E8L+<%YSG#)*'B,RSM0WC'P9Y;_
+MB']B<)7@,LKR%81G]6GGV?US'B_O2H ,Y&[-MG_-7QMF0#TO<*#M^2'TL.7
+MT'(,:#'7C0S*/.0'OR]?(Q-;@>NXT+1""NV(NI ?\*#GV:%EN\A#IE,[3>+T
+MQ^OJ1X@+!CB]M*A_?7MR5Y;WKQ>+Q\?'TZDSNVPC!.BQ*GI (HXM=%?? R([BLLSX:
+M%^BUJ'Z#6S-8'8(F@I9Y^E30D[-7 *S3D6<)^\HB4/W[[>M%+V2PJ"P6*5M6
+MW^T5R^.,7I?>VM?+YG;T^*>'6?L.VQNYQ%8K=)GK>\5E$&592F
+M6T7Y6Q_88D+X!XJW[,9Z@.!JNI\/%>-03C\?+-P;?H=@QP^X 3,YY/4%]2&E
+M81LA)=>"2?]K 5(X&;J8USN;6W0B5/94L
+MI6Q]MVRY!C%]>\(_W>*G^]N/\5,5Q\S>:LR!YRLJYV'+VJ
+M].N SFIL>)/!+3JHX$&%_V;Q$NR45"7S)2 Y%'?P?0W^]Z&20#==5-T S).,
+M%N11+XB,M+PG59^3Y?O\,B+/;WT#X>:P:B$-VW3JN\/X^8O.E_0NWT:'MZBO)LI4BCS!2_UW4">1@G(,LIRWF#+J"TN^XHBV^OLR0F
+M<>7R$W>9QSC9OSDQW^ --O&AY7IF9/H>]IQ0YN8D=G_D.](+(-@BRHFP)QG#
+MMY_I%-7N.2KLI&4U3.*E&!><1IIQ$I=1'_F<3#R#,1_"1W?LF5U)$0X
+MLI0VF* -*J\F<5;&!369JYJF%&DJR6J0BI:RQ!YG$]<@H::^A@W5)5;-?B17
+M=UG*/C\(6VAJ0!\A AV/4HLA,Z0>DE77OO,C"ZN& S4>6 /*BZJ3AW$]36&G
+M)B4%8DHRZF.@I:".L]G$TT>CJ9M>&S7)/!1PB?'][7F"B^)+=%UFY,?[;(7C
+MM%.6&(:!PQ@T+3-$O"8%)I5J[_HACBR?&A!D$:@AP?K=[QD3.M
+M1L\?$[S<5YSA8.@'#H+(#@S,3$:0)37;T_%\9*'ML$ %)E^CVNS'"Y0V)S4U
+M2=)1JDS"T+7*4MO3;#5)2*!9D,0&ZI+XD)9Q^?QAQ?(E'W3])\\>RSO>'=[C
+M]'E?((0+)"3$@IY%J(D#XCH8RPID .?(-*3Z + (X]A;Z!!%M,4($J
+MS**+),NAI)M]+S'$8EQ@BO'=$S#=MYGAAH%:9Q$#S5*D-]N^@1N<9 EM\
+MU:+5DR[9 C8]"5K%3(._1FT;)C>ASO4XGKGF#=/KUK\1^XF"W?QS&:?,W%>K
+MZ?!:R.4*'8\%+HJ8[]I42ZU-E)FENOD *FSP)=55:BM/BC+593]-H]+$]24J
+M(C9=GRVOOT:<(F*]RA0:J\ORO/*8,WR>T4[=# P& \\SH>'AP+1=S!M4)JO$
+MIN-C3_G75R#' A68O-1:W,?5IB8(8PL*Z*>%9F(2%>EEN=CBZ'" O=XR4X5E-"B
+M+B$%74**6JBY?-\"'>#15F_P>G)H>9I/#R("+4$(#71[MHNTVH!3K]&HJLU%
+MR5:=Y4N^&<$040-&'C$]GT8&,3RUIDT$,T_7UD &W^O&I0:7?&8\DBC9KFTJ
+M?:VV39FY1M)N,0^MCG
+M@ZG(",+(#7SDFK*Z%"(<69*['8%K4,!1004KKT5Q7L9E.)FMF@*5B2I);Y",
+MENK$'F<3W""AIM:&#=5E=I6S:IDBXQ%6;F^J[3WYERCJ/@##&,'0([Q/]!PO
+M"$+D>9'T(L-^F",+C@-#TD &:VA08\NK;B!-X]([#'DU_>GQ5A+A."TM)0ZX
+MG4V.X]2:FI2PUEO 6$]/5BZ;Z[/>/<6=_M3&/J^#M@<1"B,#&\0/34=E'6,O
+MTK&'PU1HPRA/5&"GVD)DP2-SW.//XL(=0=VC89SBY7;THB@>6
+M#S2MA \00\\(H&7;D4T\9&(FO=QX#&SNUG4=P&$ZV&[FE/O82?F8V,VJI&)*
+M4]O+\1"M;=?YKVIP>VD.M+G]Y^A6SQO\=$&YYSC:[)D3K\1T'0L&ALM_F%%
+M;4RMT%::H L:%59]01H5-L10Y8<"WROT52?
+MB^SX2\I.AY6&S&0(JT\S2N;?0(=F70,=*O95[:,JT>4:2E:%QU1
+M'_HA#2$SO,BB+@M08*D5L3; /+7K!5-Q7;0P)[*%2I^I5GV2):E1E<1,)A2C
+M/89)DPB +"?]#(H2@D!$F_9*3E
+M^?_&^3&7Y>G_F*#/B:'>J]!Q_^\KS7HH]=YJT&OH?Y:,9+E]UE>#Y_JQPCG
+MV4-:YL^B]<44N3 T@@A:@6&Y81 Y 5+<,3J(-T_'UPJAL4EE$XCBFF29-,IV
+MA0=+CE:3."DO6NO,)-A.6G VY'_VE6<29$5+T&1.T]_H:J+P)BX%4QT^@2$O
+MJ="V V:QB(1.)/7X7>3\V+UGA5$]>S;1/\-_@2VZ^@[773+&]3J%HF(KJLA.
+M:VOK/HU)VUIWSF;?TKI/0[2=M6,S<6?<55:4./E??"\JF 9%T ^,")*('Z7$
+M<"A5+)@BF'GJY&Z+V!H;<'"MVBA,E&Q)G$I?JQ(J,]??&R4]>8(:0-Z^(][-V9")*",**C]PZ&#/+LMYX
+MQONS"EI3DXW\* I2C_4T-4H1UI=BE])T'39\_AH1=DGU*E!@JK_)X8:?VIFR
+ML3P86I1!PS9]%_'^TF?2ZZV;CH\LM-U*_PI+?1]#37U<3KJ$U#0DQT5KJT(S
+M\$D[%&I'LV],:(8OVH_0^GN?$)H9O>2?SEYMC\3K_Y3I[-7_ 5!+ P04
+M" A8(]<%&M3[!0' #X/@ % &%X<"TR,#(V,#0Q-5]P&ULU9O?
+M4^,X$L??^2MRN=<3L2S;DJB!+8X9KJAC9BA@:[?NA=*/5N(:QTK)9@C__?_H'0G_^^OAQ]MNI^#GDY.G,@2M"CA[24\AA%E$E$!8F1)'& ""2)
+M"330D/%_38]"+ A/X@1A(C6*C$Z0;Z"(TDB2* EIB./ZHEF:_SBJ7J0H8.3#
+MRXOZW^/QK"P71Y/)P\/#X5*Z[-"ZZ20, C)9]1X_=U\V^C^0NC?FG$_J3__J
+M6J3;.OK+XLF?7R]OU SF J5Y48I<50:*]*BH&R^M$F6M^KM^C5[M4?V'5MU0
+MU81PB @^7!9Z?'(P&CW)X6P&UV!&U=_?KR_63(HYN%2)')8+!T5QJ.Q\4O6;
+MK%(M>;EYO\\K7RHNI6M5_ZAN>K5B[U[3J;F9"0
+MU:UW&M*[,^MOGE-9E$ZH\FZ#9:XP8C@QB"8J9M@8GG"R+E,54.$CJM-:@#J<
+MVI\3?V&?WC"NWE0B/@G8,/>DVL?\KI5)H;@5,H--ORGFB#$J4,!#3#4P$C'1
+MR>\U<^M^O\SWJ5,CZS0X/Q2M[ FG&KE?OPF>>TP6POD+(35+,[WZMG%VWD>V
+M2MN'=D^9\?Z.1SYL \Z!OGQ*S*O1U:&5?H2&NN='DWY?H*D0B[L;KS14M\=9
+M)HKBN[DIK?IQNDR+1B &$ ]!(Z/\:!O@0$+$WX# B$+67C];>B(!LK)8M?Q"
+MXEUG=H=(A^3:OT/I/4#FI?^?[5RD>2."P.M"8XT@]#>.YCP"0GMFI>G%;B#I
+M.;VV5ZWW@18[G]N\#N KS"6XS0""A"#?P*MW@F@::*IQW[!L.K%;5KIF=1.2
+M3A+OD!%?%-Z=ITO0M_8\LU[^?'KM[Z)OMH3M@6@6(1F3 'E8:R9OW6(>J?0
+M?-=(*Q;"/6>A7REWR,1?D^[+.MT7_G#AA]?&8&J,)SM.-&):,THT8=R\-=.T
+M+$VWVMX-)_T4(3VJNF,V5LNY6]]WTV\5$R1Q%*%0J$H7!E3K3C2\M+;C(K2'
+MS-D>9-R3]%_YU;[U"WK]V8]RFP&$DB%N1(!4( DP+0,BNBU8MYK=\8#P]P#Q
+M<6'W8M*XAFE:K>?S\IN8-_R/I4+24.5'3:)P'!/,<=C#=+%NM1479"!<=)9U
+M+["XR)5U"^MJ4>JEVIF]STOW>&9UX'"
+MK5A>:"]<:M*G4YOM@2@_7$ 9-]T++%="M2Z*!(Z2KP/E%RYM]^=[?V
+MH;$7I%6") ?LE:&@#!.!4M ?([\,MR*$#9&0#XJ[3WS4M=1W=^7LSS17C5**
+M$(HX9QIIAHDV7"0ZZ>&\]A7KK4CA0R2EB\S[A,N5+4J1_2]=;*N[M7_'B0Q1
+M2 -@04APQ%E_L*S9;K>#%@R1E8]KO&-2JN'PU('8ZG=LD*38H @B$BN@%,MN
+ML\U+:^UH&,J&ZH=UW''^J^?.LJN9S5]9C(52($8%(,EB7SLIK8,@Z,3 IL5V
+M' QE'[63GCMFX0^7EB7DU7GR??Z\X&HH$>(0R3!@*"&&2:(5%DQU F*KV794
+M#&47M;NR.T;CQF:I2JMCY:^^*'*IR!H/&00*\2ADR&#%XH3$<=3Q*+9ILQT4
+M0]DE[:CICHFXE75R",QS[D@<+=RL[W/&A'S5"V3GO5
+M>]?S#JA[/W<^XE#>IF7SZ1>3*,1$ $BI)""""+_"ZO9,_:;%=FP,9;.TDYX[
+M9N'6B>J'2#>/,-XNT?$AK7CV5WE'<-RZJLB
+M755&YYF8-L00 G$=*B2XH":@21!V/(5=,]<.B*%L>GY' M,C R-C T,35?9&5F+GAM;%!+ 0(4 Q0 ( "%@CUQK,'M1D@L &1K
+M 4 " 2,C !A>' M,C R-C T,35?;&%B+GAM;%!+ 0(4
+M Q0 ( "%@CUP4:U/L% < /@^ 4 " >' M
+F,C R-C T,35?<')E+GAM;%!+!08 !0 % $(! M-@ !
+
+end
+XML
+15
+axp-20260415_htm.xml
+IDEA: XBRL DOCUMENT
+00000049622026-04-152026-04-150000004962us-gaap:CommonStockMember2026-04-152026-04-150000004962axp:FixedToFloatingRateNoteMember2026-04-152026-04-150000004962false8-K2026-04-15AMERICAN EXPRESS CONY1-765713-4922250200 Vesey StreetNew YorkNY10285212640-2000falsefalsefalsefalseCommon Shares (par value $0.20 per Share)AXPNYSE3.433% Fixed-to-Floating Rate Notes due May 20, 2032AXP32NYSEfalse

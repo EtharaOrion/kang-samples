@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Divergent Growth Trajectories of HOKA and UGG
+HOKA and UGG are both growing, but at very different rates and off different bases, so the durability question hinges on whether the faster brand is decelerating and the mature brand is plateauing. The analyst must separate the two engines rather than treat "HOKA and UGG" as one story.
+[a] Contrast FY2026 brand growth rates — HOKA net sales up 15.9% to $2,587,330 versus UGG up 8.2% to $2,738,758 — and note that UGG is now the larger revenue brand despite HOKA's faster percentage growth
+[b] Test for deceleration by comparing the full-year 10-K brand rates against the nine-month 10-Q (HOKA up 16.3%, UGG up 8.0%) and the standalone fourth-quarter brand growth reported in the latest press release to judge whether HOKA's growth is cooling toward UGG's pace
+[c] Assess whether management's stated growth strategy (selective HOKA wholesale/DTC expansion and international build-out) supports durable growth or signals a maturing runway
+Source: sec_filings/10-k/deck_2026_10-k.txt, sec_filings/10-q/deck_2025q3_10-q.txt, press_releases/, financials/income_statement/deck_income_statement.json
+
+2. Brand Concentration and the Collapsing "Other" Portfolio
+Deckers' revenue is now almost entirely two brands, and the remaining portfolio is being actively wound down, sharpening the concentration risk just as the company loses diversification optionality. The analyst must quantify how dependent the whole business is on HOKA plus UGG.
+[a] Quantify concentration by showing Other brands net sales fell 33.9% to $146,208 in FY2026 while HOKA and UGG together account for the overwhelming majority of the $5,472,296 total, leaving essentially no third pillar
+[b] Connect the decline to the deliberate wind-down of standalone Koolaburra and AHNU operations (Ahnu.com closed October 1, 2025) and the prior Sanuk sale, so "Other" is shrinking by design, not just weakness
+[c] Weigh the single-material and single-brand dependencies flagged in Risk Factors — sheepskin sourced primarily from Australia for a significant portion of UGG products — as a concentration that compounds the two-brand reliance
+Source: sec_filings/10-k/deck_2026_10-k.txt, financials/income_statement/deck_income_statement.json
+
+3. Channel and Geographic Mix as a Quality-of-Growth Signal
+Headline growth can be flattered or hollowed out depending on where it comes from, so the analyst must decompose the mix and ask whether the growth is high-quality and margin-supportive. Domestic is flat while international and wholesale carry the top line.
+[a] Decompose FY2026 growth by geography — domestic up just 0.2% to $3,191,518 against international up 26.8% to $2,280,778 — and flag that essentially all incremental growth is international
+[b] Contrast channel dynamics — wholesale up 12.3% to $3,208,107 versus DTC up 6.3% to $2,264,189 — and assess whether faster wholesale growth is a mix-quality concern relative to higher-margin DTC
+[c] Tie the mix to profitability by noting gross margin came in at 57.7% (down 20 basis points), and judge whether the wholesale-led, internationally-led growth pressures or preserves margin
+Source: sec_filings/10-k/deck_2026_10-k.txt, press_releases/, financials/income_statement/deck_income_statement.json
+
+4. Seasonality, Competition, and the Durability Verdict
+UGG's business is historically seasonal and the footwear/apparel industry is highly competitive, so the analyst must reconcile these structural headwinds against HOKA's diversifying effect to reach a defensible position on how durable the two-brand model is — and whether aggressive capital return is prudent given the concentration.
+[a] Establish the seasonality tension — UGG's highest percentage of net sales occurs in the third fiscal quarter — and evaluate management's claim that HOKA's more evenly distributed sales partially mitigate this
+[b] Frame the competitive risk from the 10-K (a highly competitive industry with larger, better-resourced rivals) and assess whether HOKA's running/performance exposure and UGG's fashion exposure are defensible niches
+[c] Interpret the roughly $5 billion share repurchase authorization (raised by an additional $3.5 billion) as a signal of management confidence versus a use of cash that raises the stakes if the two-brand engine falters
+[d] Synthesize the divergent-growth, concentration, mix, and seasonality evidence into an explicit, reconciled position on whether HOKA and UGG growth is durable enough to justify the concentration — taking a stand rather than listing both sides
+Source: sec_filings/10-k/deck_2026_10-k.txt, press_releases/, financials/income_statement/deck_income_statement.json

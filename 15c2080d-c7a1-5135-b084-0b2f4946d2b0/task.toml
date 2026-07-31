@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix"
+description = "Develop a grounded, position-taking view on KKR's franchise growth and the extent to which its insurance (Global Atlantic) earnings strengthen or dilute the durability of its earnings mix."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "KKR"]
+
+[metadata]
+uuid = "15c2080d-c7a1-5135-b084-0b2f4946d2b0"
+difficulty_explanation = "The analyst must connect fundraising and AUM growth to the management-fee engine, separate fast-growing Fee Related Earnings from spread-sensitive insurance earnings, and interrogate the claim that most segment earnings are durable. The hard part is reconciling diverging trajectories of the fee and insurance businesses into a single judgment rather than praising both, while distinguishing organic growth from acquisitions and perpetual capital that the filings warn is not permanent."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

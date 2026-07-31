@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process constructs a pre-analysis source map spanning company identity data, current and historical filings, financial-statement data, inspected press releases, and peer materials.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect directory-inventory steps and the resulting source map for distinct planned roles assigned to company profiles, annual and quarterly filings, financial JSON files, press releases, and CMI, DE, and PCAR materials."
+    },
+    {
+      "id": "c2",
+      "concern": "grounding_before_claim",
+      "text": "The process validates period comparability from source contents before making quantitative or peer comparisons.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for filing-header reads, internal reporting dates, units, fiscal-period labels, JSON schema inspection, and checks of whether cash-flow fields are discrete or cumulative that occur before comparison claims or calculations."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the assignment into distinct analytical questions for backlog durability, Construction Industries demand, price-cost economics, and financial or peer resilience.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect an issue tree, research plan, or equivalent notes that keep backlog composition, channel demand, pricing and costs, and cash or peer evidence analytically distinct."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process defines in advance what evidence would strengthen or weaken each major proposition rather than treating headline growth as self-interpreting.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a proposition-level evidence matrix or decision rules prepared before synthesis, with planned supporting and contrary indicators such as backlog tenor, segment attribution, dealer inventory, retail demand, price-cost progression, and cash behavior."
+    },
+    {
+      "id": "c5",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process builds a context-preserving chronology of the primary operating evidence across relevant annual and quarterly periods.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction notes or tables for period-ordered backlog, Construction Industries, dealer inventory, pricing, cost, tariff, profit, and cash observations accompanied by surrounding management qualifications, table headings, or definitions."
+    },
+    {
+      "id": "c6",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly records material ambiguities instead of resolving them through unsupported assumptions or false precision.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity log or explicit notes concerning unavailable segment backlog amounts, limited end-user measures, tariff pass-through timing, dealer independence, or noncomparable peer periods; qualitative attribution should remain qualitative when numerical support is absent."
+    },
+    {
+      "id": "c7",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests headline backlog strength against the backlog's business composition and order tenor.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reasoning steps that compare total backlog changes with management's segment attribution and amounts scheduled beyond twelve months, especially any distinction between multi-year power-related orders and nearer-term construction demand."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process tests Construction Industries sales signals against channel inventory behavior and available evidence of underlying end-user demand.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for comparisons involving dealer inventory changes, prior-period inventory patterns, retail or end-market commentary, seasonality, ordering behavior, or delivery-time expectations rather than an unexamined equation of dealer sales with final demand."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "The process develops and answers the strongest evidence-based challenge to its provisional interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect for a written steelman or equivalent challenge using potentially contrary evidence such as price-cost changes, tariff revisions, segment profitability, operating cash generation, management outlook, or peer resilience, followed by a reasoned response."
+    },
+    {
+      "id": "c10",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process maintains a reproducible quantitative workpaper that preserves the provenance and comparability of each calculation.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for reported-versus-derived labels, formulas, numerators, denominators, units, source periods, and treatment of annual, quarterly, year-to-date, or differing peer fiscal calendars for backlog, margin, inventory, cash-conversion, or tariff calculations."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The process explicitly reconciles conflicting operating, channel, economic, and financial evidence into a unified interpretation.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analysis for causal reasoning that explains why backlog mix, dealer inventory, end-user indicators, price-cost effects, tariffs, profitability, cash generation, and peer patterns limit or outweigh one another rather than appearing as parallel lists."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process reaches a clear position scoped to the relevant business exposure and time horizon.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look at the opening thesis and conclusion for an explicit stance that distinguishes enterprise backlog durability from near-term Construction Industries durability and identifies the subsequent evidence that could strengthen or invalidate that stance."
+    }
+  ]
+}

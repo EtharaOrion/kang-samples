@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "Before forming entity- or period-specific propositions, the trajectory visibly opens and reads the relevant documents rather than relying on filenames or isolated search snippets.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the ordering of file-read or extraction steps relative to analytical notes, especially whether cover pages, tables, or surrounding filing text are examined before propositions appear."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process creates a source map that spans Target filings, standardized financial statements, releases, company profiles, and the available peer financial files.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a source inventory or reconnaissance table showing actual inspection across the principal source folders and identifying the period or intended analytical role of each source class."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process decomposes the central question into analytically distinct workstreams for customer activity, sales or channel breadth, margin conversion, and competitive context.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes, an issue tree, or an evidence matrix for separate questions rather than a single undifferentiated inquiry into whether performance improved."
+    },
+    {
+      "id": "c4",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process explicitly declines calculations or causal inferences when the needed compatible inputs are absent or definitions cannot be aligned.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for blocked-calculation notes, missing-data flags, or statements such as refusing to infer weighted channel contribution without channel weights."
+    },
+    {
+      "id": "c5",
+      "concern": "grounding_before_claim",
+      "text": "When selecting a disclosure as evidence, the process examines its surrounding table, narrative, definition, or footnote context before using it analytically.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect extraction steps for nearby context around search hits, including period definitions, units, table headings, reconciliation notes, or management explanations."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The quantitative work visibly distinguishes company-reported values, company-adjusted values, and analyst-derived calculations.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables, working notes, or final presentation labels for separate treatment of reported, adjusted, and derived figures rather than blended use."
+    },
+    {
+      "id": "c7",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process checks period duration, fiscal-calendar alignment, units, signs, and arithmetic before treating quantitative comparisons as comparable.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for calculation-audit steps, fiscal-end annotations, duration flags, unit conversions, or reconciliation checks in the trajectory."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "The process actively searches for evidence that could weaken an emerging recovery or normalization interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect searches and notes for weak comparison bases, channel concentration, store weakness, temporary shrink or markdown benefits, SG&A pressure, unusual items, or peer-comparability limitations."
+    },
+    {
+      "id": "c9",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process preserves unresolved ambiguity instead of silently choosing a convenient timing, classification, weighting, or causal interpretation.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for an ambiguity register, unresolved-conflict entries, uncertainty notes, or explicit limits retained through synthesis."
+    },
+    {
+      "id": "c10",
+      "concern": "synthesis_presence",
+      "text": "The synthesis constructs a causal path from customer activity through sales breadth and cost behavior to operating-margin conversion rather than merely listing observations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final analysis for an explicit reasoning bridge linking traffic or transactions, ticket, channels, gross margin, SG&A, and operating margin."
+    },
+    {
+      "id": "c11",
+      "concern": "counter_evidence_engagement",
+      "text": "The process explicitly reconciles the strongest supporting evidence with the strongest contrary evidence by explaining their relative decision relevance.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Look for a deliberation or synthesis passage that identifies a genuine conflict, explains why it exists, and states how it affects the durability assessment."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process ends with a single directional position on whether customer-activity recovery is converting into repeatable operating economics.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the concluding synthesis for a clear chosen position rather than an unresolved list of scenarios or a summary that avoids commitment."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Backlog Durability and Its Concentration in Power & Energy', 'Construction Industries Cycle — Dealer Restock versus End-User Demand', 'Backlog Pricing Power versus Tariff and Manufacturing-Cost Drag', 'Through-Cycle Cash Generation and a Reconciled Verdict on Backlog Durability']
+Cited files: 20

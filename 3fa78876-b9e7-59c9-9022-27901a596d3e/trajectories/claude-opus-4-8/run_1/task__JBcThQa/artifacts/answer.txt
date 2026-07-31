@@ -1,0 +1,245 @@
+EYLEA COMPETITIVE EROSION AND THE PIPELINE OFFSET: A VIEW ON REGENERON
+=======================================================================
+
+THESIS (the position this note argues)
+--------------------------------------
+The consensus framing — "EYLEA is eroding but EYLEA HD is the offset engine, and a
+broad pipeline diversifies the rest" — is wrong on the mechanics and misleading on the
+conclusion. Three claims that the data supports:
+
+1. EYLEA HD is NOT the offset engine. It is a genuine, patent-protected, share-gaining
+   second-generation asset, but in dollar terms it recovers only about a fifth of the
+   U.S. sales the base franchise is losing, and it is itself being compressed on net
+   price. The label "offset engine" flatters a product that is losing a footrace.
+
+2. The real buffer holding Regeneron's consolidated P&L flat-to-up is Regeneron's
+   ~29% profit share on Dupixent. That single line grew by more than the entire global
+   EYLEA franchise fell in 2025, and it turned a declining EYLEA business into a +19%
+   consolidated top line in Q1 2026. This is not diversification; it is the substitution
+   of one concentration (a wholly-owned, eroding franchise) for another (a booming
+   franchise Regeneron does not control and books only a minority share of).
+
+3. The pipeline beyond Dupixent is genuinely deep (~45-50 candidates) and is the right
+   long-term answer, but nothing in it is yet dollar-material at Dupixent's scale, and
+   it has stumbled in several places. The offset is therefore SUFFICIENT TODAY and
+   FRAGILE TOMORROW — and it is Dupixent, not EYLEA HD and not the broad pipeline,
+   doing the work.
+
+Verdict on "offset sufficiency": sufficient at the consolidated level right now, but
+narrowly sourced, externally controlled, and facing a biosimilar wave for EYLEA 2mg
+that has not even fully arrived yet.
+
+--------------------------------------------------------------------------------------
+THEME 1 — EYLEA FRANCHISE EROSION: BIOSIMILAR COMPETITION AND THE LITIGATION ENDGAME
+--------------------------------------------------------------------------------------
+
+The erosion is severe and accelerating in the base product. Per regn_2026-01-30_8-k.txt
+(Table 5), FY2025 EYLEA (2mg) global net sales fell 34% to $5,321.4M from $8,104.0M, and
+U.S. EYLEA net product sales fell 42% to $2,747.8M from $4,767.1M. regn_2025_10-k.txt
+(line 3237ff) confirms the U.S. figure and adds the FY2023 comparison of $5,719.6M — i.e.,
+U.S. base-EYLEA revenue has roughly halved in two years.
+
+The important, non-obvious point on causation: through the reporting window, most of that
+erosion is NOT from launched biosimilars. Per regn_2025_10-k.txt (MD&A, line 3280), the
+EYLEA decline was driven by "lower sales volumes as a result of continued competitive
+pressures... loss in market share to compounded bevacizumab due to patient affordability
+constraints, and the continued transition of patients to EYLEA HD, and... a lower net
+selling price." Only ONE aflibercept biosimilar has actually launched in the U.S. —
+Amgen's Pavblu (aflibercept-ayyh), launched at-risk in Q4 2024 (regn_2025q3_10-q.txt,
+line 3028). So the base franchise has already lost ~40% of U.S. revenue while facing a
+single biosimilar, compounded Avastin, and its own HD cannibalization.
+
+That reframes the litigation endgame. Regeneron has, in fact, largely WON the near-term
+patent war — and that is exactly why the erosion story is not yet over:
+  - IPR/PTAB: every inter partes review petition against the key '865 patent was denied
+    institution (Samsung Bioepis, Formycon, Celltrion — all denied June 2025; Fresenius
+    Kabi denied Nov 2025 / Jan 2026) (regn_2025_10-k.txt, lines 6093-6095).
+  - U.S. settlements deferred the biosimilar wave rather than defeating it. Per
+    regn_2025_10-k.txt (line 6087), Mylan/Biocon are precluded until 2H 2026, Sandoz and
+    Formycon until Q4 2026, and Celltrion until Dec 31, 2026. Per regn_2026q1_10-q.txt
+    (line 1036), the Feb 11, 2026 Samsung Bioepis settlement precludes launch until
+    January 2027.
+  - Amgen is the exception and the tell: Regeneron's preliminary injunction was denied
+    (Sept 23, 2024) and affirmed by the Federal Circuit (March 14, 2025); Amgen has
+    counterclaimed with Sherman Act Section 2 / Walker Process fraud allegations
+    (regn_2025_10-k.txt, line 6089). Pavblu is on the market and litigation is live.
+
+Reconciliation: the company won the injunctions and IPRs, yet the franchise still halved.
+That tells you erosion is structurally driven by price and by compounded bevacizumab, and
+that the biosimilar contribution is still AHEAD of us, clustering in 2H 2026-Jan 2027
+exactly as the settlements expire. regn_2025_10-k.txt (line 2280) says so directly:
+additional biosimilars "expected to launch in the United States in the second half of
+2026... may have a material adverse impact on our results of operations." The litigation
+endgame bought time; it did not remove the cliff. Any thesis that the offset is "proven"
+must survive a base-EYLEA that is likely to re-accelerate downward just as the settlements
+lapse.
+
+--------------------------------------------------------------------------------------
+THEME 2 — EYLEA HD AS THE "OFFSET ENGINE": GROWTH RATE vs DOLLAR SUFFICIENCY
+--------------------------------------------------------------------------------------
+
+The growth-rate optics are excellent; the dollar arithmetic is not. Quarterly EYLEA HD
+U.S. net sales (from the press releases):
+  Q1'25 $307M (+54%) ; Q2'25 $393M (+29%) ; Q3'25 $431M (+10%) ; Q4'25 $506M (+66%) ;
+  Q1'26 $468M (+52%)
+  [regn_2025-04-29, regn_2025-08-01, regn_2025-10-28, regn_2026-01-30, regn_2026-04-29].
+
+Now the offset test. FY2025 vs FY2024, globally (regn_2026-01-30_8-k.txt, Table 5):
+  - EYLEA HD grew +$1,128.6M (to $2,569.6M, +78%).
+  - Base EYLEA fell -$2,782.6M (to $5,321.4M, -34%).
+  - HD therefore recovered only ~41% of the base decline; the combined franchise still
+    fell -$1,654.0M (-17%, to $7,891.0M).
+
+The U.S. picture (the piece Regeneron books directly as product sales) is worse:
+  - EYLEA HD U.S. grew +$435.8M ($1,201.1M -> $1,636.9M).
+  - EYLEA U.S. fell -$2,019.3M ($4,767.1M -> $2,747.8M).
+  - HD recovered only ~22% of the U.S. base decline; total EYLEA HD+EYLEA U.S. fell 27%
+    to $4,384.7M (regn_2026-01-30_8-k.txt, revenue table).
+
+So on the numbers, EYLEA HD is offsetting roughly one dollar in five (U.S.) to two in five
+(global) of what the base franchise loses. Calling it "the offset engine" overstates it.
+
+Two further cautions the data forces:
+  - Even HD's reported dollars are price-compressed and inventory-distorted. HD growth is
+    "due to higher sales volumes... partly offset by a lower net selling price"
+    (regn_2025_10-k.txt, line 3278). HD U.S. sales fell 7% SEQUENTIALLY from Q4'25 ($506M)
+    to Q1'26 ($468M) even though physician unit demand rose 10% sequentially — the gap was
+    wholesaler inventory and net price (regn_2026-04-29_8-k.txt, line 174). Q4'25 HD and
+    EYLEA were each helped ~$30M by inventory build (regn_2026-01-30_8-k.txt, line 225).
+    Underlying demand is better than headline dollars; that is a genuine ambiguity, but it
+    cuts both ways — it means the reported "engine" is smaller and lumpier than the growth
+    rate implies.
+  - HD's own biosimilar clock is running, just later. EYLEA HD has no U.S. regulatory
+    exclusivity — protection rests solely on patents (regn_2024_10-k.txt, line 2360) — but
+    those run materially longer than the base product: U.S. formulation/method patents to
+    2039 and EP protection to 2042, versus base EYLEA's core U.S. patents at 2027/2032
+    (regn_2025_10-k.txt patent table, lines 1523-1613). So HD buys a real second decade of
+    franchise life; it just cannot fill the near-term dollar hole.
+
+Counter-evidence engaged: the bulls will point to Q1 2026, where total EYLEA HD+EYLEA U.S.
+fell only 10% (to $941M) versus 25-28% in prior quarters (regn_2026-04-29_8-k.txt). That
+deceleration is real and is the best evidence HD's mix shift is maturing. But note it is a
+decline nonetheless, it precedes the 2H-2026 biosimilar entries, and it coincides with the
+April 2026 U.S. government Most-Favored-Nation pricing agreement (regn_2026-04-29_8-k.txt,
+line 102) that layers a fresh structural net-price risk on top. The dollar-sufficiency
+verdict holds: HD narrows the hole, it does not close it.
+
+--------------------------------------------------------------------------------------
+THEME 3 — DUPIXENT COLLABORATION PROFIT AS THE REAL DIVERSIFICATION BUFFER
+--------------------------------------------------------------------------------------
+
+This is where the offset actually lives. Regeneron's share of profits on the Sanofi
+antibody collaboration (overwhelmingly Dupixent) was $5,241.6M in FY2025 vs $3,923.5M in
+FY2024 — a +$1,318.1M (+34%) increase (regn_2026-01-30_8-k.txt, Table 4). Compare the
+offset math directly:
+  - Dupixent profit-share GROWTH (+$1,318M) covered ~80% of the entire GLOBAL EYLEA
+    franchise DECLINE (-$1,654M), and exceeded the U.S. EYLEA HD+EYLEA product-sales
+    decline (-$1,584M) outright.
+  - That is why FY2025 total revenue was roughly flat (+1% to $14,342.9M) and net income
+    rose 2% to $4,504.9M (regn_2026-01-30_8-k.txt, Table 2) despite a franchise losing
+    a quarter of its dollars.
+
+Q1 2026 makes the point unambiguous. The Sanofi antibody profit share was $1,450.8M vs
+$1,018.2M (+$432.6M) (regn_2026-04-29_8-k.txt, Table 4), while total EYLEA HD+EYLEA U.S.
+fell only ~$101M. Dupixent's quarterly profit growth was roughly four times the EYLEA
+franchise's dollar decline, and consolidated revenue rose 19% to $3,605.4M. Dupixent
+global net sales reached $17.8B in FY2025 (+26%) and $4.9B in Q1 2026 (+33%)
+(regn_2026-01-30_8-k.txt line 14; regn_2026-04-29_8-k.txt line 14).
+
+But "buffer" and "diversification" are not synonyms, and the filings themselves refuse to
+conflate them. Four structural qualifiers:
+
+  (a) It is a MINORITY, externally-controlled economic. The collaboration splits U.S.
+      profits 50/50 and ex-U.S. on a sliding 65/55% (Sanofi) to 35/45% (Regeneron) scale
+      (regn_2025_10-k.txt, line 5111). Regeneron's realized share is ~29% of Dupixent+
+      Kevzara net sales ($5,241.6M on $18,381.3M, FY2025) and is reported net of a Sanofi
+      development-cost reimbursement (~$929.7M in FY2025), with a ~$595M development balance
+      still owed (regn_2025_10-k.txt, lines 1194, 3353ff). Sanofi records the sales, leads
+      payor negotiations, and controls commercialization (regn_2025_10-k.txt, line 2404) —
+      and Regeneron is in active "Antibody Collaboration Litigation" suing Sanofi over
+      information-access and audit rights (same source). The buffer is real cash, but it is
+      not Regeneron's to steer.
+
+  (b) It REPLACES one concentration with another. The 10-K states Regeneron is
+      "substantially dependent" on Dupixent profit share, which rose from 32% of total
+      revenue (FY2024) to 41% (FY2025) (regn_2025_10-k.txt, line 2288) to 45% in Q1 2026
+      (regn_2026q1_10-q.txt, line 2540) — precisely as the EYLEA U.S. franchise fell from
+      42% to 31% to 26% of revenue (regn_2025_10-k.txt line 2278; regn_2026q1_10-q.txt line
+      2530). Reconciling the two "substantially dependent" disclosures: this is not
+      de-risking, it is a dependency handoff. EYLEA + Dupixent together were ~72% of FY2025
+      revenue.
+
+  (c) There is a SECOND EYLEA drag hiding inside collaboration revenue. Bayer's ex-U.S.
+      EYLEA profit share fell to $1,282.7M in FY2025 (-9%) and to $240.0M in Q1 2026 (-24%)
+      (regn_2026-01-30_8-k.txt and regn_2026-04-29_8-k.txt, Table 4). And Bayer can
+      terminate on 6-12 months' notice (regn_2025_10-k.txt, line 2402) — a right the Sanofi
+      agreement's risk factor does not pair with a fixed term. So EYLEA erosion hits
+      Regeneron twice: U.S. product sales AND ex-U.S. collaboration revenue.
+
+  (d) Dupixent has its own, later cliff. The U.S. composition-of-matter patent (7,608,693)
+      runs, as extended, to March 28, 2031 (regn_2025_10-k.txt, line 1615). No imminent
+      biosimilar date is disclosed, so this is not a near-term worry — but the buffer is
+      finite, and it is later than EYLEA's, not permanent.
+
+Net: Dupixent is the answer to "what is actually offsetting EYLEA?" — but it is a
+concentrated, minority, Sanofi-run answer, which is a materially different risk profile
+than the word "diversification" implies.
+
+--------------------------------------------------------------------------------------
+THEME 4 — PIPELINE BREADTH BEYOND DUPIXENT AND THE VERDICT ON OFFSET SUFFICIENCY
+--------------------------------------------------------------------------------------
+
+Regeneron is doing the strategically correct thing: it is spending into a broad pipeline
+(~45-50 clinical candidates; regn_2026-04-29_8-k.txt, line 60) and returning cash
+aggressively (FY2025 free cash flow $4,080.5M, $3.5B repurchased, plus a new $3.0B
+authorization in April 2026; regn_2026-01-30_8-k.txt line 727, regn_2026-04-29_8-k.txt
+line 235). GAAP R&D rose 14% to $5,850.2M in FY2025 (regn_2026-01-30_8-k.txt, Table 2).
+The breadth is real: Libtayo, Lynozyfic (linvoseltamab), cemdisiran, pozelimab,
+garetosmab, fianlimab, the Factor XI antibodies (REGN7508/9933), and the in-licensed
+GLP-1/GIP agent olatorepatide in obesity (regn_2025_10-k.txt programs section;
+regn_2026q1_10-q.txt line 1721).
+
+But breadth is not yet dollars, and the record is mixed:
+  - Libtayo is the one wholly-owned growth asset that matters today: Regeneron books 100%
+    of global sales (paying royalties to Sanofi and, at 2.5% through 2026, to BMS/Ono)
+    (regn_2025_10-k.txt lines 537, 1976). Sales grew 19% to $1,452.2M in FY2025 and 54% to
+    $438.2M in Q1 2026 (regn_2026-01-30_8-k.txt and regn_2026-04-29_8-k.txt, Table 5). Real,
+    but ~10% of revenue — helpful, not franchise-replacing.
+  - Setbacks are numerous: itepekimab's AERIFY-2 COPD Phase 3 MISSED its primary endpoint
+    (AERIFY-1 hit) (regn_2025_10-k.txt, line 1058); odronextamab (Ordspono) received an FDA
+    CRL on July 30, 2025 (regn_2025_10-k.txt, line 1066); and fianlimab was discontinued in
+    first-line NSCLC in Q1 2026 (regn_2026-04-29_8-k.txt, line 88). Otarmeni (DB-OTO), the
+    approved hearing-loss gene therapy, will be given away FREE in the U.S.
+    (regn_2026-04-29_8-k.txt, line 80) — scientifically striking, financially immaterial.
+  - The genuinely large bets — Factor XI anticoagulation and olatorepatide in obesity — are
+    just entering/expanding Phase 3 (regn_2026-04-29_8-k.txt, lines 96-98) and are years
+    from revenue.
+
+VERDICT ON OFFSET SUFFICIENCY. Reconciling every strand above into one conclusion:
+
+  - Is the offset sufficient at the consolidated level? YES, today. Q1 2026 revenue +19%
+    and non-GAAP EPS +15% (regn_2026-04-29_8-k.txt) prove the franchise decline is being
+    more than covered. A pure-erosion peer shows the counterfactual: Biogen's revenue was
+    roughly flat-to-down across the same window (~$2.43B Q1'25 to ~$2.48B Q1'26;
+    biib_income_statement.json), i.e., what EYLEA erosion WITHOUT a Dupixent would look
+    like. Regeneron has escaped that fate.
+
+  - But sufficient THROUGH WHAT MECHANISM? Not EYLEA HD (covers ~1/5 of the U.S. hole) and
+    not the broad pipeline (not yet material, and dented by three late-stage misses). The
+    offset is Dupixent, full stop.
+
+  - And is that durable? This is where I take the cautionary side. The buffer is a single,
+    ~29%, Sanofi-controlled profit stream that the company itself flags as a substantial
+    dependency; the EYLEA base has more downside coming as biosimilar settlements lapse in
+    2H 2026-Jan 2027; a new MFN pricing regime pressures net price across the portfolio; and
+    77% of gross product revenue flows through just two distributors (regn_2025_10-k.txt,
+    line 2434). The margin of safety is thinner than a "diversified, offset" narrative
+    suggests.
+
+BOTTOM LINE: The offset is real but mislabeled. EYLEA HD is a franchise-defense asset, not
+an offset engine; the broad pipeline is optionality, not yet ballast. What is actually
+keeping Regeneron growing through EYLEA's collapse is Dupixent — a booming asset it does not
+control and books a minority of. Regeneron has not diversified away from concentration risk;
+it has migrated it from an eroding wholly-owned franchise to a growing partner-run one. That
+is a better place to stand in 2026, but it is a bet that Dupixent keeps compounding fast
+enough to out-run a biosimilar wave that, for EYLEA, has only just begun.

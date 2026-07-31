@@ -1,0 +1,1253 @@
+0001792789-26-000040.txt : 20260612
+0001792789-26-000040.hdr.sgml : 20260612
+20260611175718
+ACCESSION NUMBER: 0001792789-26-000040
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 11
+CONFORMED PERIOD OF REPORT: 20260610
+ITEM INFORMATION: Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION: Other Events
+FILED AS OF DATE: 20260612
+DATE AS OF CHANGE: 20260611
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: DoorDash, Inc.
+ CENTRAL INDEX KEY: 0001792789
+ STANDARD INDUSTRIAL CLASSIFICATION: SERVICES-BUSINESS SERVICES, NEC [7389]
+ ORGANIZATION NAME: 07 Trade & Services
+ EIN: 462852392
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-39759
+ FILM NUMBER: 261084375
+
+ BUSINESS ADDRESS: 
+ STREET 1: 303 2ND STREET
+ STREET 2: SOUTH TOWER, 8TH FLOOR
+ CITY: SAN FRANCISCO
+ STATE: CA
+ ZIP: 94107
+ BUSINESS PHONE: 650-487-3970
+
+ MAIL ADDRESS: 
+ STREET 1: 303 2ND STREET
+ STREET 2: SOUTH TOWER, 8TH FLOOR
+ CITY: SAN FRANCISCO
+ STATE: CA
+ ZIP: 94107
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: DoorDash Inc
+ DATE OF NAME CHANGE: 20191030
+8-K
+1
+dash-20260610.htm
+8-K
+dash-20260610
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): 
+
+June 10, 2026
+
+____________________________________
+
+DOORDASH, INC.
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+Delaware
+001-39759
+46-2852392
+
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer Identification No.)
+
+303 2nd Street, South Tower, 8th Floor
+
+San Francisco, California94107
+
+(Address of principal executive offices) (Zip Code)
+
+(650) 487-3970
+
+(Registrant’s telephone number, including area code)
+
+Not Applicable
+
+(Former name or former address, if changed since last report) 
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each classTrading Symbol(s)Name of each exchange on which registered
+
+Class A common stock, par value of $0.00001 per shareDASH
+The Nasdaq Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07 Submission of Matters to a Vote of Security Holders
+
+On June 10, 2026, DoorDash, Inc. (the “Company”) held its 2026 annual meeting of stockholders (the “Annual Meeting”). The stockholders of the Company voted on the following three proposals at the Annual Meeting, each of which is more fully described in the Company’s definitive proxy statement filed with the Securities and Exchange Commission on April 20, 2026: 
+
+1.To elect four Class III directors to serve until the 2029 annual meeting of stockholders and until their successors are duly elected and qualified;
+
+2.To ratify the appointment of KPMG LLP as the Company’s independent registered public accounting firm for the Company’s fiscal year ending December 31, 2026; and
+
+3.To approve, on an advisory basis, the compensation of the Company’s named executive officers.
+
+1. Election of Directors 
+
+NomineeForAgainstAbstainBroker Non-Votes
+
+Shona L. Brown745,895,04884,442,121107,64526,934,621
+
+Milan Kovac804,527,52025,543,955373,33926,934,621
+
+Alfred Lin778,605,85651,744,57294,38626,934,621
+
+Stanley Tang779,909,10650,131,215404,49326,934,621
+
+Based on the votes set forth above, each director nominee was duly elected to serve until the 2029 annual meeting of stockholders and until their successor is duly elected and qualified.
+
+2. Ratification of Appointment of Independent Registered Public Accounting Firm
+
+ForAgainstAbstain
+
+855,145,8192,121,211112,405
+
+Based on the votes set forth above, the stockholders ratified the appointment of KPMG LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026.
+
+3. Advisory Vote on Compensation of Named Executive Officers
+
+ForAgainstAbstainBroker Non-Votes
+
+801,393,91328,919,623131,27826,934,621
+
+Based on the votes set forth above, the stockholders approved, on an advisory basis, the compensation of the Company’s named executive officers. 
+
+Item 8.01 Other Events.
+
+In connection with the Company’s 2027 annual meeting of stockholders (the “2027 Annual Meeting”), the Company is providing updated contact information for stockholders to submit their proposals to be considered for inclusion in the Company’s proxy statement for the 2027 Annual Meeting. Any such proposals should be addressed to:
+
+DoorDash, Inc.
+
+Attention: General Counsel and Secretary
+
+303 2nd Street, South Tower, 8th Floor
+
+San Francisco, California 94107
+
+with a copy sent to: shareholderoutreach@doordash.com
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+DOORDASH, INC.
+
+Date: June 11, 2026By:/s/ Tia Sherringham
+
+Name:Tia Sherringham
+
+Title:General Counsel and Secretary
+
+EX-101.SCH
+2
+dash-20260610.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.LAB
+3
+dash-20260610_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Entity Address, Address Line ThreeEntity Address, Address Line ThreeEntity Tax Identification NumberEntity Tax Identification NumberEntity Address, Address Line TwoEntity Address, Address Line TwoEntity File NumberEntity File NumberCover [Abstract]Title of 12(b) SecurityTitle of 12(b) SecurityLocal Phone NumberLocal Phone NumberDocument Period End DateDocument Period End DateSoliciting MaterialSoliciting MaterialEntity Address, Address Line OneEntity Address, Address Line OneEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeEntity Registrant NameEntity Registrant NameAmendment FlagAmendment FlagPre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Address, State or ProvinceEntity Address, State or ProvinceEntity Address, City or TownEntity Address, City or TownEntity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeWritten CommunicationsWritten CommunicationsSecurity Exchange NameSecurity Exchange NameTrading SymbolTrading SymbolDocument TypeDocument TypeCity Area CodeCity Area CodePre-commencement Tender OfferPre-commencement Tender OfferEntity Central Index KeyEntity Central Index KeyEntity Emerging Growth CompanyEntity Emerging Growth CompanyEX-101.PRE
+4
+dash-20260610_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Jun. 10, 2026
+
+Cover [Abstract]
+
+Document Type8-K
+
+Document Period End DateJun. 10, 2026
+
+Entity Registrant NameDOORDASH, INC.
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number001-39759
+
+Entity Tax Identification Number46-2852392
+
+Entity Address, Address Line One303 2nd Street
+
+Entity Address, Address Line TwoSouth Tower
+
+Entity Address, Address Line Three8th Floor
+
+Entity Address, City or TownSan Francisco
+
+Entity Address, State or ProvinceCA
+
+Entity Address, Postal Zip Code94107
+
+City Area Code650
+
+Local Phone Number487-3970
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Tender Offerfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Title of 12(b) SecurityClass A common stock, par value of $0.00001 per share
+
+Trading SymbolDASH
+
+Security Exchange NameNASDAQ
+
+Entity Emerging Growth Companyfalse
+
+Entity Central Index Key0001792789
+
+Amendment Flagfalse
+
+XML
+7
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+8
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.26.1html1241false00false0falsefalseR1.htm0000001 - Document - CoverSheethttp://www.doordash.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportsdash-20260610.htmdash-20260610.xsddash-20260610_lab.xmldash-20260610_pre.xmlhttp://xbrl.sec.gov/dei/2026truefalseJSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "dash-20260610.htm": {
+ "nsprefix": "dash",
+ "nsuri": "http://www.doordash.com/20260610",
+ "dts": {
+ "inline": {
+ "local": [
+ "dash-20260610.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "dash-20260610.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.sec.gov/dei/2026/dei-2026.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "dash-20260610_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "dash-20260610_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 24,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2026": 2
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 25,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2026": 24
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.doordash.com/role/Cover",
+ "longName": "0000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "dash-20260610.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "dash-20260610.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line Two",
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line Three",
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2026",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.doordash.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+13
+0001792789-26-000040-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001792789-26-000040-xbrl.zip
+M4$L#!!0 ( "BORUS(++UV[!$ +V1 1 9&%S:"TR,#(V,#8Q,"YH
+M=&WM/6M3X[B6W^=7:#.[TU!E.W[&<:!S-P/T3+:;1Q%F9VJ_W%)LA?BV8V!A$Y(YQ$2;QYT^&IG\B+/:3
+M((QO/W]J=4[:[4__:/YT_&^J^M>OU]_(:>*/!BQ.R0EG-&4!N0_3/DG[C/R9
+M\._A'257$4U["1^H:O;:23(<\_"VGQ)3-VM%L^(I;^B&Q^K,=56+=6NJZ[&:
+MVM5=JM8,VZ:>RYC=-97;1N#7#4:[@6KT]*YJUQE5NT'-4)GM=(UNS]5-G2E!
+MPZ>V[P>N8[G4MWLN\W2/!E;-[)J&X1@T&[>? LP =RP^5_II.FQ4J_?W]]J]
+MI27\MFIXGE=]P#:5K%$C?$A5P?Q28[C6;I.[:AA'8,^HT'S>,!22O!5E?T]"N\^5TZ2
+M. 7>56_&0QC!SZX^5U+VD%8EO:O-GW[ZZ3@-TX@U RKZ*H*JUPS]N)K=/*YF
+M77>38-P\#L([(M)QQ#Y7@E ,(SINQ$G,8 +A0P,;,I[]&08!B^6?\/P"%A /
+M_6S\A_2:]3Y7?!68)*8#[(F%C;,8AAN?P.PXC=IQP!Z^LG&%A,'G2D\UK4I3
+M!_*YGNG6O>-JJ=<-!FG!.@YP+7^)Z.VD<[O2[-%(L(5^JV5 ..LQ#I*"B27X
+M1[HTA&0M&)E(.C52P/KGB@@'PPCI*^_U.4ZLA&KM001 "#G>=)!\3)&,N+R2
+M?-?(H9-S1^B*^TSBK[@* [SNA8P3.2>V="&?M+^6\3K_Y]".A)@N(*
+MN)VGIR 9FPB/JM=49)[Y9Y-I!BN:%D^*ZV*0:@GN DD3K%1G^*X*W)FQ*&(G
+M?$HP_A.Q-WTG9^M!&*M]AM*[X=C#].@^#-)^P]#U_ZC(=LUC,:3 $%V.%,O^
+MSCI9Z HGK-(HO(T;/F"0\4KVW001N/&IQ8/:?1)
+M$2#J0 [SL)<]%N'_LH91AVG)R_MLGBZ\C>*QF+=AXF3_N&C?G)V2SDWKYJQ3
+MGNG.S+%S=O+'=?NF?=8AK8M3^MB]_.R,GE^7F[TVE?7NSHQ/^$]0OV
+M0IK$"CG53C30]([MO?AD];G)VDLG^\\U?E9.?4#Y+2R)-!DV:C#:ZZ+]R^7U
+M.5E?WA>F6Z;],G$/B[ZN?EV4]7O*;0F2Y92#=7Y]=G%#KL^N+J]O7AW=RR=Y
+M->)B1,'43Q/283[:E\2P2,*)X1P$AR3I2;L?'HUXF(9@")P]^'VP QAI^2D^
+M-CS+WE'@4+OB%*_9,.$I.2BN&07]RD1*V!UZ.5P^9L%A@^PH()NO_RMI2YQE
+M%D:%9,X#6 @/:2. .^H NNCC:VI Q^H8,**R>&(?5IK_-8H9,71%^G,?072L
+MFOHRL^?'0VQNFR\R9^.:W88"OV+$^W5Z6T\
+M!;UM _0'9P\49! "B:N:3X C5! Q9#Y:] $)8Q*F@H#4@D7.#W>/>24PV])[
+MS@J]E])NQ(KVW82#^Z "1!$="M8H_C@J/-PL^*#*EX[RWKM)FB8#.< =XRDX
+M&U$^B!PO>YP[#_6:5JO5D$-3\%+2H!@X=RTT8-[JXGW+T1ROOO21KAE+[Z_J
+MRK0TQ_6VTI7E:HYI/=I554*900JX1"I]KEB5HO&0!AAJ:YC#!V*4Z1.QW@(Z
+M,TQ6EE$XIP%VDG>J8@\-4S.=F7LR%%?27X$I%LI4X)J6
+MFF%4FB> 6&@>AW1^.L^=S54"PT7_$PXSJS$?RJPT/=O0W9VC^O)XQD$.#&JM
+M(0>LAD,:$?; _%$:WJ'/"Z**B4-R ( 2A/3UG=L5GOKZ9$2>;7%&2X2S*LV:
+MH\^3[7 #[OB6@ *[ZB?QG/EK@*=@UUVT?Q?Z?W5DKF"+:13GEY_KIN$>"9*R
+MB T1.A)+\!0T08V
+M0A9MXE*\P27-EBC@NT>RN'A ! I $E%1A)8/7S^NO#L1T[*UZ)6-P'^-!!A@
+MXQ=%PDF?^=]EEH,.03^!I$7_H9L\D"Z+DGND+#Y$^I.Z^I7TP@B752A@C:4L
+M#H#B:0)$'XRBE,8L&8EH3 28D*(WEF_F+R1= )$6;@@^F(E8CJ ?X*9X7#SK
+M)1$,CN^AS@S1KA>-=6CQ&BA<7P[_R<,4D(;.RBC.#6VQ:"QTDR3J4L! "G28
+MR&JGTOSE9\^U[:,%.R'O%X:>[9@,9]);UR/PBFS3R7$]E];";-:!X9*3+]?$
+MM'0-&JXE+W<;W9T$I"H &-^> U/CR.OBNK8:U]-.R2#O=1'1ADW!X)K!=2EO
+M.,&TK6M9RW> ["O.D*^QE$FFX%$V\,M>#ZV-]9#NKD8Z=*[Z,[T_R>F&':CF
+M0?=P%0GF:) U?G]4: LQ8OP9M*AODQ864^T#?R4M2J3(VRZ2XE'U^I+$F!&;
+MF0IC')3@<%DI@>3 7*4!I(L:[*4S4X:N:WH6OMTH-573/,?92C[)\#3=VDZ6
+M"]C%U=W_3VHJQW<6J!NF1(!L#TC!./E3S"LN/GP+^9$;+.C-2C[\/O'!)A=K
+M!$3?.U(XE8YA9SSH)M&!6"=&O!9*\M!NZ?';1]=%7E\@68@58AN$VWT_A#M3
+M"5A"XWKK;AHS7X*R%^&_01@$$7LI7;YAWBQ7-&/#[,J5/%'.'KAMN)A)2^K>
+M!&>>^-\5,J265-)."V@M>9FSNU#
+M>[!,,!%)(T)]'^N\L#%N)@PH#T06^@Q6^9;6 9WXEK/\KY$)X580:G:WTS#)
+M)M[@+**85UO8_S3525(9Z=-7:![":&S2ZIV.!3M^/V=R%BT4%DG,*CKP8#8!??A1'+UCBAHD+G0RG2+ N8U(JMU?(:9+P
+M4RKZ"FG'OD8.D,,QUV?J1[D4DU?&T2'ILRB0],]\)5-$@X=#-*(K&H#6%S\-NIC=GAIQD.:5:#67N&P9Z&!-9
+M4R C<+TPFMVG/J,9099,I<-,D13\:PUY& 'B,K0OV?VQ5D*K5.QD300_R%>8
+M6$/%?5XO9LL@.QD3K?Y28Y;KO3RMYB+(-TFF-H!)1IQD[EJ[W29!R.%NDJU7
+M& ^HB8(_DH0#0GA/<3%2=/)&"/)PY/M,".P17#P2C("7"H6%;?\>87U)R()%
+MA? F"6SN#H&QBC+/@&BR!PLU35PL>B:OH*Z7
+M6R&&1LXB-JDG/IV(LTVG_+*)#\_3;%F,M5'>PZAKMO/XYI?U[UO.=M(>^TF]
+M_4G5?M"&JE>(G:Y(&R3@>C&V1JRS@$9'6'*LO%&@OV!)]4<"N'5+\?2C#P9T
+M%QRO,/Y80/_*D^]@55XDL8HA!K%1MH_ZWV\Y6+2!FD\2/!;6Z[V))%"GG\24
+M?-,(8.!^':(_">T3W/"FL>7:CE+W'$6WZWM4/8ZJNJW8MJD8IK''U..8,G17
+MJ=G.'DV/H\FL*9YE*[4YAMI8./?DSYL ^3R,8*BOR1WUG\4=2&Y/Y"4S9X(?9GK5'T_-%
+M\T(-]<[4LOU*Q;0Z#$O%!!$,2X X%H!V9<6 K $KJH!(G.7)R#W63<^6[FR[
+M.@BKS5;7!NUPP8&ID6LZ2#W2Y3
+M>.[^3$.K&X_GE#=)=&]GI^>N3LI[(I'_#K+O^T3TAP!Z22+Z/<>4ZHZC&)A@
+M-)X7=[@W?#P'TO@+S U5@UG5#L3Q+\8SG14T_D#5KU@%+GE(S]YAZRN[';(6[
+M+U+]L&'X!0\IW](7_+ ]?<_<8#UW,,S+G:NQ_+AJ>0I!7=,-IBY/=G1A7]9!0%.')^)+C,8#5>Y>N!:Q*_
+M?,K$CDZRA<D1G;Y4ES+54=J?]VT7KYH_KL]VS,9;S\.QG
+MF;/CN/X>A5QJ)K'FZ6_*LG.\9/V#3T=2.^%)<-D'*G*=*0#^%C%%Q-Q]#F
+M9J%CQ]0<>SN[Y^N:ZVX60GWDLU_F7DQY#5/''/GB;-+6%_N]>-7TQOYJ6Q&\1'T
+MM6.MNP_?K^/&YO LD=JO#4=55,D-V*,=4$D Q6\>/&-Y[S94ZSG_SPS-[IBS5^TFP1A^]=-!U/P_
+M4$L#!!0 ( "BORUP2;;N:70( /D& 1 9&%S:"TR,#(V,#8Q,"YX
+M@D@+](NAH@Y+1@=2.50>)-:K\])K0AHK#M[05XV7P^3[S73J$G$U4HR>%]<-(HV8 R
+M#/3S,?8!*@7E,G(CA,/X_&X4Q+:2 'F5H'\%SFTS@+8C[/M='QH*(P\<]A+]S_USDI_:OZ4 /[%Q1[RQ?L3H,KJ0]B&.D+/=7G\YON,^VQX8E]$:370[V+ESR]OM2-WD'>(!>%%RT_G'C5X E!+ P04 " HK\M<-R GEIL) "O
+M6P %0 &1A8_UB!1)Y>TOCXL<_.!BF97%NYE[XLP +VC)LN+FW>S;]4>8S'XY>_/F[=\@
+M_..?7R_ KR6]7_"B N>"XXHS\)!5MZ"ZY>#W4OR5_<#@,L=56HH%A&?-Q\[+
+MNR>1W=Q6P'.\:--L\ZXX=5S$$Q['T.K9L_]MH_^$UK%R$T;]Y];KK,5 UE6'?^
+MQV\75_26+S#,BF6%"UH+++/39?/B14EQU51];UY@L$7]%]PT@_5+T/6@[YX\
+M+MGL[ T JW*(,N=?>0KJW]^^?AJ41/.ZQ;S@-_5W>\E%5K*K"HOJ A.>R^R;
+M:-73'7\W6V:+NYQO7KL5/%6'S87H1*VS1'66;E1G^=.0V'Q$^@?*M^KG>H#D
+M&KN?#Y7CKII^/EBZU_(*P8^?<$MF=,JK$^I#P:8Z=Y^E1J=^_(P/=5J4%9%HIY_4+%_)H+5,'VG$Q;736E^Y6JORQX@7CJZME)S3(V+N9//K.>/;]
+M0U%EU=-[Q@1?+M>_I#;WOV_U7]AC,,&8PC"0OQ@E&/OH>_5\8G_G!?QVMT%7O9Q4KGOX53)G*UVP5OQYG)3?EC+C\_KP=/]0&L#QHX
+M=D>=][ZE]V*3+Q9T3R'7+>:TE*.6NPIV:IJ*(SSULB.> TC2(
+M2G'0505- A^JE"^D!JF %JGD!+##=8VX$JD.1)\9UC\$^LOL^8(MM_U+@
+M;2/KHPBB1!Z%"4/82WB:N/'8'M5[U1[UH1S?GWHC^E,C]X?L3W<8/TAOZAVE
+M-_5>OS?U3'I3;S26'[.,_9B,
+ML6A&BJD[(V"&;%@QTPLV&39#-MKD#+8QAZ=>''_=R,<6?&C8$Q(V2&'%@ATPLV&3)#-MK(
+M#+8Q1V:S-/N\&O$KKGJ=#HY]B&B")3Q1RI/(2WFH?3.M5#@R/,\+SBM1(%5!
+M+:N/D+HN^SD:[=8,)F.C1DCM-&/%E3KB9'#M--0F;'=#BV%=F6Q$$&T6#85V_&!H#NU$6S:@R
+M<6PZX>;;F@W:*4SN!MN=;C)7W>;)4X1)#3U8.1SFCK(0R$9O9SJ
+MON;D[Y?B (NI[HC)7R/W!YS\W67\()._[B@"AZ.^^N2OJ^)Q?^.16%Z6RPKG
+M_\GNSDO6&T=ZOBN[MRB!01H& 6/(3V)NQ65'9F(P5]I BH-:W9++;J$,P;2V
+M/XY,7>?V8"J-C2>S&_9UT%1:&V13W=H6SJ_\)JNG)HOJ,U[TYQ0)A@EW, P]
+MXB(OXH@3[:&G2F :(%\T02UJRN%6370)M'=JQ9ZN20ODU$Y&P+85<&+,U';Z
+M@ VT,T?KO;Q!9/5-XL<:T]FV&C:,<)%F;H5)]U(DP&B-- F0]W '(E+P<_+A0Q$>1WMTW)Y
+MS\5UO556?$G3_H1\XB"($^+ V,7(#3W.J,=T*=DG=F1PI#RD+7VP2@"L,@!-
+M"OHX[:WO=XA$(44P9=@E+"<,!"I(WT+J&)[_(:=5DAL-&WO,_;+I?AG=Z((HR[
+MU]/W;W^W-V!N_/W>=N#7N>,;L#=XSS?4?B2PY_+PB[@N'XK>()4P2'#@0S\@
+M2>!SQV&A]F:2 8V),:V%Z[.TEK8DM%4?0SCM7(_C4LNP/9)]2^-I;,5\'1#[
+MI@895#2UQ>]304MQ5XIFYWO#]GEY7U3B234UFN)(WBI&'G13C")$4<2)X0[9
+MG7K38-E)H=6'K!.QFB_=749=8@]6'"MZ1]7% F8MMR/ WAU_8LBUS/:!U_N8
+M.?R_BZRJ>%&/Q>^+]7,OR]YJ/W,A\GUY%!$G1#0,6:P]2E8J'!GPM2;HBNJS
+MK*[*?GI'>S7CU="F$9H[K5C!J(XX&7X[#;6!V]W0?I/TAT=Z*[\]KEK4<$@,
+M$^QB* &+$<$Q2USMM4:5P)$!VTB"C:;AHH:R)OOY&NO4#"]#DU9;IE5.1FV;
+M[@2M2@.((I"#EG,D\AU'4E5H,M4
+M)_*185IK@968/D1=]_OIL?9DAHVF'2-;':
+MZ-Q.?-3^YB;0Y-N:V^FK=C-WWK=X9+&>)A$:[D%-1?J=YS15
+M[X]>Z-ZQQ!U&N)[8"V$0I]PECA?R1/O9F6&9J1>W#[*J/6H]^W56LH^^A'VD
+MQ>O_AV5KLP7K0RY5G\MX N>?9,3'?_.GWK83QF&"'2:';B1Q<(0BQW3=:TMA
+MFNGUM2AH5(&4-9U+WZZ+[NSY"+=6\^7Z1BTFQP?,C)@.WXXX\03X@*'^E/=0
+M0UO,/BRXN)&W6/\2Y4-U*V&^PT4/ML#S(*$XA)[GN9X?NH&7&F[Z5^I,@]Q&
+M&JRTP5K<%#QUI73Q&^W?"D)3ZQ8H[C0V DAUW(FQW&FN#^?NYD.(MK^-"WET
+M]F;S2K;Z_\YG;_X'4$L#!!0 ( "BORUP*?>LX'P8 !(U 5 9&%S
+M:"TR,#(V,#8Q,%]P&ULU9O;EM8 $'BX(F=<9VDXZF3
+M>!)WFNE-!H>%Q E%:D#Z]/8%:2N-1+EE3';$W%@2M>#N_ON) );TBY=WRVQR
+M [Y,B_QX2@[Q= *Y*6R:SX^G?UR]06+Z\N3@X,5/"'WZ]05Y,S
+M#ZH".[E-J\6D6L#DS\)_26_4Y#)3E2O\$J&39MA9L;KWZ7Q132(WA[>:9\=%GX^BS"FL[7U
+M]-'\KF5_2QMK(J6<-=]^-2W378;AM&3VZ>W%1[. I4)I7E8J-[6#,CTJFX,7
+MA5%5H_I_QC5YTJ+^A-9FJ#Z$2(0H.;PK[?3D8#)YD,,7&7P -ZE?__APON'2
+M%H6WJEP!Q?>_G^&."N@MS"0UYK#UEA-HRR6M7BZ\A,:7$S
+M"R>>U3+4;QH]&BU:[AYT>5[%'HK.0H2SL,*S:\*WPC_,>@/9\5U7OG[L\*V
+MTA&2(A6)&'%-%9&QLA)@ ##^-8A.G,1CYV0XG4>!S9LT@W?72PU^.W9>+[I)
+M6#QBI[A0%)C4_=80VQX[ 9&,'8AG*CB*ZE^INW,;M$I=^K#QV)U(+!*D'*%(
+MX"1REM$$QT/,(T^X[\0%&SL70V@["DA.K0TE*!]?PI8-2&MZ% HIK7!(1^F(
+M U>$Q@, LL-U)SCXV.'HJ^E(P8A:VRGAD+8$(Q%Q;:2@2K A)I$=KCN!(7X\
+M,+Y/TY&"0;>3,,HB)01%G*@ MQ1.:_>_@$$[@2%_/#"^3],Q@7$6WK[W5\5M
+MOIT"X1:)!$=(Q@(+S'FD.1L.BW\<=^MAX1^$BF<*.B8FFJW4>W_IBYLT-ZV=
+ME$DLDN XPIH M6%>!$F' V/+>S#I -W]WP&''W>/F&V_= !AQS_/9TNVYY/4-TNQR4>1/M%RP)4@Z5[?M:0"54D)[[C>V/78K
+M_8C;F+TDW'/Y__1I54%^5BR7U_EC6Z5LS6?4A*T1L2A*0)H8A 3>KQFQTVTW
+M$$;Z'0]MF-
+M@Q&W*WO*N&<(+CW4!$-8V#;W].O'0?Q[Y]H7M@@G2')!PN06,\HM#^N:?BV'
+MIWUW@V+$;0W^7W(101F=6(TL43R)J2:Q&!215@3=0!EQVW)0
+MB?<]H8"Y#I/B/8GT55IE[9URI)"*38(<&..2F#"*^]TVW_;8#8<1-RM[2;CG
+M\E]Y53_C^O%^J8O6'"AEX-:&K1$S262B2+A8][L'NN&NV_-4(^Y'/E^\D?SH
+M7]^9A\
+M;S(UWPZ<\AC)R!$$/.(L-D(:V>]&YH:[;M4?<1?R^>(-5O47LY9X%^' R<'C
+M%_6?^E]H3@[^!E!+ 0(4 Q0 ( "BORUS(++UV[!$ +V1 1
+M " 0 !D87-H+3(P,C8P-C$P+FAT;5!+ 0(4 Q0 ( "BORUP2
+M;;N:70( /D& 1 " 1L2 !D87-H+3(P,C8P-C$P+GAS
+M9%!+ 0(4 Q0 ( "BORUPW(">6FPD *]; 5 " :<4
+M !D87-H+3(P,C8P-C$P7VQA8BYX;6Q02P$"% ,4 " HK\M<"GWK.!\&
+M 2-0 %0 @ %U'@ 9&%S:"TR,#(V,#8Q,%]P&UL
+64$L%!@ $ 0 ! $ ,XML
+14
+dash-20260610_htm.xml
+IDEA: XBRL DOCUMENT
+00017927892026-06-102026-06-100001792789false8-K2026-06-10DOORDASH, INC.DE001-3975946-2852392303 2nd StreetSouth Tower8th FloorSan FranciscoCA94107650487-3970falsefalsefalsefalseClass A common stock, par value of $0.00001 per shareDASHNASDAQfalse

@@ -1,0 +1,357 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Organic Revenue Growth Deceleration Beneath Acquisition Optics",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent separates Q1 FY27 reported revenue of $11.133 billion and 13% growth from the $444 million Informatica contribution, calculates acquisition-adjusted growth, and notes FY27 guidance of $45.9\u2013$46.2 billion with approximately three points from Informatica. The acquisition-adjusted growth calculation and related 8%-to-13% decomposition were flagged as unsupported.",
+        "b": "The agent mentions FY26 revenue of roughly $41.5 billion but does not trace the required FY24, FY25, and FY26 revenue sequence or use that full history to characterize the multi-year growth trajectory.",
+        "c": "The agent discusses cRPO growth as a forward indicator, including Q1 FY27 growth, but omits the required $33.6 billion and $29.4 billion cRPO balances and does not note that subscription and support represents approximately 95% of revenue."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Restructuring-Driven Operating-Margin Expansion and Its Limits",
+      "moves_hit": [
+        "b"
+      ],
+      "moves_missed": [
+        "a",
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The answer discusses FY26 GAAP margin near 20% and a roughly 20% versus 34% GAAP/non-GAAP gap, but it does not provide the required FY26 versus FY25 operating-income comparison of $8.3 billion and $7.2 billion or explicitly state Q1 FY27 margins of 21.1% and 34.8%.",
+        "b": "The agent attributes margin repair to workforce reductions, data-center exits, and office-space reductions and gives restructuring charges of $988 million in FY24, $461 million in FY25, and $586 million in FY26. The quoted restructuring attribution was flagged as absent from the supplied evidence, so the move is tainted.",
+        "c": "The agent tests sustainability using FY27 guidance of 20.6% GAAP and 34.3% non-GAAP and concludes that expansion is limited, but it omits management's stated expectation that operating expenses as a percentage of revenue should continue improving."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Agentforce, Data 360 and the Forward Re-Acceleration Bet",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent weighs the nearly $3.4 billion combined Agentforce/Data 360 ARR and $1.2 billion Agentforce ARR growing 205% against their small share of Salesforce's revenue base. Claims used to establish the ARR-to-revenue proportions, including the $1.2 billion input in that calculation, were flagged as unsupported.",
+        "b": "The agent quotes management's confidence in organic revenue acceleration in the second half of FY27, but does not include the required point that more than 50% of Agentforce/Data 360 bookings came from existing customers; the quoted confidence statement was also flagged.",
+        "c": "The answer offers its own caution that AI growth may not sustain, but it does not cite or convey the specified risk-factor warnings that revenue growth rates may decline and that failure to continue operating-margin expansion could harm the business."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capital Return, Cash Flow and the Profitable-Growth Trade-off",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Salesforce returned $27.5 billion to shareholders, including $27.1 billion of repurchases, and describes the $25 billion accelerated share repurchase that delivered approximately 103 million shares upfront.",
+        "b": "The agent identifies cash-flow softness through Q1 FY27 operating cash flow growth of only 3% and full-year growth guidance of approximately 4%\u20135% following the $25 billion debt issuance for the ASR. It does not separately state Q1 free-cash-flow growth of 4%, and the Q1 operating-cash-flow figure was flagged as unsupported, making the hit tainted.",
+        "c": "The unified conclusion explicitly reconciles acquisition-inflated reported growth, restructuring-led margin expansion, the still-small AI re-acceleration bet, and debt-funded repurchases, concluding that Salesforce should be viewed as a levered value-oriented company rather than a re-accelerating growth company. Several factual supports for that synthesis\u2014including the organic-growth rate, margin ceiling, borrowing amount, and share-count effects\u2014were flagged as unsupported, so the move is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Reported revenue growth climbed from 8% to 13% Y/Y",
+      "cited_file": null,
+      "issue": "The passages contain balance-sheet data, not the asserted revenue-growth comparison.",
+      "evidence_check": "Searched the supplied passages for reported revenue growth of 8% and 13%; neither growth series nor the comparison appears."
+    },
+    {
+      "claim": "GAAP margin has flat-lined near 20\u201321%",
+      "cited_file": null,
+      "issue": "The evidence does not provide a GAAP-margin series sufficient to establish that margins flat-lined near 20\u201321%.",
+      "evidence_check": "Found Q1 FY26 GAAP operating income and revenue, implying 19.8%, but no multi-period 20\u201321% series supporting 'flat-lined.'"
+    },
+    {
+      "claim": "Salesforce has levered up ~$29B to fund the largest buyback in its history",
+      "cited_file": null,
+      "issue": "The supplied passages show neither approximately $29B of added leverage nor that the buyback was the largest in company history.",
+      "evidence_check": "Searched the cash-flow and unrelated Adobe passages for $29B, debt issuance, and 'largest'; no supporting facts appear."
+    },
+    {
+      "claim": "organic growth of ~8.7%",
+      "cited_file": "financials/income_statement/crm_income_statement.json",
+      "issue": "The specific 8.7% organic-growth figure is absent, with no supporting calculation inputs in this claim's passage.",
+      "evidence_check": "The evidence explicitly reports no local match for 8.7% or the organic-growth assertion."
+    },
+    {
+      "claim": "the +12% print carried ~4pts of Informatica",
+      "cited_file": null,
+      "issue": "Neither the +12% print nor an approximately four-point Informatica contribution appears in the supplied passages.",
+      "evidence_check": "Searched the balance-sheet and cash-flow excerpts for 12%, four points, and Informatica contribution; no match was provided."
+    },
+    {
+      "claim": "leaving organic near 8% reported and ~6% in constant currency",
+      "cited_file": null,
+      "issue": "The passages do not contain this organic reported/constant-currency adjustment.",
+      "evidence_check": "Found FY26 reported and CC guidance and historical reported/CC growth, but no acquisition-adjusted 8% reported and 6% CC calculation."
+    },
+    {
+      "claim": "The \"acceleration\" from 8% to 13% is ~3\u20134pts of bought revenue plus a weak-dollar FX tailwind.",
+      "cited_file": null,
+      "issue": "The supplied evidence mentions an FX tailwind but does not contain the 8%-to-13% comparison or the asserted 3\u20134-point acquired contribution.",
+      "evidence_check": "Searched for 13% and 3\u20134 points of acquired revenue; the passages only support the weak-dollar tailwind and an 8% baseline."
+    },
+    {
+      "claim": "Roughly 8% of the base churns annually",
+      "cited_file": "sec_filings/10-k/crm_2026_10-k.txt",
+      "issue": "The claim's supplied passage is unrelated lease disclosure and does not contain an 8% attrition or churn rate.",
+      "evidence_check": "Searched this claim's passage for attrition, churn, or approximately eight percent; none appears."
+    },
+    {
+      "claim": "the ~$8B Informatica deal",
+      "cited_file": null,
+      "issue": "The supplied passages identify the acquisition but do not state an approximately $8B transaction value.",
+      "evidence_check": "Searched for an $8B purchase price or consideration amount; no such amount appears in the claim's evidence."
+    },
+    {
+      "claim": "Oracle grew +22% Y/Y (Q3 FY26 $17.19B vs $14.13B)",
+      "cited_file": "financials/income_statement/orcl_income_statement.json",
+      "issue": "The current-period $17.19B is present, but the $14.13B comparison value is absent from this claim's passage.",
+      "evidence_check": "Found Q3 FY26 revenue of $17.19B; did not find prior-year Q3 revenue of $14.13B in the supplied excerpt."
+    },
+    {
+      "claim": "Adobe, the closest analog, grew ~13% ($6.62B vs $5.87B)",
+      "cited_file": "financials/income_statement/adbe_income_statement.json",
+      "issue": "The supplied passages do not contain either Adobe comparison value.",
+      "evidence_check": "Searched the passages for Adobe revenue of $6.62B and $5.87B; the retrieved excerpts concern Oracle and Salesforce instead."
+    },
+    {
+      "claim": "Salesforce's ~8% organic rate is the slowest of the four.",
+      "cited_file": null,
+      "issue": "The evidence contains Salesforce growth but no growth data for the other three companies needed for the ranking.",
+      "evidence_check": "Found Salesforce's 8% growth figures; did not find a four-company comparison establishing it as the slowest."
+    },
+    {
+      "claim": "GAAP operating margin went from 5.0% in Q1 FY24",
+      "cited_file": "financials/income_statement/crm_income_statement.json",
+      "issue": "The supplied passages do not contain Salesforce Q1 FY24 revenue or operating income supporting a 5.0% margin.",
+      "evidence_check": "The retrieved excerpts concern Adobe and ServiceNow; no CRM Q1 FY24 5.0% margin appears."
+    },
+    {
+      "claim": "to ~20% by FY26",
+      "cited_file": null,
+      "issue": "The supplied excerpts do not present Salesforce's FY26 operating margin or a direct endpoint supporting this comparison.",
+      "evidence_check": "Searched for a Salesforce FY26 margin near 20%; the CRM excerpt only shows earlier quarterly income-statement data."
+    },
+    {
+      "claim": "a roughly 4x improvement",
+      "cited_file": null,
+      "issue": "No supporting values or comparison are supplied for the asserted fourfold improvement.",
+      "evidence_check": "The evidence reports no local match, and this claim's passages contain no starting and ending values from which 4x can be verified."
+    },
+    {
+      "claim": "our tenth consecutive quarter of operating margin expansion",
+      "cited_file": "press_releases/crm_2025-09-03_8-k.txt",
+      "issue": "The attributed quote is absent from the supplied passage.",
+      "evidence_check": "The evidence reports no local match for the quoted phrase or 'tenth consecutive quarter.'"
+    },
+    {
+      "claim": "We have undertaken various restructuring initiatives to improve operating margins... which have included a reduction of the Company's workforce, select data center exits, and office space reductions",
+      "cited_file": "sec_filings/10-k/crm_2026_10-k.txt",
+      "issue": "The attributed quotation does not appear in this claim's supplied passages.",
+      "evidence_check": "Searched the provided 10-K excerpts for the quoted restructuring language; the excerpts cover filing metadata and business descriptions instead."
+    },
+    {
+      "claim": "We do not expect to incur significant additional charges in connection with our restructuring initiatives in the near term",
+      "cited_file": "sec_filings/10-k/crm_2026_10-k.txt",
+      "issue": "The attributed quotation is absent from this claim's supplied evidence.",
+      "evidence_check": "The evidence explicitly reports no local match for the quotation."
+    },
+    {
+      "claim": "Full-year FY26 GAAP operating-margin guidance went 21.6% (Q1 PR) \u2192 21.2% (Q2) \u2192 20.3% (Q3) \u2192 20.1% actual (Q4)",
+      "cited_file": "press_releases/crm_2025-05-28_8-k.txt; press_releases/crm_2025-09-03_8-k.txt; press_releases/crm_2025-12-03_8-k.txt; press_releases/crm_2026-02-25_8-k.txt",
+      "issue": "Only the 20.1% actual result is present in this claim's passages; the three earlier guidance values are absent.",
+      "evidence_check": "Found FY26 actual GAAP operating margin of 20.1%; did not find 21.6%, 21.2%, or 20.3% in the supplied excerpts."
+    },
+    {
+      "claim": "The Q3 cut coincided with the Informatica close",
+      "cited_file": null,
+      "issue": "The Informatica close is documented, but the relevant Q3 margin cut is not shown in this claim's passages.",
+      "evidence_check": "Found the November 18, 2025 acquisition close and earlier pending-transaction language; no Q3 guidance cut appears."
+    },
+    {
+      "claim": "still below Adobe (~34\u201338%) and Oracle (~30%)",
+      "cited_file": "financials/income_statement/adbe_income_statement.json; financials/income_statement/orcl_income_statement.json",
+      "issue": "The supplied evidence supports Oracle margins around 30% but does not contain Adobe margin data supporting 34\u201338%.",
+      "evidence_check": "Calculated Oracle's displayed operating margins from revenue and operating income; no Adobe income-statement passage was supplied for this claim."
+    },
+    {
+      "claim": "$1.2B of Agentforce ARR is under 3% of a ~$45B revenue run-rate.",
+      "cited_file": null,
+      "issue": "Neither the $1.2B Agentforce ARR nor the approximately $45B Salesforce run-rate appears in this claim's passages.",
+      "evidence_check": "Searched the supplied ServiceNow, Oracle, and older Salesforce excerpts for both inputs; no matching pair appears."
+    },
+    {
+      "claim": "is <8%",
+      "cited_file": null,
+      "issue": "The claim is contextless and the evidence does not provide the numerator and denominator needed to establish the asserted percentage.",
+      "evidence_check": "Found several unrelated 8% growth figures, but no calculation demonstrating that the referenced item is below 8%."
+    },
+    {
+      "claim": "the other 92% grows mid-single-digits",
+      "cited_file": null,
+      "issue": "The passages contain neither the 92% segment share nor its mid-single-digit growth rate.",
+      "evidence_check": "Searched the supplied non-GAAP EPS and restructuring excerpts for 92% or segment growth; no supporting data appears."
+    },
+    {
+      "claim": "Strip the acquired $1.1B and the organic AI/data ARR is ~$1.8\u20132.3B",
+      "cited_file": null,
+      "issue": "The supplied passages are balance-sheet excerpts and do not contain the combined AI/data ARR or the $1.1B acquired ARR needed for this calculation.",
+      "evidence_check": "Searched for $1.1B, $1.8B, $2.3B, and AI/data ARR; none appears in the claim's evidence."
+    },
+    {
+      "claim": "confident in delivering organic revenue acceleration in the second half of FY27",
+      "cited_file": "press_releases/crm_2026-05-27_8-k.txt",
+      "issue": "The attributed wording is absent from the supplied passages for this claim.",
+      "evidence_check": "The excerpts contain FY27 guidance and operating metrics but not the quoted statement about confidence in second-half organic acceleration."
+    },
+    {
+      "claim": "~$29B of new borrowing in one quarter",
+      "cited_file": "financials/balance_sheet/crm_balance_sheet.json",
+      "issue": "The claim's passages do not contain the relevant beginning and ending debt balances or borrowing proceeds.",
+      "evidence_check": "The retrieved evidence is unrelated cash-flow and Adobe income-statement material; no approximately $29B borrowing increase appears."
+    },
+    {
+      "claim": "Q1 FY27 OCF was already up only 3% ($6.7B)",
+      "cited_file": "financials/cash_flow/crm_cash_flow.json",
+      "issue": "The supplied passages do not show Salesforce Q1 FY27 operating cash flow or its year-over-year growth.",
+      "evidence_check": "Searched the claim's excerpts for CRM, $6.7B, and 3% OCF growth; only unrelated Adobe and ServiceNow data appears."
+    },
+    {
+      "claim": "Roughly a third of the flashy EPS growth is share-count engineering, not operating performance.",
+      "cited_file": null,
+      "issue": "The supplied passages are unrelated Adobe data and do not contain Salesforce EPS, net-income, operating-income, or share-count inputs supporting the attribution.",
+      "evidence_check": "Searched for the Salesforce 52% EPS growth, underlying profit growth, and share-count decline; none appears in this claim's evidence."
+    },
+    {
+      "claim": "We are aggressively repurchasing shares because we are so confident in the future",
+      "cited_file": "press_releases/crm_2026-03-16_8-k.txt",
+      "issue": "The attributed quotation is absent from this claim's supplied evidence.",
+      "evidence_check": "The evidence explicitly reports no local match for the quotation."
+    },
+    {
+      "claim": "cRPO grew +12% (Q1 FY26), +11% (Q2), +11% (Q3), +16% (Q4, though \"including 4pts Informatica\"), and +14% Y/Y / +13% CC in Q1 FY27",
+      "cited_file": "press_releases/crm_2025-05-28_8-k.txt; press_releases/crm_2025-09-03_8-k.txt; press_releases/crm_2025-12-03_8-k.txt; press_releases/crm_2026-02-25_8-k.txt; press_releases/crm_2026-05-27_8-k.txt",
+      "issue": "Only Q1 FY27's 14% reported and 13% CC cRPO figures are present in this claim's supplied passages.",
+      "evidence_check": "Found Q1 FY27 cRPO growth of 14% Y/Y and 13% CC; did not find the Q1\u2013Q4 FY26 sequence or Q4's four-point contribution."
+    },
+    {
+      "claim": "organic cRPO CC was ~9\u201310%",
+      "cited_file": null,
+      "issue": "The supplied balance-sheet passages contain no cRPO growth or acquisition-adjusted constant-currency calculation.",
+      "evidence_check": "Searched for cRPO, constant currency, 9%, and 10%; no supporting cRPO evidence appears."
+    },
+    {
+      "claim": "cRPO in the ~9\u201311% organic zone is only modestly above ~8% organic revenue",
+      "cited_file": null,
+      "issue": "The supplied passages contain neither the stated organic cRPO range nor the approximately 8% organic-revenue comparison.",
+      "evidence_check": "Searched the balance-sheet, cash-flow, and old income-statement excerpts for organic cRPO and organic revenue; no matching data appears."
+    },
+    {
+      "claim": "Q4 FY25 revenue used for some organic comparisons is inferred from the FY26 quarterly file and the FY26 total of $41.5B, not directly reported.",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain Salesforce FY26 quarterly revenue, the $41.5B total, or evidence about how Q4 FY25 was inferred.",
+      "evidence_check": "The retrieved excerpts are unrelated cash-flow and Adobe data; none supports the stated methodology."
+    },
+    {
+      "claim": "Organic growth has settled at ~8% and is being dressed up to ~11\u201313% by Informatica and FX",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the relevant Salesforce organic, acquisition, or FX growth decomposition.",
+      "evidence_check": "Searched the balance-sheet, cash-flow, and old income-statement excerpts for 8%, 11\u201313%, Informatica, and FX; no supporting decomposition appears."
+    },
+    {
+      "claim": "margin expansion that justified the 2023\u20132025 re-rating was restructuring-fueled and has hit its ceiling near 20% GAAP",
+      "cited_file": null,
+      "issue": "The claim's passages are balance-sheet excerpts and do not establish restructuring-driven margin expansion, a market re-rating, or a 20% ceiling.",
+      "evidence_check": "Searched for operating margins, restructuring charges, and valuation/re-rating evidence; none appears in the supplied passages."
+    },
+    {
+      "claim": "The Agentforce/Data 360 bet is real and fast-growing but still <3% of revenue",
+      "cited_file": null,
+      "issue": "The supplied evidence shows older Data Cloud and AI ARR above $1B against Q1 FY26 revenue, but does not support the current Agentforce/Data 360 figure or a below-3% share as claimed.",
+      "evidence_check": "Found Data Cloud and AI ARR over $1B and Q1 FY26 revenue of $9.8B; no current Agentforce/Data 360 ARR-to-revenue calculation below 3% appears."
+    },
+    {
+      "claim": "management is doing what a mature cash machine does: borrowing ~$29B to retire ~10% of the share count",
+      "cited_file": null,
+      "issue": "The balance-sheet passages support a large debt increase but do not contain the approximately 10% share-count reduction.",
+      "evidence_check": "Found long-term debt of $10.439B and $39.280B in separate excerpts; no share-count figures appear in this claim's evidence."
+    },
+    {
+      "claim": "manufacture 50%+ EPS growth out of ~20% operating-income growth",
+      "cited_file": null,
+      "issue": "The supplied passages concern Adobe and contain no Salesforce EPS or operating-income comparison.",
+      "evidence_check": "Searched for Salesforce 50% EPS growth and approximately 20% operating-income growth; no supporting data appears."
+    },
+    {
+      "claim": "a levered, cash-returning, ~20%-margin, ~8%-organic-grower",
+      "cited_file": null,
+      "issue": "The supplied passages support approximately 20% margin and 8% reported growth but do not establish that Salesforce was levered or that the growth rate was organic.",
+      "evidence_check": "Found Q1 FY26 income from operations near 20% and reported revenue growth of 8%; no leverage data or organic-growth designation appears."
+    }
+  ],
+  "synthesis_found": "Reconciled, the picture is unambiguous: Salesforce's \"profitable growth\" framework has resolved to profitable, not growth.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/crm_balance_sheet.json",
+    "financials/cash_flow/crm_cash_flow.json",
+    "financials/income_statement/adbe_income_statement.json",
+    "financials/income_statement/crm_income_statement.json",
+    "financials/income_statement/now_income_statement.json",
+    "financials/income_statement/orcl_income_statement.json",
+    "press_releases/crm_2025-05-28_8-k.txt",
+    "press_releases/crm_2025-09-03_8-k.txt",
+    "press_releases/crm_2025-11-18_8-k.txt",
+    "press_releases/crm_2025-12-03_8-k.txt",
+    "press_releases/crm_2026-02-25_8-k.txt",
+    "press_releases/crm_2026-03-16_8-k.txt",
+    "press_releases/crm_2026-05-27_8-k.txt",
+    "sec_filings/10-k/crm_2026_10-k.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 111,
+  "grounding_claims_no_match": 5,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

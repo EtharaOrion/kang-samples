@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/snow-2026-06-30-consumption-revenue-growth-durability-and-margin-path"
+description = "Develop and defend a clear view on whether Snowflake's consumption-based revenue growth is durable and its margin path credible, grounded in SNOW's SEC filings and financials."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "SNOW"]
+
+[metadata]
+uuid = "be1765a6-291f-5a82-b13d-d1c29c899253"
+difficulty_explanation = "The analyst must reconcile conflicting signals across filings and financials: a net revenue retention rate that dipped year-over-year in the 10-K but rebounded in the latest 10-Q, RPO that fell sequentially on seasonality, and a healthy product gross margin sitting atop persistent large GAAP operating losses. Because revenue is recognized only on consumption, standard subscription-backlog intuition misleads, and free cash flow strength must be squared with stock-based-compensation dilution. A high score demands an explicit, defended position rather than a balanced survey, with opposing data points synthesized instead of listed."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

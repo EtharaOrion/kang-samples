@@ -1,0 +1,1172 @@
+0001058090-25-000075.txt : 20250915
+0001058090-25-000075.hdr.sgml : 20250915
+20250915161623
+ACCESSION NUMBER: 0001058090-25-000075
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 12
+CONFORMED PERIOD OF REPORT: 20250903
+ITEM INFORMATION: Regulation FD Disclosure
+FILED AS OF DATE: 20250915
+DATE AS OF CHANGE: 20250915
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: CHIPOTLE MEXICAN GRILL INC
+ CENTRAL INDEX KEY: 0001058090
+ STANDARD INDUSTRIAL CLASSIFICATION: RETAIL-EATING PLACES [5812]
+ ORGANIZATION NAME: 07 Trade & Services
+ EIN: 841219301
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-32731
+ FILM NUMBER: 251314521
+
+ BUSINESS ADDRESS: 
+ STREET 1: 610 NEWPORT CENTER DR
+ STREET 2: SUITE 1100
+ CITY: NEWPORT BEACH
+ STATE: CA
+ ZIP: 92660
+ BUSINESS PHONE: 949-524-4000
+
+ MAIL ADDRESS: 
+ STREET 1: 610 NEWPORT CENTER DR
+ STREET 2: SUITE 1100
+ CITY: NEWPORT BEACH
+ STATE: CA
+ ZIP: 92660
+8-K
+1
+cmg-20250903.htm
+8-K
+cmg-20250903
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 8-K
+
+CURRENT REPORT 
+
+Pursuant to Section 13 or 15(d) of the 
+
+Securities Exchange Act of 1934 
+
+Date of Report (Date of earliest event reported): September 3, 2025
+
+CHIPOTLE MEXICAN GRILL, INC.
+
+(Exact name of registrant as specified in its charter) 
+
+Delaware
+
+(State or other 
+
+jurisdiction of 
+
+incorporation) 
+
+1-32731
+
+(Commission File Number) 
+
+84-1219301
+
+(I.R.S. Employer 
+
+Identification No.) 
+
+610 Newport Center Drive, Suite 1100
+
+Newport Beach, CA92660
+
+(Address of principal executive offices) (Zip Code) 
+
+Registrant’s telephone number, including area code: (949) 524-4000
+
+Not Applicable 
+
+(Former name or former address, if changed since last report) 
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each classTrading Symbol(s)Name of each exchange on which registered
+
+Common stock, par value $0.01 per shareCMGNew York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 7.01Regulation FD Disclosure.
+
+On September 15, 2025, Chipotle Mexican Grill, Inc. (“Chipotle”) announced that its Board of Directors, on September 3, 2025, had authorized an additional $500 million for share repurchases. This is Chipotle’s regular quarterly Board authorization that normally would be announced in its Quarterly Report on Form 10-Q for the third quarter of 2025. Chipotle is announcing the additional authorization early to be in a position to opportunistically repurchase shares using the additional authorization prior to filing the third quarter Form 10-Q. Including this additional authorization, as of September 15, 2025 a total of approximately $750 million remains authorized for share repurchases. Chipotle has had a share repurchase program in place since 2008. There is no expiration date for this program and the repurchase authorization may be modified, suspended, or discontinued at any time.
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Chipotle Mexican Grill, Inc.
+
+September 15, 2025By:/s/ Matthew R. Bush
+
+Vice President, Controller (principal accounting officer)
+
+EX-101.SCH
+2
+cmg-20250903.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Coverlink:presentationLinklink:calculationLinklink:definitionLinkEX-101.LAB
+3
+cmg-20250903_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Entity Incorporation, State or Country CodeEntity Incorporation, State or Country CodeEntity Central Index KeyEntity Central Index KeyEntity File NumberEntity File NumberEntity Address, State or ProvinceEntity Address, State or ProvinceSecurity Exchange NameSecurity Exchange NamePre-commencement Issuer Tender OfferPre-commencement Issuer Tender OfferEntity Address, Address Line OneEntity Address, Address Line OneEntity Address, City or TownEntity Address, City or TownSoliciting MaterialSoliciting MaterialEntity Address, Postal Zip CodeEntity Address, Postal Zip CodeCover [Abstract]Cover [Abstract]Written CommunicationsWritten CommunicationsEntity Address, Address Line TwoEntity Address, Address Line TwoLocal Phone NumberLocal Phone NumberTitle of 12(b) SecurityTitle of 12(b) SecurityCity Area CodeCity Area CodeDocument Period End DateDocument Period End DateAmendment FlagAmendment FlagEntity Tax Identification NumberEntity Tax Identification NumberTrading SymbolTrading SymbolEntity Registrant NameEntity Registrant NamePre-commencement Tender OfferPre-commencement Tender OfferDocument TypeDocument TypeEntity Emerging Growth CompanyEntity Emerging Growth CompanyEX-101.PRE
+4
+cmg-20250903_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+Cover
+
+Sep. 03, 2025
+
+Cover [Abstract]
+
+Document Type8-K
+
+Document Period End DateSep. 03, 2025
+
+Entity Registrant NameCHIPOTLE MEXICAN GRILL, INC.
+
+Entity Incorporation, State or Country CodeDE
+
+Entity File Number1-32731
+
+Entity Tax Identification Number84-1219301
+
+Entity Address, Address Line One610 Newport Center Drive
+
+Entity Address, Address Line TwoSuite 1100
+
+Entity Address, City or TownNewport Beach
+
+Entity Address, State or ProvinceCA
+
+Entity Address, Postal Zip Code92660
+
+City Area Code949
+
+Local Phone Number524-4000
+
+Written Communicationsfalse
+
+Soliciting Materialfalse
+
+Pre-commencement Issuer Tender Offerfalse
+
+Pre-commencement Tender Offerfalse
+
+Title of 12(b) SecurityCommon stock, par value $0.01 per share
+
+Trading SymbolCMG
+
+Security Exchange NameNYSE
+
+Entity Emerging Growth Companyfalse
+
+Entity Central Index Key0001058090
+
+Amendment Flagfalse
+
+XML
+7
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.2html1231false00false0falsefalseR1.htm0000001 - Document - CoverSheethttp://www.chipotle.com/role/CoverCoverCover1falsefalseAll ReportsBookAll Reportscmg-20250903.htmcmg-20250903.xsdcmg-20250903_lab.xmlcmg-20250903_pre.xmlhttp://xbrl.sec.gov/dei/2024truefalseJSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "cmg-20250903.htm": {
+ "nsprefix": "cmg",
+ "nsuri": "http://www.chipotle.com/20250903",
+ "dts": {
+ "inline": {
+ "local": [
+ "cmg-20250903.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "cmg-20250903.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+ "https://xbrl.sec.gov/dei/2024/dei-2024.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "cmg-20250903_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "cmg-20250903_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 23,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2024": 2
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 24,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2024": 23
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.chipotle.com/role/Cover",
+ "longName": "0000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "cmg-20250903.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "c-1",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "cmg-20250903.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Amendment Flag",
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "City Area Code",
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Cover [Abstract]",
+ "label": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Period End Date",
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Document Type",
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line One",
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Address Line Two",
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, City or Town",
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Address, State or Province",
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Central Index Key",
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Emerging Growth Company",
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity File Number",
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Incorporation, State or Country Code",
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Registrant Name",
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Entity Tax Identification Number",
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Local Phone Number",
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Issuer Tender Offer",
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Pre-commencement Tender Offer",
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Title of 12(b) Security",
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Security Exchange Name",
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Soliciting Material",
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Trading Symbol",
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2024",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.chipotle.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "terseLabel": "Written Communications",
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+ZIP
+13
+0001058090-25-000075-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001058090-25-000075-xbrl.zip
+M4$L#!!0 ( N"+UN9Z((O\0T *E0 0 8VUG+3(P,C4P.3 S+FAT
+M;>T<:W?:./;[_ HMG9TFYV!C&_-,PIZ4T ZGS6,@W7;WRQYA"]#66![)3F!_
+M_=XKVSP"2:#3)J0S!W(FO&3"PIBT):,Q\\DMC\=QP#S4!WJ$X*XSB.FJ72[>VM>5LV
+MA1R5[$:C49KBG$(ZJV,VH<9=
+MHOCTOB7L\A*V>GHSH*"O!18:'_N%UO&84;]U/&$Q)0C!8+\G_.:DT!9A#+IK
+M7,\B6,5+GTX*,9O&)2WO4NNGGWXZCGDBH0%)QGQ1 /YI#/F6^,:0!BC!;M5QHO3W]T.^L+5A:
+MI5"R(9/@09C:(!=4C*;2X@:4B%;,9@S2."DH/HD"E+U^-Y8:XR41F%/E@WST
+M<)#)0OIQ/NZ)0,CF*TO_=S0$"D$Q)SR8
+M-5]?\PEHV06[)3TQH>'KH@)V#-,YBO^/-6T7<-./MRFR-0"!?B-'WG80XX\7
+MW>O.&>E?GUYW^F05W_W"M-]I?^QUK[N YNG%&>E\;O]Z>O&N0]J7Y^?=?K][
+M>?%,Z%M;H?^)JC'D%;$(B^3,;)N0$53/[@D7MA,D:&&OIVKR][U7NO<52)5
+M0B%AC07I,P\3&F*7B9#$KASXAT0,=?:ZSR0 VHGD,0=@G:DWAHC*R*D7(^IV
+MH^R^*,W!\(6(]U@D9$P.\F=&(8 Q%1-V@]6%U,/,/VQ^A;%=Z:C826/E:F;C
+MPQMC B#&^)GATYDQ@Z4-%LX3'>1W%+/) /*"=?K?OA0)-V+MKF>%>Z#.;D;&7+0
+MF5*P'J0;-4_.Z254$14Q#],ZG_"0\%@1L#=01'FXG0W\5^OG"6E)E X_I?R"V4S]/,"/SA/N/*E[7JKDLNQ?YC!FBA^66&_)>=HIV^
+MY0&#R9#LY#97*;1LH^S4RO;+,KFVF$RXPC8V0:)(2M5?2O(-E.2:3KM9O\O3
+MIK>J,54H:%W#=J 8L5Z8TG3-GMDW26<2!6*VYXYZ503D0I@;E5OG(B6=33YW
+M@;)=2;BK-I[ZOF1*9?_[ /#L7!-KA5;5MA G75VV-47D3/*;M?RAN$-A>=^Z
+M3KYN'8K&A$/$MVUKK27_]4KU?=B=8?,RI-R&/R_EM;B=YX2-0BN7[QM&O?$W
+M$ZS.V2[E%62A7&]#9>TZ"TK?TW6A?MTB5P)2W>#?/$KSX&P)N]!J.-7J-U2=
+MIZBC,Y(P:8PDL(Q'-"!LRKPD!H.#U^"KF#HD!T N07JW+**?W"]MIF_1"/GE
+M5=VQ:T>*Q"Q@T5B$C(0Z A8)D!TDF \0J%$HJ('/FN293.Q@>YU$LSH%A%>T
+MT $M=!MW=?!P!U7_("#QN4(&K68(=KG0JCBN 8S>0F*SV
+MF'E?=,N>1I$4X'BPTAZ(*1FP0-PB63B(Q).Z\9X,>8#6R168:LQ"'\B-!5 \
+M28*8ADPD*I@1!2F5&L[TE]D'8@#2HWE1C -+C<($X KPUD^-A0!+([?81.#
+M8Q6BFEMK]O9<_ 1+H+=1P#\:*N,KF;B]17^2/ :V87&5A%GJJ1X]+6"[A=8O
+MKQHUUSVZKS/\Q&I#,D* UF5*2+2T/=1+P*1=IY*)%^6ZM/6".RX'=HVTW_:(
+M4[9,F'BX)N#]%61?@-,"2L+1.1@,6$WPN!0K>R?%!15DDI&Q+D+;I1#,EJ2X
+MLFLVEZ%KF>G,ER3&*\G0%O'P"VYU=95*F+Q&OR8OAT.,N(\)M;IW0@6:#&^)
+MJ$=MU'9]PSD8'&XGXG3N"Q;R3N*M_0#B+3/#/?"V$V\V=UV\FV*M^QP9RU(,
+M25,()B$)B3:=2]!*G:440&ES*Z*JS[#G:%N6::7'O7;:='1,IUS^-KMRWQB4
+M^T,/1@C^]<]N>^YD;
+M3+W@G/4-8/WYN^_"UA_50^ZN\'E*G)[2NWN@!IWLZED:Q](;)^1?0GXA?32)
+M>5;]H*2^V@MG^>1F6?UQ![MOX'=W[MMLTCY+C[4;^EB=,3*8$4_W6P&C+Q"L
+MF3[-=*<9RA4![*"T0Z1'9"3%;3S&(B_"!BE5Q&=#6$*?J$Q;;%8E+W+N]-?2
+M$\UEN_#YE3G'G;O6.0_>6LCW0S-L7^GD6^GN#]^!\U^M+>Q?Z8T?, XAZ>TL3)>!?3I])7Z8Z&?U_+HGQ YRV+9;,SGTD5
+MQ6.JL'#L1\M=E/K+Z:(TZF;#VCQTIU]Q)VB7OS9H[QB_EJ\&1B)5R:9D <5S
+M 6N7!1<8Z*6MQ2=T #@D\?HGC]TOW/628VU^R7$\YUE$1\P82$:_&'0(/KY)
+M@ULZ4TC]][D)N;XI^,3W"$"MRHU=E=%VS(K3^"9]N'K%=&H/G_+_'@?MG^X(
+M@>U@1(C9A-1,/"GY:#WT$NCIL5$2I!OE;\_(&5=>(%0BF;E>16QU*M%ZCC!]
+M&9+%K2^[DE[[*I+VF$<"FY_G; I\#LD[R8.@2+JA9V(^67<&@CD1!Z%5,FN<:4%OXMHZ4/+TDM*$E^3_2-
+MIF"6896OELI0HQQB(A; C%N1!#X9L"6:LGM1O\VA9%?Y4/YXZ,*VC-\T;I@1
+M0'X-*V0K(OU(I+G@JZX=-&3,.?2IC@6UJXCA#<$9IAZ #>! 21XF\)V($(M"!X:S(3*5=S") ?9EGJ'/@J-R=T
+MAL*:"%_?J"L2E:A(IZI%3#\A;F&AP,,$]3S6F6D,]KRA#-ORIPJLC;]5L/ M
+M=6L_3I'UN^\N3J\_]A[ZM8'G+ER6[TVG4OX] =^%&[AJRXJ[N*F(\1/0;X\F
+M2KM'KK(39YEA*Q +#(C4QPS8F 9#K(T0D-X-SB:@GD*A(E)P"\O8JH1_2;E^
+M!3*%^FXW'^\#Y9B-QL-5P]8;IE6S^DC.MV6BMK$75]W3_&=SY_:A'&&+1JIM
+M/U"4[7@E:==I+RJ;WLS]]:CZXM+JS82]F35_$$I*JD3.:0PN'""9Y$VBQIOL
+MXFELX-ZMHKN[1?O*S7]RR-:N()_5OT %)0I\(2%8@04<+&YA+#7RTFL8\G"'
+ME]&?6]$^SM?X/4$L#!!0 ( N"+UND"9I;
+M05$CB8A$JB05.W]?DI;@*(F#NJ?J1,V\-QO?\/QBU]3H$:1B@J^\R \]!)R*
+MG/%RY=W=7N,S[V(]F9Q_P/C^T\T&70G:-< UNI1 -.1HRW2%= 7HIY /[)&@
+M[S71A9 -QFM'NQ3MDV1EI5$ $"HK/%C3$-$SH+(HCR,[ !=VII:(5- 29
+MUKA:[M3*J[1NET&PW6[][=07L@SB,(R"^R^;'P[J]=B:\8<1>I?)>L!/ ^O.
+MB((!3IMRA*85:X6NP:>B"6RW81I./42TEBSK-%R;L5Q!0;I:K[R._^Y(S0H&
+MN9EY#7:J(\ SMR:R!/V5-*!:0N$ODJXG"-E1L*854B/^)G7<'>-*$TY-=_OY
+M;00EVLGB*,7^X8&'K0E',9Y&_D[E7O /-1PF?%H- ^_T&EPP!=0OQ6.0 [,C
+M3-Y.KX[![0';PS@GX5QHQ[>6WM:VC!=B;S F6_ARJ/X&BD&TKY38ZS9*TS1P
+M7B-"1R:22E'#^^"@E:(%J1FHYRIV 2H)QGZU$GQ3R(!X%7]\ ]9M
+M$H R"G;M;@[]#"'T4VM"*',-->PG]!^W7Y/LU/8-!>H3^[;$6^-'+%]YE\*\
+MPAZRMKN;S\0=XB4U+2K3^<=RCI*ZXW#\/K5"L:[M?]_MG_.L%_J]>0/4$L#!!0
+M ( N"+UM>;V[Y= H !19 4 8VUG+3(P,C4P.3 S7VQA8BYX;6S-
+MG%UOVS@6AN_[*[29FUU@6(L419%%FT$WTRZ*S;1!FV(&.U@8_$R$L:U 5IKD
+MWR\EVXD42[9(V)(Y-G_>\M!_S\$3TVU_NY[/@A\Z7:;9X=P)?AR>!7LA,
+MI8NK=R??+S\">O++Z:M7;_\&P!___'H>_)K)V[E>%,%9KGFA57"7%M=!<:V#
+MW[/\K_0'#RYFO#!9/@?@M'K:67;SD*=7UT6 0A1OAFT>S=_$1H0\- 0D@C"
+MN4D -PH#DQ"-0PSCA*"?K]XPJ(@@* 2,&PRP-A+01(9 AEC&$$$MJ*Z"SM+%
+M7V_*'X(O=6#M+9;5G^].KHOBYLUDY+/767XU06$833:C3];#[[?&
+MWT75:,@8FU2//@Y=IFT#;5@X^>.W\V_R6L\Y2!?+@B]D*;!,WRRK.\\SR8MJ
+MUO?F%72.*/\"FV&@O M !"+X^GZI3DY?!<%J.O)LIK]J$Y2_OW_]U"G))N6(
+MR4)?E:_MA<[33'TK>%Z<VD_(?3Q$Z[)#$YY
+M]8;ZL%!CO7@._?-ME4DDYZ
+M)PZ^BPY^<[W,;G.Y6OEL#N6JOTKK=)5!T$CAYZ!*(LCR8)U(4&;R=O)D8?@T
+MSL:>G-GH\Y+)AMJL+ 6R_+G;3+JZ?2)M:>U65I=:OK[*?DQL)&L9X?(&*&]4
+M@/6-/]EZ6=_G&P\\EWMF>3UB(C-; ]T4H#'A)L_F7F:+S.L=L9IRF]*)?;F4
+MSFW5VV*OY5U[9LO>G,\^V4^+^W_KARF+24*)XB!D2 ,<(0X8E!I00@E!.$R@
+MPFZX/U,8!_"U:%"I!E;6E>;G\]*7WP%NO8CM;]0#SPXS X!\'G%D!#L,;4/7
+M-= 7LX_I3'^^G0N=3XU"5)O$;@@5*1=4&0'*C0!$)LSN#0V.8.1&V%/P<> J
+M]8*5H"M6M7GH2Y2?.R^8^ACSP&C;P0"":L%&AF?;QC8W+6-\D7FOE'W%EM6*
+M]R6_R+,?J4UT&G,H391H8!!'GX=\#P-WF!L#8$7AD,'?;VX9TSWAW8+]I>9O;P!_N
+MY;5]D?5G/K<;QPA+F"04(,GL[E$8"G@2AB#B2B3("$,,[ MJF\"1 =U(!AO-
+MH!3M3V7KG.RG<:A3-PH=33JAM\N)%W*M 4=#;9>=.F([Q[FC=9';[=Y\KFU^
+MY7\H/BV7MSJ_+)L[^1=C;!F%%=&1A 3 1,<6L\0 @1D%DC%;51K-*.1],=LG
+M=F3DK#R0-?U@E4"PRB"H4N@/X-Z9VP_C(>?##[ZUWFZT' :"Z(3!NW+3T);WX8J <+8!90D0BV9M?\LOL;C%5,I0)Y!I$U$" :0EEB#B0,23$<(/"F'E!^:0Q,I*E<+G=
+M*J4]<:S-CR.,?JZ'H=C+L#^&VY:&0UB+^3((;IOJ!+!EJ,<^,INE,BW2Q=5O
+M=FN:I]R^IQB+$A5R0(RRY2UG#'!(0T C8SBT*R,ROV<^PTX;=OW XWWJZQTTICS]@]:N :=I$M"S[[3WI3
+M_1,Z87$482X 8H@!+*$"G&$,H!%"HICRV+-WVI 9>25;:0=6W.O?]JT3Y;B>
+M>=L?MJ3U=>Z_JK4:&[ZP-<.^S-K6:JUS>6L?[0[G6?9#Y^_%LLBY+*815UQ+
+MK(%"1@$<$P(8,1K0A.!$1#$-4=R7QT;D(R-8:05_;M3^VY^YIO_]F'F[]Y6A1Z479;;A?IZA+BY911B&R51P#2
+MH=UU&1D#$1,-H)!1HB-FERS5%X]6A2-CLM8,FJ+]86F?E?W0#/;J!H^C32>$
+M=EKQ0JD]XFA([3141VOWP,-U'-$TT4)"$A) >:0!IE#;52@6@'&D$$F84=2O
+M*JRKO&3'\?(N&]YQ1 ,ZCD[N#]AQW&7\(!U'- C%[J@OWG%$;4CN'^R.97E@
+M9G9QG2TVET7%1G%D$@,PH=A/VQ!W;I Y&'/"JLN!%TU;P4:#J,M&G9W.,?Y7FT D+M-BIJ>864)B
+M' )"A018(@08PA DH:T;0Q3))!:N5YIL@A\9F4HCR$P T=_%/X*-NOME)H^3
+MT:-'.,"B&S>N[KRN+WEN8]"U)8_!1K^NY+F-MFM*ML9X-"#*%2S7O&ISP838
+M^@XQP*BQ"TY$,; W,$#80(D1(A+V[S_4 A^[_5!5/%;+L>'7\-ZC]^#IR+'U
+MT,^,6^.A)7._OD,]T'AMAY;T&UV'ML?=4=B<^GX\Z/@K+_241G8"[ ^[A# !
+M<((4$(HR8+=($8<*Z9"AODRT*AP9CL>S["O1P*H&I6Q_3-KG93\O@]VZ@>-L
+MU FAG6:\6&J/.!I4.PW5Z=H]T!VS]S:8*@-^G/&K::@8X4PCH*HE)^0:L!!)
+M@(Q@RA <8MR[I]>(?&2L'K6"4JP_3$WW^R'R]N0&3T\[3LBTINZ%2C/2:(BT
+M&JBCT3[ MQ=WR>\_*1LL->OVWGKGBQB$G#,$9"(9P!0;P"!. ($8$VQW-CIV
+M[,=U*(W3D[/B05/=\^Q8UWSU[G/N$^#1F]MC;D!_KBORR#VZ/0:W
+M^W3[GN".[67.RZ\0^O8P%]EL2F7","J_V$=:.#'F(>"8($ H#R-)DPCWQ[01
+M^=@MAY56L!+K#V'3_7[HO#TY]ACZV7%"JC5U+X2:D49#IM5 '9'V ;XKV5=]
+ME9;_ UX4U2DG+!*F.6% 0&7)B" "(K2,Z! ;^PA)--5N"UA38)QUZTG3\>17
+MZYST7:3\G7JM37U->JQ([4X&+$3/ HZ\_K3;V5YV.L8-/OG5./,EJ6(XUD *
+M+0".#0>"R!@0%0I!%)6*]6YX=\L<&;.M(TX'.>8UZ(#7RQSM.OJ9KB.=YOI_
+M.,?E=H+K,&>W-@V22_O4J5"G\]5CWP
+M6%W"4LN]-5A9[]\1=#7DV0CJ^OGGY;BZ_QN&_Q]V&N
+M\RM;2_XKS^Z*:XO;#5\\3"%7V@A( =;*_HCL.B6XBD 8(2$-2@C%O=OH.W3&
+M*04WTL%*.UB+NY:$[3/5MS(<[-^K0'2U[E$H[C0VH%YLCSMRV;C3W';UN'MX
+M%Z+U5^/WJW+R)>9-45?'4W*(IY-8^3H4U>)X^LO5!Z2GWY\<'+S[%T*__>?3Q>2'
+MVE^O8M5,SG*T30R3FZ)93IIEG/Q:YS^*+W9R6=HFU7F%T$EWV5F]OLO%8ME,
+M**9B.VS[:SX2R6&+DT3*28.X30K9%#A*2D:..1%*TG\OC@P)TDF*D;&)(QZ3
+M1UIYC#SF7A!*HM.QNVE95'\'Q=-DTZZ/9[.;FYO#6Y?*P
+MSHL9Q9C-MJ.G#\-OGXV_8=UH8HR9=;_^.713O#00;DMFO_UT\=DOX\JBHMHT
+MMO(MP*8XVG0G+VIOFX[UO[5K\NJ(]@AMAZ'V%"(4,7)XNPG3DX/)Y)Z.7)?Q
+M4TR3]N\OG\Z?0/IEL:Z;,A[Z>C5K!\S.:A $F-I=VMRMX_%T4ZS69=R>6^:8
+MCJ=^M4"M2['!K,7[[OZZV5^PZQPWH)5NFA=PXN'R%N2?FQ!OFUB%>#^M+4)9
+M^R>#RI;4^L\K2^MBV9V=AUC,N[N>NDV3K6_FCA$?&!8HIB 0%]@AEP)%,I@D
+M%&@J"OITQJW)&["Y\\$F^L-%_64&-P9?4-[NM'SPCHMG\O,WN[4-W!6/G
+MEKJ("8](>RS!;$N0GT8,5O;##="X/@R;*].N5[MPE=-O0/F[MT"YDXG,.L4,@+;R$VDL*;+Q2&,SD*)1P#@E:7M>Y(_XS\!_/ZNNJR7=G=8AS
+M$3W#@0@DA& P'$.VY+0W* 26")?)$3HLZ7P5NI\+X
+M9YR.21AGL/LQ7]4WU5QS[Q@%*JC%D!=AP9$S4&I[DIQARG*E=E&8/ /N)0KS
+MC8CBC7R.21)=POPQ7^;Z2U'Y.*Z
+M^ J]7Q\+?R/J&$+MF"1R66\:6_Y>K+N"BB0,AE*)C*,:<0#W/XU8C_7C[BI.8C"/;O_UUPT3:S.ZM7JNGHHGC=SKIU-UDNHF[F$
+M\H@[9)*GB+(8(6HIR=FP-W,OPO83PHB[EL/)W+,:/M=EX8NFJ!8_08*3"UO.
+M@T@)(ADL5Y#*(##5(ZMT0$DRQ;GRTF(W2 K/,?OI8,3-RH$T[ED$ESFV"HZ0
+MV+9O[1
+M$?4Z*]A4;PCU%T531GGBF.6$L6<21V=%P81HQ+H-FHP'!9"F0S'
+M3E@L!X:#)W#]'#_B?N3;R1O)0__^UB]MM8C=1QY&$^FD 8.CIK"BX0 K6L)M
+M4U5;*):X,FHG#_YCU'Y?3HVXZSB8RE%T&]^O8EZ E/^;ZYMF"U;#*62Z
+MH>$J$)1SIXR'.XHTBK!!6T"(K"D;-X6*KX!*Z?]T?3OS
+M^KO9,_(NX,3)P<,/[:;]/XF3@_\!4$L! A0#% @ "X(O6YGH@B_Q#0
+MJ5 ! ( ! &-M9RTR,#(U,#DP,RYH=&U02P$"% ,4
+M " +@B];G)B$L& " #V!@ $ @ $?#@ 8VUG+3(P
+M,C4P.3 S+GAS9%!+ 0(4 Q0 ( N"+UM>;V[Y= H !19 4
+M " :T0 !C;6XUP8 /XML
+14
+cmg-20250903_htm.xml
+IDEA: XBRL DOCUMENT
+00010580902025-09-032025-09-030001058090false8-K2025-09-03CHIPOTLE MEXICAN GRILL, INC.DE1-3273184-1219301610 Newport Center DriveSuite 1100Newport BeachCA92660949524-4000falsefalsefalsefalseCommon stock, par value $0.01 per shareCMGNYSEfalse

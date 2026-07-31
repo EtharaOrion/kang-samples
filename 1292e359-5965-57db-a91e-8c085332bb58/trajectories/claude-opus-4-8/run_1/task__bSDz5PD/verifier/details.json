@@ -1,0 +1,337 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "The Creative Cloud Moat and Recurring-Revenue Durability",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent quantifies Total Adobe ARR at $27.10B and RPO at $22.27B, with 67% expected within 12 months, and uses these figures to argue for contracted revenue visibility and switching-cost durability. This move is tainted because the flagged verification found the cited evidence did not support the RPO-based approximately $15B derivation and also flagged the ARR inputs elsewhere.",
+        "b": "The agent discusses integrated workflows and calls Firefly commercially safe, but it does not provide the full specified moat architecture: training only on licensed/public-domain data, Content Credentials, and enterprise IP indemnification are absent.",
+        "c": "The agent does not quantify the fiscal-2025 installed base using Digital Media revenue of $17.65B and Digital Experience revenue of $5.86B with their respective growth rates."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Generative-AI Disruption and Competitive Threat",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent addresses AI-native competition, prompt-based and multimodal tools, new entrants, and limited barriers to entry, but it omits the required customer price-sensitivity component and does not fully address document productivity and purpose-built agents. In addition, the quoted FY25 competitive-risk language was flagged as unsupported.",
+        "b": "The answer does not analyze Adobe's reliance on third-party models it cannot control, associated training-data or IP-infringement liability, or the danger that competitors adopt AI faster or possess superior proprietary data.",
+        "c": "The agent does not discuss the EU AI Act's phase-in through 2030 or the developing U.S. AI framework as regulatory cost and adaptation risks."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "AI Monetization: Additive Growth or Defensive Reinvestment",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that AI-first ARR tripled year over year to more than $500M, compares it with $27.10B of total ARR, calculates roughly 1.8%, and concludes that AI is not yet material or clearly additive. The comparison is tainted because the verification flagged the cited support for both inputs to the 1.8% calculation.",
+        "b": "The answer does not compare Q2 FY2026 Business Professionals & Consumers subscription revenue of $1.85B at 16% growth with Creative & Marketing Professionals revenue of $4.54B at 13% growth to locate AI demand by customer group.",
+        "c": "The agent tests the AI-growth narrative against approximately 10.2% guided ending-ARR growth and argues that reduced segment granularity makes underlying Creative performance harder to assess. This move is tainted because the claimed consolidation from three reportable segments to one and the resulting time-series break were flagged as unsupported."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Financial Durability and the Investment Verdict",
+      "moves_hit": [
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "Although the agent gives GAAP operating income of approximately $2.24B, it does not supply the required Q2 FY2026 non-GAAP EPS of $5.96, GAAP EPS of $4.25, and operating cash flow of $2.17B.",
+        "b": "The agent identifies both the Publishing & Advertising goodwill impairment and CFO Dan Durn's departure with an interim CFO installed, treating them as quality and execution-risk counter-signals.",
+        "c": "The agent compares reported operating-income and cash-generation trends and notes that fiscal-2026 revenue and EPS guidance was raised. This move is tainted because several supporting margin and cash-flow characterizations, including the approximately 34% margin and $10B cash-flow base, were flagged as unsupported by the paired evidence.",
+        "d": "The agent explicitly reconciles the opposing evidence into a single verdict: the recurring base, RPO, margins, and cash generation make disruption survivable, but small AI-first ARR, roughly 10%\u201312% growth, reinvestment, impairment, and leadership transition mean AI is currently a cost of defending the moat rather than a new profit pool. This synthesis is tainted because it relies in part on flagged claims concerning AI ARR scale, margin and cash-flow support, ARR-growth characterization, and disclosure consolidation."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Total revenue compounded through the entire AI-panic window: $19.41B (FY23) -> $21.51B (FY24) -> $23.77B (FY25)",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The cited passages do not contain the three stated total-revenue figures.",
+      "evidence_check": "Searched the paired passages for $19.41B/$19,409M, $21.51B/$21,505M, and $23.77B/$23,769M; none appears."
+    },
+    {
+      "claim": "roughly +10-11% each year",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The passages do not provide total-revenue growth for both annual intervals needed to support this statement.",
+      "evidence_check": "Found 11% growth for Digital Media in FY25 and other segment metrics, but not total-revenue growth of roughly 10-11% for each year."
+    },
+    {
+      "claim": "~$15B of near-term revenue is already under contract",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "The paired passages do not contain the RPO balance or 67% recognition share needed to derive approximately $15B.",
+      "evidence_check": "Searched the supplied passages for $22.27B, 67%, and approximately $15B; none appears."
+    },
+    {
+      "claim": "RPO has risen every year: $17.22B (FY23) -> $19.96B (FY24) -> $22.52B (FY25)",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The FY23 RPO figure of $17.22B is absent from the passages; $17.22B elsewhere refers to Digital Media ARR, not RPO.",
+      "evidence_check": "Found FY25 RPO of $22.52B and FY24 RPO of $19.96B, but no FY23 RPO of $17.22B."
+    },
+    {
+      "claim": "roughly 34-38% every quarter",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The passages show only two 2021 quarters and do not establish the claimed range for every quarter.",
+      "evidence_check": "Calculated approximately 36.6% and 36.7% for Q2 and Q3 FY21; no complete quarterly series is supplied."
+    },
+    {
+      "claim": "Salesforce ran ~21.1%",
+      "cited_file": "crm_income_statement.json",
+      "issue": "The passages paired with this claim contain no Salesforce revenue or operating-income data.",
+      "evidence_check": "The supplied passages are unrelated Adobe 10-K exhibit excerpts; no CRM margin inputs appear."
+    },
+    {
+      "claim": "ServiceNow ~13.3%",
+      "cited_file": "now_income_statement.json",
+      "issue": "No passages were retrieved for the claimed margin.",
+      "evidence_check": "The evidence explicitly reports no local match, so the 13.3% calculation is not supported by this claim's passages."
+    },
+    {
+      "claim": "tiny capex (~$37M in Q1-FY26)",
+      "cited_file": "adbe_cash_flow.json",
+      "issue": "The displayed $37M observations are not identified as Q1 FY26 in the paired passage.",
+      "evidence_check": "Found $37M for Q1 FY24 and another clipped prior entry, but no visible Q1 FY26 record with $37M."
+    },
+    {
+      "claim": "about -16%",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The paired passages do not contain the share counts or other inputs for the claimed 16% decline.",
+      "evidence_check": "Searched the supplied passages for 480.7M and 402.5M; neither appears."
+    },
+    {
+      "claim": "NO filing discloses a numeric renewal or retention rate",
+      "cited_file": null,
+      "issue": "This corpus-wide absence claim cannot be established from the supplied income-statement excerpts.",
+      "evidence_check": "The passages contain ServiceNow financial records and no search results across Adobe filings for renewal or retention disclosures."
+    },
+    {
+      "claim": "all three 10-Ks concede only that subscription terms run \"1 to 36 months\"",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "Only the FY25 10-K is evidenced; the claim about all three 10-Ks is not supported.",
+      "evidence_check": "Found the quoted 1-to-36-month language in the FY25 10-K passages, but no FY23 or FY24 passages for comparison."
+    },
+    {
+      "claim": "FY24 hardened to \"could significantly disrupt... our existing products, services and solutions,\"",
+      "cited_file": "adbe_2024_10-k.txt",
+      "issue": "The paired passages do not contain the quoted language.",
+      "evidence_check": "Searched the supplied FY24 passages for \u201ccould significantly disrupt\u201d and \u201cour existing products, services and solutions\u201d; no occurrence appears."
+    },
+    {
+      "claim": "language carried into the FY26 10-Qs",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "The passages do not show the referenced AI-risk language or a comparison with earlier filings.",
+      "evidence_check": "Reviewed the paired Q2 FY26 excerpts; they contain the table of contents, financial statements, and compensation information, not the claimed carried-forward wording."
+    },
+    {
+      "claim": "The FY25 10-K is the first to name competition from AI explicitly",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The passages do not establish that FY25 was the first filing, and other supplied evidence shows FY23 already referred to \u201cAI companies\u201d as competitors.",
+      "evidence_check": "No first-use comparison appears in the paired passages; the FY23 evidence for claim 40 explicitly lists \u201csoftware companies and AI companies.\u201d"
+    },
+    {
+      "claim": "\"we expect to face more competition as AI continues to advance... increasing competition from companies offering generative and agentic AI solutions, including... prompt-based and multi-modal creation and editing\"",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The attributed quotation does not appear in the paired passages.",
+      "evidence_check": "Searched the supplied FY25 excerpts for the quoted phrases, including \u201cprompt-based\u201d and \u201cmulti-modal\u201d; no match appears."
+    },
+    {
+      "claim": "Adobe was willing to pay $1B in breakage to try to absorb the leading next-gen design threat, and could not (regulatory)",
+      "cited_file": "adbe_2024-12-11_8-k.txt",
+      "issue": "The $1B termination fee is supported, but the characterization of Figma as the leading next-generation design threat and the regulatory explanation are absent.",
+      "evidence_check": "Found the $1,000M acquisition termination fee; did not find \u201cleading next-gen design threat\u201d or a statement that regulatory action prevented the acquisition."
+    },
+    {
+      "claim": "bundles AI into the existing subscription",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "The paired passages discuss Adobe's AI strategy but do not state that AI is bundled into an existing subscription.",
+      "evidence_check": "Searched for subscription-plan inclusion, bundling, or included AI credits/features; none appears in these passages."
+    },
+    {
+      "claim": "a 34%-margin, $10B-cash-flow base",
+      "cited_file": null,
+      "issue": "The paired balance-sheet excerpts do not contain operating margin or operating cash-flow data.",
+      "evidence_check": "Found assets, liabilities, equity, cash, and retained earnings only; no 34% margin or $10B operating cash flow."
+    },
+    {
+      "claim": "organic growth actually re-accelerated to +12.7% YoY in Q2-FY26",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The passages provide current-quarter revenue but neither the prior-year comparator nor support for labeling the growth organic; Semrush was acquired during the quarter.",
+      "evidence_check": "Found Q2 FY26 revenue of $6.618B, but no Q2 FY25 revenue or organic-growth adjustment in the paired passages."
+    },
+    {
+      "claim": "AI-first ARR of ~$500M is ~1.8% of the $27.10B Total ARR",
+      "cited_file": "adbe_2026-06-11_8-k.txt / adbe_2026q2_10-q.txt",
+      "issue": "The paired passages contain neither the approximately $500M AI-first ARR nor the $27.10B total ARR.",
+      "evidence_check": "Reviewed all four supplied excerpts; they are unrelated cash-flow and press-release sections without both calculation inputs."
+    },
+    {
+      "claim": "The audited filings do not disclose ANY discrete AI ARR figure.",
+      "cited_file": null,
+      "issue": "This is a corpus-wide absence claim not demonstrated by the supplied passages.",
+      "evidence_check": "The excerpts show press-release AI ARR figures but do not provide a comprehensive search of all 10-K and 10-Q filings."
+    },
+    {
+      "claim": "The punchy AI-first / AI-influenced numbers appear only in the earnings press releases (8-Ks)",
+      "cited_file": null,
+      "issue": "The passages establish that the figures appear in several 8-K press releases but do not establish exclusivity.",
+      "evidence_check": "Found AI-first and AI-influenced figures in 8-K excerpts; no exhaustive comparison against every 10-K and 10-Q is supplied."
+    },
+    {
+      "claim": "Growth re-accelerated to +12.7% in Q2-FY26",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The prior-year revenue needed to calculate 12.7% and evidence of re-acceleration are absent from the paired passages.",
+      "evidence_check": "Found Q2 FY26 revenue of $6.618B only; no Q2 FY25 comparator or preceding growth-rate series appears."
+    },
+    {
+      "claim": "the lowest since the Figma-charge quarter",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The paired evidence provides no complete operating-margin time series needed for this historical-low comparison.",
+      "evidence_check": "No local match was provided, and the passages do not list all intervening quarterly margins."
+    },
+    {
+      "claim": "Total Adobe ARR growth is stuck around 11-12%",
+      "cited_file": null,
+      "issue": "The paired passages are balance-sheet records and contain no ARR growth figures.",
+      "evidence_check": "Searched the supplied excerpts for ARR and growth percentages; none appears."
+    },
+    {
+      "claim": "11.5% FY25",
+      "cited_file": null,
+      "issue": "The paired passages do not contain FY25 ARR growth of 11.5%.",
+      "evidence_check": "The supplied balance-sheet and cash-flow excerpts contain no ARR metric."
+    },
+    {
+      "claim": "10.9% Q1-FY26",
+      "cited_file": null,
+      "issue": "The paired passages do not state Q1 FY26 ARR growth of 10.9%.",
+      "evidence_check": "Found Q1 FY26 income-statement and other financial data, but no ARR balance or growth percentage."
+    },
+    {
+      "claim": "~34% operating margins",
+      "cited_file": "adbe_income_statement.json",
+      "issue": "The paired passages show two FY21 quarters with operating margins near 36.7%, not approximately 34%.",
+      "evidence_check": "Calculated $1.441B/$3.935B and $1.406B/$3.835B, both about 36.6-36.7%."
+    },
+    {
+      "claim": "two C-suite exits in consecutive quarters",
+      "cited_file": null,
+      "issue": "The paired passages do not mention either executive transition or their timing.",
+      "evidence_check": "Reviewed the supplied FY23 10-K excerpts; they discuss business segments and customers, not CEO or CFO departures."
+    },
+    {
+      "claim": "In Q1-FY26 Adobe collapsed its three reportable segments into one",
+      "cited_file": "adbe_2026q1_10-q.txt",
+      "issue": "The passages do not state that Adobe changed from three reportable segments to one.",
+      "evidence_check": "Found Total Adobe ARR and companywide operating metrics, but no segment-accounting disclosure or one-segment determination."
+    },
+    {
+      "claim": "dropped the separate Creative-vs-Document Cloud ARR split",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "No passage was retrieved and no comparison of prior versus current ARR disclosure structure is supplied.",
+      "evidence_check": "The evidence reports no local match for this specific disclosure change."
+    },
+    {
+      "claim": "No churn/retention rate is disclosed anywhere in the data",
+      "cited_file": "adbe_2025_10-k.txt",
+      "issue": "This dataset-wide absence claim is unsupported by the paired evidence.",
+      "evidence_check": "No local match was returned, and no exhaustive search results across all files were supplied."
+    },
+    {
+      "claim": "AI ARR figures ($125M -> $250M -> $500M; $5B \"influenced\") exist ONLY in 8-K press releases, not in the audited 10-K/10-Q MD&A",
+      "cited_file": null,
+      "issue": "The passages do not contain the stated figures or establish that they appear exclusively in 8-K releases and nowhere in 10-K/10-Q MD&A.",
+      "evidence_check": "The supplied excerpts are unrelated balance-sheet and cash-flow data; no comprehensive cross-filing search is shown."
+    },
+    {
+      "claim": "Q2-FY26's 12.5% ARR growth and 14% subscription-revenue growth are inflated by ~$480M/~$40M of inorganic Semrush",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "The approximately $480M Semrush ARR contribution is supported, but the approximately $40M inorganic subscription-revenue contribution is absent.",
+      "evidence_check": "Found 12.5% ARR growth, 14% subscription growth, and approximately $480M of Semrush ARR; no $40M Semrush revenue figure appears."
+    },
+    {
+      "claim": "The segment consolidation breaks the time series",
+      "cited_file": "adbe_2026q1_10-q.txt",
+      "issue": "No segment-consolidation disclosure or time-series discontinuity appears in the paired passages.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    },
+    {
+      "claim": "Creative-specific AI erosion ... is no longer directly observable in the provided filings",
+      "cited_file": "adbe_2026q1_10-q.txt",
+      "issue": "The paired evidence does not establish either Creative-specific AI erosion or a disclosure change making it unobservable.",
+      "evidence_check": "The evidence explicitly reports no local match."
+    }
+  ],
+  "synthesis_found": "The unified conclusion that reconciles the conflicting signals: the moat wins the survival question, but AI is currently a cost of defending the moat, not a new profit pool on top of it.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/adbe_balance_sheet.json",
+    "financials/cash_flow/adbe_cash_flow.json",
+    "financials/income_statement/adbe_income_statement.json",
+    "financials/income_statement/crm_income_statement.json",
+    "financials/income_statement/now_income_statement.json",
+    "press_releases/adbe_2024-12-11_8-k.txt",
+    "press_releases/adbe_2025-03-12_8-k.txt",
+    "press_releases/adbe_2025-09-11_8-k.txt",
+    "press_releases/adbe_2025-12-10_8-k.txt",
+    "press_releases/adbe_2026-03-12_8-k.txt",
+    "press_releases/adbe_2026-06-11_8-k.txt",
+    "sec_filings/10-k/adbe_2023_10-k.txt",
+    "sec_filings/10-k/adbe_2024_10-k.txt",
+    "sec_filings/10-k/adbe_2025_10-k.txt",
+    "sec_filings/10-q/adbe_2024q3_10-q.txt",
+    "sec_filings/10-q/adbe_2026q1_10-q.txt",
+    "sec_filings/10-q/adbe_2026q2_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 112,
+  "grounding_claims_no_match": 11,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

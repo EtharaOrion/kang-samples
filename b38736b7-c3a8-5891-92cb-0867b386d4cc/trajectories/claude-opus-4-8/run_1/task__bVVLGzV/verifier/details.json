@@ -1,0 +1,603 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Membership Fee Revenue Growth and the Fading Fee-Increase Tailwind",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent gives FY2024-FY2025 fee revenue and a quarterly FY2025-FY2026 sequence, including Q3 FY2026, but omits the required $4,580 FY2023 starting point, so it does not trace the full specified trajectory.",
+        "b": "The agent explicitly separates the September 2024 fee increase from sign-ups and upgrades, citing about 40% of FY2025 growth and a decline to about 25% by Q3 FY2026 to argue that the price tailwind is fading. The contribution percentages underlying this move were flagged as unsupported, so the move is tainted.",
+        "c": "The agent distinguishes deferred fees as cash collected but not yet recognized and identifies the balance rising from $2,854M at FY2025-end to $3,157M in Q3 FY2026 as a forward indicator of future fee revenue."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Renewal-Rate Durability and Membership-Mix Headwinds",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [
+        "a",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent contrasts FY2025 renewal rates of 92.3% domestically and 89.8% worldwide with roughly 92.2% and 89.7% in FY2026, interpreting the change as a modest decline followed by stabilization rather than simply calling rates high and stable. Those rate observations and the claimed decline from peak were flagged as unsupported.",
+        "b": "The agent explains the lower renewal quality of online and digitally promoted sign-ups, but it does not explain the domestic-worldwide gap through the additional required factor of newer international-market growth.",
+        "c": "The agent ties loyalty quality to paid-member expansion, listing the rise through 71.0M, 76.2M, and 81.0M, while also citing 38.7M Executive members and their 73.6% share of worldwide sales. Several of the member-count and Executive-member figures were flagged as unsupported, tainting the move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Thin Retail Margin and the Membership-Fee Profit Engine",
+      "moves_hit": [
+        "a"
+      ],
+      "moves_missed": [
+        "b",
+        "c"
+      ],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "The agent characterizes Costco as operating at roughly an 11% merchandise gross margin and directly compares membership fees with operating income, concluding that fees represent about half of operating profit and are the central profit engine. The gross-margin and fee-to-operating-income evidence was flagged as unsupported.",
+        "b": "The agent does not provide management's required ex-gasoline margin figures of 11.03% for FY2025 and 11.26% for Q3 FY2026, nor does it discuss LIFO charges alongside gasoline and foreign-currency distortions.",
+        "c": "Although the answer lists operating income levels, mentions SG&A near 9%, and compares peer gross margins, it does not track net income or demonstrate that comparable-sales-driven SG&A leverage, rather than gross-margin expansion, is carrying profitability."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Base-Expansion Durability vs. Cannibalization, Concentration, and Competition",
+      "moves_hit": [
+        "c",
+        "d"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c",
+        "d"
+      ],
+      "move_reasoning": {
+        "a": "The agent weighs an alternative warehouse-count interval and Q3 FY2026 digitally enabled growth against cannibalization, but it omits the specified FY2025 expansion evidence of 914 warehouses and 24 net additions and the 16% FY2025 e-commerce comparable-sales result.",
+        "b": "The agent identifies the 86% U.S./Canada concentration, California's 26% share of U.S. sales, and competitive threats, but it does not address the required reliance on Kirkland Signature private-label margins and does not clearly convey management's characterization of competition as vigorous and widespread.",
+        "c": "The agent directly confronts the fading fee-hike contribution and declining renewal rates against continuing member-base expansion and Executive loyalty, concluding that growth quantity remains while growth quality erodes. The fee-contribution and renewal-rate evidence used in this reconciliation was flagged as unsupported.",
+        "d": "The answer provides an explicit reconciled verdict\u2014\u201cdurable moat, decelerating engine, peaking earnings quality\u201d\u2014and integrates expansion, cannibalization, digital mix, renewal pressure, thin margins, and the fading fee tailwind into that conclusion. Because central evidence supporting this synthesis, including fee-contribution, renewal-rate, margin, and growth claims, was flagged, the move is tainted."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "The 8-K press releases in press_releases/ carry headline net sales, comps, deferred-fee balances and warehouse counts, but disclose NO renewal rates, NO member counts, and NO fee-increase announcement.",
+      "cited_file": "press_releases/",
+      "issue": "The supplied passages show net sales, comparable sales and warehouse counts, but no deferred-membership-fee balance and do not establish the folder-wide absence of the other disclosures.",
+      "evidence_check": "Checked both supplied press-release excerpts; no deferred-fee balance appears, and the excerpts are insufficient to prove an exhaustive negative across the directory."
+    },
+    {
+      "claim": "the filename calendar year lags Costco's fiscal year by one.",
+      "cited_file": null,
+      "issue": "The passages do not show the relevant 10-Q filenames alongside their fiscal-quarter designations.",
+      "evidence_check": "Searched the supplied passages for filename-to-fiscal-year mappings; only a company profile and a dated press release were provided."
+    },
+    {
+      "claim": "the fee-increase's contribution to growth has halved (from ~half of growth in Q1 FY26 to ~25% in Q3 FY26)",
+      "cited_file": null,
+      "issue": "Neither the approximately one-half nor 25% contribution appears in this claim's passages.",
+      "evidence_check": "The passages contain unrelated BJ and historical Costco income-statement data, not fee-increase contribution percentages."
+    },
+    {
+      "claim": "deferred-fee YoY growth has fallen from +11% to +8%",
+      "cited_file": null,
+      "issue": "The +11% and +8% deferred-fee growth figures are absent.",
+      "evidence_check": "Searched the supplied BJ income-statement passages; they contain no deferred-membership-fee balances or growth rates."
+    },
+    {
+      "claim": "retail gross margin is razor-thin (~11%)",
+      "cited_file": null,
+      "issue": "The supplied passages show BJ gross profit and revenue, which imply roughly 18%-19%, not Costco's approximately 11% merchandise margin.",
+      "evidence_check": "No Costco gross-margin percentage or supporting Costco merchandise figures appear in this claim's passages."
+    },
+    {
+      "claim": "roughly HALF of operating income is membership fees",
+      "cited_file": null,
+      "issue": "The passages do not provide both membership-fee revenue and operating income needed for the comparison.",
+      "evidence_check": "The excerpt contains Costco gross-margin and fee-change discussion but no operating-income comparison supporting 'half.'"
+    },
+    {
+      "claim": "units +3%",
+      "cited_file": null,
+      "issue": "No unit-growth figure or comparable beginning and ending unit counts appears in the passages.",
+      "evidence_check": "The evidence gives 914 current warehouses but no prior warehouse count establishing +3%."
+    },
+    {
+      "claim": "members +4%",
+      "cited_file": null,
+      "issue": "The passages do not show a member-count comparison yielding +4%.",
+      "evidence_check": "The Q3 FY2026 press release excerpt has operating results and warehouse count; the 2024 10-K excerpt does not provide the corresponding Q3 FY2026 member count."
+    },
+    {
+      "claim": "adjusted comps +6-7%",
+      "cited_file": null,
+      "issue": "No adjusted comparable-sales figure of 6%-7% appears in the passages.",
+      "evidence_check": "The supplied excerpts discuss business mix and Q1 FY2026 membership fees, not comparable sales."
+    },
+    {
+      "claim": "The low-teens membership-fee growth of the last four quarters",
+      "cited_file": null,
+      "issue": "A four-quarter low-teens membership-fee growth series is not supplied.",
+      "evidence_check": "No local match or quarterly figures were provided for this claim."
+    },
+    {
+      "claim": "a slower ~high-single-digit underlying engine.",
+      "cited_file": null,
+      "issue": "No underlying growth series supporting a high-single-digit rate appears in the evidence.",
+      "evidence_check": "No local match or factual building blocks were provided."
+    },
+    {
+      "claim": "only ~$180M of incremental fee revenue was ever going to land in FY2026",
+      "cited_file": "cost_2024_10-k.txt",
+      "issue": "The supplied passage does not contain the $370 million total or $190 million FY2025 amount needed to derive approximately $180 million for FY2026.",
+      "evidence_check": "The excerpt is an unrelated cash-flow statement; no fee-revenue forecast appears."
+    },
+    {
+      "claim": "Costco raises fees roughly once every 5-6 years",
+      "cited_file": null,
+      "issue": "No historical fee-increase dates or cadence appear in the passages.",
+      "evidence_check": "The evidence consists of a company profile and a July 2025 dividend release."
+    },
+    {
+      "claim": "The fee-increase's contribution to growth PEAKED at ~50% in Q1 FY2026 and has fallen to ~25% by Q3 FY2026.",
+      "cited_file": null,
+      "issue": "The ~50%, ~25%, and peak characterization are absent from this claim's passages.",
+      "evidence_check": "The supplied passages contain income-statement records but no fee-increase contribution disclosures."
+    },
+    {
+      "claim": "Q1 FY25 $1,166M (+8%)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "Neither $1,166 million nor +8% appears in the supplied passages.",
+      "evidence_check": "Checked the press-release and 10-K excerpts; they discuss annual results and the fee increase, not Q1 FY2025 membership fees."
+    },
+    {
+      "claim": "Q2 $1,193M (+7%)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "The $1,193 million membership-fee amount and +7% growth are absent.",
+      "evidence_check": "The only $1,193 million shown is first-quarter financing cash outflow, not Q2 membership fees."
+    },
+    {
+      "claim": "Q3 $1,240M (+10%)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "The Costco Q3 membership-fee amount and growth rate do not appear.",
+      "evidence_check": "The supplied passages are unrelated BJ income-statement records."
+    },
+    {
+      "claim": "FY25 $5,323M (+10% vs $4,828M)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "The supplied passages do not contain $5,323 million or $4,828 million.",
+      "evidence_check": "Only unrelated BJ income-statement excerpts were returned for this claim."
+    },
+    {
+      "claim": "Q1 FY26 $1,329M (+14%)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "The $1,329 million and +14% figures are absent from this claim's passages.",
+      "evidence_check": "The passages are BJ records and historical Costco financial data, not Q1 FY2026 membership fees."
+    },
+    {
+      "claim": "Q2 $1,355M (+13.6%)",
+      "cited_file": "cost_*_10-q.txt / cost_2025-09-25_8-k.txt",
+      "issue": "The passages do not show $1,355 million of membership fees or 13.6% growth.",
+      "evidence_check": "One unrelated RSU compensation-cost balance is $1,355 million; it is not membership-fee revenue."
+    },
+    {
+      "claim": "Growth accelerated INTO the fee hike (peaking ~+14% in Q4 FY25 / Q1 FY26) and has now decelerated to +10.7% in Q3 FY26.",
+      "cited_file": null,
+      "issue": "The claimed membership-fee growth sequence and peak are absent.",
+      "evidence_check": "The supplied passages contain unrelated BJ and historical Costco income-statement data."
+    },
+    {
+      "claim": "Q1 FY26 $2,990M",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The $2,990 million deferred-fee balance does not appear.",
+      "evidence_check": "The supplied passages contain unrelated income-statement data and no deferred-membership-fee balance."
+    },
+    {
+      "claim": "Q2 $3,126M",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The $3,126 million balance is unsupported.",
+      "evidence_check": "No local match or supporting passage was provided."
+    },
+    {
+      "claim": "Q1 FY26 +11.4%",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The +11.4% deferred-fee growth figure is absent.",
+      "evidence_check": "The passages contain no relevant deferred-fee comparison."
+    },
+    {
+      "claim": "Q2 +10.7%",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The evidence does not support a Q2 deferred-fee growth rate of 10.7%.",
+      "evidence_check": "The only 10.7% shown is Q3 FY2026 Canada comparable sales, not Q2 deferred-fee growth."
+    },
+    {
+      "claim": "Q3 +7.7%.",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The +7.7% figure is unsupported.",
+      "evidence_check": "No local match or relevant balance comparison was provided."
+    },
+    {
+      "claim": "the Q3 FY26 balance added only +$31M versus +$136M in each of Q1 and Q2.",
+      "cited_file": "cost_*_10-q.txt / earnings 8-Ks",
+      "issue": "The +$31 million and +$136 million sequential changes are absent.",
+      "evidence_check": "The supplied passages are unrelated BJ income-statement records and contain no Costco deferred-fee balances."
+    },
+    {
+      "claim": "fee growth is STILL double-digit (+10.7% in Q3 FY26)",
+      "cited_file": null,
+      "issue": "The +10.7% Costco membership-fee growth calculation is absent from this claim's passages.",
+      "evidence_check": "The evidence contains unrelated BJ and historical Costco data, not Q3 FY2026 membership fees."
+    },
+    {
+      "claim": "Worldwide renewal rate: FY23 90.4%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "A fiscal 2023 worldwide renewal rate of 90.4% does not appear.",
+      "evidence_check": "The supplied passages contain unrelated financial data and cash-flow excerpts."
+    },
+    {
+      "claim": "FY24 90.5%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The 90.5% worldwide renewal rate is absent from this claim's passages.",
+      "evidence_check": "The excerpts show financial statements but no renewal-rate disclosure."
+    },
+    {
+      "claim": "Q2 FY25 90.5% (peak)",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The passages support 90.5% at fiscal 2024 year-end, not specifically Q2 FY2025 or the assertion that it was the peak.",
+      "evidence_check": "No Q2 FY2025 renewal-rate passage was supplied."
+    },
+    {
+      "claim": "FY25 89.8%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The 89.8% fiscal 2025 worldwide rate is absent from the supplied passages.",
+      "evidence_check": "The excerpts do not contain the fiscal 2025 renewal-rate disclosure."
+    },
+    {
+      "claim": "Q1 FY26 89.7%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The 89.7% Q1 FY2026 worldwide rate is absent from this claim's passages.",
+      "evidence_check": "Only unrelated BJ and historical Costco financial records were supplied."
+    },
+    {
+      "claim": "U.S./Canada: FY24 92.9%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The 92.9% rate does not appear in the supplied passages.",
+      "evidence_check": "The evidence includes a dividend release and unrelated financial records, not the renewal-rate disclosure."
+    },
+    {
+      "claim": "Q2 FY25 93.0% (peak)",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "Neither the 93.0% Q2 FY2025 rate nor its peak status appears.",
+      "evidence_check": "No relevant Q2 membership-fee or renewal-rate passage was supplied."
+    },
+    {
+      "claim": "FY25 92.3%",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The 92.3% fiscal 2025 U.S./Canada rate is absent from this claim's passages.",
+      "evidence_check": "The excerpts do not contain the fiscal 2025 renewal-rate disclosure."
+    },
+    {
+      "claim": "Q1-Q3 FY26 92.1-92.2%.",
+      "cited_file": "cost_*_10-q.txt, cost_*_10-k.txt",
+      "issue": "The three quarterly U.S./Canada renewal rates are absent from this claim's passages.",
+      "evidence_check": "Only unrelated BJ and historical Costco financial data were provided."
+    },
+    {
+      "claim": "Worldwide renewal broke below 90% and has sat at 89.7% for three straight quarters",
+      "cited_file": null,
+      "issue": "The three consecutive 89.7% quarterly observations are not in the supplied passages.",
+      "evidence_check": "The excerpts show fiscal 2024's 90.5% rate but no Q1-Q3 FY2026 renewal-rate series."
+    },
+    {
+      "claim": "roughly 80bps off its peak.",
+      "cited_file": null,
+      "issue": "Neither the peak rate nor the later rate needed to calculate an 80-basis-point decline appears.",
+      "evidence_check": "The supplied passages concern RSUs, not renewal rates."
+    },
+    {
+      "claim": "renewal rates \"were negatively impacted by a higher number of memberships sold online, including through digital promotions... These members renew at a slightly lower rate on average\"",
+      "cited_file": "cost_2025_10-k.txt",
+      "issue": "The attributed quotation is absent from the supplied passage set for this claim.",
+      "evidence_check": "No local match or quoted 10-K excerpt was provided."
+    },
+    {
+      "claim": "rates were \"negatively impacted by sign-ups from a digital promotion in the fall of 2023 entering the renewal calculation this quarter and higher penetration of online sign-ups in recent years\"",
+      "cited_file": "cost_2025q3_10-q.txt",
+      "issue": "The attributed quotation does not appear in the supplied excerpts.",
+      "evidence_check": "The returned passages are unrelated accounting and legal sections of the 10-Q."
+    },
+    {
+      "claim": "Executive members 32.3M (FY23)",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "The 32.3 million Executive-member count is absent from this claim's passages.",
+      "evidence_check": "The excerpts contain unrelated income-statement and cash-flow data."
+    },
+    {
+      "claim": "35.4M (FY24)",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "The 35.4 million Executive-member count is absent.",
+      "evidence_check": "No membership count table appears in the supplied passages."
+    },
+    {
+      "claim": "38.7M (FY25)",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "The 38.7 million Executive-member count is absent.",
+      "evidence_check": "The supplied excerpts do not contain the fiscal 2025 membership count table."
+    },
+    {
+      "claim": "~45.5% -> 46.5% -> 47.8% of paid members",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "The percentages and underlying Executive/paid-member counts are not supplied.",
+      "evidence_check": "No local match or count table was provided for this claim."
+    },
+    {
+      "claim": "~72.8% -> 73.3% -> 73.6% of worldwide sales",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "The passages support 73.3% for FY2024 and 73.6% for FY2025, but not 72.8% for FY2023.",
+      "evidence_check": "Searched both 10-K excerpts; no 72.8% figure appears."
+    },
+    {
+      "claim": "FY24/FY25 penetration % of members derived from the count table, not stated verbatim",
+      "cited_file": "cost_2024_10-k.txt / cost_2025_10-k.txt",
+      "issue": "The relevant count tables are absent from this claim's passages.",
+      "evidence_check": "The supplied excerpts are income-statement and press-release sections without Executive-member and paid-member counts."
+    },
+    {
+      "claim": "The 10-Ks note \"higher penetration of Executive members\" as a renewal tailwind and \"more members auto renewing.\"",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "Neither attributed phrase appears in the supplied passages.",
+      "evidence_check": "The returned evidence consists entirely of unrelated BJ income-statement data."
+    },
+    {
+      "claim": "The digital-sign-up mix pulls the rate down ~1pt off peak",
+      "cited_file": null,
+      "issue": "No one-percentage-point quantified effect or peak comparison is supplied.",
+      "evidence_check": "No local match or supporting rate series was provided."
+    },
+    {
+      "claim": "Merchandise gross margin: FY23 10.57%",
+      "cited_file": "cost_2023_10-k.txt",
+      "issue": "The 10.57% Costco FY2023 merchandise margin does not appear in this claim's passages.",
+      "evidence_check": "The supplied evidence is unrelated BJ, Costco quarterly financial, and cash-flow data."
+    },
+    {
+      "claim": "Q3 FY25 19.0%",
+      "cited_file": "bj_income_statement.json",
+      "issue": "The passages do not contain BJ's Q3 FY2025 revenue and gross profit needed to establish 19.0%.",
+      "evidence_check": "The returned excerpts are Costco filings, not the cited BJ Q3 FY2025 record."
+    },
+    {
+      "claim": "Walmart ~24%",
+      "cited_file": "wmt_income_statement.json",
+      "issue": "No Walmart revenue, cost of revenue, gross profit, or 24% margin appears.",
+      "evidence_check": "The passages show company profiles and Costco financial data only."
+    },
+    {
+      "claim": "Costco chooses to run at roughly half BJ's and less than half of Walmart's gross margin.",
+      "cited_file": null,
+      "issue": "The evidence supplies BJ data but not Costco's and Walmart's comparable gross margins.",
+      "evidence_check": "Could not verify the two required cross-company comparisons from the supplied passages."
+    },
+    {
+      "claim": "COST's own income_statement.json shows ~12.8% \"gross profit\" because that file folds membership fees into revenue",
+      "cited_file": "cost_income_statement.json",
+      "issue": "The approximately 12.8% ratio is calculable, but the passages do not identify the revenue field as including membership fees, so the stated reason is unsupported.",
+      "evidence_check": "The JSON shows total revenue, cost of revenue, and gross profit but no revenue-component breakdown."
+    },
+    {
+      "claim": "the ~11% figure is the pure merchandise margin from the 10-K.",
+      "cited_file": "cost_2023/2024/2025_10-k.txt",
+      "issue": "No Costco 10-K merchandise-margin table appears in the supplied passages.",
+      "evidence_check": "The evidence consists of BJ income-statement records."
+    },
+    {
+      "claim": "membership fees as a share of operating income were 56.4% in FY23",
+      "cited_file": "cost_2023_10-k.txt",
+      "issue": "The FY2023 membership-fee and operating-income figures needed for 56.4% are absent.",
+      "evidence_check": "The supplied passages contain unrelated financial records."
+    },
+    {
+      "claim": "a ~1.9% merchandise operating margin",
+      "cited_file": "cost_2025_10-k.txt",
+      "issue": "No supporting merchandise operating profit or margin calculation appears.",
+      "evidence_check": "No local match or factual inputs were provided for this claim."
+    },
+    {
+      "claim": "Q3 FY26 run-rate ~2.1%",
+      "cited_file": null,
+      "issue": "The supplied passages do not contain the Q3 FY2026 merchandise operating-profit calculation supporting 2.1%.",
+      "evidence_check": "The evidence is unrelated BJ and historical Costco income-statement data."
+    },
+    {
+      "claim": "~half of operating profit is a near-pure-margin fee",
+      "cited_file": null,
+      "issue": "No supporting operating-income/fee comparison or fee-margin disclosure is provided.",
+      "evidence_check": "No local match or factual building blocks were supplied for this claim."
+    },
+    {
+      "claim": "core-category GM ex-ancillary +2bps FY23",
+      "cited_file": "cost_2025_10-k.txt",
+      "issue": "The +2-basis-point FY2023 core-category margin change is absent.",
+      "evidence_check": "The supplied 10-K excerpts do not contain this metric."
+    },
+    {
+      "claim": "driven by fresh foods and the co-branded credit card.",
+      "cited_file": "cost_2025_10-k.txt",
+      "issue": "The attributed drivers do not appear in this claim's passages.",
+      "evidence_check": "No local match was provided."
+    },
+    {
+      "claim": "the 2% reward: $2,576M (FY23)",
+      "cited_file": "cost_2023/2025_10-k.txt",
+      "issue": "The $2,576 million FY2023 reward amount is absent.",
+      "evidence_check": "The supplied passages contain unrelated financial data and FY2024/FY2025 accrued rewards only."
+    },
+    {
+      "claim": "$2,804M (FY24)",
+      "cited_file": "cost_2023/2025_10-k.txt",
+      "issue": "The $2,804 million FY2024 reward amount is absent.",
+      "evidence_check": "No relevant reward-expense disclosure appears in the passages."
+    },
+    {
+      "claim": "$3,007M (FY25)",
+      "cited_file": "cost_2023/2025_10-k.txt",
+      "issue": "The $3,007 million FY2025 reward amount is absent.",
+      "evidence_check": "The supplied passages do not contain this figure."
+    },
+    {
+      "claim": "a ~3-4bps/yr GM headwind",
+      "cited_file": "cost_2023/2025_10-k.txt",
+      "issue": "No annual 3-4-basis-point gross-margin headwind calculation appears.",
+      "evidence_check": "The excerpts discuss membership structure and employees but not the claimed quantified headwind."
+    },
+    {
+      "claim": "Total paid members: 61.7M (FY21)",
+      "cited_file": "cost_*_10-k.txt / cost_2026q3_10-q.txt",
+      "issue": "The 61.7 million FY2021 paid-member count is absent.",
+      "evidence_check": "The supplied passages contain income-statement and press-release data, not the FY2021 membership table."
+    },
+    {
+      "claim": "81.0M (FY25)",
+      "cited_file": "cost_*_10-k.txt / cost_2026q3_10-q.txt",
+      "issue": "The 81.0 million FY2025 paid-member count does not appear.",
+      "evidence_check": "The supplied excerpts contain unrelated Target data and Costco filing sections without the membership table."
+    },
+    {
+      "claim": "total cardholders 111.6M (FY21)",
+      "cited_file": "cost_*_10-k.txt / cost_2026q3_10-q.txt",
+      "issue": "The 111.6 million FY2021 cardholder count is absent.",
+      "evidence_check": "No FY2021 membership-count table was supplied."
+    },
+    {
+      "claim": "145.2M (FY25)",
+      "cited_file": "cost_*_10-k.txt / cost_2026q3_10-q.txt",
+      "issue": "The 145.2 million FY2025 cardholder count is absent.",
+      "evidence_check": "The supplied passages do not contain the fiscal 2025 membership table."
+    },
+    {
+      "claim": "in ~10 months.",
+      "cited_file": null,
+      "issue": "The passages for this claim do not provide the July 2025 and May 2026 dates needed for the elapsed-time calculation.",
+      "evidence_check": "Only unrelated BJ financial records were supplied."
+    },
+    {
+      "claim": "We seek to expand in existing markets to attain a greater overall market share. A new warehouse may draw members away from our existing warehouses and adversely affect their comparable sales performance, member traffic, and profitability",
+      "cited_file": "cost_2024_10-k.txt",
+      "issue": "The attributed quotation is absent from the supplied passages.",
+      "evidence_check": "No local match was provided for the quoted 10-K language."
+    },
+    {
+      "claim": "The FY25 disclosure explicitly ties this to \"cannibalizing existing locations with new warehouses.\"",
+      "cited_file": "cost_2025_10-k.txt",
+      "issue": "The quoted phrase is not in this claim's supplied passages.",
+      "evidence_check": "The returned excerpts cover officers, properties, and operating highlights, not the relevant risk-factor sentence."
+    },
+    {
+      "claim": "The 10-Ks name \"Walmart's Sam's Club and BJ's Wholesale Club,\" plus Walmart, Target, Kroger, and Amazon",
+      "cited_file": "cost_2023/2024_10-k.txt",
+      "issue": "None of the claimed competitor names appears in the supplied passages as a 10-K competitor list.",
+      "evidence_check": "The evidence only contains company profiles and BJ financial records."
+    },
+    {
+      "claim": "Walmart runs ~$175B of quarterly revenue",
+      "cited_file": "wmt_income_statement.json",
+      "issue": "No Walmart quarterly revenue figure appears in the supplied passages.",
+      "evidence_check": "The evidence contains a company profile and Costco passages, not Walmart's income statement."
+    },
+    {
+      "claim": "BJ is a direct warehouse-club competitor growing comps in the same channel",
+      "cited_file": "bj_income_statement.json",
+      "issue": "The passages contain BJ income-statement values but no comparable-sales metric or explicit competitor/channel statement.",
+      "evidence_check": "Searched the supplied BJ records; no comps or Costco-competitor identification appears."
+    },
+    {
+      "claim": "reported Q3 FY26 comps and total revenue (+11.6%) are flattered by gasoline and FX",
+      "cited_file": null,
+      "issue": "The passages do not provide the relevant Costco Q3 gas/FX adjustments, and 11.6% is described elsewhere as net-sales growth rather than total-revenue growth.",
+      "evidence_check": "The supplied evidence contains unrelated BJ and historical Costco data."
+    },
+    {
+      "claim": "the fee increase fully laps in FY2027",
+      "cited_file": null,
+      "issue": "No Costco fee-recognition schedule or FY2027 lapse statement appears.",
+      "evidence_check": "The evidence contains Walmart FY2027 data and unrelated Costco repurchase information."
+    },
+    {
+      "claim": "the renewal rate has quietly rolled ~80bps off its peak",
+      "cited_file": null,
+      "issue": "The required peak and current renewal rates are absent.",
+      "evidence_check": "The supplied passages discuss RSUs, not renewal rates."
+    },
+    {
+      "claim": "the retail business runs at ~11% gross and ~2% merchandise operating margin",
+      "cited_file": null,
+      "issue": "Neither Costco's approximately 11% merchandise gross margin nor the derived approximately 2% merchandise operating margin appears in this claim's passages.",
+      "evidence_check": "Only BJ income-statement records were supplied."
+    },
+    {
+      "claim": "Expect membership-fee growth to normalize from low-teens toward its ~8% underlying rate",
+      "cited_file": null,
+      "issue": "The low-teens starting rate and approximately 8% underlying rate are not in the evidence.",
+      "evidence_check": "The supplied passages are generic forward-looking-statement language and contain no membership-fee growth normalization data."
+    }
+  ],
+  "synthesis_found": "Digital sign-ups expand the member base (Theme 4) but renew at lower rates (Theme 2); in-market densification grows share (Theme 4) but cannibalizes existing-club comps (Theme 4 risk); rising Executive penetration deepens loyalty and props up renewal (Theme 2) but increases the 2% reward drag on the thin retail margin (Theme 3).",
+  "sparse_reward": 0,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/income_statement/bj_income_statement.json",
+    "financials/income_statement/cost_income_statement.json",
+    "financials/income_statement/tgt_income_statement.json",
+    "financials/income_statement/wmt_income_statement.json",
+    "press_releases/cost_2025-07-16_8-k.txt",
+    "press_releases/cost_2025-09-25_8-k.txt",
+    "press_releases/cost_2026-05-28_8-k.txt",
+    "sec_filings/10-k/cost_2024_10-k.txt",
+    "sec_filings/10-k/cost_2025_10-k.txt",
+    "sec_filings/10-q/cost_2024q1_10-q.txt",
+    "sec_filings/10-q/cost_2025q1_10-q.txt",
+    "sec_filings/10-q/cost_2025q2_10-q.txt",
+    "sec_filings/10-q/cost_2025q3_10-q.txt",
+    "sec_filings/10-q/cost_2026q2_10-q.txt",
+    "sec_filings/10-q/cost_2026q3_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 142,
+  "grounding_claims_no_match": 11,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

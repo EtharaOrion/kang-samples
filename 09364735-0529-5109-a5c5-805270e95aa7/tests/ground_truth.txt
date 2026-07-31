@@ -1,0 +1,32 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Net-Flow Durability and Organic Base-Fee Growth
+BlackRock's flows are strong, but the analyst must judge whether the growth is durable and fee-generative or concentrated in the lowest-fee products.
+[a] Quantify the flow engine — $130 billion of Q1 2026 total net inflows and $744 billion over the trailing twelve months, driving 8% organic base fee growth in the quarter and 10% over the LTM, against $14.0 trillion of total AUM (press_releases/blk_2026-04-14_8-k.txt, sec_filings/10-k/blk_2025_10-k.txt)
+[b] Decompose where flows come from — 2025 ETF net inflows of $527 billion (iShares AUM of $5.5 trillion), led by equity ETF net inflows of $289 billion and fixed income ETF net inflows of $175 billion — and note iShares posted a record Q1 2026 with $132 billion of net inflows (sec_filings/10-k/blk_2025_10-k.txt, press_releases/blk_2026-04-14_8-k.txt)
+[c] Distinguish organic base fee growth from AUM growth — recognizing that market appreciation and acquisitions inflate AUM while organic base fee growth better captures the fee-generative quality of net new business (press_releases/blk_2026-04-14_8-k.txt, sec_filings/10-k/blk_2025_10-k.txt)
+Source: press_releases/blk_2026-04-14_8-k.txt, sec_filings/10-k/blk_2025_10-k.txt, financials/income_statement/blk_income_statement.json
+
+2. Fee-Rate Mix and the Index-vs-Private-Markets Divergence
+Because fee rates vary enormously by product, a given dollar of AUM growth can be far more or less valuable, and mix shift drives the base-fee story.
+[a] Expose the fee-rate divergence with the disclosed splits — institutional index is 29% of long-term AUM but only 6% of long-term base fees, whereas equity is 61% of AUM and 50% of base fees, and ETFs are 42% of AUM and 45% of base fees (sec_filings/10-k/blk_2025_10-k.txt)
+[b] Contrast with the high-fee side — institutional active is 19% of AUM but 24% of base fees, and private markets/alternatives carry premium fee rates — so mix shift toward these products is base-fee-accretive even at flat AUM (sec_filings/10-k/blk_2025_10-k.txt)
+[c] Connect mix to the flow data — that heavy low-fee ETF and index inflows can dampen the blended fee rate unless offset by higher-fee private-markets and active flows (sec_filings/10-k/blk_2025_10-k.txt, press_releases/blk_2026-04-14_8-k.txt)
+Source: sec_filings/10-k/blk_2025_10-k.txt, press_releases/blk_2026-04-14_8-k.txt
+
+3. The Private-Markets Buildout and Acquisition Integration
+BlackRock is buying its way into private markets and data; the question is whether the buildout is genuinely accretive or acquisition-dependent with integration risk.
+[a] Ground the buildout in the transactions — the July 2025 HPS acquisition (a leading global credit manager) that added $118 billion of AUM, the October 2024 GIP infrastructure deal that added $70 billion, plus ElmTree and the Preqin/eFront data platforms (sec_filings/10-k/blk_2025_10-k.txt)
+[b] Assess private-markets momentum and dry powder — 2025 private markets net inflows of $36 billion led by private credit and infrastructure, realizations of $29 billion, roughly $91 billion of non-fee-paying unfunded/uninvested commitments to deploy, and Q1 2026 private markets net inflows of $9 billion (sec_filings/10-k/blk_2025_10-k.txt, press_releases/blk_2026-04-14_8-k.txt)
+[c] Weigh the counter-evidence — that GAAP results are materially distorted by noncash acquisition-related items (GAAP operating income up 66% and GAAP diluted EPS up 46% versus adjusted operating income up 31%), raising integration and consideration-structure risk (press_releases/blk_2026-04-14_8-k.txt)
+Source: sec_filings/10-k/blk_2025_10-k.txt, press_releases/blk_2026-04-14_8-k.txt
+
+4. Revenue Quality, Technology, and the Investment Verdict
+BlackRock's combination of asset management and technology drives revenue, but adjusted-versus-GAAP gaps and fee-mix effects must be reconciled into a position.
+[a] Quantify revenue quality — Q1 2026 revenue up 27% year-over-year (aided by markets, organic base fee growth, HPS fees, and technology), technology services and subscription revenue up 22% (Aladdin and Preqin), and technology services ACV up 14% (press_releases/blk_2026-04-14_8-k.txt)
+[b] Separate GAAP from adjusted results — Q1 2026 diluted EPS of $14.06 GAAP versus $12.53 as adjusted, adjusted operating income up 31% with adjusted margins expanding over 100 basis points, while adjusted diluted EPS grew only 11% on a higher share count and tax rate (press_releases/blk_2026-04-14_8-k.txt)
+[c] Corroborate the revenue and margin trends against the reported income statement rather than the earnings-release narrative alone (financials/income_statement/blk_income_statement.json, sec_filings/10-q/blk_2026q1_10-q.txt)
+[d] SYNTHESIS: reconcile the bull case (durable multi-hundred-billion net inflows, accelerating organic base fee growth, a transformational private-markets/technology platform) against the bear case (flows skewed to low-fee ETFs, blended fee-rate pressure, and acquisition-dependent, GAAP-distorting growth) into a single explicit position on whether net-flow strength and fee-mix improvement justify the private-markets buildout
+Source: press_releases/blk_2026-04-14_8-k.txt, sec_filings/10-k/blk_2025_10-k.txt, financials/cash_flow/blk_cash_flow.json

@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition"
+description = "Develop a grounded view on whether Datadog's usage-based revenue growth is durable, weighing strong net retention and cash generation against optimization risk, AI-native customer concentration, thin GAAP margins, and platform competition."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "DDOG"]
+
+[metadata]
+uuid = "591acefe-dd50-5d35-bad9-7a5b7e16ff62"
+difficulty_explanation = "The analyst must understand how usage-based pricing simultaneously powers ~120% net retention and exposes Datadog to customers optimizing consumption, then quantify how concentrated the growth is in a single AI-native cohort that includes the largest customer. It requires reconciling strong revenue growth and free cash flow against a razor-thin 1% GAAP operating margin and a competitive field of larger, better-resourced rivals. Reaching a defensible durability verdict means integrating the retention, concentration, competition and margin signals rather than surveying them independently."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

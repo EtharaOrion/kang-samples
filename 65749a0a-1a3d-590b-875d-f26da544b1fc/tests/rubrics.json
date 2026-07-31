@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "criteria": [
+    {
+      "id": "c1",
+      "concern": "grounding_before_claim",
+      "text": "The process verifies source-level metadata before interpreting figures, so the company, reporting period, measurement units, and quarterly-versus-year-to-date scope are established from document contents rather than assumed.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect early source-opening steps or a source log for recorded document identity, filing/publication date, reporting period, units, and presentation basis for the latest release, quarterly filing, and annual filing."
+    },
+    {
+      "id": "c2",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The reconnaissance demonstrates broad exploration across the available source classes rather than relying on a single release or structured dataset.",
+      "phase": "Phase 1",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the file inventory and source log for substantive opening or searching of press releases, quarterly and annual filings, structured financial statements, company profiles, and prior-period materials; look specifically for a recorded relevance decision on the June 12, 2026 filing."
+    },
+    {
+      "id": "c3",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The assignment is decomposed into separately testable questions for acquired-growth effects, profitability quality, new-category economics, and international acquisition integration.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect planning notes or a question-and-evidence matrix for distinct analytical blocks, each with evidence that could strengthen or weaken the proposition."
+    },
+    {
+      "id": "c4",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "The process establishes a comparability framework before drawing trend conclusions, defining metric scope and the intended period comparisons.",
+      "phase": "Phase 2",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect a definitions register or analysis plan for treatment of orders, GOV, revenue, contribution profit, adjusted EBITDA, GAAP earnings, and cash flow, together with quarter-over-quarter, year-over-year, or multi-quarter comparison bases."
+    },
+    {
+      "id": "c5",
+      "concern": "no_fabrication_process_signals",
+      "text": "The process consistently distinguishes realized operating results from management expectations, strategic assertions, accounting disclosures, and risk statements.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect evidence-table classifications, working notes, or final-answer phrasing for explicit labels separating historical results from projections, acquisition outlook, synergy expectations, and qualitative strategy commentary."
+    },
+    {
+      "id": "c6",
+      "concern": "truth_phase_reasoning_coverage",
+      "text": "Analyst calculations retain visible provenance that separates company-reported values from derived values.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect calculation tables for reported-versus-derived labels, formulas, input periods, units, source paths, and rounding conventions for ratios or growth rates."
+    },
+    {
+      "id": "c7",
+      "concern": "grounding_before_claim",
+      "text": "Overlapping financial figures are reconciled across the release, filed statements, and structured financial files before they are used in analytical claims.",
+      "phase": "Phase 5",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect reconciliation steps for revenue, GAAP earnings, cash flow, or balance-sheet values; discrepancies should be investigated or preserved as unresolved rather than silently normalized."
+    },
+    {
+      "id": "c8",
+      "concern": "counter_evidence_engagement",
+      "text": "Material favorable interpretations are explicitly paired with credible contrary evidence and are revised or qualified when that evidence changes their force.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect an opposing-evidence ledger, challenge memo, or revision history for pairings such as headline versus acquisition-excluded growth, category momentum versus missing unit economics, or international runway versus integration risk."
+    },
+    {
+      "id": "c9",
+      "concern": "counter_evidence_engagement",
+      "text": "Any profitability-improvement interpretation is stress-tested against GAAP performance and the disclosed items separating GAAP results from adjusted EBITDA.",
+      "phase": "Phase 4",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect analysis steps comparing adjusted EBITDA with operating income, net income, stock-based compensation, depreciation and amortization, acquisition-related costs, margin ratios, or cash-flow behavior where disclosed."
+    },
+    {
+      "id": "c10",
+      "concern": "no_fabrication_process_signals",
+      "text": "Undisclosed segment or acquisition economics are treated as an explicit analytical limitation rather than replaced with unsupported precision.",
+      "phase": "Phase 3",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect limitation notes and the final ambiguity discussion for recognition that standalone grocery, retail, advertising, Deliveroo, Wolt, acquisition-allocation, or integration economics may not be quantified by the available disclosures."
+    },
+    {
+      "id": "c11",
+      "concern": "synthesis_presence",
+      "text": "The synthesis resolves the main cross-cutting tensions into an integrated explanation rather than presenting operating growth, margins, new categories, and international expansion as disconnected observations.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect synthesis notes or the final answer for causal reconciliation of acquisition-adjusted growth, margin behavior, GAAP-versus-adjusted profitability, category economics, monetization evidence, and integration effects."
+    },
+    {
+      "id": "c12",
+      "concern": "position_taking",
+      "text": "The process culminates in one explicit directional position on whether profitable scaling appears durable, conditional, or not yet demonstrated.",
+      "phase": "Phase 6",
+      "verdict_scale": [
+        "pass",
+        "partial",
+        "fail"
+      ],
+      "evidence_hint": "Inspect the thesis and closing verdict for a clear answer to the durability question, including the dominant rationale and observable future indicators that would confirm or undermine the position."
+    }
+  ]
+}

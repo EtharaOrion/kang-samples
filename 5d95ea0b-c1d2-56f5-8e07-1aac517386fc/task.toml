@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization"
+description = "Analyze whether PayPal's branded-checkout turnaround under new CEO leadership and its transaction-margin stabilization are genuine demand recovery or cost/mix engineering, grounded in PYPL's 10-K/10-Q filings, press releases, and peer financials."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "PYPL"]
+
+[metadata]
+uuid = "5d95ea0b-c1d2-56f5-8e07-1aac517386fc"
+difficulty_explanation = "Requires reconciling headline non-GAAP growth (transaction margin dollars, revenue) against a compressing transaction margin rate and declining engagement-per-account metrics buried in supplemental tables across multiple quarters. The agent must also separate a deliberate Braintree/unbranded mix trade-off from genuine branded-checkout demand recovery, and weigh a CEO transition and pending securities litigation as context rather than proof, all without over-relying on any single filing."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

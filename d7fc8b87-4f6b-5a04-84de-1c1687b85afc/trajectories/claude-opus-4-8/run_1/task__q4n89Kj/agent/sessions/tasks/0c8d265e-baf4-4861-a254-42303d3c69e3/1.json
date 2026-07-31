@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Write grounded ABNB analysis to /app/answer.txt",
+  "description": "Synthesize four-theme analysis (demand durability, take-rate/single-fee, regulatory/tax overhang, cash/margins/verdict) with every claim cited to a file in /app/data/. Awaiting 3 extraction agents (press releases, 10-Ks, 10-Qs).",
+  "activeForm": "Awaiting extraction agents, then writing analysis",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

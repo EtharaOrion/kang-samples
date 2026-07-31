@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Post-Outage Revenue and ARR Growth Trajectory', 'Retention Durability and the Cost of Customer Commitment Packages', 'GAAP Losses Versus Non-GAAP and Cash-Flow Profitability', 'Competitive and Legal Overhang — Verdict on Durability']
+Cited files: 17

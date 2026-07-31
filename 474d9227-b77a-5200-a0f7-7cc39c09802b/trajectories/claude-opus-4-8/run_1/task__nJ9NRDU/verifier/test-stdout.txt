@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['Credit Normalization and the Trajectory of Charge-Offs and Delinquencies', 'CECL Purchase-Accounting Distortion and the Allowance "Double Count"', 'Discover Integration Execution: Costs, Goodwill, and Synergy Realization', 'Capital, Funding, and Franchise Value: Reconciling the Bull and Bear Case']
+Cited files: 17

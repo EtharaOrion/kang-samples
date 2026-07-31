@@ -1,0 +1,471 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Cross-Border Volume as the High-Margin Growth Engine",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Q1 2026 local-currency cross-border volume grew 13%, but it does not make the required comparison with overall gross dollar volume growth of 7% and switched-transaction growth of 9%.",
+        "b": "The agent characterizes cross-border as Mastercard's highest-yield stream and attributes its premium economics to cross-border volume fees plus currency-conversion revenue. The cited support for the currency-conversion stream and premium-yield characterization is flagged as unsupported.",
+        "c": "The agent directly connects cross-border durability to travel cycles and exposure to geopolitical, economic, health, weather, regulatory, and other shocks, satisfying the required risk assessment."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Value-Added Services and Solutions as the Diversifier",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent states that Q1 2026 VAS grew 22% versus payment-network revenue growth of 12%, and elsewhere provides the corresponding 18% and 8% currency-neutral rates. Supporting comparative claims, including the characterization that VAS grows roughly twice as fast as the network, were flagged.",
+        "b": "The answer identifies security, digital and authentication, business and market insights, and consumer acquisition and engagement as VAS drivers, while repeatedly identifying pricing as a contributor. The supporting VAS taxonomy claim was flagged as only partially evidenced.",
+        "c": "The agent explicitly concludes that VAS diversifies the revenue model but is not volume-independent because it remains tethered to payment activity, so a spending or cross-border downturn would also affect VAS. The quotations and period-wide evidence used to support this volume correlation were flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Rebates, Incentives and the Quality of Net Revenue",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent reports Q1 2026 rebate and incentive growth of 23% and FY2025 rebates of $20,522 million, and links incentive growth to competitive customer pricing arrangements. Several numerical comparisons and the historical rebate series used as support were flagged.",
+        "b": "The agent distinguishes Q1 2026 reported net-revenue growth of 16% from currency-neutral growth of 12% and argues that a weak dollar flattered reported performance. Its supporting reported-versus-local-currency comparisons and broader FX claims were flagged.",
+        "c": "Although the answer discusses pricing pressure and competing or real-time payment schemes, it does not adequately engage the full required competitive backdrop of potential disintermediation and account-to-account payments alongside Visa as a check on future net-revenue quality."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "A Reconciled View on Durability and Mix",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b",
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The answer explicitly reconciles the opposing evidence: a cooling, travel-sensitive and increasingly rebated cross-border network is being offset by faster-growing VAS and pricing, while VAS remains tied to payment volumes. Several numerical premises used in this reconciliation were flagged.",
+        "b": "The agent benchmarks Mastercard against Visa and PayPal, comparing operating margins and arguing that Mastercard's network model has structurally stronger economics than PayPal's wallet model. The claimed Mastercard, Visa, and PayPal margin ranges were flagged as unsupported or inconsistent with the supplied evidence.",
+        "c": "The agent commits to the view that VAS plus pricing can offset a slowing cross-border core at the consolidated level, while reported growth is flattered by FX, M&A, and obscured incentive leakage. The quantitative estimates supporting the degree of FX, acquisition, and rebate flattery were flagged."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "\"Mastercard Incorporated (NYSE: MA)\"",
+      "cited_file": null,
+      "issue": "The passages identify only the symbol MA; they do not identify Mastercard Incorporated or the NYSE listing.",
+      "evidence_check": "Searched the supplied passages for \u201cMastercard Incorporated\u201d and \u201cNYSE\u201d; neither appears."
+    },
+    {
+      "claim": "\"Mastercard is still compounding net revenue at ~16% with expanding operating margins\"",
+      "cited_file": null,
+      "issue": "The retrieved passages do not provide Mastercard net-revenue growth or operating-margin data.",
+      "evidence_check": "The passages contain American Express data and unrelated Mastercard interchange material, not the claimed Mastercard metrics."
+    },
+    {
+      "claim": "\"local-currency cross-border volume growth fell from 24% in FY2023 to 18% in FY2024 to 15% in FY2025 to 13% in Q1 2026\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "Only the Q1 2026 figure of 13% appears; the 24%, 18%, and 15% historical sequence is absent.",
+      "evidence_check": "Searched the supplied passages for the FY2023-FY2025 comparison; only \u201cCross-border volume growth of 13% on a local currency basis\u201d was found."
+    },
+    {
+      "claim": "\"cross-border assessments ($12.0B) have now OVERTAKEN domestic assessments ($11.0B) as the larger of the two volume-based lines\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the cross-border or domestic assessment amounts.",
+      "evidence_check": "The passages concern share repurchases and general filing context; neither $12.0B nor $11.0B appears."
+    },
+    {
+      "claim": "\"Mastercard \\\"switch[es] substantially all cross-border transactions\\\"\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The attributed quotation is absent from this claim's passages.",
+      "evidence_check": "Searched the supplied passages for \u201cswitch substantially all cross-border transactions\u201d; no occurrence was found."
+    },
+    {
+      "claim": "\"PLUS separate currency-conversion revenue\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The passages do not state that Mastercard earns a separate currency-conversion revenue stream.",
+      "evidence_check": "Searched the supplied passages for currency-conversion revenue; only general currency and debt material appears."
+    },
+    {
+      "claim": "\"We generally earn higher revenues on cross-border transactions than on domestic transactions because, by offering a global system, we are able to charge more for our services\"",
+      "cited_file": "sec_filings/s-1/ma_2005_s-1.txt",
+      "issue": "The exact attributed sentence is not present in the supplied passages.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d for the quotation."
+    },
+    {
+      "claim": "\"that exact sentence lives only in the 2005 IPO prospectus in this data set\"",
+      "cited_file": "sec_filings/s-1/ma_2005_s-1.txt",
+      "issue": "The passages establish that a 2005 S-1 exists, but neither show the sentence nor establish that it appears only there.",
+      "evidence_check": "Searched the supplied S-1 excerpts for the sentence and any dataset-wide exclusivity statement; neither was found."
+    },
+    {
+      "claim": "\"no in-scope 10-K/10-Q restates \\\"we earn more on cross-border\\\" in those words\"",
+      "cited_file": null,
+      "issue": "This dataset-wide negative assertion is not established by the supplied passages.",
+      "evidence_check": "The passages are financial JSON excerpts and do not document a comprehensive search of all in-scope 10-K and 10-Q filings."
+    },
+    {
+      "claim": "\"FY2022 ~45%  ->  FY2023 24%  ->  FY2024 18%  ->  FY2025 15%  ->  Q1 2026 13%\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "Only the Q1 2026 value of 13% appears in the supplied passages.",
+      "evidence_check": "Searched for ~45%, 24%, 18%, and 15% as the stated annual cross-border sequence; those historical figures are absent."
+    },
+    {
+      "claim": "\"The Q1 2026 local-currency figure of 13% is the lowest in the entire data window.\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "The passages establish 13% for Q1 2026 but provide no complete historical window against which to verify that it is the lowest.",
+      "evidence_check": "Only Q1 2026 cross-border growth is shown; prior-period cross-border growth values needed for the minimum comparison are absent."
+    },
+    {
+      "claim": "\"Q1'25 +15%, Q2'25 +15%, Q3'25 +15%, Q4'25 +14%, Q1'26 +13%\"",
+      "cited_file": "press_releases/ma_2025-05-01; press_releases/ma_2025-07-31; press_releases/ma_2025-10-30; press_releases/ma_2026-01-29; press_releases/ma_2026-04-30",
+      "issue": "The supplied passages do not contain this quarterly Mastercard sequence.",
+      "evidence_check": "The passages contain unrelated AXP/PYPL data and an antitrust settlement excerpt; the five claimed quarterly values were not found."
+    },
+    {
+      "claim": "\"the outsized recovery multiples (33-45% in FY2022)\"",
+      "cited_file": null,
+      "issue": "Neither the 33-45% range nor a defined recovery multiple appears in the supplied passages.",
+      "evidence_check": "Searched the passages for 33%, 45%, and recovery multiples; no relevant occurrence was found."
+    },
+    {
+      "claim": "\"Cross-border assessment currency-neutral growth decelerated in lockstep: 28% (FY2023) -> 22% (FY2024) -> 17% (FY2025)\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The evidence supports 22% for 2024 and 17% for 2025, but not 28% for FY2023.",
+      "evidence_check": "The assessment table shows 2025 currency-neutral growth of 17% and 2024 growth of 22%; 28% is absent."
+    },
+    {
+      "claim": "\"the G20 Financial Stability Board's targets to LOWER the cost of cross-border payments\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The passage mentions G20 Financial Stability Board targets related to cross-border payments, but does not say those targets are to lower costs.",
+      "evidence_check": "Searched the cited passage for \u201clower the cost\u201d; that language does not appear."
+    },
+    {
+      "claim": "\"Mastercard's USD-converted cross-border growth OVERSTATED the underlying trend in Q1 2026 (21% USD vs 13% local)\"",
+      "cited_file": "ma_2026q1_10-q.txt",
+      "issue": "Neither the 21% USD cross-border figure nor the 13% local cross-border figure appears in this claim's passages.",
+      "evidence_check": "The supplied 10-Q excerpts show financial results and currency impacts but no cross-border USD-versus-local growth table."
+    },
+    {
+      "claim": "\"Q1 2025 (12% USD vs 15% local)\"",
+      "cited_file": "ma_2025q1_10-q.txt",
+      "issue": "The claimed 12% and 15% cross-border comparison is absent.",
+      "evidence_check": "The passages contain cash-flow JSON and AXP data, not the cited Mastercard Q1 2025 cross-border metrics."
+    },
+    {
+      "claim": "\"FY2023 $9,274M (+17%)  ->  FY2024 $10,832M (+17%)  ->  FY2025 $13,315M (+23%, +21% CN)\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The amounts, FY2024 growth, and FY2025 growth are shown, but the passages do not show FY2023 growth of 17%.",
+      "evidence_check": "The table reports $9,274M for 2023, $10,832M for 2024 with 17% growth, and $13,315M for 2025 with 23% reported/21% currency-neutral growth; no 2023 +17% rate is provided."
+    },
+    {
+      "claim": "\"In EVERY period in the window, VAS grew faster than payment-network net revenue\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "The supplied passages do not provide the period-by-period VAS and payment-network growth series needed for an \u201cevery period\u201d comparison.",
+      "evidence_check": "The evidence consists largely of unrelated settlement and 2023 filing excerpts; no complete comparison window appears."
+    },
+    {
+      "claim": "\"VAS climbed from 37.0% (FY2023) to 38.5% (FY2024) to 40.6% (FY2025), and to 41.1% in Q1 2026 ($3,450M of $8,398M; computed from the two reported buckets\"",
+      "cited_file": "ma_2026q1_10-q.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The cited passages do not contain the VAS amounts, total revenue amounts, or computed shares used in the claim.",
+      "evidence_check": "Searched the supplied passages for 37.0%, 38.5%, 40.6%, 41.1%, $3,450M, and $8,398M; none appears."
+    },
+    {
+      "claim": "\"the filings do not print the share\"",
+      "cited_file": "ma_2026q1_10-q.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "This negative disclosure claim is not established by the supplied evidence.",
+      "evidence_check": "The evidence reports no local match and does not document a comprehensive review of the filings."
+    },
+    {
+      "claim": "\"VAS spans security solutions (fraud scoring, cyber detection, identity/authentication), consumer acquisition and engagement (loyalty, marketing), business and market insights (data, consulting, \\\"agentic\\\" solutions), digital and authentication (tokenization), processing and gateway, and open finance\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The passages support several listed capabilities but do not contain the full asserted category list, particularly processing and gateway and open finance.",
+      "evidence_check": "Found agentic solutions, business insights, digital/authentication, tokenization, and some security material; the complete stated taxonomy is absent."
+    },
+    {
+      "claim": "\"our services and other solutions... are interdependent with our payment network\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The exact attributed quotation is absent from the supplied passages.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d for this wording."
+    },
+    {
+      "claim": "\"Every period's MD&A attributes VAS growth FIRST to \\\"growth in our underlying key drivers\\\"\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The supplied passages neither contain the quoted VAS-growth attribution nor cover every period.",
+      "evidence_check": "Searched the passages for \u201cgrowth in our underlying key drivers\u201d; no relevant occurrence appears in this claim's evidence."
+    },
+    {
+      "claim": "\"the acquisition tailwind fully lapped by Q1 2026 (drivers: Operational 18%, Acquisitions 0%)\"",
+      "cited_file": "ma_2026q1_10-q.txt",
+      "issue": "The supplied passages show VAS growth of 22% reported and 18% currency-neutral, but do not show a drivers table with Operational 18% and Acquisitions 0%.",
+      "evidence_check": "Searched the passages for an acquisitions/dispositions contribution of 0%; it is absent."
+    },
+    {
+      "claim": "\"both G&A and advertising carried acquisition-driven step-ups\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "No supporting passage was retrieved for this claim.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d and contains no G&A or advertising acquisition contribution figures."
+    },
+    {
+      "claim": "\"VAS was flattered ~3-5pp in 2025 by M&A and FX\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The supplied passages do not contain the VAS drivers needed to substantiate the 3-5 percentage-point estimate.",
+      "evidence_check": "Searched for VAS acquisition and currency contributions in this claim's passages; none appears."
+    },
+    {
+      "claim": "\"Mastercard's income-statement top line is NET revenue; there is no printed \\\"gross revenue.\\\"\"",
+      "cited_file": null,
+      "issue": "The passages are American Express income-statement JSON and do not establish Mastercard's presentation or the absence of a gross-revenue line.",
+      "evidence_check": "No Mastercard income statement or \u201cNet Revenue\u201d line appears in the supplied evidence."
+    },
+    {
+      "claim": "\"FY2023 $15,182M (+22%)  ->  FY2024 $17,629M (+16%)  ->  FY2025 $20,522M (+16%)\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "Only FY2025 rebates of $20,522M and +16% growth are present; the FY2023 and FY2024 amounts and rates are absent.",
+      "evidence_check": "Searched the supplied passages for $15,182M and $17,629M; neither appears."
+    },
+    {
+      "claim": "\"FY2023 $31,005M  ->  FY2024 $34,964M  ->  FY2025 $39,998M.\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "None of the three claimed figures appears in the supplied passages.",
+      "evidence_check": "Searched for $31,005M, $34,964M, and $39,998M; no matches were found."
+    },
+    {
+      "claim": "\"Rebates and incentives are therefore ~49% (FY2023) -> ~50% (FY2024) -> ~51% (FY2025) of GROSS payment-network revenue\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The passages do not provide the rebate ratios or the derived gross payment-network revenue figures.",
+      "evidence_check": "Searched for the 49%, 50%, and 51% sequence in the supplied evidence; none appears."
+    },
+    {
+      "claim": "\"OVER HALF of what Mastercard's network bills is now returned to customers\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The supplied passages contain no network billings, rebate amount, or ratio supporting \u201cover half.\u201d",
+      "evidence_check": "The evidence consists of filing cover and general business text; no relevant calculation inputs appear."
+    },
+    {
+      "claim": "\"As a share of total derived gross revenue (network assessments + VAS), rebates rose from ~35.7% (FY2021) to ~38.5% (FY2025) and stepped up to ~40.2% in Q1 2026 \u2014 a series high\"",
+      "cited_file": null,
+      "issue": "None of the claimed percentages or the historical series appears in the passages.",
+      "evidence_check": "Searched for 35.7%, 38.5%, and 40.2%; no relevant matches were found."
+    },
+    {
+      "claim": "\"the company does not print these ratios\"",
+      "cited_file": null,
+      "issue": "This dataset-wide negative assertion is unsupported by the supplied evidence.",
+      "evidence_check": "No passages were supplied that document the company's complete disclosures or a comprehensive search."
+    },
+    {
+      "claim": "\"FY2025 +16% vs +12%; Q1 2026 +23% vs +12%\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt; ma_2026q1_10-q.txt",
+      "issue": "The supplied passages do not identify the compared metrics or contain the claimed paired values.",
+      "evidence_check": "The evidence consists of unrelated cash-flow and competitor income-statement JSON; the comparison was not found."
+    },
+    {
+      "claim": "\"Q1'25 +16% CN -> Q2'25 +13/14% -> Q3'25 +10% -> Q4'25 +9% -> Q1'26 +8% CN\"",
+      "cited_file": "press_releases/ma_2025-05-01; press_releases/ma_2025-07-31; press_releases/ma_2025-10-30; press_releases/ma_2026-01-29; press_releases/ma_2026-04-30",
+      "issue": "The supplied passages do not contain this quarterly currency-neutral sequence.",
+      "evidence_check": "Searched the evidence for the five-period sequence; only unrelated cash-flow and AXP material appears."
+    },
+    {
+      "claim": "\"In order to stay competitive, we may have to increase the amount of these incentives and pricing discounts so as to meet customer demand for better pricing arrangements and greater rebates and incentives\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The exact attributed quotation is absent from this claim's supplied passages.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d for the quotation."
+    },
+    {
+      "claim": "\"they require \\\"significant judgment by management when developing estimates related to... customer performance\\\"\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The exact attributed quotation is absent from this claim's supplied passages.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d for the quotation."
+    },
+    {
+      "claim": "\"VAS (which carries no comparable rebate line)\"",
+      "cited_file": null,
+      "issue": "The absence of a comparable VAS rebate line is not established by the supplied passages.",
+      "evidence_check": "The passages are unrelated settlement and older filing excerpts and contain no relevant revenue-disclosure comparison."
+    },
+    {
+      "claim": "\"FY2025 derived gross revenue grew ~16.4% and total net revenue grew 16.4%\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "The evidence shows rounded net-revenue growth of 16%, but not 16.4% or any derived gross-revenue growth calculation.",
+      "evidence_check": "Searched the supplied passages for 16.4% and derived gross revenue; neither appears."
+    },
+    {
+      "claim": "\"currency-neutral rebate growth is actually decelerating year-over-year (22% -> 18% -> 16%)\"",
+      "cited_file": "sec_filings/10-k/ma_2023_10-k.txt; sec_filings/10-k/ma_2024_10-k.txt; sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "Only the FY2025 currency-neutral rebate growth of 16% is present; 22% and 18% are absent.",
+      "evidence_check": "Searched the supplied passages for the rebate-growth sequence; no prior-year 22% or 18% figures were found."
+    },
+    {
+      "claim": "\"rebates now exceed half of gross network revenue\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt; ma_2026q1_10-q.txt",
+      "issue": "No supporting ratio or gross network revenue figure appears in this claim's passages.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d and supplies no calculation inputs."
+    },
+    {
+      "claim": "\"Payment-network NET revenue growth has roughly HALVED on a currency-neutral basis (16% -> 8% across five quarters).\"",
+      "cited_file": "press_releases/ma_2025-05-01; press_releases/ma_2025-07-31; press_releases/ma_2025-10-30; press_releases/ma_2026-01-29; press_releases/ma_2026-04-30",
+      "issue": "The supplied passages do not show the 16%-to-8% five-quarter payment-network sequence.",
+      "evidence_check": "The evidence contains unrelated AXP and settlement material; neither endpoint is established as the claimed payment-network metric."
+    },
+    {
+      "claim": "\"total net revenue grew +16% (+12% CN) in FY2025 and Q1 2026\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "The Q1 2026 figures are supported, but FY2025 currency-neutral growth was 15% in the supplied 10-K evidence, not 12%.",
+      "evidence_check": "The 2025 10-K table reports net revenue growth of 16% reported and 15% currency-neutral; the 8-K reports Q1 2026 growth of 16% and 12%."
+    },
+    {
+      "claim": "\"VAS (37% -> 41% of net revenue)\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt; ma_2026q1_10-q.txt",
+      "issue": "Neither the 37% nor 41% VAS share appears in the supplied passages.",
+      "evidence_check": "The passages are unrelated AXP and settlement excerpts and do not contain the underlying Mastercard VAS and net-revenue amounts."
+    },
+    {
+      "claim": "\"VAS grows ~2x the network\"",
+      "cited_file": "sec_filings/10-k/ma_2025_10-k.txt; press_releases/ma_2026-04-30_8-k.txt",
+      "issue": "The supplied passages do not contain VAS and payment-network growth rates supporting the approximate two-times comparison.",
+      "evidence_check": "The evidence consists of unrelated settlement and 2023 filing text; no relevant growth comparison appears."
+    },
+    {
+      "claim": "\"Mastercard's ~57-59% operating margin sits near Visa's ~60-66%\"",
+      "cited_file": "financials/income_statement/ma_income_statement.json; financials/income_statement/v_income_statement.json",
+      "issue": "The passages contain neither Mastercard nor Visa income-statement margin data.",
+      "evidence_check": "The supplied evidence is AXP JSON and unrelated settlement material; the claimed margin ranges were not found."
+    },
+    {
+      "claim": "\"PayPal runs ~15-19% operating margins on comparable revenue dollars\"",
+      "cited_file": "financials/income_statement/pypl_income_statement.json",
+      "issue": "The supplied examples do not establish the claimed 15-19% range; one shown quarter is about 16.3% and another about 11.2%.",
+      "evidence_check": "Calculated from the displayed figures: $1,118M/$6,846M is about 16.3%, while $764M/$6,806M is about 11.2%; the asserted range is not supported across the shown data."
+    },
+    {
+      "claim": "\"No \\\"Travel vs Non-travel\\\" cross-border split exists in any in-scope filing\"",
+      "cited_file": null,
+      "issue": "This dataset-wide negative claim is not established by the supplied passages.",
+      "evidence_check": "The passages contain unrelated uses of \u201ctravel\u201d but no documented comprehensive search for a cross-border travel/non-travel split."
+    },
+    {
+      "claim": "\"The explicit \\\"we earn higher revenues on cross-border than domestic\\\" statement is grounded only in the 2005 S-1\"",
+      "cited_file": "sec_filings/s-1/ma_2005_s-1.txt",
+      "issue": "The supplied passages neither contain the explicit statement nor establish that it appears only in the S-1.",
+      "evidence_check": "Searched the S-1 excerpts for the asserted wording and exclusivity; neither was found."
+    },
+    {
+      "claim": "\"current filings support cross-border's premium yield only indirectly\"",
+      "cited_file": null,
+      "issue": "No current-filing passages or factual building blocks supporting this characterization were supplied.",
+      "evidence_check": "The evidence reports no local match and contains no current-filing cross-border yield comparison."
+    },
+    {
+      "claim": "\"\\\"Gross revenue,\\\" company-wide rebate %, and VAS share of revenue are all ANALYST-DERIVED from as-reported components\"",
+      "cited_file": null,
+      "issue": "The supplied passages do not show the reported components or calculations needed to establish these three derived measures.",
+      "evidence_check": "The evidence consists of unrelated settlement material; no derivations or component values appear."
+    },
+    {
+      "claim": "\"Mastercard prints net revenue and the payment-network rebate figure, but not these ratios.\"",
+      "cited_file": null,
+      "issue": "The supplied passages do not show Mastercard's net-revenue/rebate disclosures or establish the absence of the ratios.",
+      "evidence_check": "Only settlement-agreement excerpts were supplied for this claim."
+    },
+    {
+      "claim": "\"Each derived gross figure reconciles exactly to the reported rebate dollar amount.\"",
+      "cited_file": null,
+      "issue": "No derived gross figures or reported rebate amounts are present in the supplied passages.",
+      "evidence_check": "The evidence contains unrelated settlement text and no numerical reconciliation."
+    },
+    {
+      "claim": "\"The income-statement JSON files omit calendar-Q4 quarters for MA and Visa\"",
+      "cited_file": null,
+      "issue": "The supplied evidence is MA cash-flow JSON, not the MA and Visa income-statement JSON files referenced by the claim.",
+      "evidence_check": "No Visa income-statement records or complete MA income-statement file contents were supplied, so Q4 omission cannot be verified."
+    },
+    {
+      "claim": "\"Q4 2025 figures here come from the 8-K earnings release (ma_2026-01-29), not the income-statement file.\"",
+      "cited_file": "press_releases/ma_2026-01-29",
+      "issue": "The supplied passages do not include the January 29, 2026 earnings release or the referenced Q4 figures.",
+      "evidence_check": "The evidence contains cash-flow and AXP JSON excerpts only."
+    },
+    {
+      "claim": "\"Amex is a lender/issuer with a different revenue model\"",
+      "cited_file": null,
+      "issue": "No source passage describes American Express as a lender/issuer or compares its revenue model with Mastercard's.",
+      "evidence_check": "The evidence reports \u201cno local match found.\u201d"
+    },
+    {
+      "claim": "\"no comparable operating-margin line in axp_income_statement.json\"",
+      "cited_file": "financials/income_statement/axp_income_statement.json",
+      "issue": "The supplied evidence does not establish the schema of the complete AXP file or a comprehensive absence of an operating-margin field.",
+      "evidence_check": "The evidence reports \u201cno local match found\u201d rather than displaying the relevant complete file structure."
+    },
+    {
+      "claim": "\"FX materially distorts reported (USD) growth in both directions across this window\"",
+      "cited_file": null,
+      "issue": "The supplied passages contain no reported-versus-currency-neutral growth series demonstrating distortion in both directions.",
+      "evidence_check": "The evidence is cash-flow and AXP JSON without the relevant Mastercard FX growth comparisons."
+    }
+  ],
+  "synthesis_found": "The reconciliation: the core volume engine is cooling and its net yield is being taxed by rebates, but Mastercard is converting a decelerating-volume story into a still-mid-teens, margin-expanding story by (a) shifting mix to VAS (37% -> 41% of net revenue), which grows ~2x the network and carries no rebate drag, and (b) pricing across both buckets.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/ma_cash_flow.json",
+    "financials/income_statement/axp_income_statement.json",
+    "financials/income_statement/pypl_income_statement.json",
+    "press_releases/ma_2025-11-10_8-k.txt",
+    "press_releases/ma_2026-04-30_8-k.txt",
+    "press_releases/ma_2026-06-08_8-k.txt",
+    "sec_filings/10-k/ma_2023_10-k.txt",
+    "sec_filings/10-k/ma_2024_10-k.txt",
+    "sec_filings/10-k/ma_2025_10-k.txt",
+    "sec_filings/10-q/ma_2026q1_10-q.txt",
+    "sec_filings/s-1/ma_2005_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 94,
+  "grounding_claims_no_match": 12,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

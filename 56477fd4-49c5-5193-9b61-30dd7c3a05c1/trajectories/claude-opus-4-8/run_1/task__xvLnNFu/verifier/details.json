@@ -1,0 +1,418 @@
+{
+  "score": 0,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 0,
+  "themes_hit": [],
+  "themes_missed": [
+    {
+      "label": "Post-Outage Revenue and ARR Growth Trajectory",
+      "moves_hit": [],
+      "moves_missed": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent reports Q1 FY27 total revenue of about $1.386 billion and ARR of $5.51 billion with their growth rates, but it omits the required $1.32 billion subscription-revenue figure and its 26% growth rate, so the full move is not established.",
+        "b": "The agent states that Q1 net new ARR was a record $255.8 million, up 32% year over year, but never gives the raised FY27 net-new-ARR growth guidance of 27.7% at the midpoint or identifies that guidance as an acceleration over FY26.",
+        "c": "The agent anchors its analysis to the July 19 Incident and discusses slower expansion and longer sales cycles, but it does not state the specified 10-K effects that customers deferred or decided against purchases and terminated or declined to renew contracts."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Retention Durability and the Cost of Customer Commitment Packages",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent explicitly identifies the 115% DBNRR as of January 31, 2026 and treats its recovery as evidence that retained customers continued expanding spend. The flagged claims specifically question the cited support for the 112%-to-115% DBNRR recovery, so this hit is tainted.",
+        "b": "The agent explains that customer commitment packages included discounts, additional or promotional modules, flexible terms, and subscription-period extensions, and argues that CrowdStrike effectively traded price and terms for loyalty at the cost of expansion and revenue recognition. The quoted claims used to establish increased contraction, lower upsell values, and slower recognition were flagged, so the move is tainted.",
+        "c": "The answer describes Falcon Flex momentum, including ARR growth from Flex accounts, but it never supplies the required module-adoption rates of 51%, 35%, and 25% for customers using six-or-more, seven-or-more, and eight-or-more modules."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "GAAP Losses Versus Non-GAAP and Cash-Flow Profitability",
+      "moves_hit": [
+        "b"
+      ],
+      "moves_missed": [
+        "a",
+        "c"
+      ],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "The agent discusses a Q1 FY27 GAAP operating loss and strong non-GAAP performance, but it never makes the required direct comparison between a negative 2% GAAP operating margin and a 24% non-GAAP operating margin.",
+        "b": "The agent contrasts the negative GAAP picture with record Q1 FY27 operating cash flow of about $590.9 million and free cash flow of about $468.5 million at a 34% margin, explicitly characterizing cash generation as the underlying engine despite GAAP losses. The flagged operating-cash-flow sequence includes the required $590.9 million figure, so this move is tainted.",
+        "c": "The agent identifies stock-based compensation and outage-specific costs as contributors to the GAAP/non-GAAP wedge, but it does not identify legal reserve and settlement charges as required drivers excluded from non-GAAP measures."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and Legal Overhang \u2014 Verdict on Durability",
+      "moves_hit": [
+        "c"
+      ],
+      "moves_missed": [
+        "a",
+        "b"
+      ],
+      "moves_tainted": [
+        "c"
+      ],
+      "move_reasoning": {
+        "a": "The agent assesses named competitors and consolidation through Falcon Flex, but it does not discuss the 10-K disclosure that competitors aggressively approached CrowdStrike customers and partners after the incident or adequately address pressure from legacy vendors.",
+        "b": "The answer discusses securities litigation, derivative litigation, consumer litigation, Delta-related litigation, and governmental inquiries, but it omits the required approximately $4.2 billion backlog as a demand cushion; therefore the complete move is not hit.",
+        "c": "The agent takes an explicit position that growth and retention are durable and repeatedly reconciles strong ARR, net-new-ARR, and 115% retention with customer incentives, GAAP losses, and unresolved legal or regulatory risks. This synthesis relies in part on flagged retention, incident-cost, and litigation claims, so the hit is tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "The July 19, 2024 \"Channel File\" outage",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The filing passages describe a content configuration update and call it the \u201cJuly 19 Incident,\u201d but do not use the quoted term \u201cChannel File.\u201d",
+      "evidence_check": "Checked the retrieved 10-K excerpts for \u201cChannel File\u201d; no occurrence was present."
+    },
+    {
+      "claim": "The outage hit at the very end of Q2 FY2025 (quarter ended July 31, 2024).",
+      "cited_file": null,
+      "issue": "The passages establish the July 31, 2024 quarter end but do not identify the outage date or show that it occurred near quarter-end.",
+      "evidence_check": "Searched the claim-specific passages for July 19, outage, or incident references; only fiscal-period data was present."
+    },
+    {
+      "claim": "Q1 FY25 (Apr'24): $921.0M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed revenue amount and corresponding FY25 quarter are absent from the passages.",
+      "evidence_check": "Checked for $921.0M, 921036000, and the April 2024 FY25 revenue record; none appeared."
+    },
+    {
+      "claim": "+33.0% vs $692.6M Q1 FY24",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "Neither the 33.0% comparison nor the $692.6M comparison value appears in the passages.",
+      "evidence_check": "Checked for 33.0%, 692.6M, and 692600000; no match was present."
+    },
+    {
+      "claim": "Q2 FY25 (Jul'24): $963.9M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q2 FY25 revenue is absent from the passages.",
+      "evidence_check": "Checked for $963.9M, 963872000, and a July 2024 FY25 record; none appeared."
+    },
+    {
+      "claim": "+31.7%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The specific percentage is not supported by any passage.",
+      "evidence_check": "The claim-specific evidence reports no local match for 31.7%."
+    },
+    {
+      "claim": "Q3 FY25 (Oct'24): $1,010.2M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q3 FY25 revenue is absent from the passages.",
+      "evidence_check": "Checked for $1,010.2M, 1010178000, and an October 2024 FY25 record; none appeared."
+    },
+    {
+      "claim": "+28.5%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The passages contain $28.5 million in unrelated contexts, not a 28.5% revenue-growth figure.",
+      "evidence_check": "Checked the retrieved passages for 28.5%; only dollar amounts of $28.5 million were found."
+    },
+    {
+      "claim": "Q1 FY26 (Apr'25): $1,103.4M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q1 FY26 revenue is absent from the passages.",
+      "evidence_check": "Checked for $1,103.4M, 1103434000, and an April 2025 FY26 record; none appeared."
+    },
+    {
+      "claim": "+19.8%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The passage contains $19.8 million of unrecognized stock compensation, not a 19.8% growth rate.",
+      "evidence_check": "Checked for 19.8%; the only match was an unrelated dollar amount."
+    },
+    {
+      "claim": "Q2 FY26 (Jul'25): $1,169.0M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q2 FY26 revenue is absent from the passages.",
+      "evidence_check": "Checked for $1,169.0M, 1168952000, and a July 2025 FY26 record; none appeared."
+    },
+    {
+      "claim": "+21.3%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The specific percentage is not supported by any passage.",
+      "evidence_check": "The claim-specific evidence reports no local match for 21.3%."
+    },
+    {
+      "claim": "Q3 FY26 (Oct'25): $1,234.2M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q3 FY26 revenue is absent from the passages.",
+      "evidence_check": "Checked for $1,234.2M, 1234244000, and an October 2025 FY26 record; none appeared."
+    },
+    {
+      "claim": "+22.2%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The specific percentage is not supported by any passage.",
+      "evidence_check": "The claim-specific evidence reports no local match for 22.2%."
+    },
+    {
+      "claim": "Q1 FY27 (Apr'26): $1,385.6M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q1 FY27 revenue is absent from the passages.",
+      "evidence_check": "Checked for $1,385.6M, 1385629000, and an April 2026 FY27 record; none appeared."
+    },
+    {
+      "claim": "+25.6%",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The specific percentage is not supported by any passage.",
+      "evidence_check": "The claim-specific evidence reports no local match for 25.6%."
+    },
+    {
+      "claim": "management explicitly framed the second half of FY26 as \"re-acceleration\"",
+      "cited_file": "press_releases/crwd_2025-08-27_8-k.txt",
+      "issue": "The retrieved passages do not contain the quoted \u201cre-acceleration\u201d framing for the second half of FY26.",
+      "evidence_check": "Checked the claim-specific excerpts for \u201cre-acceleration,\u201d \u201creacceleration,\u201d and second-half commentary; none appeared."
+    },
+    {
+      "claim": "Fortinet ~20%",
+      "cited_file": "financials/income_statement/ftnt_income_statement.json",
+      "issue": "No Fortinet financial data or Fortinet entity reference appears in the passages.",
+      "evidence_check": "The retrieved evidence consists of CrowdStrike passages and contains no FTNT/Fortinet figures."
+    },
+    {
+      "claim": "net new ARR set successive records in absolute dollars ($221M \u2192 $265M \u2192 $331M)",
+      "cited_file": "press_releases/crwd_2026-03-03_8-k.txt",
+      "issue": "The passages support the $331M Q4 record but do not contain the preceding $221M and $265M figures needed for the sequence.",
+      "evidence_check": "Checked for 221 and 265 in the claim-specific passages; only the $331M Q4 value was present."
+    },
+    {
+      "claim": "\"have resulted, and are expected to continue to result, in increased contraction, due to elongated subscription terms, and decreased upsell dollar values\"",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The exact attributed quotation is absent from the claim-specific passages.",
+      "evidence_check": "The claim-specific evidence reports no local match for the quotation."
+    },
+    {
+      "claim": "Term extensions also \"lengthen the applicable term over which we recognize revenue, which has adversely affected... our results\"",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The attributed quotation does not appear in the supplied passages.",
+      "evidence_check": "Checked the excerpts for \u201clengthen the applicable term\u201d and the revenue-recognition wording; no match was found."
+    },
+    {
+      "claim": "The 3-point DBNRR recovery (112% \u2192 115%)",
+      "cited_file": null,
+      "issue": "Neither 112% nor 115% appears in the claim-specific passages.",
+      "evidence_check": "Checked the retrieved passages for both DBNRR values; neither was present."
+    },
+    {
+      "claim": "CrowdStrike disclosed a precise DBNRR only at fiscal year-ends.",
+      "cited_file": null,
+      "issue": "The passages do not establish the exclusivity assertion that precise DBNRR was disclosed only at year-end.",
+      "evidence_check": "Reviewed the claim-specific quarterly passages; they contain qualitative retention commentary but no evidence covering all disclosure periods."
+    },
+    {
+      "claim": "with no number given in Q3",
+      "cited_file": "sec_filings/10-q/crwd_2025q3_10-q.txt",
+      "issue": "The absence of a Q3 DBNRR number cannot be verified from the supplied evidence.",
+      "evidence_check": "The claim-specific evidence reports no local match and provides no Q3 passage to inspect."
+    },
+    {
+      "claim": "Q2 FY25 (outage qtr): +$13.7M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed operating-income amount is absent from the passages.",
+      "evidence_check": "Checked for $13.7M and 13658000/13700000; no corresponding Q2 FY25 result appeared."
+    },
+    {
+      "claim": "Q3 FY25: -$55.7M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed operating loss is absent from the passages.",
+      "evidence_check": "Checked for -$55.7M and -55723000; no corresponding Q3 FY25 result appeared."
+    },
+    {
+      "claim": "Q1 FY26: -$118.7M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claim-specific passages do not contain CrowdStrike's claimed Q1 FY26 operating loss.",
+      "evidence_check": "Checked the passages for -$118.7M/-118713000; the excerpts were unrelated or concerned guidance and expense components."
+    },
+    {
+      "claim": "Q2 FY26: -$113.0M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed CrowdStrike Q2 FY26 operating loss is absent from the passages.",
+      "evidence_check": "Checked for -$113.0M/-112979000; no corresponding result appeared."
+    },
+    {
+      "claim": "Q3 FY26: -$69.4M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed CrowdStrike Q3 FY26 operating loss is absent from the passages.",
+      "evidence_check": "Checked for -$69.4M/-69443000; no corresponding result appeared in the claim-specific evidence."
+    },
+    {
+      "claim": "versus a much smaller loss the prior year",
+      "cited_file": "press_releases/crwd_2026-03-03_8-k.txt",
+      "issue": "The prior-year loss comparison is not present in the claim-specific passages.",
+      "evidence_check": "The claim-specific evidence reports no local match and supplies no comparison value."
+    },
+    {
+      "claim": "+$42.8M net income in Q1 FY25",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q1 FY25 net income is absent from the passages.",
+      "evidence_check": "Checked for $42.8M and 42820000; no matching Q1 FY25 result appeared."
+    },
+    {
+      "claim": "Q1 operating cash flow rising $383.2M \u2192 $384.1M \u2192 $590.9M across FY25/FY26/FY27 Q1s",
+      "cited_file": "financials/cash_flow/crwd_cash_flow.json",
+      "issue": "None of the three operating-cash-flow values appears in the claim-specific passages.",
+      "evidence_check": "Checked the retrieved excerpts for 383.2M, 384.1M, and 590.9M; the evidence showed balance-sheet and income-statement data instead."
+    },
+    {
+      "claim": "The incident's direct expenses, net of insurance, were $60.1M in FY25",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The $60.1M incident-cost figure is absent from the passages.",
+      "evidence_check": "Checked the claim-specific excerpts for 60.1M and 60,062; neither appeared."
+    },
+    {
+      "claim": "$117.7M in FY26",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The $117.7M figure is absent from the passages.",
+      "evidence_check": "Checked the claim-specific excerpts for 117.7M and 117,730; no match was present."
+    },
+    {
+      "claim": "booked into S&M, R&D and G&A",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The passages do not show an incident-cost allocation across sales and marketing, research and development, and general and administrative expenses.",
+      "evidence_check": "Reviewed the retrieved excerpts for an incident-cost table or all three expense classifications; none was present."
+    },
+    {
+      "claim": "Q1 FY27 posted GAAP net income of +$27.8M",
+      "cited_file": "financials/income_statement/crwd_income_statement.json",
+      "issue": "The claimed Q1 FY27 net-income value is absent from the passages.",
+      "evidence_check": "Checked for $27.8M and 27774000; no matching value appeared in the claim-specific excerpt."
+    },
+    {
+      "claim": "$175.6M repurchased in Q1 FY27",
+      "cited_file": "financials/cash_flow/crwd_cash_flow.json",
+      "issue": "The claimed repurchase amount is absent from the passages.",
+      "evidence_check": "Checked for $175.6M and 175600000; no share-repurchase cash-flow record appeared."
+    },
+    {
+      "claim": "$175.6M repurchased in Q1 FY27",
+      "cited_file": "press_releases/crwd_2026-04-06_8-k.txt",
+      "issue": "The claimed amount is absent from the passages supplied for this claim.",
+      "evidence_check": "Checked for $175.6M; the retrieved excerpts did not include the April 2026 repurchase release or that amount."
+    },
+    {
+      "claim": "\"a growing disconnect between our improving momentum... and our current valuation.\"",
+      "cited_file": null,
+      "issue": "The attributed quotation is not present in the claim-specific evidence.",
+      "evidence_check": "The claim-specific evidence reports no local match for the quotation."
+    },
+    {
+      "claim": "the court entered final judgment Jan 28, 2026",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The supplied passages do not contain the claimed final-judgment event or date.",
+      "evidence_check": "Checked the claim-specific excerpts for January 28, 2026 and \u201cfinal judgment\u201d; no match appeared."
+    },
+    {
+      "claim": "plaintiffs did not appeal",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The claim-specific evidence does not establish that no appeal was filed.",
+      "evidence_check": "The claim-specific evidence reports no local match for the no-appeal statement."
+    },
+    {
+      "claim": "The various shareholder derivative suits are stayed pending \u2014 now resolved \u2014 securities litigation.",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "No passage describes the derivative suits as stayed or ties the stay to resolved securities litigation.",
+      "evidence_check": "The claim-specific evidence reports no local match for the asserted procedural status."
+    },
+    {
+      "claim": "Delta Air Lines' suit (filed Oct 25, 2024; computer trespass, breach of contract, fraud by omission, gross negligence, etc., seeking unspecified compensatory and punitive damages)",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The supplied passages do not identify Delta, the filing date, the listed causes of action, or the requested damages.",
+      "evidence_check": "Checked the claim-specific excerpts for Delta, October 25, 2024, computer trespass, and punitive damages; none appeared."
+    },
+    {
+      "claim": "the motion to dismiss was granted in part and denied in part on May 16, 2025",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The claimed ruling and date are absent from the passages.",
+      "evidence_check": "Checked for May 16, 2025 and \u201cgranted in part and denied in part\u201d; no match was present."
+    },
+    {
+      "claim": "discovery is ongoing.",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The procedural-status statement is absent from the claim-specific evidence.",
+      "evidence_check": "The claim-specific evidence reports no local match for \u201cdiscovery is ongoing.\u201d"
+    },
+    {
+      "claim": "it warns that \"unfavorable or unexpected developments or outcomes could result in a material impact.\"",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The attributed quotation is absent from the claim-specific passages.",
+      "evidence_check": "The claim-specific evidence reports no local match for the quoted warning."
+    },
+    {
+      "claim": "it is a \"request for information,\" not a charge or an enforcement action",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The supplied evidence does not establish either the \u201crequest for information\u201d characterization or the asserted absence of a charge or enforcement action.",
+      "evidence_check": "The claim-specific evidence reports no local match and contains no relevant regulatory-request passage."
+    },
+    {
+      "claim": "CrowdStrike says it is cooperating",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The claim-specific passages do not contain a cooperation statement.",
+      "evidence_check": "Checked the supplied excerpts for \u201ccooperating\u201d or \u201cproviding information\u201d; no match appeared."
+    },
+    {
+      "claim": "the parallel securities class action alleging false/misleading statements was dismissed with final, unappealed judgment",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The claim-specific evidence does not contain the alleged statements, dismissal, final judgment, or no-appeal status.",
+      "evidence_check": "The claim-specific evidence reports no local match for the combined procedural assertion."
+    },
+    {
+      "claim": "$117.7M of direct FY26 incident cost",
+      "cited_file": "sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The claimed direct-cost figure is absent from the passages.",
+      "evidence_check": "Checked for $117.7M and 117,730; neither appeared in the claim-specific excerpts."
+    }
+  ],
+  "synthesis_found": "The apparent contradictions collapse into one coherent read: a dominant platform absorbed a severe operational failure, paid for it in expansion dollars, GAAP ink, and legal fees, and kept compounding cash the entire time.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/balance_sheet/crwd_balance_sheet.json",
+    "financials/cash_flow/crwd_cash_flow.json",
+    "financials/income_statement/crwd_income_statement.json",
+    "financials/income_statement/ftnt_income_statement.json",
+    "financials/income_statement/zs_income_statement.json",
+    "press_releases/crwd_2025-06-03_8-k.txt",
+    "press_releases/crwd_2025-08-27_8-k.txt",
+    "press_releases/crwd_2025-12-02_8-k.txt",
+    "press_releases/crwd_2026-03-03_8-k.txt",
+    "press_releases/crwd_2026-04-06_8-k.txt",
+    "press_releases/crwd_2026-06-03_8-k.txt",
+    "sec_filings/10-k/crwd_2024_10-k.txt",
+    "sec_filings/10-k/crwd_2025_10-k.txt",
+    "sec_filings/10-k/crwd_2026_10-k.txt",
+    "sec_filings/10-q/crwd_2025q1_10-q.txt",
+    "sec_filings/10-q/crwd_2025q2_10-q.txt",
+    "sec_filings/10-q/crwd_2025q3_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 113,
+  "grounding_claims_no_match": 14,
+  "grounding_batches": 1,
+  "judge_provider": "codex",
+  "judge_model": "gpt-5.6-sol"
+}

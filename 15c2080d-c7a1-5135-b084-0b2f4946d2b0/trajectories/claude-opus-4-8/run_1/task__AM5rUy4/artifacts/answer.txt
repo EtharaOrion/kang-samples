@@ -1,0 +1,304 @@
+KKR & CO. — FRANCHISE GROWTH AND INSURANCE-DRIVEN EARNINGS MIX
+A view on the durability of the earnings base
+================================================================
+
+THESIS (the position I am defending)
+------------------------------------
+KKR has built the most durable earnings base in its 50-year history, and the
+market is right to underwrite roughly four-fifths of its earnings as recurring.
+But the bull and bear consensus both misdiagnose *where* that durability comes
+from. The durability is NOT the insurance spread — that is the softest link in
+the "recurring" chain and is currently not growing organically. The durability
+is a perpetual-capital fee annuity that the insurance business FEEDS. Global
+Atlantic's value to KKR is as a permanent, captive asset-gatherer and float
+engine that pours money into the fee machine — not as a spread-lending business.
+Read that way, the franchise is genuinely more resilient than at any prior
+point; read the way management frames it ("insurance = durable operating
+earnings"), the thesis is half-right and papers over real spread and
+balance-sheet risk. My conclusion: own the fee annuity, respect but discount the
+spread, and judge insurance on total insurance economics rather than on its
+reported operating earnings.
+
+The single most important fact in the data set frames everything below: KKR's
+GAAP net income is violently unstable. It was NEGATIVE $185.9M in Q1 2025 and
+NEGATIVE $717.4M in Q2 2022, yet POSITIVE $1,490.1M in Q3 2023
+(kkr_income_statement.json). This is not a KKR pathology — Carlyle printed
+-$132.2M in Q1 2026 (cg_income_statement.json), Blackstone -$29.4M in Q2 2022
+(bx_income_statement.json), and Ares -$35.5M in Q3 2022
+(ares_income_statement.json). GAAP is uninformative about durability for this
+whole peer set. "Durability" is therefore a non-GAAP argument, and the argument
+has to be won on the composition of segment earnings, not on the income
+statement. That is the burden this memo takes on.
+
+
+THEME 1 — FRANCHISE GROWTH AND FUNDRAISING MOMENTUM
+---------------------------------------------------
+Position: The growth is real, broad-based, and — critically — has migrated away
+from episodic flagship fundraising toward continuously-raised perpetual, credit,
+and wealth capital. That migration, not the headline AUM number, is what makes
+the growth durable.
+
+The scale change is generational. At the 2010 IPO, KKR managed $52.2B of AUM,
+~93% of it in ten-year drawdown private-equity funds (kkr_2010_s-1.txt). By
+Q1 2026 it managed $758B, of which $220B is Global Atlantic
+(kkr_2026q1_10-q.txt), on a stated +18% 15-year CAGR (kkr_2025_10-k.txt). The
+trajectory is unbroken across the panel: $470.6B (2021) -> $552.8B (2023,
+kkr_2023_10-k.txt) -> $637.6B (2024) -> $743.9B (2025) -> $757.9B (Q1 2026,
+kkr_2026q1_10-q.txt). Fee-paying AUM reached $614.8B in Q1 2026, up 17% YoY
+(kkr_2026-05-05_8-k.txt).
+
+The mix shift is the substance. Traditional private equity was over 70% of AUM
+at Dec 31, 2010 and is under 25% today (kkr_2025_10-k.txt). Credit & Liquid
+Strategies is now the largest business at $328.9B, ahead of PE at $231.0B and
+Real Assets at $197.9B (kkr_2026q1_10-q.txt). Perpetual capital — indefinite-
+term AUM with no requirement to return capital — reached $326B in Q1 2026, 43%
+of AUM and 51% of FPAUM, up 17% YoY (kkr_2026-05-05_8-k.txt). Management states
+that ~92% of AUM has at least an eight-year duration at inception or is
+perpetual (kkr_2025_10-k.txt). The private-wealth engine that barely existed
+three years ago — the K-Series — grew from $14B (Q3 2024) to $29B (Q3 2025,
+kkr_2025-11-07_8-k.txt) to $38B (Q1 2026, kkr_2026q1_10-q.txt). Recent
+fundraising is at or near records: $43B of new capital in Q3 2025, described as
+the highest quarterly figure in over four years, with $128B raised LTM
+(kkr_2025-11-07_8-k.txt); $127B LTM through Q1 2026 (kkr_2026-05-05_8-k.txt);
+and a record $126B of dry powder (kkr_2025-11-07_8-k.txt). The February 2026
+Arctos acquisition (~$16B of perpetual sports-franchise AUM at closing) is
+explicitly framed as lifting perpetual-and-long-dated capital to 53% of AUM
+(kkr_2026-02-05_8-k.txt; kkr_2026-05-05_8-k.txt).
+
+The strongest counter-evidence: fundraising is lumpy, and the flagship
+PE engine specifically has been weak. New capital raised by year swings hard:
+FY2023 was a trough at roughly $70B versus ~$81B in FY2022, and PE new capital
+collapsed to just $7B in FY2023 before recovering to $27B in FY2025
+(kkr_2023_10-k.txt; kkr_2025_10-k.txt). Capital invested fell from $71.4B
+(FY2022) to $44.0B (FY2023) before rebounding (kkr_2023_10-k.txt). If you
+believe the franchise runs on flagship PE vintages, you should be worried:
+FY2023 shows what a fundraising air-pocket looks like.
+
+Reconciliation: the FY2023 air-pocket is exactly the vulnerability the mix shift
+is designed to neutralize, and the data show it working. Even in the FY2023
+trough, Real Assets and Credit kept raising ($16B and $47B respectively,
+kkr_2023_10-k.txt), and total AUM still grew $49B. Growth has been rewired from
+"win the next $18B PE fund every four years" to "raise credit, infrastructure,
+wealth, and insurance capital every quarter." The lumpiness is real but it is
+increasingly confined to the shrinking PE slice, while the majority of the base
+is perpetual or long-dated. That is a durable growth machine, not a cyclical
+one.
+
+
+THEME 2 — FEE-RELATED EARNINGS DURABILITY AND OPERATING LEVERAGE
+----------------------------------------------------------------
+Position: FRE is the crown jewel and the true anchor of durability. It has
+compounded through every market environment, its margin is high and stable at
+~69%, and management engineered structural operating leverage into it. The one
+honest caveat is that a lumpy capital-markets fee stream is bundled inside "FRE"
+and should be mentally discounted.
+
+FRE has grown every single year, including the 2022-2023 downturn that turned
+GAAP net income negative: ~$269M at the IPO (kkr_2010_s-1.txt) -> $1,970M
+(FY2021) -> $2,167M (FY2022) -> $2,384M (FY2023) -> $3,268M (FY2024) -> $3,714M
+(FY2025), reaching an LTM $3.9B by Q1 2026 (kkr_2023_10-k.txt;
+kkr_2025_10-k.txt; kkr_2026-05-05_8-k.txt). Management fees alone — the purest
+annuity — hit $4.1B in FY2025, up ~18.5% YoY (kkr_2025_10-k.txt), and $4.4B LTM
+by Q1 2026 (kkr_2026-05-05_8-k.txt). Note that management fees ($4.1B) exceed
+total FRE ($3.7B): the recurring fee stream more than covers the entire
+fee-related cost base by itself. That is the definition of a durable earnings
+core.
+
+The margin is high and stable. FRE margin was 69% LTM at both Q3 2025 and Q1
+2026 (kkr_2025-11-07_8-k.txt; kkr_2026-05-05_8-k.txt), and the FY2025 10-K
+components confirm it independently ($3,714,313K / $5,375,202K of fee-related
+revenue = 69.1%, from kkr_2025_10-k.txt). Operating leverage is not an
+aspiration but a design choice: KKR cut the compensation range on fee-related
+revenues to 15-20% effective Q1 2024, which is why FRE grew +25.4% in Q2 2024
+while management fees grew only +13.1% and fee-related compensation actually FELL
+year-over-year (kkr_2024q2_10-q.txt). The fee-related comp ratio has since held
+near 17.5% (kkr_2026q1_10-q.txt).
+
+The strongest counter-evidence: not all of "FRE" is annuity-like. Transaction &
+monitoring fees — dominated by KKR Capital Markets — are deal-dependent and
+falling. Capital Markets transaction fees were $930M in FY2025, DOWN from the
+prior year (kkr_2025_10-k.txt), and total transaction & monitoring fees, net,
+fell to $252.7M in Q1 2026 from $261.5M a year earlier as deal count dropped to
+91 from 111 (kkr_2026q1_10-q.txt). The 10-K risk factors concede fee income
+"varies" with transaction pace and that faster exits can *reduce* future
+management fees (kkr_2025_10-k.txt). So FRE is not a pure bond coupon.
+
+Reconciliation: strip Capital Markets (~$0.9B of gross fees) out of FRE and what
+remains is a management-fee-driven core of roughly $3B+ that has never declined.
+The cyclical piece is real but it is a minority rider on top of an annuity, and
+even it is anchored by a growing perpetual base. The correct read: FRE is ~85%
+annuity, ~15% deal-cyclical — durable, with a discount applied to the capital-
+markets sliver.
+
+
+THEME 3 — INSURANCE EARNINGS ENGINE AND SPREAD ECONOMICS
+--------------------------------------------------------
+Position: Global Atlantic is a superb asset-gathering and float engine, but its
+standalone spread earnings are the LEAST durable of the buckets management calls
+"durable," and they are currently flat. The real, growing value is indirect:
+$164B of permanent credit AUM and ~$0.7B/year of intersegment fees that flow
+straight into the FRE annuity from Theme 2. Judge insurance on total insurance
+economics, not on its operating earnings line.
+
+The headline growth looks strong: Insurance Operating Earnings rose $775M
+(FY2021) -> $725M (FY2022) -> $817M (FY2023) -> $1,014M (FY2024) -> $1,109M
+(FY2025) (kkr_2023_10-k.txt; kkr_2025_10-k.txt). But two facts inside the data
+puncture the "durable growth" reading:
+
+1. Most of the FY2023->FY2024 step-up is a consolidation artifact, not spread
+   improvement. KKR bought the remaining Global Atlantic minority on Jan 2, 2024
+   (kkr_2024_10-k.txt); FY2023 operating earnings were shown after removing
+   $473M of noncontrolling interest (kkr_2025_10-k.txt). KKR simply owns more of
+   the same engine.
+
+2. The organic spread is flat and, on a gross basis, has not expanded. Q1 2026
+   Insurance Operating Earnings were $260.3M — essentially unchanged from
+   $258.8M in Q1 2025 — because net investment income rose to $1,900.6M but the
+   net cost of insurance rose FASTER to $1,453.3M, driven by higher crediting
+   rates and the run-off of older, low-rate business (kkr_2026q1_10-q.txt). The
+   gross spread (NII minus net cost) was ~$1,995M in FY2025, actually BELOW the
+   ~$2,095M of FY2023 (kkr_2025_10-k.txt). The engine is bigger; the spread per
+   dollar is not widening.
+
+The 10-K risk factors make explicit why spread durability is conditional, not
+assured: both rising and falling rates compress it (rising rates lift surrenders
+and force asset sales; falling rates cut reinvestment yields while KKR's "ability
+to lower crediting rates is subject to several constraints"); a ratings
+downgrade can trigger recapture or additional-collateral clauses tied to RBC
+ratios; reserve assumptions are inherently uncertain; and institutional
+new-business volume is episodic — it fell from $27.1B (FY2024) to $21.0B
+(FY2025) (all kkr_2025_10-k.txt). This is a spread-lending balance sheet with
+$200.4B of invested assets, $205.6B of gross policy liabilities, and $157.8B net
+(kkr_2025_10-k.txt), and it is the direct source of the GAAP volatility flagged
+at the top: management concedes that fair-value reporting of certain insurance
+investments and liabilities "has added, and is expected to add, volatility to
+our financial results from quarter to quarter" (kkr_2025_10-k.txt).
+
+Where the real value sits — and the strongest evidence for the bull case — is
+the intersegment linkage. Global Atlantic is a captive, permanent client for
+KKR's credit machine: it manages $164B of credit for GA (kkr_2026-05-05_8-k.txt)
+and GA pays Asset Management intersegment management fees of $673.9M in FY2025,
+up from $537.2M (FY2024) and $445.9M (FY2023) (kkr_2025_10-k.txt). Those fees
+are not booked in the insurance segment — they land inside the FRE annuity. When
+KKR frames the business correctly, it reports "total insurance economics" of
+$1,921M LTM at Q1 2026, up 14%, combining operating earnings with the fees GA
+pays to Asset Management (kkr_2026-05-05_8-k.txt). Global Atlantic book value
+grew to $11.7B (Q1 2026) from $9.5B a year earlier (kkr_2026-05-05_8-k.txt), and
+GA serves over 3.5 million policyholders (kkr_2025_10-k.txt).
+
+Reconciliation: the spread line is flat and rate-exposed, but the franchise
+value of a permanent $220B balance sheet that must buy KKR-originated credit is
+growing double digits. The right way to hold insurance is as a float-and-
+distribution engine feeding the fee annuity, where total insurance economics
+(+14%) is the metric — not as a spread play, where operating earnings (flat YoY)
+is the metric. Both numbers are in the data; management leads with the flattering
+frame, and I am adopting the frame that is analytically correct rather than the
+one that is flat.
+
+
+THEME 4 — EARNINGS-MIX QUALITY AND A DEFENSIBLE POSITION ON DURABILITY
+---------------------------------------------------------------------
+Position: Management's claim that ~85% of segment earnings are "durable and
+recurring" is directionally true and defensible — but it flattens a real quality
+gradient. I refine it into a ranked durability stack and land on a number I would
+actually underwrite.
+
+Management's frame: Total Operating Earnings (FRE + Insurance Operating Earnings
++ Strategic Holdings) reached an LTM $5.2B, described as 85% of the $6.1B Total
+Segment Earnings being "the more durable and recurring portions," up from 80% a
+quarter earlier (kkr_2026-05-05_8-k.txt; kkr_2025-11-07_8-k.txt). The remaining
+~15% is investing earnings — realized carried interest and realized investment
+income.
+
+The bear's counter is powerful and correct on its own terms: that ~15% tail is
+where the violence lives. Total Investing Earnings fell from $1,151M (FY2024) to
+$905M (FY2025) (kkr_2025_10-k.txt), and realized performance income swings ~2x
+quarter to quarter — $755,964K in Q1 2026 versus $347,920K in Q1 2025
+(kkr_2026q1_10-q.txt); $930,659K in Q3 2025 versus $391,920K in Q3 2024
+(kkr_2025q3_10-q.txt). Combined with the GAAP net losses cited at the top, a
+skeptic can fairly say "durability" is a label KKR applies to a number it
+constructs.
+
+Reconciliation — and my refinement. The skeptic proves that GAAP and carry are
+volatile; the skeptic does NOT prove the recurring core is volatile, and the
+data show it is not. FRE plus Insurance Operating Earnings — roughly $4.8B LTM —
+has risen every year through 2022-2023 and did not go negative in any period,
+even the quarters when GAAP net income did (kkr_2025_10-k.txt;
+kkr_income_statement.json). The volatility is genuinely quarantined in the carry
+tail. That is the empirical case for durability, and it holds.
+
+But "85% durable" treats four unlike things as one. Ranked by true durability,
+using the data:
+
+  1. Management fees (~$4.1-4.4B LTM) — MOST durable. Grew through every cycle,
+     anchored by 43% perpetual capital, exceed total FRE by themselves
+     (kkr_2025_10-k.txt; kkr_2026-05-05_8-k.txt).
+  2. Insurance intersegment fees + fee-related performance revenues (~$0.7B +
+     $0.2B) — durable and contractual; GA is a captive payer (kkr_2025_10-k.txt).
+  3. Insurance spread / Operating Earnings (~$1.1B LTM) — recurring but rate- and
+     spread-sensitive, currently FLAT organically, exposed to downgrade/recapture
+     (kkr_2026q1_10-q.txt; kkr_2025_10-k.txt).
+  4. Capital-markets transaction fees inside FRE (~$0.9B) — cyclical, deal-
+     dependent, falling, but labeled "recurring" (kkr_2025_10-k.txt;
+     kkr_2026q1_10-q.txt).
+  Then the volatile ~15%: realized carry and investment income
+  (kkr_2026q1_10-q.txt).
+
+My defensible number: I would underwrite ~80% of segment earnings as genuinely
+recurring — management fees, insurance economics (spread PLUS pull-through fees),
+and the annuity portion of fee-related revenue — a touch below management's 85%,
+because I move the capital-markets sliver toward "cyclical" and I refuse to
+credit the flat insurance spread as a growth engine. That is still the highest-
+quality mix in KKR's history and materially better than the drawdown-fund,
+carry-dependent firm of the 2010 S-1, whose ENI was two-thirds carried interest
+(kkr_2010_s-1.txt).
+
+The comparative angle, honestly bounded. The peer income statements confirm that
+GAAP volatility is universal and therefore not a KKR-specific insurance problem —
+BX, ARES, and CG all print negative GAAP quarters
+(bx/ares/cg_income_statement.json). What the data set does NOT contain is peer
+segment/insurance detail, so I cannot quantitatively prove the common claim that
+KKR's balance-sheet-owned insurance model is superior or inferior to an asset-
+light model. I flag this as a genuine gap rather than assert a conclusion the
+data cannot support. What I CAN say from the data: KKR's owned model is
+demonstrably monetizing — $673.9M of captive intersegment fees and rising
+(kkr_2025_10-k.txt) — at the cost of a $158B net insurance liability that injects
+GAAP volatility (kkr_2025_10-k.txt). The trade is being made deliberately, and on
+the fee-pull-through evidence, favorably.
+
+Capital return corroborates the durability claim without relying on GAAP: the
+dividend has risen every year since the 2018 C-corp conversion, to $0.195/quarter
+in Q1 2026 (kkr_2026-05-05_8-k.txt), funded from recurring earnings while the
+firm also bought back stock ($317M through May 1, 2026, plus a $500M authorization
+increase, kkr_2026-05-05_8-k.txt) and carries an 'A' rating with a ~3% after-tax
+cost of debt (kkr_2026-05-05_8-k.txt). A firm distributing a rising dividend
+through years when GAAP net income went negative is, in effect, staking its own
+credibility on the recurring core being real.
+
+
+BOTTOM LINE
+-----------
+KKR's earnings are durable — but own the reason, not the label. The durable
+engine is a perpetual-capital fee annuity (management fees > total FRE, ~69%
+margin, growth through every cycle) that the insurance balance sheet feeds
+through $164B of captive credit AUM and ~$0.7B of rising intersegment fees. The
+insurance SPREAD, which management foregrounds as durable operating earnings, is
+the weakest of the "recurring" buckets: flat year-over-year, no per-dollar
+expansion, and explicitly rate/downgrade-exposed. The wild GAAP swings and the
+2x carry gyrations are real but quarantined in the ~15% investing tail; the FRE +
+insurance core has never gone negative. Net: underwrite ~80% of segment earnings
+as recurring — the best mix in KKR's history — while pricing insurance as a
+float-and-distribution engine rather than a spread grower, and applying a
+discount to the capital-markets fees bundled inside FRE. The bull case is right
+that KKR is durable; it is wrong about which cylinder is firing.
+
+Notable ambiguities left open by the data (not smoothed over): (i) FRE margin is
+reported at 69% LTM but the whole-year 10-K denominator can be read to yield a
+few points lower depending on which fee-related revenues are included — I use
+~69% because the press-release figure and the 10-K component math agree at the
+LTM level; (ii) no standalone Global Atlantic GAAP equity line is disclosed, so
+"insurance book value" ($11.7B) and total firm book value ($33.2B) are not
+cleanly reconcilable from the data; (iii) peer insurance/segment economics are
+absent, so the owned-vs-asset-light insurance debate cannot be settled here;
+(iv) one KKR press release (kkr_2025-11-07_8-k.txt) contains a stale/mislabeled
+4Q'21-4Q'22 insurance table that must be excluded to avoid double-counting.

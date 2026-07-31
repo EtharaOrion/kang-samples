@@ -1,0 +1,5 @@
+Score: 0/4  (sparse=0)  judge=codex:gpt-5.6-sol
+Hallucinations: True
+Themes hit: []
+Themes missed: ['The Creative Cloud Moat and Recurring-Revenue Durability', 'Generative-AI Disruption and Competitive Threat', 'AI Monetization: Additive Growth or Defensive Reinvestment', 'Financial Durability and the Investment Verdict']
+Cited files: 17

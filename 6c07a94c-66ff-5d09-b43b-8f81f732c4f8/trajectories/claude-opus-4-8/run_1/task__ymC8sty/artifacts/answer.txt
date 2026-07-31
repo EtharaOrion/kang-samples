@@ -1,0 +1,91 @@
+SALESFORCE (CRM): GROWTH DECELERATION vs OPERATING-MARGIN EXPANSION
+A directional view — the numbers say Salesforce has finished becoming a value stock
+
+THESIS (position, not survey)
+Salesforce's FY26–Q1FY27 "re-acceleration" is largely manufactured. Reported revenue growth climbed from 8% to 13% Y/Y, but that entire acceleration is bought — the Informatica acquisition plus FX — while the organic core has stalled in a 7–9% band and shows no sign of breaking out. In parallel, the operating-margin expansion that carried the equity story since 2023 was overwhelmingly restructuring-driven, and that lever is now exhausted: GAAP margin has flat-lined near 20–21% and management's own guidance has it expanding only ~50bps in FY27. To keep the EPS line moving, Salesforce has levered up ~$29B to fund the largest buyback in its history. The Agentforce/Data 360 story is real but still sub-3% of revenue and perpetually promised "next half." Net: the "profitable growth" framework has tipped decisively toward profitable and away from growth. Salesforce now trades on capital return and multiple, not organic momentum — and the data supports treating it that way. Below I develop each theme and then engage the strongest counter-evidence (cRPO durability) rather than dodge it.
+
+────────────────────────────────────────────────────────
+THEME 1 — ORGANIC REVENUE GROWTH DECELERATION BENEATH ACQUISITION OPTICS
+────────────────────────────────────────────────────────
+The headline print looks like acceleration; the organic engine is flat-to-down.
+
+Reported revenue growth by quarter, with what actually drove it:
+• Q1 FY26 (Apr 2025): +8% Y/Y, +8% CC — clean organic; Informatica not yet signed at quarter-close (press_releases/crm_2025-05-28_8-k.txt).
+• Q2 FY26 (Jul 2025): +10% Y/Y but +9% CC — organic, with ~1pt FX tailwind; Informatica still not closed (press_releases/crm_2025-09-03_8-k.txt).
+• Q3 FY26 (Oct 2025): +9% Y/Y, +8% CC — still organic; Informatica closed Nov 18, 2025, AFTER quarter-end (press_releases/crm_2025-12-03_8-k.txt; press_releases/crm_2025-11-18_8-k.txt).
+• Q4 FY26 (Jan 2026): +12% Y/Y, +10% CC, "including $399 million Informatica contribution" (press_releases/crm_2026-02-25_8-k.txt).
+• Q1 FY27 (Apr 2026): +13% Y/Y, +12% CC, "including $444 million Informatica contribution" (press_releases/crm_2026-05-27_8-k.txt).
+
+Strip the acquisition and the acceleration disappears. In Q1 FY27, revenue was $11,133M (financials/income_statement/crm_income_statement.json). Remove the $444M of Informatica revenue and you get $10,689M against $9,829M a year earlier (same file) — organic growth of ~8.7%, i.e. right where it was in Q1 FY26 (8%). Do the same for Q4 FY26: the +12% print carried ~4pts of Informatica, leaving organic near 8% reported and ~6% in constant currency. The "acceleration" from 8% to 13% is ~3–4pts of bought revenue plus a weak-dollar FX tailwind. There is no organic acceleration in the reported line.
+
+Management's own FY27 guidance confirms this rather than refutes it. Full-year FY27 revenue is guided to $45.9–46.2B, up 11% Y/Y, but "including approximately 3pts Informatica contribution" (press_releases/crm_2026-05-27_8-k.txt) — i.e. the guide itself bakes in only ~8% organic growth for the full year. The 11% headline is a ~8% organic business wearing a ~3pt acquisition coat.
+
+Corroborating the demand-side softness: the FY2026 10-K reports an attrition rate of "approximately eight percent" as of Jan 31, 2026, excluding Slack self-service and current-year acquisitions (sec_filings/10-k/crm_2026_10-k.txt). Roughly 8% of the base churns annually — so ~8% gross growth means net expansion is thin. And the acquisition optics are not a one-off: beyond the ~$8B Informatica deal, the same 10-K discloses a cadence of bolt-ons feeding the top line and goodwill — Regrello ($818M, Oct 2025), Zoomin ($374M, Nov 2024), Spiff ($419M, Feb 2024) (sec_filings/10-k/crm_2026_10-k.txt). Growth is being supplemented by M&A because organic growth won't produce it.
+
+Peer context sharpens the point. Using the same data set: Oracle grew +22% Y/Y (Q3 FY26 $17.19B vs $14.13B; financials/income_statement/orcl_income_statement.json) and ServiceNow +22% (Q1 CY26 $3.77B vs $3.09B; financials/income_statement/now_income_statement.json). Adobe, the closest analog, grew ~13% ($6.62B vs $5.87B; financials/income_statement/adbe_income_statement.json). Salesforce's ~8% organic rate is the slowest of the four. When genuine AI-driven re-acceleration is happening in this cohort (Oracle, ServiceNow), it shows up in reported revenue — not in a footnote about acquisition contribution.
+
+────────────────────────────────────────────────────────
+THEME 2 — RESTRUCTURING-DRIVEN OPERATING-MARGIN EXPANSION AND ITS LIMITS
+────────────────────────────────────────────────────────
+The margin story was the real story of 2023–2025 — and it is now essentially over.
+
+The expansion was enormous and real. GAAP operating margin went from 5.0% in Q1 FY24 (operating income $412M on $8,247M revenue, a quarter carrying heavy restructuring/amortization; financials/income_statement/crm_income_statement.json) to ~20% by FY26 — a roughly 4x improvement. Q2 FY26 management explicitly framed it as "our tenth consecutive quarter of operating margin expansion" (press_releases/crm_2025-09-03_8-k.txt).
+
+But the fuel was cost-cutting, not operating leverage on growth. The 10-K is explicit: "We have undertaken various restructuring initiatives to improve operating margins... which have included a reduction of the Company's workforce, select data center exits, and office space reductions" (sec_filings/10-k/crm_2026_10-k.txt). Restructuring charges were $988M (FY24), $461M (FY25) and $586M (FY26) (same file). You can see the discipline in the P&L: sales & marketing fell from 38.2% of revenue in Q1 FY24 ($3,154M/$8,247M) to 33.9% in Q1 FY27 ($3,769M/$11,133M) (financials/income_statement/crm_income_statement.json). That is classic margin repair, extracted from opex.
+
+The limits are now visible in three places:
+
+1) The restructuring lever is spent. The 10-K states: "We do not expect to incur significant additional charges in connection with our restructuring initiatives in the near term," with only ~$220–250M of future cash payments remaining (sec_filings/10-k/crm_2026_10-k.txt). You cannot re-cut the same headcount twice.
+
+2) GAAP margin guidance walked DOWN through FY26, not up. Full-year FY26 GAAP operating-margin guidance went 21.6% (Q1 PR) → 21.2% (Q2) → 20.3% (Q3) → 20.1% actual (Q4) (press_releases/crm_2025-05-28, crm_2025-09-03, crm_2025-12-03, crm_2026-02-25). The Q3 cut coincided with the Informatica close — acquisition amortization and deal costs are now a GAAP margin drag. So the very deal that flatters Theme 1's revenue line depresses Theme 2's GAAP margin line.
+
+3) Forward expansion is now negligible. FY27 GAAP operating-margin guidance is 20.6% (press_releases/crm_2026-05-27_8-k.txt) — only ~50bps above FY26's 20.1%. Non-GAAP margin is guided to 34.3% vs 34.1% actual — ~20bps. After a 4x run, the margin engine has essentially stalled.
+
+Honest ambiguity worth flagging: the GAAP vs non-GAAP gap is huge — ~20% vs ~34% (press_releases/crm_2026-05-27_8-k.txt) — because non-GAAP excludes stock-based compensation, restructuring, and acquisition-intangible amortization (definition in press_releases/crm_2025-11-18_8-k.txt). Bulls will point to 34%; but the non-GAAP figure is precisely the one that assumes away Informatica's amortization and SBC dilution. On the honest, all-in GAAP basis, Salesforce is a ~20% operating-margin business that has stopped expanding — still below Adobe (~34–38%) and Oracle (~30%) in the same data (financials/income_statement/adbe_income_statement.json; orcl_income_statement.json). There is theoretical headroom, but no near-term catalyst to reach it now that the cutting is done.
+
+────────────────────────────────────────────────────────
+THEME 3 — AGENTFORCE, DATA 360 AND THE FORWARD RE-ACCELERATION BET
+────────────────────────────────────────────────────────
+This is the bull case and it is genuinely growing — but it is a bet on a promise that keeps sliding, and it is too small to move an ~$45B revenue base yet.
+
+What's real: Agentforce ARR surpassed $0.5B in Q3 FY26 (+330% Y/Y), reached $800M at FY26 year-end (+169%), and "$1.2 billion in Agentforce ARR, up 205% Y/Y" by Q1 FY27 (press_releases/crm_2025-12-03, crm_2026-02-25, crm_2026-05-27). Usage metrics are exploding: 28.6 trillion tokens processed to date (+152% Q/Q) and 3.8 billion Agentic Work Units delivered (+111% Q/Q) in Q1 FY27 (press_releases/crm_2026-05-27_8-k.txt). Data 360 ingested 52 trillion records in Q1 FY27 (+136% Y/Y) (same file). This is a real product with real adoption.
+
+But three facts puncture the "re-acceleration is here" narrative:
+
+1) It's tiny relative to the base. $1.2B of Agentforce ARR is under 3% of a ~$45B revenue run-rate. Even the combined "Agentforce and Data 360 ARR" of ~$3.4B (press_releases/crm_2026-05-27_8-k.txt) is <8% — and it cannot lift consolidated organic growth above 8% while the other 92% grows mid-single-digits.
+
+2) The flagship ARR metric itself carries acquisition optics — the same trick as Theme 1. "Agentforce and Data 360 ARR" jumped from ~$1.4B in Q3 FY26 to ~$2.9B at year-end "up over 200% Y/Y," but that figure explicitly "includ[es] $1.1 billion Informatica Cloud ARR" (press_releases/crm_2026-02-25_8-k.txt). Strip the acquired $1.1B and the organic AI/data ARR is ~$1.8–2.3B — still growing fast, but the "+200%" headline is inflated by folding an acquisition into the growth metric. Even the growth engine's own scoreboard has been dressed up.
+
+3) The re-acceleration date keeps moving. Management guided "NNAOV acceleration in H2 FY26" and then "organic revenue re-acceleration in the second half of FY27" (press_releases/crm_2026-02-25_8-k.txt), repeated in Q1 FY27 as "confident in delivering organic revenue acceleration in the second half of FY27" (press_releases/crm_2026-05-27_8-k.txt). Bookings acceleration was claimed for one half; revenue acceleration is promised for a half more than a year out. A re-acceleration that is always two to four quarters away is a forecast, not a result — and it is not yet in a single reported organic number.
+
+The bet may pay: Agentforce growing 200%+ off a small base can matter by FY29–30 (management targets "$60 billion plus organic revenue" and a "Profitable Growth Framework target of 50 by FY30" — press_releases/crm_2025-12-03_8-k.txt). But that is a multi-year option, not current momentum, and the burden of proof sits with H2 FY27.
+
+────────────────────────────────────────────────────────
+THEME 4 — CAPITAL RETURN, CASH FLOW AND THE PROFITABLE-GROWTH TRADE-OFF
+────────────────────────────────────────────────────────
+This theme resolves the others: with organic growth stalled and margins topped out, Salesforce is engineering shareholder returns — and has now put the balance sheet to work to do it.
+
+The scale of return is extraordinary. FY26 returned $14.3B ($12.7B buybacks + $1.6B dividends) (press_releases/crm_2026-02-25_8-k.txt). Then in Q1 FY27 alone Salesforce returned $27.5B — $27.1B of repurchases and $365M of dividends (press_releases/crm_2026-05-27_8-k.txt), confirmed by the $27,248M stock repurchase line in financials/cash_flow/crm_cash_flow.json. The Board authorized a fresh $50B program in Feb 2026 and immediately executed half of it via a $25B accelerated share repurchase — explicitly "the largest ASR in history" — delivering ~103 million shares upfront (press_releases/crm_2026-03-16_8-k.txt).
+
+Crucially, this was debt-funded, not cash-funded. Long-term debt jumped from $10.4B at Jan 31, 2026 to $39.3B at Apr 30, 2026 — ~$29B of new borrowing in one quarter (financials/balance_sheet/crm_balance_sheet.json), and management ties it directly to the buyback: OCF/FCF growth guidance was cut to "approximately 4% – 5% Y/Y to reflect the impact of the $25 billion debt issuance for the ASR" (press_releases/crm_2026-05-27_8-k.txt). Stockholders' equity fell from $59.1B to $34.2B over the same quarter (financials/balance_sheet/crm_balance_sheet.json) as the company retired equity with borrowed money.
+
+The trade-off is now explicit in the cash-flow trajectory. FY26 operating cash flow grew 15% to $15.0B (press_releases/crm_2026-02-25_8-k.txt), but FY27 OCF growth is guided to just 4–5% because interest on the new debt eats the growth (press_releases/crm_2026-05-27_8-k.txt); Q1 FY27 OCF was already up only 3% ($6.7B; financials/cash_flow/crm_cash_flow.json). Salesforce is converting cash-flow growth into share-count reduction.
+
+And that reduction is doing the heavy lifting on EPS. Q1 FY27 GAAP EPS of $2.42 was "up 52% Y/Y" (press_releases/crm_2026-05-27_8-k.txt), but net income rose only ~37% ($2,107M vs $1,541M) and operating income only ~21% ($2,347M vs $1,942M) (financials/income_statement/crm_income_statement.json). The gap is the buyback: diluted shares fell from 970M to 871M Y/Y, about -10% (same file). Roughly a third of the flashy EPS growth is share-count engineering, not operating performance. Benioff frames the ASR as conviction — "We are aggressively repurchasing shares because we are so confident in the future" (press_releases/crm_2026-03-16_8-k.txt) — but the honest read is that management sees retiring stock as a higher-return use of capital than either organic reinvestment or more M&A. That is a value-company allocation decision, made explicit.
+
+────────────────────────────────────────────────────────
+STRONGEST COUNTER-EVIDENCE, AND WHY IT DOESN'T OVERTURN THE VIEW
+────────────────────────────────────────────────────────
+The best bull rebuttal is the bookings/backlog data, which leads revenue by roughly a year and is holding up better than revenue:
+• cRPO grew +12% (Q1 FY26), +11% (Q2), +11% (Q3), +16% (Q4, though "including 4pts Informatica"), and +14% Y/Y / +13% CC in Q1 FY27 (press_releases: crm_2025-05-28, 2025-09-03, 2025-12-03, 2026-02-25, 2026-05-27).
+• Total RPO reached $72.4B at FY26 year-end, +14% Y/Y (press_releases/crm_2026-02-25_8-k.txt).
+If cRPO — a contracted, forward metric — is compounding at low-double-digits while revenue prints 8%, revenue could re-accelerate toward it. This is the real case, and I take it seriously.
+
+Reconciliation. Two things blunt it. First, apply the same acquisition-adjustment used throughout: Q4 FY26's +16% cRPO explicitly carried "4pts Informatica contribution" (press_releases/crm_2026-02-25_8-k.txt), so organic cRPO CC was ~9–10% — durable, but holding, not accelerating. Second, cRPO in the ~9–11% organic zone is only modestly above ~8% organic revenue; it points to stabilization near high-single/low-double digits, not a return to the mid-teens growth that would re-rate the stock. The forward book says "the floor is ~8–10%," which is a fine floor — but it is a floor, and it is exactly what management's own FY27 organic guide (~8%) already reflects. The bull metric and the bear read converge on the same number.
+
+The honest ambiguities I won't smooth over: (a) cRPO genuinely leads revenue, so if organic cRPO CC holds ~9–10% there is real, if modest, upside to the 8% revenue trend — I weight this as "stabilization," others may weight it as "early re-acceleration." (b) The non-GAAP margin (~34%) tells a much prettier story than GAAP (~20%); which you believe depends on how you treat SBC and Informatica amortization. (c) Q4 FY25 revenue used for some organic comparisons is inferred from the FY26 quarterly file and the FY26 total of $41.5B, not directly reported. (d) Salesforce's odd Jan-31 fiscal year means "FY27 Q1" is the quarter ended April 30, 2026 — noted to avoid mislabeling.
+
+────────────────────────────────────────────────────────
+UNIFIED CONCLUSION
+────────────────────────────────────────────────────────
+The four themes tell one coherent story, and every strand points the same way. Organic growth has settled at ~8% and is being dressed up to ~11–13% by Informatica and FX (Theme 1). The margin expansion that justified the 2023–2025 re-rating was restructuring-fueled and has hit its ceiling near 20% GAAP, with guidance now essentially flat (Theme 2). The Agentforce/Data 360 bet is real and fast-growing but still <3% of revenue, with its own ARR metric inflated by the same acquisition and its re-acceleration payoff perpetually deferred to "H2 FY27" (Theme 3). So management is doing what a mature cash machine does: borrowing ~$29B to retire ~10% of the share count and manufacture 50%+ EPS growth out of ~20% operating-income growth, at the cost of collapsing cash-flow growth to 4–5% (Theme 4). Reconciled, the picture is unambiguous: Salesforce's "profitable growth" framework has resolved to profitable, not growth. It should be underwritten as a levered, cash-returning, ~20%-margin, ~8%-organic-grower — a value stock with a lottery ticket on agentic AI — not as the re-accelerating growth story the headline numbers are engineered to imply. The one datum that could break this view is a clean organic revenue print in the low double digits in H2 FY27; until that arrives, the burden of proof is on the bull, and the data leaves it unmet.

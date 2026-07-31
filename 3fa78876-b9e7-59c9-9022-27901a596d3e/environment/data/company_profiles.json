@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "REGN",
+    "cik": "0000872589",
+    "companyName": "REGENERON PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "sicDescription": "Pharmaceutical Preparations",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "NY",
+    "fiscalYearEnd": "1231",
+    "city": "TARRYTOWN",
+    "stateOrCountry": "NY"
+  },
+  {
+    "symbol": "VRTX",
+    "cik": "0000875320",
+    "companyName": "VERTEX PHARMACEUTICALS INC / MA",
+    "sic": "2834",
+    "sicDescription": "Pharmaceutical Preparations",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "MA",
+    "fiscalYearEnd": "1231",
+    "city": "BOSTON",
+    "stateOrCountry": "MA"
+  },
+  {
+    "symbol": "GILD",
+    "cik": "0000882095",
+    "companyName": "GILEAD SCIENCES, INC.",
+    "sic": "2836",
+    "sicDescription": "Biological Products, (No Diagnostic Substances)",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "FOSTER CITY",
+    "stateOrCountry": "CA"
+  },
+  {
+    "symbol": "BIIB",
+    "cik": "0000875045",
+    "companyName": "BIOGEN INC.",
+    "sic": "2836",
+    "sicDescription": "Biological Products, (No Diagnostic Substances)",
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "category": "Large accelerated filer",
+    "stateOfIncorporation": "DE",
+    "fiscalYearEnd": "1231",
+    "city": "CAMBRIDGE",
+    "stateOrCountry": "MA"
+  }
+]

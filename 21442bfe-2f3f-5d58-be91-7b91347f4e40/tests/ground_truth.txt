@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Severity and Shape of the Ag Downturn
+Deere's guidance frames a sharp large-ag contraction, but the shape (a deepening decline versus a bottoming trough) is contested by the demand drivers and used-equipment dynamics in the filings. The analyst must gauge how deep and how durable the downturn is.
+[a] Quantify the depth of the large-ag correction using the Fiscal 2026 industry outlook — U.S. & Canada Large Ag guided Down 15 to 20% and South America tractors & combines down ~15% — and connect it to the guided Production & Precision Ag segment net sales outlook of Down 5 to 10%
+[b] Trace the multi-year top-line and net-income trajectory across the income statement to show whether the trough is forming or still descending (e.g., the step-down in Q2 net sales/net income from fiscal 2024 peaks through fiscal 2025 into fiscal 2026)
+[c] Weigh the counter-signals the 10-K cites for large-ag demand — challenging row-crop farm fundamentals and pressured short-term liquidity against a used-equipment market that is improving but still constrains new-machine investment, plus strong crop yields and biofuel demand
+Source: press_releases/de_2026-05-21_8-k.txt, sec_filings/10-k/de_2025_10-k.txt, sec_filings/10-q/de_2026q2_10-q.txt, financials/income_statement/de_income_statement.json
+
+2. Segment Divergence and Diversification Cushion
+The ag-cycle pain in Production & Precision Ag is being partially masked by strength in Construction & Forestry and Small Ag & Turf, raising the question of whether Deere's mix structurally cushions the downturn or merely delays its impact.
+[a] Decompose the Q2 net income bridge, where lower PPA shipment volumes of $313 were partially offset by higher CF volumes of $148, higher SAT volumes of $79, and favorable price realization of $131, so consolidated net income decreased only $31
+[b] Contrast the divergent Fiscal 2026 segment outlooks — PPA net sales Down 5 to 10% against Small Ag & Turf up ~15% and Construction & Forestry up ~20% — to assess how much non-large-ag demand offsets the core ag trough
+[c] Test the durability of the offset by asking whether CF and SAT strength is cyclical/temporary or structural, using the segment-level demand drivers in the outlook and 10-K
+Source: sec_filings/10-q/de_2026q2_10-q.txt, press_releases/de_2026-05-21_8-k.txt, sec_filings/10-k/de_2025_10-k.txt, financials/income_statement/de_income_statement.json
+
+3. Precision-Agriculture Durability and Recurring Value
+Deere's thesis is that precision technology and Solutions as a Service create value that persists through equipment down-cycles; the analyst must test whether this recurring/aftermarket layer is genuinely counter-cyclical or still tied to new-machine sales.
+[a] Characterize the precision-ag monetization model from the 10-K — Solutions as a Service (SaaS), precision upgrades regardless of when a customer purchases equipment, and retrofit/aftermarket solutions sold through the dealer network — and assess whether it decouples technology revenue from unit shipments
+[b] Evaluate whether Deere is protecting the precision-ag franchise through the downturn by examining continued research-and-development investment in the income statement rather than cutting it to defend margins
+[c] Confront the strongest counter-evidence that precision revenue is not yet downturn-proof — that precision guidance and telematics revenue is embedded in equipment and Other income, and that the used-equipment market's role in constraining new sales limits the installed-base growth that recurring revenue depends on
+Source: sec_filings/10-k/de_2025_10-k.txt, financials/income_statement/de_income_statement.json, sec_filings/10-q/de_2026q2_10-q.txt
+
+4. Cost, Tariff, and Margin Pressure — Net Position on Resilience
+Even where volumes hold, tariffs and higher production costs are compressing profitability, so the analyst must reconcile downturn severity, diversification, and precision-ag durability into a single defensible call on Deere's earnings resilience.
+[a] Isolate the cost headwinds in the Q2 results — increased production costs from higher material and freight costs and higher warranty expenses of $64, plus tariffs imposed under the IEEPA regime flagged in the outlook — and show how price realization is being used to defend margins
+[b] Assess the credibility of management maintaining full-year net income guidance despite lower PPA volumes, judging whether pricing and mix can sustainably absorb tariff and material-cost inflation
+[c] Reconcile the bearish signals (large-ag Down 15 to 20%, PPA volume declines, cost/tariff pressure) against the bullish ones (diversified segment strength, maintained guidance, precision-ag recurring value) into an explicit, unified position on whether Deere is near a durable trough or facing further downside — do not merely list both sides
+Source: sec_filings/10-q/de_2026q2_10-q.txt, press_releases/de_2026-05-21_8-k.txt, sec_filings/10-k/de_2025_10-k.txt, financials/income_statement/de_income_statement.json

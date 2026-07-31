@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. The Shape and Quality of the Comparable-Sales Recovery
+Whether Lowe's return to positive comps is a genuine demand recovery or a thin, ticket-driven inflection against a weak backdrop.
+[a] Trace the quarterly cadence through fiscal 2025 — comparable sales of -1.7% in Q1, +1.1% in Q2, +0.4% in Q3 and +1.3% in Q4, netting to +0.2% for the year — and extend it to the fourth consecutive quarter of positive comps most recently reported
+[b] Decompose the comp into a 3.0% increase in average ticket offset by a 2.8% decline in transactions, and judge whether ticket-led growth (partly inflation and mix) is lower quality than transaction-led growth
+[c] Connect the recovery to the still-difficult housing macro the 10-K cites, weighing category strength (e.g. appliances, Pro, online) against soft big-ticket discretionary demand
+Source: sec_filings/10-k/low_2026_10-k.txt, press_releases/, sec_filings/10-q/low_2026q2_10-q.txt, financials/income_statement/low_income_statement.json
+
+2. Pro Penetration and the Total Home Strategy
+Pro is Lowe's primary growth lever; the question is whether penetration is deepening organically or being purchased through acquisitions.
+[a] Explain the Total Home strategy's Pro pillar and the shift toward serving the larger Pro customer, evidenced by the acquisitions of Foundation Building Materials (FBM) and Artisan Design Group (ADG) and the buildout of over 540 branch locations
+[b] Separate organic Pro momentum (Pro product assortment, loyalty program, job-site delivery, online growth) from the inorganic revenue and acquisition-related expenses those deals add, which the 10-K quantifies as pre-tax transaction and amortization costs
+[c] Assess whether Lowe's Pro mix — historically weighted to small and medium Pros versus the larger contractor base — is a structural gap versus Home Depot
+Source: sec_filings/10-k/low_2026_10-k.txt, press_releases/, financials/income_statement/low_income_statement.json
+
+3. Competitive Benchmarking Against Home Depot
+The topic demands a direct comparison; a strong answer measures Lowe's against Home Depot on scale, growth and profitability rather than analyzing Lowe's in isolation.
+[a] Compare revenue scale and growth using the income statements, situating Lowe's fiscal 2025 net sales of roughly $86.3 billion (up 3.1%) against Home Depot's larger base
+[b] Compare profitability and margin trajectory, and note that Home Depot's own Pro and complex-project push (via its distribution acquisitions) directly contests Lowe's Pro strategy
+[c] Use the peer income statements and cash flows (HD, and where useful SHW or TSCO) to test whether any Lowe's comp outperformance is company-specific or simply a category-wide move
+Source: financials/income_statement/hd_income_statement.json, financials/income_statement/low_income_statement.json, financials/cash_flow/hd_cash_flow.json, company_profiles.json
+
+4. Margins, Capital Allocation and a Reconciled Call
+Whether the recovery translates into durable per-share value once acquisition drag, margin guidance and buybacks are accounted for.
+[a] Reconcile the modest comp recovery with earnings: fiscal 2025 net earnings of roughly $6.7 billion and diluted EPS of $11.85 (down from $12.23) despite higher sales, isolating the acquisition-related drag from underlying operations
+[b] Weigh capital allocation — dividends and buybacks — against the incremental invested capital and expense from the FBM and ADG deals
+[c] Take an explicit, reconciled position on whether Lowe's is genuinely closing the gap with Home Depot on Pro and comps, or whether the recovery is fragile and acquisition-flattered, rather than surveying both sides
+Source: sec_filings/10-k/low_2026_10-k.txt, financials/income_statement/low_income_statement.json, financials/balance_sheet/low_balance_sheet.json, financials/cash_flow/low_cash_flow.json, press_releases/

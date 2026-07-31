@@ -1,0 +1,32 @@
+schema_version = "1.1"
+
+# Collected into each trial directory after verification (see instruction.md).
+artifacts = [
+  "/app/answer.txt",
+  "/app/results",
+  "/logs/agent/trajectory.json",
+]
+
+[task]
+name = "trata/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge"
+description = "Assess whether RTX's commercial-aftermarket recovery at Collins Aerospace and Pratt & Whitney is outrunning the multi-year cash drag from the GTF powder-metal fleet management charge, and take a clear position grounded in RTX's SEC filings and press releases."
+authors = [{ name = "Trata" }]
+keywords = ["finance", "analysis", "RTX"]
+
+[metadata]
+uuid = "25b84749-a4ad-5f29-9e10-bc7281b8b45c"
+difficulty_explanation = "The agent must separate a 2023 accounting charge from its still-unwinding cash consequences (accrual drawdown through 2026), distinguish genuine aftermarket-driven margin recovery at Pratt & Whitney from a base-effect artifact of the charge no longer recurring, and reconcile segment-level, consolidated, and peer-comparison data into one defensible position rather than a balanced survey."
+category = "finance"
+
+[verifier]
+timeout_sec = 300.0
+env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 8192
+storage_mb = 10240

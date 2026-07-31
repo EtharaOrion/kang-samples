@@ -1,0 +1,31 @@
+The rubric scores whether the agent makes the specific analytical moves a competent analyst would make using /app/data/. Concept match (not vocabulary match) is sufficient — example phrasings illustrate the move; equivalent framings satisfy it.
+
+The SYNTHESIS REQUIREMENT: a perfect 4/4 requires at least one explicit synthesis where opposing data points are reconciled, not just listed in parallel. State this abstractly — do NOT include worked synthesis examples. The GROUNDING RULE: every move must be supportable from a specific file in /app/data/. Hallucinated claims are taint-discounted — any move whose supporting evidence is fabricated will not count toward theme coverage.
+
+1. Post-Outage Revenue and ARR Growth Trajectory
+The core question is whether top-line and ARR growth have re-accelerated after the July 19, 2024 Incident; the analyst must establish the recent trajectory and management's forward guidance.
+[a] Establish Q1 FY27 growth — total revenue of $1.39 billion (up 26%), subscription revenue of $1.32 billion (up 26%), and ARR of $5.51 billion (up 24% Y/Y) as of April 30, 2026
+[b] Highlight net new ARR momentum — record Q1 net new ARR of $256 million, up 32% Y/Y — and the raised FY27 net new ARR growth guidance of 27.7% at the midpoint, described as an acceleration over the prior fiscal year
+[c] Anchor this against the July 19 Incident, which the 10-K states caused certain customers to defer or decide against purchases and to terminate or not renew contracts
+Source: press_releases/crwd_2026-06-03_8-k.txt, sec_filings/10-k/crwd_2026_10-k.txt, financials/income_statement/crwd_income_statement.json
+
+2. Retention Durability and the Cost of Customer Commitment Packages
+Retention is the sharpest test of post-outage loyalty, but the headline retention figure was defended with concessions; the analyst must weigh both.
+[a] Anchor the 115% dollar-based net retention rate as of January 31, 2026 as the central evidence of retained and expanding customer spend
+[b] Weigh the customer commitment packages — subscription period extensions, discounts and promotional modules — the 10-K discloses as incentives that support retention but can weigh on near-term ARR
+[c] Use expansion signals — module adoption rates of 51%, 35% and 25% for six-or-more, seven-or-more and eight-or-more modules, plus Falcon Flex momentum — as evidence of land-and-expand durability
+Source: sec_filings/10-k/crwd_2026_10-k.txt, press_releases/crwd_2026-06-03_8-k.txt
+
+3. GAAP Losses Versus Non-GAAP and Cash-Flow Profitability
+The growth story sits on top of still-negative GAAP margins; the analyst must reconcile the GAAP/non-GAAP gap and judge the quality of the cash generation.
+[a] Contrast Q1 FY27 GAAP operating margin of (2)% with non-GAAP operating margin of 24%, noting GAAP operations remain unprofitable
+[b] Weigh record cash generation — cash flow from operations of $590.9 million and free cash flow of $468.5 million (34% free-cash-flow margin) — against the negative GAAP result
+[c] Identify the drivers of the GAAP/non-GAAP wedge — July 19 Incident costs, legal reserve and settlement charges, and stock-based compensation excluded from non-GAAP measures
+Source: press_releases/crwd_2026-06-03_8-k.txt, sec_filings/10-k/crwd_2026_10-k.txt, financials/cash_flow/crwd_cash_flow.json
+
+4. Competitive and Legal Overhang — Verdict on Durability
+Competitors and litigation stemming from the outage remain live risks; a defensible conclusion must reconcile strong growth and retention against these overhangs.
+[a] Assess the competitive threat the 10-K flags — that certain competitors "aggressively approached" CrowdStrike's customers and partners to capitalize on the July 19 Incident, against legacy vendors and consolidation pressure
+[b] Weigh the legal and regulatory overhang — securities litigation, derivative suits, putative consumer class actions and governmental inquiries related to the incident — and note the ~$4.2 billion backlog as a demand cushion
+[c] Take an explicit position on whether CrowdStrike's security-growth durability and retention have proven resilient post-outage, reconciling the strong ARR/net-new-ARR and 115% retention against persistent GAAP losses, incentive costs, and unresolved litigation
+Source: sec_filings/10-k/crwd_2026_10-k.txt, press_releases/crwd_2026-06-03_8-k.txt
