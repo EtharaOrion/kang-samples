@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Usage-Based Revenue Durability and Optimization Risk', 'Customer Concentration in the AI-Native Cohort', 'Platform Breadth Versus Point-Solution Competition', 'Margin Profile and the Growth-Durability Verdict']
+Themes missed: []
+Cited files: 17

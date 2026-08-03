@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-08-03T09:39:27.291544Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "/Users/user/.local/bin/harbor",
+        "run",
+        "-p",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task",
+        "-a",
+        "codex",
+        "-m",
+        "gpt-5.6-sol",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
+        "-o",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "RewardFileEmptyError",
+            "RewardFileNotFoundError",
+            "VerifierOutputParseError",
+            "AgentTimeoutError",
+            "VerifierTimeoutError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:8de1b7c8728da1b1815e9e5801cea58081bd300a5f11848a16232fc128db06fe",
+                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "codex",
+                "model_name": "gpt-5.6-sol",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
+                    "digest": "sha256:0ea136b17e8ce5521b7e794fcd7214872cecd87b1cc5a43ff54b94d000232d4b"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-08-03T10:20:10.408426Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "/Users/user/.local/bin/harbor",
+        "run",
+        "-p",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task",
+        "-a",
+        "codex",
+        "-m",
+        "gpt-5.6-sol",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
+        "-o",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "VerifierOutputParseError",
+            "VerifierTimeoutError",
+            "RewardFileEmptyError",
+            "RewardFileNotFoundError",
+            "AgentTimeoutError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:c473faf1786504f38badb5301dd86c5bec43ee4aee9402ebbf24bcbfff29dc60",
+                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "codex",
+                "model_name": "gpt-5.6-sol",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
+                    "digest": "sha256:23d33dc2e96a616c9570be504c1aa88e90aa880ac16ceb41b824ee32b1d4c7ee"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

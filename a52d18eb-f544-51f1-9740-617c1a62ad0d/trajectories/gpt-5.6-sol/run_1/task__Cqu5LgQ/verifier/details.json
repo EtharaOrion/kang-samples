@@ -1,0 +1,115 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "U.S. Reacceleration vs. International Deceleration in Same-Store Sales",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent contrasts FY2025 U.S. comps of 3.0% and the full quarterly path, and gives Q1 2026 U.S. 0.9% (rolling over a 0.5% decline) versus international -0.4% (lapping a 3.7% comparison), satisfying the contrast.",
+        "b": "Agent attributes U.S. gains to higher transaction counts and average ticket plus product launches (Parmesan Stuffed Crust, Best Deal Ever), rather than treating the comp as one number.",
+        "c": "Agent explicitly assesses whether 0.9% against a hard 3.7% rollover supports 'recovery' framing, concluding 'reacceleration describes the 2025 rebound more accurately than the latest run-rate' and that it is a narrower/more fragile thesis."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Unit-Growth Durability, Fortressing, and the Master-Franchise Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies FY2025 net growth of 776 (172 net U.S.) and Q1 2026 net openings with 19 U.S. / 161 international, noting international carries the vast majority of additions.",
+        "b": "Agent engages fortressing tension: denser networks shrink delivery areas but Domino's warns it can cannibalize existing stores, depress margins, and raise closures if executed too quickly.",
+        "c": "Agent evaluates master-franchise dependency (DPC Dash equity swing, DPE concentration) and ties international unit growth risk to closure normalization and franchisee economics."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Aggregator Channel, Loyalty, and the \"Hungry for MORE\" Sales Model",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes the Uber and DoorDash multinational agreements and aggregation marketplace as a transaction-count driver within Hungry for MORE.",
+        "b": "Agent engages the filing's caveat that aggregator orders may carry lower store-level profitability than owned channels, and discusses loyalty/Rewards and owned-digital/carryout mix as offsetting levers.",
+        "c": "Agent judges quality: credits aggregators with broadening reach but explicitly declines to assume those orders are equally profitable or fully incremental, noting missing disclosure."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Economic Engine and Competitive Position: Does the Recovery Hold?",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "Agent connects retail sales to royalty, advertising and supply-chain revenue mechanics, cites Q1 2026 revenue growth of 3.5% and supply-chain/segment operating income figures; the international segment adjusted operating income +9.1% is a flagged (derived/unstated) figure, tainting this move's evidence.",
+        "b": "Agent situates competitively \u2014 Pizza Hut/Papa John's/Little Caesars plus aggregators \u2014 and tests the U.S. QSR share-gain claim (22.5% to 23.3%), noting Circana data caveats; references peer/model context.",
+        "c": "Agent explicitly reconciles opposing signals (reaccelerating-then-cooling U.S. comp and unit growth versus international comp deceleration, hard rollovers, margin-dilutive mix) into a single conditional positive verdict that it is not a clean same-store-sales recovery."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "U.S., supply-chain and international segment adjusted operating income rose 2.7%, 3.0% and 9.1%, respectively",
+      "cited_file": "data/sec_filings/10-q/dpz_2026q1_10-q.txt",
+      "issue": "The 9.1% international figure is not stated in the passages; the passage gives U.S. +2.7% and supply chain +3.0% explicitly, and international rose from $63.7M to $69.5M (which is ~9.1% by calculation, but the percentage is not stated as such in text). The 2.7% and 3.0% are verified.",
+      "evidence_check": "Searched passages: found 'increased $3.5 million, or 2.7%' (U.S.) and 'increased $1.9 million, or 3.0%' (supply chain). International shown as $69.5 vs $63.7 but no stated 9.1%. This is a derived figure, not fabricated."
+    },
+    {
+      "claim": "its supply-chain profit-sharing arrangements return 50% of pre-tax center profit to participating U.S. and Canadian stores",
+      "cited_file": "data/sec_filings/10-k/dpz_2025_10-k.txt",
+      "issue": "Verified \u2014 passage states '50% of the pre-tax profit from the Company's supply chain center operations.' Not a hallucination.",
+      "evidence_check": "Found '50% of the pre-tax profit' in passages. Confirmed."
+    }
+  ],
+  "synthesis_found": "Yet negative international comps do not equal a shrinking international system. First-quarter 2026 international retail sales still grew 4.0% excluding currency while comps declined 0.4%, and 161 net international stores opened in the quarter. That is the central reconciliation: new units can more than offset weak mature-store sales at the system level.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/dpz_2025-07-21_8-k.txt",
+    "press_releases/dpz_2025-10-14_8-k.txt",
+    "press_releases/dpz_2026-02-23_8-k.txt",
+    "press_releases/dpz_2026-04-27_8-k.txt",
+    "sec_filings/10-k/dpz_2023_10-k.txt",
+    "sec_filings/10-k/dpz_2024_10-k.txt",
+    "sec_filings/10-k/dpz_2025_10-k.txt",
+    "sec_filings/10-q/dpz_2024q2_10-q.txt",
+    "sec_filings/10-q/dpz_2025q1_10-q.txt",
+    "sec_filings/10-q/dpz_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 85,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

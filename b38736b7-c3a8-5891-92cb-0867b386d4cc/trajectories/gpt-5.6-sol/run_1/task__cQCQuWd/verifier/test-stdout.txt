@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Membership Fee Revenue Growth and the Fading Fee-Increase Tailwind', 'Renewal-Rate Durability and Membership-Mix Headwinds', 'Thin Retail Margin and the Membership-Fee Profit Engine', 'Base-Expansion Durability vs. Cannibalization, Concentration, and Competition']
+Themes missed: []
+Cited files: 11

@@ -1,0 +1,102 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "EYLEA Franchise Erosion: Biosimilar Competition and the Patent Litigation Endgame",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies erosion using FY figures ($4.767B to $2.748B in 2025, a ~42% decline) and the Q1 2026 36% decline ($736M to $473M), and characterizes it as still severe while noting combined erosion improved from 27% to 10%.",
+        "b": "Agent separates the drivers management cites \u2014 competitive/biosimilar pressure, transition to EYLEA HD, and loss of share to compounded bevacizumab due to affordability constraints \u2014 and notes the causal split is ambiguous rather than pure biosimilar erosion.",
+        "c": "Agent maps the settlement calendar (Mylan/Biocon H2 2026, Sandoz/Formycon Q4, Celltrion Dec 31 2026, Samsung Jan 2027) against Pavblu's launch and characterizes settlements as a 'controlled runway measured in quarters,' not durable protection. The flagged Sandoz-injunction claim is peripheral international color and not the evidentiary basis for this move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "EYLEA HD as the Offset Engine: Growth Rate vs. Dollar Sufficiency",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent compares absolute dollars: HD added $162M YoY while legacy EYLEA fell $263M, leaving combined U.S. franchise down $101M to $942M, showing HD growth has not fully offset EYLEA decline in dollars.",
+        "b": "Agent tracks the mix shift: HD reached 50% of the combined U.S. franchise in Q1 2026 versus 37% for FY2025, explicitly noting mix conversion differs from dollar replacement.",
+        "c": "Agent flags the pre-filled syringe delay (FDA failed to act by April 2026 target date, Catalent resubmitted after reinspection) as an execution risk on the administration-format differentiation."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Dupixent Collaboration Profit as the Real Diversification Buffer",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies the buffer: collaboration profit rose to $5.242B in 2025 from $3.924B, and Q1 2026 profit share of $1.451B versus $1.018B, noting it now exceeds total U.S. EYLEA net sales.",
+        "b": "Agent uses declining revenue concentration: Q1 2026 Sanofi collaboration at 45% of revenue versus 26% for EYLEA HD+EYLEA, showing center of gravity moved and erosion is diluted by non-EYLEA growth, not merely offset.",
+        "c": "Agent weighs the structural risk that Regeneron does not control commercialization (Sanofi does), frames it as concentration migration, and notes pipeline binary risk including itepekimab's mixed Phase 3 (one COPD trial missed primary endpoint)."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Pipeline Breadth Beyond Dupixent and the Verdict on Offset Sufficiency",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies Libtayo: global sales grew to $1.452B in 2025 from $1.217B, and Q1 2026 up 54%/$153M, noting ROW growth, as a smaller genuine diversification leg.",
+        "b": "Agent notes Ordspono's July 2025 CRL tied to a third-party fill site alongside rising R&D expense ($5.850B in 2025; $1.544B in Q1 2026), observing it has not produced a Dupixent-scale revenue leg.",
+        "c": "Agent explicitly reconciles the conflict \u2014 19% Q1 2026 revenue growth despite 10% franchise contraction and 36% EYLEA decline \u2014 into a defended position: the transition is manageable near-term but only because one collaboration asset (Dupixent) carries it, not because pipeline breadth solved it."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "one German Sandoz injunction was suspended on appeal and then withdrawn",
+      "cited_file": "sec_filings/10-k/regn_2025_10-k.txt; sec_filings/10-q/regn_2026q1_10-q.txt",
+      "issue": "No passage supports a Sandoz German injunction being suspended on appeal and then withdrawn. The 10-K describes a January 2026 Munich preliminary injunction against Sandoz (among others); the 10-Q mentions a Sandoz German injunction but the specific 'suspended on appeal and then withdrawn' sequence is not present in any provided passage.",
+      "evidence_check": "Searched for 'Sandoz' German injunction suspended/withdrawn language; passages show injunctions granted but no suspension-then-withdrawal narrative."
+    }
+  ],
+  "synthesis_found": "The EYLEA cliff is being bridged, not replaced. At the top-line level, the bridge is sufficient today: Regeneron held 2025 revenue slightly positive and produced 19% first-quarter 2026 revenue growth despite continued EYLEA erosion. ... Until non-Dupixent products produce substantially more revenue\u2014or HD's dollar gains consistently exceed legacy EYLEA losses\u2014the offset remains sufficient only because one collaboration asset is carrying it.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/regn_2026-01-30_8-k.txt",
+    "press_releases/regn_2026-04-29_8-k.txt",
+    "sec_filings/10-k/regn_2024_10-k.txt",
+    "sec_filings/10-k/regn_2025_10-k.txt",
+    "sec_filings/10-q/regn_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 85,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

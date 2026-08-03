@@ -1,0 +1,135 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Unit-Revenue Durability as ASMs Grow",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent traces PRASM falling to 16.18 and TRASM to 17.88 while ASMs grew 6.1% in 2025, establishing capacity dilution of unit revenue.",
+        "b": "Agent contrasts Q1 2026 PRASM up 7.4%, TRASM growth 6.9%, yield up 4.2%, against 3.4% ASM growth, judging pricing power restored under slower growth.",
+        "c": "Agent decomposes by geography (Pacific PRASM up 3.0% vs domestic down 4.1%, etc.) and cites load factor falling to 82.2% in 2025 and rising 2.4 points in Q1 2026."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Premium and Loyalty Mix as Unit-Revenue Defense",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent sizes the loyalty engine with mileage partner revenue rising to $3.2B in 2025 and flight awards at 10.3% of RPMs, citing co-brand card spending.",
+        "b": "Agent tracks ancillary revenue rising $4.1B to $4.5B to $4.8B and premium seat/product segmentation as structural support.",
+        "c": "Agent explicitly evaluates other operating revenue growing 10.4% versus 3.5% company revenue, cushioning TRASM as PRASM softens."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cost Trajectory (CASM and Fuel) versus Margin",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent traces CASM falling to 16.46 in 2025 and separates the fuel tailwind (price per gallon $2.65 to $2.44) from underlying cost movement.",
+        "b": "Agent shows Q1 2026 CASM growth 4.4% with fuel per gallon up 9.9%, salaries up 9.8%, maintenance 16.8%, assessing margin threat.",
+        "c": "Agent reconciles unit-cost picture against operating margin quarter by quarter, testing whether revenue gains outrun cost inflation and headcount growth."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive Capacity Discipline and the Durability Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "Agent benchmarks United's Q1 2026 operating margin ~6.8% against Delta 3.2%, Southwest 4.6%, American -0.3% using peer income statements and profiles; the peer margin figures for DAL/LUV/AAL are flagged as hallucinated.",
+        "b": "Agent weighs the 10-K's industry price-discounting risk against United's 6.1% ASM growth and the United Next fleet ramp (630+ deliveries), judging discipline.",
+        "c": "Agent synthesizes an explicit conditional verdict reconciling 2025 erosion under fast growth with Q1 2026 recovery under slower growth, engaging counter-evidence rather than listing sides."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "United's Q1 2026 GAAP operating margin was about 6.8% ($997 million on $14.608 billion revenue)",
+      "cited_file": "data/financials/income_statement/ual_income_statement.json",
+      "issue": "The margin percentage 6.8% is not stated in the JSON passage, but operating income of 997000000 and revenue of 14608000000 are present; 997/14608 = 6.82%, so the computed value is a correct inference from present building blocks.",
+      "evidence_check": "JSON shows revenue 14608000000 and operatingIncome 997000000 for Q1 2026; the 6.8% is derived arithmetic, not a fabricated fact."
+    },
+    {
+      "claim": "versus about 3.2% for Delta",
+      "cited_file": "data/financials/income_statement/dal_income_statement.json",
+      "issue": "No Delta income statement data appears in the provided passages; the 3.2% operating margin figure for Delta cannot be verified from any passage.",
+      "evidence_check": "Searched passages for DAL financial figures; only company_profiles.json (name/SIC) and UAL data present. No Delta operating income/revenue figures to support 3.2%."
+    },
+    {
+      "claim": "4.6% for Southwest",
+      "cited_file": "data/financials/income_statement/luv_income_statement.json",
+      "issue": "No Southwest income statement figures appear in the passages; the 4.6% operating margin for Southwest cannot be verified.",
+      "evidence_check": "Searched passages for LUV financials; only company_profiles.json entry present, no operating income/revenue data."
+    },
+    {
+      "claim": "negative 0.3% for American",
+      "cited_file": "data/financials/income_statement/aal_income_statement.json",
+      "issue": "No American income statement figures appear in the passages; the negative 0.3% operating margin for American cannot be verified.",
+      "evidence_check": "Searched passages for AAL financials; only company_profiles.json entry present, no operating income/revenue data."
+    },
+    {
+      "claim": "as of March 31, 2026, had 600 firm aircraft commitments scheduled through 2034",
+      "cited_file": "data/sec_filings/10-q/ual_2026q1_10-q.txt",
+      "issue": "The passage lists firm commitments by type (787:146, 737 MAX 9:78, 737 MAX 10:167, A321neo:114, A321XLR:50, A350:45) which sum to 600, and states aircraft scheduled for delivery through 2034. The total 600 is a correct sum of present figures, so not fabricated.",
+      "evidence_check": "Summed firm commitment column: 146+78+167+114+50+45 = 600; passage confirms delivery through 2034."
+    }
+  ],
+  "synthesis_found": "The reconciliation is that fast-growing premium and loyalty streams lifted the numerator, but not enough to offset the larger ASM denominator and weaker base-cabin passenger economics; full-year 2025 passenger revenue rose only 3.1% against 6.1% ASM growth.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/income_statement/aal_income_statement.json",
+    "financials/income_statement/dal_income_statement.json",
+    "financials/income_statement/luv_income_statement.json",
+    "financials/income_statement/ual_income_statement.json",
+    "press_releases/ual_2025-07-16_8-k.txt",
+    "press_releases/ual_2025-10-15_8-k.txt",
+    "press_releases/ual_2026-01-20_8-k.txt",
+    "press_releases/ual_2026-04-21_8-k.txt",
+    "sec_filings/10-k/ual_2025_10-k.txt",
+    "sec_filings/10-q/ual_2025q1_10-q.txt",
+    "sec_filings/10-q/ual_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 62,
+  "grounding_claims_no_match": 1,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Cross-Border Volume as the High-Margin Growth Engine', 'Value-Added Services and Solutions as the Diversifier', 'Rebates, Incentives and the Quality of Net Revenue', 'A Reconciled View on Durability and Mix']
+Themes missed: []
+Cited files: 5

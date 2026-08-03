@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['The Creative Cloud Moat and Recurring-Revenue Durability', 'Generative-AI Disruption and Competitive Threat', 'AI Monetization: Additive Growth or Defensive Reinvestment', 'Financial Durability and the Investment Verdict']
+Themes missed: []
+Cited files: 11

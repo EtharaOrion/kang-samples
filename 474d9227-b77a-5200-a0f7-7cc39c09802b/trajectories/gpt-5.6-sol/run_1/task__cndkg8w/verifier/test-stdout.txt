@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Credit Normalization and the Trajectory of Charge-Offs and Delinquencies', 'CECL Purchase-Accounting Distortion and the Allowance "Double Count"', 'Discover Integration Execution: Costs, Goodwill, and Synergy Realization', 'Capital, Funding, and Franchise Value: Reconciling the Bull and Bear Case']
+Themes missed: []
+Cited files: 6

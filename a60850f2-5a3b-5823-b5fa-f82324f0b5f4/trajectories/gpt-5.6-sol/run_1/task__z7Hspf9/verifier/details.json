@@ -1,0 +1,106 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Divergent Growth Trajectories of HOKA and UGG",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent contrasts HOKA up 15.9% versus UGG up 8.2% in FY2026 and notes UGG remains larger at 50.0% vs HOKA's 47.3% of sales despite HOKA's faster growth.",
+        "b": "Agent tests deceleration by comparing FY2024/2025/2026 annual rates and the standalone quarterly cadence (HOKA 19.8%/11.1%/18.5%/14.5%; UGG 18.9%/10.1%/4.9%/9.2%), judging whether HOKA is cooling toward UGG's pace.",
+        "c": "Agent references management's stated growth strategy of selective HOKA wholesale expansion and international build-out and assesses whether it supports durable versus maturing growth."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Brand Concentration and the Collapsing \"Other\" Portfolio",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies Other brands falling 33.9% to $146.2M and HOKA+UGG at 97.3% of sales, leaving no third pillar.",
+        "b": "Agent connects the decline to deliberate wind-down of Koolaburra and AHNU and the prior Sanuk sale, noting the shrinkage is by design though partly Teva weakness.",
+        "c": "Agent does not address the sheepskin/Australia single-material sourcing dependency from Risk Factors as a compounding concentration."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Channel and Geographic Mix as a Quality-of-Growth Signal",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent decomposes geography \u2014 domestic up 0.2% to $3.192B versus international up 26.8% to $2.281B \u2014 flagging essentially all growth is international.",
+        "b": "Agent contrasts wholesale up 12.3% to $3.208B versus DTC up 6.3% to $2.264B and explicitly frames faster wholesale as a mix-quality concern relative to higher-margin DTC.",
+        "c": "Agent ties mix to profitability, noting gross margin at 57.7% (down 20 bps) and judging whether wholesale/internationally-led growth pressures margin."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Seasonality, Competition, and the Durability Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes UGG's third-quarter seasonality peak and evaluates management's claim that HOKA's more even distribution partially mitigates it.",
+        "b": "Agent frames competitive risk from the 10-K (larger global rivals, lowered entry barriers) and assesses HOKA's performance and UGG's fashion niches' defensibility.",
+        "c": "Agent interprets share repurchase context and management confidence versus risk, though centered on guidance; it addresses capital-return-linked confidence via the durability stance. (Buyback authorization discussed via forward confidence signals.)",
+        "d": "Agent delivers an explicit reconciled verdict \u2014 high-single-digit durable growth, rejecting both mid-teens extrapolation and fad-collapse, reconciling opposing evidence (flat domestic/wholesale-led vs. lean inventory/high full-price sell-through)."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "reported fiscal 2026 figures show that UGG's third quarter supplied approximately 47.6% of its annual sales, versus approximately 24.3% for HOKA",
+      "cited_file": "data/sec_filings/10-k/deck_2026_10-k.txt; data/press_releases/deck_2026-01-29_8-k.txt",
+      "issue": "The 47.6% and 24.3% figures are calculated, but the Q3 UGG figure of $1.305 billion divided by annual $2.739 billion = 47.6% checks out, and Q3 HOKA $628.9M / $2.587B = 24.3% checks out. Building blocks present.",
+      "evidence_check": "Q3 UGG $1.305B and HOKA $628.9M in Jan 8-K; annual UGG $2.739B and HOKA $2.587B in press release. Calculation verifiable; not a hallucination."
+    }
+  ],
+  "synthesis_found": "The best reconciliation is that current wholesale growth largely reflects healthy international distribution expansion, but its quality is still lower than the fiscal 2024 pattern, when DTC grew 26.5% versus wholesale's 12.6%.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/deck_2025-07-24_8-k.txt",
+    "press_releases/deck_2025-10-23_8-k.txt",
+    "press_releases/deck_2026-01-29_8-k.txt",
+    "press_releases/deck_2026-05-21_8-k.txt",
+    "sec_filings/10-k/deck_2025_10-k.txt",
+    "sec_filings/10-k/deck_2026_10-k.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 60,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

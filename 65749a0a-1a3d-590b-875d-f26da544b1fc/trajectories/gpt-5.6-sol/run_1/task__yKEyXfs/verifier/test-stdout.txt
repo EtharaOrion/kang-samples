@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Top-Line Growth and the Deliveroo Inorganic Overlay', 'Margin Inflection: Adjusted EBITDA Versus GAAP Net Income', 'New-Vertical (Grocery and Retail) Expansion Durability', 'International Integration Drag and the Profitable-Scaling Verdict']
+Themes missed: []
+Cited files: 6

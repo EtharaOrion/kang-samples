@@ -1,0 +1,140 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Cross-Border Volume as the High-Margin Growth Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies momentum: 'Q1 2026 extended the pattern: cross-border volume grew 13%, versus 7% GDV and 9% switched transactions,' directly matching the required figures.",
+        "b": "Agent notes the current 2025 filing says Mastercard 'earns significant cross-border volume, switching and currency-conversion revenue,' establishing why cross-border lifts blended yield; the historical S-1 claim is separately flagged but the current-filing grounding stands.",
+        "c": "Agent engages durability risk: 'cross-border and currency-conversion revenue fluctuates with the level and destination of travel... identifies pandemics, geopolitical conflict, terrorism, weather and possible G20-related regulation as threats,' matching the 10-K risk framing."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Value-Added Services and Solutions as the Diversifier",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states VAS 'rose 22% to $3.450 billion, or 18% currency-neutral' while 'payment-network net revenue rose only 12% reported and 8% currency-neutral,' matching the required growth comparison.",
+        "b": "Agent names the drivers: 'security; digital and authentication; business and market insights; consumer acquisition and engagement; and pricing,' matching the filing-named drivers including pricing.",
+        "c": "Agent assesses structural diversification vs. volume-correlation: 'VAS is not an independent counter-cycle. Mastercard explicitly describes services and the payment network as fundamentally interdependent... a structural loss of payment relevance could weaken both sides,' directly engaging the required tension."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Rebates, Incentives and the Quality of Net Revenue",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent notes rebates 'increased 23% to $5.639 billion' in Q1 and full-year 2025 rebates of '$20.522 billion' rising with new and renewed deals, matching the required figures.",
+        "b": "Agent distinguishes currency-neutral from as-reported: 'net revenue rose 16%' vs '8%' currency-neutral network growth, and highlights that 'currency contributed four points,' separating FX from organic strength.",
+        "c": "Agent weighs competitive backdrop: 'real-time account-based schemes and initiatives to lower cross-border costs create additional pricing pressure' and consolidation increasing bargaining power; this relies partly on a flagged claim but the pricing-pressure/disintermediation concept is present.",
+        "note": "The [c] competitive-backdrop language partly relies on a flagged claim (consolidation/pricing pressure)."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "A Reconciled View on Durability and Mix",
+      "moves_hit": [
+        "a",
+        "c"
+      ],
+      "moves_missed": [
+        "b"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent reconciles: 'cross-border remains the demand and gross-monetization engine, while VAS increasingly supplies the retained net-revenue growth,' weighing the cyclical cross-border engine against the volume-correlated VAS stream rather than treating both as independently strong.",
+        "b": "Agent never benchmarks against a peer (V, AXP, PYPL); no comparative growth or margin analysis using peer statements appears anywhere.",
+        "c": "Agent commits explicitly: 'constructive on durability, cautious on network revenue quality,' stating VAS can offset via mix and that reported growth is FX- and incentive-flattered vs. the durable run rate."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Mastercard's 2005 prospectus explicitly said it generally earned higher revenue on cross-border than domestic transactions because it could charge more for its global system",
+      "cited_file": "data/sec_filings/s-1/ma_2005_s-1.txt",
+      "issue": "No passage supports the specific assertion that the 2005 prospectus said Mastercard earned higher revenue on cross-border than domestic transactions or that it could charge more for its global system.",
+      "evidence_check": "Searched passages for cross-border revenue vs domestic pricing language; found only cross-border MIF regulatory discussion and general business description, not any statement about higher cross-border revenue or pricing rationale."
+    },
+    {
+      "claim": "Q1 2026 also illustrates currency noise: local-currency cross-border growth was 13% while U.S.-dollar growth was 21%, and currency contributed four points to reported payment-network revenue growth",
+      "cited_file": "data/sec_filings/10-q/ma_2026q1_10-q.txt",
+      "issue": "13% local and 21% USD cross-border verified; the 'four points' currency contribution to payment-network is supported by the drivers table (Payment network currency impact 4%).",
+      "evidence_check": "Verified cross-border 21%/13% in key drivers table and Payment network currency impact 4% in Drivers of Change table. Claim fully supported."
+    },
+    {
+      "claim": "lifting its calculated share of total net revenue from 37.0% to 40.6%",
+      "cited_file": "data/sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "This is a calculated/derived ratio (VAS 9,274/25,098=36.9%\u224837.0%; 13,315/32,791=40.6%). Building-block figures present in passages; calculation is analytical inference, not a fabricated fact.",
+      "evidence_check": "Passage says 'no local match found', but underlying VAS and net revenue figures ($9,274/$25,098 and $13,315/$32,791) appear in other claim passages. Ratio is a derived calculation, not a hallucination."
+    },
+    {
+      "claim": "The calculated rebate burden therefore rose from approximately 49.0% to 50.4% to 51.3%",
+      "cited_file": "data/sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "Derived ratio from rebates vs assessment pool; building blocks (rebates $15.182B/$17.629B/$20.522B and assessment sums) are present in other passages. Analytical calculation, not fabricated fact.",
+      "evidence_check": "Passage says 'no local match found', but $20,522M rebate figure and assessment components appear in other passages. Ratio is a computation, not a hallucination."
+    },
+    {
+      "claim": "VAS reached a calculated 41.1% of quarterly net revenue, up from 38.9% a year earlier",
+      "cited_file": "data/sec_filings/10-q/ma_2026q1_10-q.txt",
+      "issue": "Derived ratio: VAS 3,450/8,398=41.1%; 2,818/7,250=38.9%. Building-block figures present in passages. Analytical calculation.",
+      "evidence_check": "Verified $3,450 and $8,398 (41.1%) and $2,818 and $7,250 (38.9%) in net revenue components. Ratio is a valid computation from present figures."
+    },
+    {
+      "claim": "the calculated burden rose from approximately 50.8% in Q1 2025 to 53.3% in Q1 2026",
+      "cited_file": "data/sec_filings/10-q/ma_2026q1_10-q.txt",
+      "issue": "Derived ratio; rebates $5,639M/assessment pool present in passages. Analytical calculation, not fabricated.",
+      "evidence_check": "Passage does not directly state 50.8%/53.3%, but $5,639M rebates and assessment components are present. Derived calculation."
+    },
+    {
+      "claim": "The filing warns that customer and merchant consolidation can increase bargaining power and force lower prices or better terms, while real-time account-based schemes and initiatives to lower cross-border costs create additional pricing pressure",
+      "cited_file": "data/sec_filings/10-k/ma_2025_10-k.txt",
+      "issue": "Passage returned 'no local match found' and no provided passage contains this specific risk-factor language about consolidation increasing bargaining power or pricing pressure from real-time schemes.",
+      "evidence_check": "Searched provided passages for consolidation/bargaining power/pricing pressure language; not present in any supplied excerpt. Cannot verify this specific concrete assertion from the given evidence."
+    }
+  ],
+  "synthesis_found": "This is the clearest reconciliation of apparently conflicting data: end-demand and standard pricing were strong, but the economics retained by Mastercard grew much more slowly because customer consideration rose faster.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "sec_filings/10-k/ma_2023_10-k.txt",
+    "sec_filings/10-k/ma_2024_10-k.txt",
+    "sec_filings/10-k/ma_2025_10-k.txt",
+    "sec_filings/10-q/ma_2026q1_10-q.txt",
+    "sec_filings/s-1/ma_2005_s-1.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 46,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

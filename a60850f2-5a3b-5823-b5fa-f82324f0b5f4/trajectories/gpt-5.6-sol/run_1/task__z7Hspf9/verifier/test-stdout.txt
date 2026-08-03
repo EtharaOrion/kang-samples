@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Divergent Growth Trajectories of HOKA and UGG', 'Brand Concentration and the Collapsing "Other" Portfolio', 'Channel and Geographic Mix as a Quality-of-Growth Signal', 'Seasonality, Competition, and the Durability Verdict']
+Themes missed: []
+Cited files: 6

@@ -1,0 +1,113 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Demand Durability and the Quality of Growth",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent explicitly separates volume from price/FX: 'Q1 2026 GBV rose 19%, but only 13% ex-FX; ADR rose 9%, but only 4% ex-FX, while units rose 9%... recent growth is a blend of healthy unit demand, price/mix, and currency.'",
+        "b": "Agent cites concrete demand drivers: app-booked nights rose 22% reaching 63% of total nights, first-time bookers grew 10% (fastest since 2022), and expansion-market nights grew roughly twice as fast as core markets.",
+        "c": "Agent notes full-year 2025 growth (revenue up, GBV up 12% to $91.3B) and reconciles against 2026 revenue guidance to low-to-mid-teens growth, addressing deceleration vs. re-acceleration."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Take-Rate Expansion and the Single-Fee Transition",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent identifies the take-rate signal: implied take rate declined from ~13.58% (2024) to 13.41% (2025) as revenue grew 10% while GBV grew 12%, and reconciles against the Q2 2026 guide for take rate 'slightly higher year over year.'",
+        "b": "Agent explains the single-fee shift: moving hosts from a split structure (3% host plus separate guest fee) to a 15.5% single host fee and why this changes reported take-rate optics.",
+        "c": "Agent connects Reserve Now, Pay Later (~20% of global GBV in Q1 2026) to monetization and notes services/experiences are not yet material ('substantially all revenue still comes from stays')."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Regulatory and Tax Overhang",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent grounds the STR threat: 'New York City's 2023 rules produced what Airbnb calls a de facto ban on short-term rentals' plus evolving global rules, and stresses supply-removing regulation as the key risk.",
+        "b": "Agent addresses indirect-tax exposure with lodging-tax accruals ($131M), non-income-tax matters ($245M), Italy settlements, and Spain fines \u2014 tangible tax/reporting exposure. Though the combined $596-$626M figure is flagged, the underlying move (indirect-tax and reporting exposure) is supported by non-tainted component figures.",
+        "c": "Agent mentions $10.6 billion held on behalf of customers but does not flag payments/money-transmission regulation or the customer-funds safeguarding requirement (100% eligible liquid assets) as a compliance-cost risk; it is only noted as an exclusion from liquidity."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cash Generation, Margins, and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies the cash engine: Q1 2026 FCF of $1.704 billion (though notes decline), TTM FCF of $4.536 billion, and explains advance-cash timing from service-fee collection at booking.",
+        "b": "Agent assesses margin trajectory and reinvestment: cites 2026 adjusted EBITDA margin guide of at least 35%, declining 2025 margins, and management's reinvestment priority (marketing, product, AI).",
+        "c": "Agent notes 61% of 2025 revenue outside the U.S. as both expansion-market upside and FX/regulatory surface-area exposure.",
+        "d": "Agent delivers an explicit synthesis verdict reconciling bull (durable unit growth, elite FCF) against bear (nights decelerating below GBV, muddied take-rate optics from fee change, regulatory/tax overhang): 'Buy/own, but underwrite it as a durable-growth and cash-compounding story, not a take-rate-expansion story.'"
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "The combined currently quantified amount is therefore $596-$626 million, including accruals",
+      "cited_file": "data/sec_filings/10-q/abnb_2026q1_10-q.txt",
+      "issue": "The $596-$626 million figure is a derived combination not stated in passages; the passages for this specific claim do not contain lodging/non-income tax figures at all (they show unrelated content).",
+      "evidence_check": "Searched claim 35 passages for $596 or $626 million combined figure; found only unrelated income statement and EBITDA data. The component figures ($131M+$25-35M lodging and $245M+$195-215M non-income) appear in other claims' passages but no combined $596-$626M total is stated anywhere."
+    },
+    {
+      "claim": "the $596-$626 million presently quantified non-income and lodging-tax amount is roughly 5% of that liquidity and 13%-14% of that FCF",
+      "cited_file": "data/sec_filings/10-q/abnb_2026q1_10-q.txt",
+      "issue": "The $596-$626 million combined figure is not stated in the passages; it is a fabricated aggregate. The percentages are derived from it.",
+      "evidence_check": "Searched claim 44 passages for $596-$626 million; not present. This is an analyst-constructed sum not appearing in any source passage."
+    }
+  ],
+  "synthesis_found": "Verdict: Buy/own, but underwrite it as a durable-growth and cash-compounding story, not a take-rate-expansion story... The evidence supports confidence in high-single-digit unit growth and multi-billion-dollar annual FCF, while it supports only a hypothesis\u2014not yet a result\u2014for take-rate expansion and renewed annual margin leverage. Regulatory and tax costs should be modeled as recurring claims on that cash, with the IRS case and unquantifiable local exposures retained as explicit tail risks rather than dismissed as footnotes.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "company_profiles.json",
+    "press_releases/abnb_2025-08-06_8-k.txt",
+    "press_releases/abnb_2025-11-06_8-k.txt",
+    "press_releases/abnb_2026-02-12_8-k.txt",
+    "press_releases/abnb_2026-05-07_8-k.txt",
+    "sec_filings/10-k/abnb_2025_10-k.txt",
+    "sec_filings/10-q/abnb_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 66,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Consumption-Revenue Growth Durability and Net Revenue Retention', 'Bookings and RPO Quality Versus Recognized Revenue', 'Margin Path — Gross Margin, GAAP Loss Versus Non-GAAP, and Stock-Based Comp Dilution', 'Competitive and AI Durability — A Position on Growth-and-Margin Sustainability']
+Themes missed: []
+Cited files: 16

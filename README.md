@@ -33,7 +33,8 @@ and fact-checked line by line before a task ships.
 | **Point-in-time cutoff** | `2026-06-30` (uniform) |
 | **Corpus** | 808 files, ~109 MB total (~27 files / ~3.5 MB per task) |
 | **Rubric shape** | 4 themes per task, 12–14 lettered moves |
-| **Per task** | prompt, corpus, Dockerfile, rubric, 3-pass grader, reference reasoning trace, one recorded baseline trajectory |
+| **Per task** | prompt, corpus, Dockerfile, rubric, 3-pass grader, reference reasoning trace, two recorded baseline trajectories |
+| **Baselines** | `claude-opus-4-8` and `gpt-5.6-sol`, one run each on all 30 tasks |
 
 Every task directory is named by a stable UUID, so task identity survives renaming a ticker,
 a topic, or a cutoff.
@@ -68,7 +69,8 @@ a topic, or a cutoff.
     rubrics.json                  # Process-level criteria for trajectory verification
     test_outputs.py               # Deterministic invariants (answer present, cited files real, …)
   trajectories/
-    claude-opus-4-8/              # One recorded baseline run: answer, trajectory, score breakdown
+    claude-opus-4-8/              # Baseline run: answer, trajectory, score breakdown
+    gpt-5.6-sol/                  # Second baseline run, same layout
 ```
 
 The agent writes its full analysis to **`/app/answer.txt`**, which is the only artifact graded.
@@ -158,10 +160,11 @@ file earn no credit.
 
 ## Reward
 
-Kang grades long-form prose with no single correct wording, so scoring runs an LLM judge
-(default `gpt-5.6-sol`, temperature 0, JSON-constrained) against the rubric. The judge
-runs as **three passes**, so factual grounding and analytical coverage are scored separately and
-then combined:
+Kang grades long-form prose with no single correct wording, so scoring runs an LLM judge at
+temperature 0, JSON-constrained, against the rubric. Each run records the judge that scored it in
+`verifier/report.json`; the two shipped baselines were graded cross-family, see
+[Baseline results](#baseline-results). The judge runs as **three passes**, so factual grounding
+and analytical coverage are scored separately and then combined:
 
 **1. Grounding.** The grader reconstructs the evidence the agent relied on by loading exactly the
 files it cited, extracts every specific factual claim (figures, quotes, named entities, dates,
@@ -291,38 +294,118 @@ the corpus.
 
 ## Baseline results
 
-One recorded trial per task ships under `<uuid>/trajectories/claude-opus-4-8/`, including the
-agent's `answer.txt`, its full tool trajectory, and the grader's `details.json`.
+Two recorded trials per task ship, one under `<uuid>/trajectories/claude-opus-4-8/run_1/` and one
+under `<uuid>/trajectories/gpt-5.6-sol/run_1/`, each including the agent's `answer.txt`, its full
+tool trajectory, the judge's raw output, and the grader's `details.json`.
 
-Across all 30 tasks (`claude-opus-4-8`, `k=1`):
+**The two arms were graded by different judges, swapped.** Each agent was scored by the other
+model, so neither run is self-graded:
+
+| Agent | Judge | Recorded in |
+|---|---|---|
+| `claude-opus-4-8` | `codex:gpt-5.6-sol` | `verifier/report.json` → `meta.judge_model`, and `verifier/test-stdout.txt` |
+| `gpt-5.6-sol` | `anthropic:claude-opus-4-8` | same |
+
+Both arms carry `judge_default_fallback: false`, so the judge was selected explicitly in each
+case. This buys independence from self-grading bias, but it costs comparability: the two columns
+below differ in *both* the agent and the grader, so no single number isolates either one.
+
+Across all 30 tasks, `k=1`:
+
+| | `claude-opus-4-8` | `gpt-5.6-sol` |
+|---|---|---|
+| Dense 0 / 1 / 2 / 3 / 4 | 22 / 6 / 2 / 0 / 0 | 0 / 0 / 2 / 0 / 28 |
+| Mean dense score | 0.33 | **3.87** |
+| **pass@1** | **0 / 30** | **28 / 30** |
+| Synthesis gate cleared | 30 / 30 | 30 / 30 |
+| `valid_trial` | 30 / 30 | 30 / 30 |
+| Median claims flagged | 48.5 (range 12–84) | **4.0** (range 1–12) |
+| Moves credited | 230 | 363 |
+| Moves tainted | 181 (**78.7%**) | 17 (**4.7%**) |
+| Environments with zero grounded moves | 6 | 0 |
+
+`gpt-5.6-sol` under a Claude judge clears the environment on 28 of 30 tasks, missing only NET and
+CAT at a dense score of 2. `claude-opus-4-8` under a GPT judge clears none.
+
+**The gap runs through the grounding pass — but its cause is not identified.** Both arms cleared
+the synthesis gate 30/30, so synthesis is not the binding constraint in either. `claude-opus-4-8`
+was credited 230 moves on concept match, enough to pass repeatedly had they survived; 181 were
+tainted. The entire difference is carried by how many claims each grounding pass refused to
+verify — a median of 48.5 versus 4.0.
+
+Because the judges were swapped, that 12× spread has two candidate explanations and this data
+cannot separate them:
+
+1. `gpt-5.6-sol` grounds its claims better. It cites a median of 10 files per answer against 14
+   and writes slightly shorter answers (15.2 KB vs 18.2 KB median), so it asserts fewer
+   unsupported specifics and gives the judge a smaller haystack.
+2. `claude-opus-4-8` is the more lenient judge. Its grounding pass flagged a median of 4 claims;
+   the `gpt-5.6-sol` judge flagged 48.5.
+
+Both are consistent with every number in the table. Isolating either one requires holding the
+judge fixed across both agents, or running a third-family judge over both arms — neither of which
+ships here. **Do not read this table as a model ranking.**
+
+### The `claude-opus-4-8` baseline in detail
+
+The figures below cover the `claude-opus-4-8` run only.
 
 | Dense score | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|
 | Tasks | 22 | 6 | 2 | 0 | 0 |
 
-**pass@1 = 0/30.** The synthesis gate was cleared on 30/30 — coverage, not synthesis, is the
-binding constraint. Grounding flagged a median of ~49 claims per answer, and **79% of all moves
-the coverage pass credited were subsequently tainted**.
+![Distribution of dense scores across the 30 sample environments for the claude-opus-4-8 baseline: 22 scored 0, 6 scored 1, 2 scored 2, and none reached 3 or 4.](./assets/fig1-dense-score-distribution--light.png)
 
-Read these numbers with the limitation below in mind: they are a floor, not a clean difficulty
-measurement.
+Broken out by SIC division — taken from the `sic` field in each task's `company_profiles.json`,
+not the editorial groupings under Composition above:
+
+![Mean dense score by SIC sector for the claude-opus-4-8 baseline. Services and Transportation & Utilities lead at 0.50; Retail Trade 0.40, Finance & Insurance 0.20, Manufacturing 0.14, Wholesale Trade 0.00.](./assets/fig2-mean-dense-by-sector--light.png)
+
+No sector clears 0.50, and the per-sector counts are small — Wholesale Trade is a single task and
+Transportation & Utilities is two — so treat the ordering as descriptive, not as a difficulty
+ranking. The same breakdown for `gpt-5.6-sol` is flat at the ceiling (4.00 in four divisions, 3.80
+Services, 3.71 Manufacturing) and separates nothing.
+
+Grounding flagged a median of ~49 claims per `claude-opus-4-8` answer, and **79% of all moves the
+coverage pass credited were subsequently tainted**. That number is not evenly distributed:
+
+![Grounded versus tainted moves per environment, stacked, for all 30 tickers in the claude-opus-4-8 baseline. 79% of all conceptually-hit moves were discarded for unverifiable support.](./assets/fig3-grounded-vs-tainted-moves--light.png)
+
+Six environments (NET, SBUX, AXP, CAT, BLK, CRWD) retained **zero** grounded moves — every move
+the coverage pass credited was tainted by the grounding pass. NET is the extreme case: 12 moves
+credited, 12 tainted.
 
 ---
 
 ## Known limitations
 
 **Monolithic grounding context.** The shipped `grade.py` verifies claims by concatenating every
-cited file whole into a single judge request. A 10-K in this corpus runs 400 KB+, so the grounding
-pass can be asked to confirm ~50 specific strings against ~700 KB of filing text in one call. That
-is a retrieval problem, and retrieval failure is indistinguishable from hallucination — the judge
-can only report "not present," never "I didn't find it." Spot-checking the shipped baselines
-confirms false positives: quotes flagged as absent that appear **verbatim** in the cited filing.
+cited file whole into a single judge request. A 10-K in this corpus averages 473 KB and reaches
+1.6 MB, so the grounding pass can be asked to confirm dozens of specific strings against a median
+of 1.8 MB of filing text — up to 7.8 MB — in one call. That is a retrieval problem, and retrieval
+failure is indistinguishable from hallucination: the judge can only report "not present," never
+"I didn't find it." Spot-checking the `claude-opus-4-8` baseline confirms false positives — of 147
+quoted claim fragments flagged as unverifiable, 6 appear **verbatim** in a file the answer cited.
 Because tainting deletes credit, each false positive costs a real move.
 
-Anyone training on these tasks should treat the *tainting rate* as a diagnostic, not just the
-score, and should prefer a **retrieval-based grounding pass** (extract → local harvest → batched
-verify) over the monolithic path. Peer-ticker auto-expansion was already removed from
-`discover_cited_files` for the same reason: it blew past the judge's input cap.
+How much of the 78.7% is real grounding failure and how much is retrieval artifact remains open.
+The `gpt-5.6-sol` arm was tainted on only 4.7% of credited moves, which would bound the artifact
+tightly *if* the two arms shared a judge — but they do not, so that comparison is confounded by
+judge strictness (see Baseline results). Exposure compounds it: citing a median of 14 files rather
+than 10 enlarges the haystack, so an agent is penalised partly for citing broadly. Treat the
+*tainting rate* as a diagnostic alongside the score, and prefer a **retrieval-based grounding
+pass** (extract → local harvest → batched verify) over the monolithic path. Peer-ticker
+auto-expansion was already removed from `discover_cited_files` for the same reason: it blew past
+the judge's input cap.
+
+**The shipped grader is not the grader that produced the trajectories.** `tests/grade.py`
+hardcodes `MODEL = "gemini-3.1-pro-preview"` at line 26, builds a `google.genai` client, and
+`test.sh` installs `google-genai`; `task.toml` wires `GOOGLE_API_KEY = "${GEMINI_API_KEY}"`. The
+recorded runs were graded by `gpt-5.6-sol` and `claude-opus-4-8` instead, and their
+`test-stdout.txt` carries a `judge=<family>:<model>` field that the shipped `grade.py` never
+prints. Running `tests/test.sh` as shipped therefore invokes a Gemini judge and **will not
+reproduce the published scores**. Treat the baseline numbers as specific to the judges named in
+each run's `verifier/report.json`, not as a property of the tasks.
 
 **Dense-score plateau.** With `T = 4` on every task, `C = 2` and `C = 3` both map to a dense
 score of `2`. There is no gradient across that step — worth knowing before using the dense score
@@ -333,8 +416,11 @@ as a shaping signal.
 in the library, and it is always the one carrying the synthesis move.
 
 **Self-grading bias.** Running an agent and a judge from the same model family inflates scores.
-For an unbiased number, grade cross-family — the shipped default (`gemini-3.1-pro-preview`)
-against a Claude or GPT agent already does this.
+Both baselines here avoid it by construction — `claude-opus-4-8` is graded by `gpt-5.6-sol` and
+`gpt-5.6-sol` by `claude-opus-4-8`. The cost of that swap is the confound above: no judge is held
+constant, so the two arms cannot be compared to each other. Holding one judge fixed across agents
+trades the confound back for self-grading bias on whichever arm matches it; a third-family judge
+avoids both.
 
 **No earnings-call transcripts.** A structural gap in every free source. Rubrics are authored
 around it, never through it.

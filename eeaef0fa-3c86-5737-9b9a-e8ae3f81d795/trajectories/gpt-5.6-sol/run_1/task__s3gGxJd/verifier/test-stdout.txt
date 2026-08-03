@@ -1,0 +1,5 @@
+Score: 2/4  (sparse=0)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Construction Industries Cycle — Dealer Restock versus End-User Demand', 'Backlog Pricing Power versus Tariff and Manufacturing-Cost Drag']
+Themes missed: ['Backlog Durability and Its Concentration in Power & Energy', 'Through-Cycle Cash Generation and a Reconciled Verdict on Backlog Durability']
+Cited files: 8

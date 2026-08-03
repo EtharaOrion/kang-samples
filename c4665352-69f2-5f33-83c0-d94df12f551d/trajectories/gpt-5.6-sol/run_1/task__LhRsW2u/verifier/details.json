@@ -1,0 +1,126 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Premium and Diversified Revenue Mix Shift",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states premium-ticket revenue grew 7% to $22.097 billion in 2025 and premium-ticket revenue increased 14% in March 2026 quarter, matching the required figures.",
+        "b": "Agent notes diversified/non-main-cabin revenue reached 62% of adjusted revenue in Q1 2026 and grew 15%, with premium growth exceeding main cabin by 13 points, satisfying the mid-teens growth and yield outperformance point.",
+        "c": "Agent identifies the main-cabin inflection: 'the improvement was no longer merely a denominator effect from a shrinking main cabin,' main-cabin revenue increased 1%, and main-cabin capacity contracted 3% while premium seat mix rose."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Loyalty and the American Express Co-Brand Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states American Express remuneration increased 11% to $8.2 billion in 2025, reached $2.2 billion up 10% in March 2026, and addresses the $10 billion target as directionally plausible.",
+        "b": "Agent notes loyalty-and-related revenue grew 13% to $1.221 billion, driven by higher card spend, and cites double-digit co-brand spend growth and card acquisitions.",
+        "c": "Agent frames SkyMiles as high-margin/resilient cash generation, citing 12% of revenue miles from award travel and approximately 35 million tickets in 2025."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Balance-Sheet Deleveraging Toward Investment Grade",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states adjusted net debt declined $760 million from year-end to $13.5 billion in March 2026; it does not explicitly cite 'below 2019 levels' but the core figures are present.",
+        "b": "Agent establishes investment-grade ratings across all three agencies (Fitch/S&P BBB-, Moody's Baa2); it discusses interest rates falling but does not cite the 4.6% weighted-average rate or 86% fixed-rate specifics, though the investment-grade point is clearly hit.",
+        "c": "Agent ties deleveraging to $8.342 billion operating cash flow and $4.643 billion free cash flow in 2025, and $1.227 billion free cash flow in Q1 2026 funding debt paydown."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capacity Discipline, Margins and the Durable-Earnings Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent weighs Q1 2026 operating margin (4.6% adjusted) and cites June guidance of low-teens revenue growth on flat capacity as evidence of pricing power plus supply discipline.",
+        "b": "Agent engages fuel/refinery hedge dynamics ($151 million hedge effects, $550 million mark-to-market loss) and competitive intensity (main-cabin oversupply, industry supply exceeding demand); it does not mention the 2024 CrowdStrike outage specifically but engages other distortions and risks.",
+        "c": "Agent takes an explicit position reconciling record premium/loyalty revenue and best-in-history balance sheet against still-single-digit margins and inherent cyclicality: 'higher-quality and less financially fragile, not non-cyclical,' underwriting the earnings floor but not the mid-teens ceiling."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "adjusted operating income declined from $6.016 billion to $5.804 billion",
+      "cited_file": "data/sec_filings/10-k/dal_2025_10-k.txt",
+      "issue": "Direction reversed: the passages show adjusted operating income declined FROM $6.016 billion (2024) TO $5.804 billion (2025), so the claim's ordering (from $6.016 to $5.804) is actually correct.",
+      "evidence_check": "Passage: 'Operating income, adjusted $5,804 $6,016' for 2025/2024. Both figures present and ordering matches. Not a hallucination."
+    },
+    {
+      "claim": "Delta's March 2026 GAAP operating margin was about 3.2%, below United's roughly 6.8% and Southwest's roughly 4.6%, though above American's slightly negative margin",
+      "cited_file": "data/financials/income_statement/dal_income_statement.json",
+      "issue": "Cites competitor margins (United ~6.8%, Southwest ~4.6%, American slightly negative) but the cited file contains only Delta (DAL) data. No competitor figures appear in the passages.",
+      "evidence_check": "Searched income statement JSON \u2014 contains only DAL entries; no UAL, LUV, or AAL data. Delta's own 3.2% margin is supported but the comparison values are not in the cited file."
+    },
+    {
+      "claim": "Total cash sales under loyalty marketing agreements increased from $6.9 billion in 2023 to $7.4 billion in 2024 and $8.0 billion in 2025",
+      "cited_file": "data/sec_filings/10-k/dal_2025_10-k.txt",
+      "issue": "All three figures verified present.",
+      "evidence_check": "Passage: 'total cash sales from marketing agreements related to our loyalty program were $8.0 billion, $7.4 billion and $6.9 billion' for 2025/2024/2023. Supported."
+    },
+    {
+      "claim": "captured more than 55% of industry earnings",
+      "cited_file": "data/press_releases/dal_2026-03-17_8-k.txt",
+      "issue": "Verified: '% OF INDUSTRY EARNINGS 30% 40% >55%' appears in passage.",
+      "evidence_check": "Passage contains '>55%' industry earnings figure. Supported."
+    }
+  ],
+  "synthesis_found": "Delta has earned a \u201cdurable earnings\u201d verdict in the limited but important sense that premium demand, monthly co-brand cash receipts and lower financial leverage make it better able to absorb weak main-cabin pricing, fuel shocks and operating disruptions while continuing to generate cash. It has not earned the stronger verdict that margins are durably mid-teens: the achieved adjusted operating margin was 10.0% in 2025 and 4.6% in March 2026, versus management's mid-teens target, and the latest capacity cuts are raising unit costs before their full revenue benefit is known.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/balance_sheet/dal_balance_sheet.json",
+    "financials/income_statement/aal_income_statement.json",
+    "financials/income_statement/dal_income_statement.json",
+    "financials/income_statement/luv_income_statement.json",
+    "financials/income_statement/ual_income_statement.json",
+    "press_releases/dal_2026-01-13_8-k.txt",
+    "press_releases/dal_2026-03-17_8-k.txt",
+    "press_releases/dal_2026-04-08_8-k.txt",
+    "sec_filings/10-k/dal_2024_10-k.txt",
+    "sec_filings/10-k/dal_2025_10-k.txt",
+    "sec_filings/10-q/dal_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 82,
+  "grounding_claims_no_match": 5,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

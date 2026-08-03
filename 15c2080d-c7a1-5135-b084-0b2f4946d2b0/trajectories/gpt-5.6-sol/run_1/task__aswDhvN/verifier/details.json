@@ -1,0 +1,126 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Franchise Growth and Fundraising Momentum",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies AUM of $757.9B up 14%, FPAUM $614.8B up 17%, LTM new capital $126.6B and Q1 new capital of $27.75B, satisfying the fee-base growth quantification.",
+        "b": "Agent distinguishes organic fundraising from the inorganic Arctos acquisition ($16B AUM) and notes the 10-K warning that perpetual capital can fall through withdrawals/redemptions and is not permanent.",
+        "c": "Agent ties AUM/FPAUM growth to management fees, noting LTM management fees rose 23% to $4.38B and describes management fees as the durable, compounding core."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Fee-Related Earnings Durability and Operating Leverage",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states FRE grew 24% YoY in Q1 and 14% LTM, faster than AUM, and frames this as operating leverage evidence.",
+        "b": "Agent decomposes FRE into management fees, transaction/monitoring fees and fee-related performance revenue against fee-related compensation (+22%) and other operating expenses (+17%), noting transaction fees fell 15% and are more cyclical.",
+        "c": "Agent never discusses FRE per adjusted share; it focuses on absolute FRE and margin, not per-unit economics."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Insurance Earnings Engine and Spread Economics",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "Agent frames insurance as a spread business: NII up 12.5% to $7.40B less net cost of insurance up 14.8% to $5.59B, with rising costs from runoff of older lower-cost business and higher crediting rates; however the spread-percentage compression figure (26.0% to 24.5%) is a flagged hallucination supporting the compression claim.",
+        "b": "Agent notes Insurance Operating Earnings nearly flat QoQ ($260M vs $259M) while LTM grew ~14%, and sizes the franchise via Global Atlantic AUM of $220B, though it does not cite the $164B credit or 3.5M policyholder figures.",
+        "c": "Agent surfaces 10-K risk factors: ratings downgrades impairing distribution and triggering collateral, differences between actuarial assumptions and actual results, and reinsurance recapture risks."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Earnings-Mix Quality and a Defensible Position on Durability",
+      "moves_hit": [
+        "a",
+        "b",
+        "d"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent reconciles the ~85% durable claim (TOE $5.20B = 85% of $6.13B segment earnings) with the diverging trajectories of fast-growing FRE and spread-compressed insurance.",
+        "b": "Agent weighs insurance's diversification/capital-duration benefit against its funding-cost, rate and credit-spread exposure versus the higher-quality capital-light FRE stream.",
+        "c": "Agent never contrasts KKR against a named peer (BX, ARES, CG) using the provided income statements or cash flows.",
+        "d": "Agent commits to an explicit reconciled position: KKR is a durable fee-compounding franchise led by FRE with insurance as an amplifier, not a uniformly recurring stream, rather than listing both in parallel."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "the spread as a percentage of net investment income compressed from approximately 26.0% to 24.5%",
+      "cited_file": "data/press_releases/kkr_2026-05-05_8-k.txt",
+      "issue": "No local match found; this is a derived ratio not present in passages. Building blocks (NII, net cost of insurance) exist elsewhere but the specific 26.0%/24.5% figures are absent.",
+      "evidence_check": "Searched passages for 26.0%, 24.5%, spread percentage \u2014 no match found in cited file."
+    },
+    {
+      "claim": "First-quarter retirement-product new business volume fell from $3.49 billion to $1.59 billion",
+      "cited_file": "data/sec_filings/10-q/kkr_2026q1_10-q.txt",
+      "issue": "Values are present in the 10-Q new business volume table ($3,492 to $1,591 for Retirement Products), matching claim.",
+      "evidence_check": "Found in claim 47 passage: 'Retirement Products $3,492 $1,591' \u2014 verified present."
+    },
+    {
+      "claim": "institutional volume fell from $3.66 billion to $1.89 billion",
+      "cited_file": "data/sec_filings/10-q/kkr_2026q1_10-q.txt",
+      "issue": "Values present in 10-Q table ($3,664 to $1,893) though local match shown was for a different file; correct data appears in claim 47 passage.",
+      "evidence_check": "Found in claim 47 passage: 'Institutional Channel $3,664 $1,893' \u2014 verified present in 10-Q."
+    },
+    {
+      "claim": "institutional volume down from $27.12 billion to $20.95 billion",
+      "cited_file": "data/sec_filings/10-k/kkr_2025_10-k.txt",
+      "issue": "Values present in 10-K five-year table ($27,115 to $20,953) shown in claim 50 passage.",
+      "evidence_check": "Found in claim 50 passage: 'Institutional Channel $26,165 $18,377 $22,622 $27,115 $20,953' \u2014 verified present."
+    }
+  ],
+  "synthesis_found": "On that basis, I view KKR as a durable fee-compounding franchise with an insurance-powered growth advantage, not as a uniformly recurring earnings stream; the distinction is essential because approximately 37% of current LTM TOE is connected to insurance on KKR's $1.92 billion cross-segment \"total insurance economics\" measure, even though only 21% appears as Insurance Operating Earnings.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/kkr_2025-11-07_8-k.txt",
+    "press_releases/kkr_2026-02-05_8-k.txt",
+    "press_releases/kkr_2026-05-05_8-k.txt",
+    "sec_filings/10-k/kkr_2025_10-k.txt",
+    "sec_filings/10-q/kkr_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 69,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

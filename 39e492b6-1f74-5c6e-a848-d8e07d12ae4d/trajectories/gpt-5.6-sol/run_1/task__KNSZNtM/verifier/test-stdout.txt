@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Unit-Revenue Durability as ASMs Grow', 'Premium and Loyalty Mix as Unit-Revenue Defense', 'Cost Trajectory (CASM and Fuel) versus Margin', 'Competitive Capacity Discipline and the Durability Verdict']
+Themes missed: []
+Cited files: 12

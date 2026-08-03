@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Traffic vs. Price/Mix in Comparable Sales', 'Restaurant-Level Margin Durability Under Cost Inflation', 'Maturing Unit Growth and AUV Dilution', 'Competitive and Demand Risks to the Durability Thesis']
+Themes missed: []
+Cited files: 9

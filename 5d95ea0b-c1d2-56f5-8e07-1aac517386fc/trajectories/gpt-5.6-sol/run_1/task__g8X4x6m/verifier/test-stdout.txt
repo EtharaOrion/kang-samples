@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Branded-Checkout Turnaround: Leadership Reset vs. Engagement Erosion', 'Transaction Margin Dollars Growing, Transaction Margin Rate Compressing', 'Braintree/Unbranded Mix Shift: A Deliberate Margin Trade That Shrinks Scale', 'Competitive Positioning: A Structurally Thinner-Margin Model Facing a Broad, Unnamed Field of Rivals']
+Themes missed: []
+Cited files: 12

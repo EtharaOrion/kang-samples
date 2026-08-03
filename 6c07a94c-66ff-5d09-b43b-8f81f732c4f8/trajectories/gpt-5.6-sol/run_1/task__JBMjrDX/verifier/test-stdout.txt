@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Organic Revenue Growth Deceleration Beneath Acquisition Optics', 'Restructuring-Driven Operating-Margin Expansion and Its Limits', 'Agentforce, Data 360 and the Forward Re-Acceleration Bet', 'Capital Return, Cash Flow and the Profitable-Growth Trade-off']
+Themes missed: []
+Cited files: 8

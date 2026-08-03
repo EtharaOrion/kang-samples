@@ -1,0 +1,151 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Consumption-Revenue Growth Durability and Net Revenue Retention",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent tracks NRR trajectory (125% Jan 2026 vs 126% Jan 2025, rising to 126% April 2026) and judges it as stabilization not continuing erosion. The Jan 2023/2024 values (158%/131%) are flagged, but the core rubric comparison points (125%/126%/126%) are not tainted and are correctly cited.",
+        "b": "Agent engages consumption-recognition risk: 'Customers control when they consume; unused capacity can roll forward... better compression, processors, and compute optimization can reduce credits required for the same workload,' directly addressing structural revenue timing risk.",
+        "c": "Agent assesses expansion breadth: $1M+ customers rose from 604 to 779, share of product revenue from 66% to 68%, ~97% of revenue from existing capacity customers, plus tiering data (144 over $5M, 64 over $10M)."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Bookings and RPO Quality Versus Recognized Revenue",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent reconciles RPO $9.77B (Jan 2026) with $9.21B (April 2026), attributing the ~6% sequential drop to disclosed Q4 seasonality rather than backlog erosion, retaining 38% YoY as the better signal. Uses correct year-end and Q1 figures independent of the flagged $5.2B/$6.9B historical values.",
+        "b": "Agent weighs RPO's forward value: 'Recognition depends on future customer consumption, can extend beyond the original term through rollovers... Snowflake itself says RPO is not necessarily indicative of future product-revenue growth.'",
+        "c": "Agent examines billing/arrangement mix: RPO excludes on-demand arrangements, ~50% expected to convert within 12 months, and discusses contract term/mix implications for revenue visibility."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Path \u2014 Gross Margin, GAAP Loss Versus Non-GAAP, and Stock-Based Comp Dilution",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent evaluates product gross margin (72% FY2026, 71% Q1 FY2027) vs rising AI/GPU costs ('$86 million' cloud infrastructure increase including AI inference and GPUs) and margin-compressive new capabilities not yet at scale.",
+        "b": "Agent contrasts persistent GAAP operating losses (negative 23%/31% operating margin) with positive non-GAAP operating income and free cash flow; GAAP operating loss $326.2M vs non-GAAP income $165.8M. (Accumulated deficit not explicitly cited, but the GAAP/non-GAAP contrast is fully present.)",
+        "c": "Agent quantifies SBC drag ($402.5M SBC, 29% of revenue, $3.8B unrecognized), $142.8M payroll-tax cash outflows classified outside FCF, rising diluted share count despite buybacks, reconciling why FCF looks strong while GAAP losses persist."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and AI Durability \u2014 A Position on Growth-and-Margin Sustainability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "Agent assesses AI/Cortex velocity as consumption catalyst (Snowflake Intelligence, Cortex, weekly AI accounts rising to 13,600) but the specific supporting figures \u2014 'almost 2,500 accounts' for Snowflake Intelligence and the '9,100 in fiscal Q4' weekly-account figure \u2014 are flagged as hallucinated, tainting the evidence base for this move.",
+        "b": "Agent weighs structural competitive risk: 'AWS, Azure, and GCP are simultaneously infrastructure suppliers and competitors; a substantial majority of Snowflake's business runs on AWS, giving hyperscalers potential advantages in pricing, bundling...' directly hitting the supplier-competitor tension.",
+        "c": "Agent takes an explicit synthesized position, reconciling bullish signals (126% NRR, 34% growth, 38% RPO, AI usage) against bearish drag (flat 71% gross margin, SBC, hyperscaler bargaining power), separating growth durability from margin durability rather than listing in parallel."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "It fell from 158% in January 2023 to 131% in January 2024, 126% in January 2025, and 125% in January 2026",
+      "cited_file": "data/sec_filings/10-k/snow_2026_10-k.txt",
+      "issue": "The passages support 125% (Jan 2026) and 126% (Jan 2025), but the values 158% (Jan 2023) and 131% (Jan 2024) do not appear in any provided passage.",
+      "evidence_check": "Searched passages for 158% and 131% NRR figures; only found 125% and 126% referenced. Earlier historical NRR values are absent."
+    },
+    {
+      "claim": "the weighted-average remaining life of capacity contracts was 2.6 years, versus 2.4 years in January 2025 and 2.2 years in January 2024",
+      "cited_file": "data/sec_filings/10-q/snow_2026q1_10-q.txt",
+      "issue": "Passage confirms 2.6 years as of April 30, 2026, but the comparison values of 2.4 years (Jan 2025) and 2.2 years (Jan 2024) do not appear in the passages.",
+      "evidence_check": "Searched for weighted-average remaining life figures; only found '2.6 years as of April 30, 2026.' The 2.4 and 2.2 year comparatives are absent."
+    },
+    {
+      "claim": "RPO rose from $5.2 billion in January 2024 to $6.9 billion in January 2025 and $9.77 billion in January 2026, implying roughly 33% and 42% annual growth",
+      "cited_file": "data/sec_filings/10-k/snow_2026_10-k.txt",
+      "issue": "None of the RPO figures ($5.2B, $6.9B, $9.77B) appear in the cited 10-k passages provided.",
+      "evidence_check": "Searched the 10-k passages for RPO values of $5.2 billion, $6.9 billion, $9.77 billion and growth rates 33%/42%; none present. (The $9,771.5M Jan 2026 figure appears in the 10-Q passages elsewhere but not in these cited-file passages.)"
+    },
+    {
+      "claim": "roughly 79%/+1% for Datadog",
+      "cited_file": "data/financials/income_statement/ddog_income_statement.json",
+      "issue": "No Datadog income statement data appears in the passages; the ~79% gross margin and +1% operating margin figures cannot be verified from provided evidence.",
+      "evidence_check": "Passages returned company_profiles.json and Snowflake press releases, not Datadog income statement figures. Cannot confirm 79%/+1%."
+    },
+    {
+      "claim": "72%/negative 4% for MongoDB",
+      "cited_file": "data/financials/income_statement/mdb_income_statement.json",
+      "issue": "The specific 72% gross margin and -4% operating margin for MongoDB do not appear in the provided passages.",
+      "evidence_check": "MongoDB passages show revenue/costOfRevenue for some quarters but no computed 72%/-4% figures matching the claim's period; cannot verify the stated values."
+    },
+    {
+      "claim": "Snowflake Intelligence reached almost 2,500 accounts in its first three months and then more than doubled quarter over quarter",
+      "cited_file": "data/press_releases/snow_2026-05-27_8-k.txt",
+      "issue": "The passage states Snowflake Intelligence accounts 'more than doubled quarter-over-quarter' but the specific figure of 'almost 2,500 accounts in its first three months' does not appear.",
+      "evidence_check": "Searched for '2,500' in passages; not found. Only 'Accounts using Snowflake Intelligence more than doubled quarter-over-quarter' is present."
+    },
+    {
+      "claim": "Weekly accounts using Snowflake AI features rose from more than 6,100 in fiscal Q2 2026 to more than 9,100 in fiscal Q4 and more than 13,600 in fiscal Q1 2027",
+      "cited_file": "data/press_releases/snow_2025-08-27_8-k.txt",
+      "issue": "Passage confirms 'more than 6,100 accounts' (Q2 FY2026); the 9,100 (Q4) figure does not appear in provided passages, and 13,600 comes from a different file.",
+      "evidence_check": "Found '6,100 accounts' in the Q2 press release and '13,600 accounts' in the Q1 FY2027 release, but the intermediate 'more than 9,100 in fiscal Q4' figure is absent from all passages."
+    }
+  ],
+  "synthesis_found": "I reconcile that counter-evidence by separating growth durability from margin durability. Open formats weaken storage lock-in but can expand Snowflake's compute opportunity over externally stored data; model neutrality reduces dependence on any single model vendor but does not remove hyperscaler bargaining power. Current 126% NRR, 34% product growth, 38% RPO growth, and rapidly rising AI usage indicate that interoperability is attracting more workloads than it is leaking today. At the same time, flat 71% GAAP product gross margin and the $86 million increase in cloud infrastructure cost show that Snowflake has not yet proved AI workloads are margin-accretive.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "company_profiles.json",
+    "financials/cash_flow/snow_cash_flow.json",
+    "financials/income_statement/ddog_income_statement.json",
+    "financials/income_statement/mdb_income_statement.json",
+    "financials/income_statement/net_income_statement.json",
+    "financials/income_statement/snow_income_statement.json",
+    "press_releases/snow_2025-05-21_8-k.txt",
+    "press_releases/snow_2025-08-27_8-k.txt",
+    "press_releases/snow_2025-12-03_8-k.txt",
+    "press_releases/snow_2026-02-25_8-k.txt",
+    "press_releases/snow_2026-03-31_8-k.txt",
+    "press_releases/snow_2026-05-27_8-k.txt",
+    "sec_filings/10-k/snow_2024_10-k.txt",
+    "sec_filings/10-k/snow_2025_10-k.txt",
+    "sec_filings/10-k/snow_2026_10-k.txt",
+    "sec_filings/10-q/snow_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 68,
+  "grounding_claims_no_match": 6,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

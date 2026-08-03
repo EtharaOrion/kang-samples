@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Severity and Shape of the Ag Downturn', 'Segment Divergence and Diversification Cushion', 'Precision-Agriculture Durability and Recurring Value', 'Cost, Tariff, and Margin Pressure — Net Position on Resilience']
+Themes missed: []
+Cited files: 10

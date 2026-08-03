@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Premium-Spend Durability and the Card-Fee Engine', 'Credit-Cost Normalization and Reserve Discipline', 'Competitive and Regulatory Pressure on the Revenue Model', 'Earnings Power, Capital Return, and the Investment Verdict']
+Themes missed: []
+Cited files: 9

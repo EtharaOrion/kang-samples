@@ -1,0 +1,116 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Top-Line Growth and the Deliveroo Inorganic Overlay",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states 'Total Orders rose 27% to 933 million, Marketplace GOV rose 37% to $31.6 billion, and revenue rose 33% to $4.036 billion,' matching the scale figures.",
+        "b": "Agent separates organic from inorganic: 'Excluding Deliveroo, however, those growth rates were 16%, 24%, and 21%,' matching GOV 24% and revenue 21% ex-Deliveroo.",
+        "c": "Agent notes 'Q1 2026 net revenue margin fell to 12.8% from 13.1%' attributed to mix/Deliveroo dilution."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Inflection: Adjusted EBITDA Versus GAAP Net Income",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent contrasts 'Adjusted EBITDA grew 28% year over year to $754 million' with 'GAAP net income declined 5% to $184 million,' matching the required contrast.",
+        "b": "Agent traces margin trajectory citing Adjusted EBITDA/GOV moving to 2.4% from 2.6%, Q3 3.0%, and contribution profit/GOV at 4.4%, capturing the disclosed trend range.",
+        "c": "Agent grounds profitability history in the 2023-2025 swing from a $558 million net loss to positive income, capturing the prior net-loss history from the 10-K."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "New-Vertical (Grocery and Retail) Expansion Durability",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes new-vertical momentum: record new grocery/retail consumers, expansion into apparel and auto parts, and strong mature-cohort order growth.",
+        "b": "Agent weighs competitive/structural risk in self-operated grocery/retail (supply chain, premises, inventory shrinkage, fulfillment risks) flagged in filings, capturing the competitive-risk move.",
+        "c": "Agent does not frame advertising as a high-margin value-added revenue stream offsetting new-vertical unit economics; it only briefly mentions advertising partly offsetting net revenue margin decline, not as a margin lever across Marketplaces."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "International Integration Drag and the Profitable-Scaling Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent assesses Deliveroo integration: 'approximately $200 million of Deliveroo Adjusted EBITDA in 2026' plus accelerated MAU/order/GOV growth in U.K., France, and Italy.",
+        "b": "Agent notes international profitability risk via restructuring charges, country exits, and the Italian judicial administration, plus early-stage integration across 40+ countries, capturing the operating-leverage/scale risk.",
+        "c": "Agent takes an explicit position reconciling rising Adjusted EBITDA against declining GAAP net income and compressing net revenue margin, concluding profitable scaling is proven for the core but not the consolidated portfolio."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "In Q4 2025, reported Orders, GOV, and revenue grew 32%, 39%, and 38%, versus 20%, 25%, and 26% excluding Deliveroo",
+      "cited_file": "/app/data/press_releases/dash_2026-02-18_8-k.txt",
+      "issue": "Ex-Deliveroo Orders growth stated as 20% and revenue as 26%, but GOV ex-Deliveroo is stated as 25% in the claim \u2014 the passage says 25%, which matches. All figures verified: Orders 32%/20%, GOV 39%/25%, revenue 38%/26%. Claim is accurate.",
+      "evidence_check": "Passage: 'Total Orders increased 20% Y/Y', 'Marketplace GOV increased 25% Y/Y', 'revenue increased 26% Y/Y', headline growth 32%/39%/38%. All match."
+    },
+    {
+      "claim": "depreciation and amortization rose 77% to $269 million, including an $83 million increase in acquired-intangible amortization",
+      "cited_file": "/app/data/sec_filings/10-q/dash_2026q1_10-q.txt",
+      "issue": "The claim describes the $83 million as an 'increase in acquired-intangible amortization'; passage says 'an increase of $83 million in amortization expense for acquired intangible assets.' This matches.",
+      "evidence_check": "Passage confirms $269M, 77%, and $83M increase in acquired intangible amortization."
+    },
+    {
+      "claim": "In Q3 2025\u2014before Deliveroo entered the consolidated results\u2014revenue grew 27%, GOV grew 25%, net revenue margin reached 13.8%, gross profit/GOV reached 6.8%, and Adjusted EBITDA/GOV reached 3.0%",
+      "cited_file": "/app/data/press_releases/dash_2025-11-05_8-k.txt",
+      "issue": "All values verified in passages; not a hallucination.",
+      "evidence_check": "Passage: revenue +27%, GOV +25%, NRM 13.8%, gross profit/GOV 6.8%, Adjusted EBITDA/GOV 3.0%. All present."
+    }
+  ],
+  "synthesis_found": "My verdict is therefore positive on the durability of the platform's growth and negative on the idea that consolidated margin expansion is already proven: the burden of proof shifts to second-half 2026 category profitability and a re-convergence of GAAP income and free cash flow with Adjusted EBITDA.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/dash_2025-08-06_8-k.txt",
+    "press_releases/dash_2025-11-05_8-k.txt",
+    "press_releases/dash_2026-02-18_8-k.txt",
+    "press_releases/dash_2026-05-06_8-k.txt",
+    "sec_filings/10-k/dash_2025_10-k.txt",
+    "sec_filings/10-q/dash_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 69,
+  "grounding_claims_no_match": 5,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

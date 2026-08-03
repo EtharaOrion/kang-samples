@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-08-03T10:51:16.219265Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "/Users/user/.local/bin/harbor",
+        "run",
+        "-p",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/task",
+        "-a",
+        "codex",
+        "-m",
+        "gpt-5.6-sol",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml",
+        "-o",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "RewardFileNotFoundError",
+            "AgentTimeoutError",
+            "RewardFileEmptyError",
+            "VerifierTimeoutError",
+            "VerifierOutputParseError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:3dbd84724a6178dfdaa4fdd184ab7f2c59497fecd420f442a00101d9b944bee4",
+                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "codex",
+                "model_name": "gpt-5.6-sol",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure__2026-08-03__16-21-12/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure/hb_overlay.yaml",
+                    "digest": "sha256:468bf0382a9902bcff0ffa0e039937dfb113d75d2802209da101ceca1d33223b"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

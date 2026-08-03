@@ -1,0 +1,110 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Branded-Checkout Turnaround: Leadership Reset vs. Engagement Erosion",
+      "moves_hit": [
+        "a",
+        "b"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent cites the interim-CEO admission that execution 'had not been where it needed to be, particularly in branded checkout' tied to Lores' appointment, and weighs the reorganization/'simplify' framing as a necessary intervention whose result remains unproven.",
+        "b": "Agent uses active accounts up 1% to 439M, transactions per active account falling, and TPV growth to argue engagement erosion and that ex-PSP metrics don't isolate branded checkout \u2014 though it cites a slightly different per-account figure (58.7), it makes the core engagement-vs-volume distinction.",
+        "c": "Agent never mentions the Darcy securities class action or the allegation of undisclosed branded-checkout impediments impairing 2027 targets."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Transaction Margin Dollars Growing, Transaction Margin Rate Compressing",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent traces transaction margin from 47.7% (1Q25) to 45.6% (1Q26) against TM$ growth of only 3%, showing 'TM$ increased' headlines coexist with rate decline.",
+        "b": "Agent separates the two components \u2014 transaction-expense rate (0.89%/0.90%) versus transaction-and-credit-loss rate (improving to 0.08% from 0.09%) \u2014 and identifies mix/expense as the pressure, with loss control favorable.",
+        "c": "Agent reconciles GAAP operating margin contraction of 182bps to 17.8% against TM$ growth, noting TM$ stops before opex (S&M, restructuring) and that operating-profit conversion remains under pressure."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Braintree/Unbranded Mix Shift: A Deliberate Margin Trade That Shrinks Scale",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes Braintree TPV grew while transactions declined, attributed to the 'strategic profitable-growth shift' and merchant renegotiations, with first-half decline and later growth \u2014 a deliberate lever.",
+        "b": "Agent connects the mix shift to the transaction-expense rate improvement, quoting the 10-K/10-Q attribution to lower Braintree proportion (higher expense rate) as the mechanical link.",
+        "c": "Agent assesses the trade-off risk \u2014 total transactions fell 4% to 25.4B despite 7% TPV growth to $1.79T \u2014 and questions whether ceding unbranded scale undermines the network versus being clean margin lift."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive Positioning: A Structurally Thinner-Margin Model Facing a Broad, Unnamed Field of Rivals",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent characterizes the broad competitive set (banks, networks, wallets, BNPL, QR/contactless, etc.) noting the filing doesn't name specific rivals and assesses defensibility implications.",
+        "b": "Agent computes PayPal's 17.8% operating margin against Visa ~64.4% and Mastercard ~58.4%, establishing structurally thinner margins due to acceptance/funding costs pure networks don't bear.",
+        "c": "Agent delivers an explicit synthesis reconciling all themes \u2014 taking a cautious position that stabilization is 'bought through portfolio discipline, loss control, and platform growth' via cost/mix engineering rather than proven branded demand recovery, and that the structural margin gap is not closing without disclosed branded metrics."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "58.4% for Mastercard ($4.907 billion on $8.398 billion)",
+      "cited_file": "data/financials/income_statement/ma_income_statement.json",
+      "issue": "The ratio 4907/8398 = 58.4% is correct, but the numbers are present. Not a hallucination on inspection.",
+      "evidence_check": "revenue 8398000000 and operatingIncome 4907000000 both present; 4907/8398=58.4%. Verified \u2014 this is actually correct."
+    }
+  ],
+  "synthesis_found": "The most coherent reading is that PayPal has bought transaction-margin-dollar stability through portfolio discipline, loss control, and continued platform growth, but it has not escaped the trade-off between unbranded scale and margin rate.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/income_statement/ma_income_statement.json",
+    "financials/income_statement/pypl_income_statement.json",
+    "financials/income_statement/v_income_statement.json",
+    "press_releases/pypl_2025-07-29_8-k.txt",
+    "press_releases/pypl_2025-10-28_8-k.txt",
+    "press_releases/pypl_2026-02-03_8-k.txt",
+    "press_releases/pypl_2026-04-30_8-k.txt",
+    "press_releases/pypl_2026-05-05_8-k.txt",
+    "sec_filings/10-k/pypl_2025_10-k.txt",
+    "sec_filings/10-q/pypl_2025q2_10-q.txt",
+    "sec_filings/10-q/pypl_2025q3_10-q.txt",
+    "sec_filings/10-q/pypl_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 42,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

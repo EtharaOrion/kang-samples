@@ -1,0 +1,117 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Organic Revenue Growth Deceleration Beneath Acquisition Optics",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent separates Q1 FY27 revenue of $11.133 billion up 13% from organic by backing out $444 million Informatica, and cites full-year guidance including ~3 acquisition points ('Full-year guidance of 10%-11% constant-currency growth includes roughly three acquisition points').",
+        "b": "Agent traces the multi-year trajectory ($34.857B FY24, $37.895B FY25, $41.525B FY26) and characterizes settling into high-single/low-double-digit growth.",
+        "c": "Agent uses cRPO as forward demand read ('Q1 FY27 cRPO then rose 14% reported... RPO at $67.9 billion, up 11%') and notes subscription and support dominance via mix discussion, satisfying the forward-demand read."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Restructuring-Driven Operating-Margin Expansion and Its Limits",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies expansion (GAAP margin from 19% FY25 to 20% FY26, Q1 FY27 GAAP 21.1%, non-GAAP 34.x%), satisfying the move.",
+        "b": "Agent attributes gains to restructuring citing $988M (FY24), $461M (FY25), $586M (FY26) charges for workforce/office reductions.",
+        "c": "Agent tests sustainability against FY27 guidance (20.6% GAAP, 34.3% non-GAAP) and argues the remaining runway is narrow with opex growing again."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Agentforce, Data 360 and the Forward Re-Acceleration Bet",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent weighs nearly $3.4 billion combined ARR including $1.2 billion Agentforce ARR up 205% as a re-acceleration signal.",
+        "b": "Agent engages management's explicit H2 FY27 organic re-acceleration claim and notes over 50% of Agentforce/Data 360 bookings from existing customers.",
+        "c": "Agent counters with risk-factor cautions on uncertain monetization, consumption pricing, and that growth may not sustain, satisfying the risk move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capital Return, Cash Flow and the Profitable-Growth Trade-off",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent assesses capital return including repurchases and the $25 billion ASR delivering ~103 million shares upfront at $198.34.",
+        "b": "Agent notes cash-flow softness with FY27 FCF growth guidance cut from 9%-10% to 4%-5% to reflect the $25 billion debt issuance.",
+        "c": "Agent takes an explicit position in the unified conclusion, reconciling acquisition-masked top line, AI re-acceleration bet, and debt-funded buyback leverage into one 'show me' verdict."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Salesforce disclosed that Informatica contributed $399 million",
+      "cited_file": "data/sec_filings/10-k/crm_2026_10-k.txt",
+      "issue": "Claim states Informatica contributed $399 million; passages confirm this exactly.",
+      "evidence_check": "Searched for $399 million \u2014 found 'The acquisition of Informatica in November 2025 contributed approximately $399 million of revenue in fiscal 2026' and 'Total revenues $399'. Verified, not a hallucination."
+    },
+    {
+      "claim": "Informatica supplied $444 million",
+      "cited_file": "data/sec_filings/10-q/crm_2026q1_10-q.txt",
+      "issue": "Verified \u2014 passages confirm $444 million of total revenues.",
+      "evidence_check": "Found '$444 million of total revenues in the three months ended April 30, 2026'. Valid."
+    },
+    {
+      "claim": "Subscription and support revenue told the same story: 14% reported growth included $428 million from Informatica",
+      "cited_file": "data/sec_filings/10-q/crm_2026q1_10-q.txt",
+      "issue": "The 10-Q passages show 14% subscription growth and $444 million total-revenue Informatica contribution, but the $428 million figure (subscription & support specific) appears in the press release, not the cited 10-Q.",
+      "evidence_check": "Searched cited 10-Q passages for $428 million \u2014 not present; the 10-Q shows $444 million total. The $428 million figure appears only in crm_2026-05-27_8-k.txt ('$428 million Informatica contribution' for subscription & support). Number does not appear in the cited file's passages."
+    }
+  ],
+  "synthesis_found": "Accordingly, I would treat current margins and cash flow as earned, the debt-funded buyback as an aggressive but mechanically effective per-share accelerator, and the H2 organic re-acceleration as an unproven forecast... Until then, the dominant reality is growth deceleration beneath acquisition optics, with restructuring-driven profitability buying Salesforce time\u2014but no longer enough, by itself, to create the next leg of value.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/crm_2025-05-28_8-k.txt",
+    "press_releases/crm_2025-11-18_8-k.txt",
+    "press_releases/crm_2026-02-25_8-k.txt",
+    "press_releases/crm_2026-05-27_8-k.txt",
+    "sec_filings/10-k/crm_2024_10-k.txt",
+    "sec_filings/10-k/crm_2025_10-k.txt",
+    "sec_filings/10-k/crm_2026_10-k.txt",
+    "sec_filings/10-q/crm_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 89,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

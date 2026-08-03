@@ -1,0 +1,146 @@
+{
+  "score": 2,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 3,
+  "themes_hit": [
+    {
+      "label": "Operating-Leverage Inflection: GAAP Losses vs Non-GAAP and Free-Cash-Flow Profitability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent confronts widening GAAP operating loss from $(154.8)M FY2024 to $(207.2)M FY2025, and quarterly from $(53.2)M to $(62.0)M, noting margin at (9.6)% vs (9.3)% \u2014 absolute losses growing.",
+        "b": "Agent reconciles GAAP loss against rising free cash flow ($260.6M, 12%), positive non-GAAP operating income, and identifies stock-based compensation ($127.5M add-back, $114.2M exceeding FCF) as the principal bridge.",
+        "c": "Agent examines gross-margin compression (77.3% to 74.5% FY2025; 71.2% in Q1 2026, down 470bps) driven by network, bandwidth, co-location, and GPU/depreciation costs, and judges it undercuts operating leverage at the gross-profit line."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Enterprise Mix and RPO Backlog Quality",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent tracks the >$100,000 cohort growing from 3,527 (Q1 2025) to 4,416 (Q1 2026), 25% increase, and assesses shifting revenue mix upmarket (though the Dec 2025 4,298 figure not cited, the cohort growth and enterprise penetration point is made).",
+        "b": "Agent evaluates RPO (~$2.544B at March 2026, 64% expected to convert within 12 months) as a forward-visibility signal. The specific $1.864B-to-$2.544B YoY comparison had a flagged citation issue, but the RPO figures and 64% conversion are independently supported from the 2026q1 10-Q, and the core move is present.",
+        "c": "Agent weighs usage/consumption-model risk (pool-of-funds, no obligation to maintain usage, macro budget pressure) and tests whether backlog is keeping pace (RPO ~36% vs revenue 34%, sequential deceleration noted)."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "AI Developer Platform Monetization and Competitive Moat",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent characterizes the AI/developer strategy (Workers AI inference on serverless GPUs across 330+ cities) and positions it against hyperscalers who bundle and price at zero/negative margins.",
+        "b": "Agent connects GPU/network build-out to gross-margin compression (71.2%, rising storage/GPU/depreciation costs) and frames near-term margin cost against long-term expansion/retention upside, while cautioning against over-attributing all compression to AI.",
+        "c": "Agent assesses whether the platform is a genuine moat (integrated network, distribution, cross-sell flywheel) versus unmonetized option, concluding developer-platform monetization is proven at enterprise scale but AI-specific materiality remains ambiguous.",
+        "d": "Agent's unified conclusion explicitly reconciles re-accelerating growth and positive FCF against widening GAAP losses and compressing gross margins, stating a decisive position: demand inflection crossed before earnings inflection, positive on durability/eventual leverage but not yet economic profitability."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [
+    {
+      "label": "Top-Line Growth Durability and Net Retention",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a",
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "Agent establishes the growth trajectory (Q1 2026 $160.7M/34% gain, revenue rising to $2.168B) and tests re-acceleration vs. noise, concluding roughly 30% durable growth rather than mid-30s. Supported partly by the flagged claim of a quarter-by-quarter acceleration sequence (27%/28%/31%/33.6%/34%) whose intermediate figures were fabricated, so tainted.",
+        "b": "Agent interrogates DBNRR (111% to 118%, 120% in Q4), notes the two-point dip as counter-evidence to straight-line acceleration and weighs re-strengthening vs. structural level. The quarter-by-quarter DBNRR sequence (114%, 119%, 120%) is flagged as fabricated, so tainted.",
+        "c": "Agent decomposes growth into new-customer additions (332,466 paying customers up 40%) versus expansion (118% DBNRR excludes new logos), assessing land-and-expand vs. new logos."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "revenue growth accelerated in each quarter from 27% in Q1 2025 to 28%, 31%, 33.6%, and 34% in Q1 2026",
+      "cited_file": "data/press_releases/net_2025-05-08_8-k.txt",
+      "issue": "The cited Q1 2025 press release only supports 27% for Q1 2025; the intermediate quarterly figures (28%, 31%) are not present in these passages, and 33.6%/34% belong to other filings.",
+      "evidence_check": "Searched passages for 28%, 31%, 33.6%, 34% quarterly figures \u2014 only 27% (Q1 2025) appears in the cited file's passages."
+    },
+    {
+      "claim": "dollar-based net retention (DBNRR) recovered from 111% to 118%",
+      "cited_file": "data/press_releases/net_2025-05-08_8-k.txt",
+      "issue": "The cited file's passages contain no DBNRR figures (111% or 118%); the passage retrieved is cash-flow data.",
+      "evidence_check": "Searched cited passages for 111% and 118% DBNRR \u2014 not found; those values appear only in 10-Q filings, not this press release passage."
+    },
+    {
+      "claim": "DBNRR moved from 111% in Q1 2025 to 114% in Q2, 119% in Q3, 120% in Q4, and 118% in Q1 2026",
+      "cited_file": "data/sec_filings/10-q/net_2025q1_10-q.txt",
+      "issue": "Cited passages support only 111% (Q1 2025). The intermediate 114% (Q2), 119% (Q3), 120% (Q4) and 118% (Q1 2026) are not present in the cited file's passages.",
+      "evidence_check": "Searched cited 2025q1 passages for 114%, 119%, 120%, 118% \u2014 only 111% and 115% (prior year) appear."
+    },
+    {
+      "claim": "RPO rose from $1.864 billion at March 2025 to $2.544 billion at March 2026, about 36% year over year",
+      "cited_file": "data/sec_filings/10-q/net_2025q1_10-q.txt",
+      "issue": "Cited passages support $1,864.2 million at March 2025, but the $2.544 billion March 2026 figure is not in this cited file's passages.",
+      "evidence_check": "Searched 2025q1 passages: $1,864.2 million found; $2,544/$2.544 billion not present (that appears in the 2026q1 10-Q)."
+    },
+    {
+      "claim": "Q1's $2.544 billion was only about 2% above Q4's $2.496 billion",
+      "cited_file": "data/sec_filings/10-q/net_2026q1_10-q.txt",
+      "issue": "The $2.544 billion (RPO) is supported elsewhere but the Q4 comparison figure $2.496 billion does not appear in the cited passages.",
+      "evidence_check": "Searched 2026q1 passages for $2,496 / $2.496 billion \u2014 not found. $2,543.5 million RPO is present but no Q4 RPO value."
+    },
+    {
+      "claim": "Total RPO growth peaked at 48% in Q4 2025",
+      "cited_file": "data/press_releases/net_2026-02-10_8-k.txt",
+      "issue": "Supported \u2014 passages state RPO year-over-year growth of 48%.",
+      "evidence_check": "Found 'Delivered RPO year-over-year growth of 48%' in cited passages. (Not a hallucination.)"
+    }
+  ],
+  "synthesis_found": "Operating leverage is beginning in sales, G&A, and free cash flow, and the workforce action makes a larger H2 2026 step likely. It is not yet economic profitability: gross margin has fallen sharply, GAAP operations remain loss-making, Q1 non-GAAP margin declined, and stock compensation exceeded free cash flow.",
+  "sparse_reward": 0,
+  "cited_files": [
+    "financials/cash_flow/net_cash_flow.json",
+    "financials/income_statement/net_income_statement.json",
+    "press_releases/net_2025-02-06_8-k.txt",
+    "press_releases/net_2025-05-08_8-k.txt",
+    "press_releases/net_2025-07-31_8-k.txt",
+    "press_releases/net_2025-10-30_8-k.txt",
+    "press_releases/net_2026-02-10_8-k.txt",
+    "press_releases/net_2026-05-07_8-k.txt",
+    "sec_filings/10-k/net_2025_10-k.txt",
+    "sec_filings/10-q/net_2025q1_10-q.txt",
+    "sec_filings/10-q/net_2025q2_10-q.txt",
+    "sec_filings/10-q/net_2025q3_10-q.txt",
+    "sec_filings/10-q/net_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 68,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

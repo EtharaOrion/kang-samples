@@ -1,0 +1,128 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "The Creative Cloud Moat and Recurring-Revenue Durability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies recurring revenue and backlog: 'Total ARR grew 12.5% to $27.10 billion in Q2 FY2026' and cites RPO ($22.52 billion FY2025), framing them as switching-cost/revenue-visibility evidence.",
+        "b": "Agent articulates moat features: end-to-end ideation-to-production workflow, Firefly trained on licensed/public-domain content, Content Credentials, and IP indemnification for enterprise Firefly workflows.",
+        "c": "Agent shows segment scale: Digital Media/Creative revenue and Digital Experience products via 'Subscription revenue rose 12% to $22.90 billion' and Creative/Digital Experience customer-group breakdowns, grounding the installed base the moat protects."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Generative-AI Disruption and Competitive Threat",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent grounds disruption in Adobe's own risk language: 'limited barriers to entry, short product cycles, price-sensitive customers... prompt-based and multimodal creation and editing, AI document tools, ad creation and purpose-built agents.'",
+        "b": "Agent addresses dependence/control risk: 'third parties can restrict Adobe's access to their models' and 'AI-native rivals may develop models faster, use different training strategies or proprietary data,' plus IP/training-data exposure from partner models.",
+        "c": "Agent weighs regulatory overhang: 'regulation can force costly changes to development, monetization or indemnity' \u2014 though somewhat general, it addresses AI regulatory cost/adaptation risk layered on competition."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "AI Monetization: Additive Growth or Defensive Reinvestment",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent sizes the AI ramp against the total: 'AI-first ARR... exceeded $500 million in Q2 FY2026 while tripling year over year' versus total ARR of $27.10 billion, judging it 'a genuine but still modest additive layer.'",
+        "b": "Agent assesses growth by customer group: 'Creative & Marketing Professionals subscription revenue grew 11% in FY2025 and accelerated to 13% in Q2 FY2026' and references Business Professionals & Consumers charging surfaces, locating where AI demand concentrates.",
+        "c": "Agent tests deceleration: notes acquisition-adjusted ARR at 'roughly 10.5% pace,' addresses the FY2026 reporting reorganization ('new combined customer-group disclosure masks deterioration'), and challenges the record-revenue/AI-influenced $5 billion narrative."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Financial Durability and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies profitability and cash generation: GAAP operating income $8.71 billion, operating cash flow $10.03 billion (FY2025); H1 FY2026 operating cash flow $5.12 billion, plus margin computations.",
+        "b": "Agent engages counter-signals: '$70 million Publishing & Advertising goodwill impairment' and the CFO departure with interim replacement plus CEO transition as execution risk.",
+        "c": "Agent corroborates margin/cash trends against the income statement (cites adbe_income_statement.json for share counts) and notes FY2026 targets including the ~45% non-GAAP operating margin and raised targets.",
+        "d": "Agent delivers an explicit synthesis: 'the moat is winning; on valuation, the dataset is insufficient,' reconciling durable moat (double-digit ARR, stable margins, high cash conversion) against disruption (AI-native entrants, ~10.5% ARR pace, small AI-first ARR, impaired unit) into a single constructive position with falsification conditions."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Creative & Marketing Professionals subscription revenue grew 11% in FY2025 and accelerated to 13% in Q2 FY2026",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "The FY2025 11% figure is supported by the 10-K passage (Creative & Marketing Professionals $16,303 vs $14,749, 11%), and the Q2 FY2026 13% figure is present in the 10-Q. Both building blocks appear.",
+      "evidence_check": "10-Q shows Creative & Marketing Professionals $4,537 vs $4,019, 13% for Q2; 11% FY2025 growth appears in prior-year 10-K data. Not a hallucination."
+    },
+    {
+      "claim": "subtracting Semrush's approximately $40 million contribution from Q2 customer-group subscription revenue still leaves roughly 13% underlying growth",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "The ~$40 million Semrush contribution to Q2 customer-group subscription revenue is stated in the 6/11 8-K ('including approximately $40 million from Semrush'), not the 10-Q passages provided, but it is a real disclosed figure; the 13% is an analytical inference.",
+      "evidence_check": "10-Q passages do not contain the $40 million figure, but the 8-K (claim 30) confirms it. Building block present in corpus; inference acceptable."
+    },
+    {
+      "claim": "the subscription gross margin only edged from roughly 91.0% to 90.9%",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "This is a calculated ratio from subscription revenue ($6,416/$5,641) and subscription cost of revenue ($586/$505), both present in the 10-Q. Analytical computation, not a made-up fact.",
+      "evidence_check": "Subscription revenue and cost figures appear in the income statement passages; the margin percentages are derivable. Not a hallucination."
+    },
+    {
+      "claim": "R&D grew 11%, total operating expenses grew 17%, and GAAP operating margin fell to about 33.8% from 35.9% a year earlier",
+      "cited_file": "adbe_2026q2_10-q.txt",
+      "issue": "R&D 11% and total operating expenses 17% are directly stated. The operating margins (~33.8%/35.9%) are computed from operating income $2,238/$6,618 and $2,109/$5,873, all present. Analytical.",
+      "evidence_check": "10-Q confirms R&D 11%, opex 17%; operating income and revenue figures support margin calc. Not a hallucination."
+    }
+  ],
+  "synthesis_found": "Investment verdict: constructive\u2014Creative Cloud's moat is intact, and generative AI is more likely to widen Adobe's workflow advantage than destroy it. The decisive evidence is double-digit underlying ARR and subscription growth, stable gross margin, high cash conversion and continued strength in flagship applications despite rapidly increasing AI competition. The bear evidence changes the shape of the thesis rather than overturning it: Adobe must spend more, direct AI-first ARR remains imprecisely disclosed, pure Creative Cloud performance is now obscured, and leadership is turning over.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/income_statement/adbe_income_statement.json",
+    "press_releases/adbe_2024-12-11_8-k.txt",
+    "press_releases/adbe_2025-03-12_8-k.txt",
+    "press_releases/adbe_2025-09-11_8-k.txt",
+    "press_releases/adbe_2025-12-10_8-k.txt",
+    "press_releases/adbe_2026-03-12_8-k.txt",
+    "press_releases/adbe_2026-06-11_8-k.txt",
+    "sec_filings/10-k/adbe_2023_10-k.txt",
+    "sec_filings/10-k/adbe_2024_10-k.txt",
+    "sec_filings/10-k/adbe_2025_10-k.txt",
+    "sec_filings/10-q/adbe_2026q2_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 57,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['EYLEA Franchise Erosion: Biosimilar Competition and the Patent Litigation Endgame', 'EYLEA HD as the Offset Engine: Growth Rate vs. Dollar Sufficiency', 'Dupixent Collaboration Profit as the Real Diversification Buffer', 'Pipeline Breadth Beyond Dupixent and the Verdict on Offset Sufficiency']
+Themes missed: []
+Cited files: 5

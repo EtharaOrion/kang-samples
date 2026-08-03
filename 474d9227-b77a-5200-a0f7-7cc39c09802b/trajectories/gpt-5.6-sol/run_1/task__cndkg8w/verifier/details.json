@@ -1,0 +1,171 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Credit Normalization and the Trajectory of Charge-Offs and Delinquencies",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent distinguishes consolidated NCO rate (3.30% in 2025) from Credit Card segment rate (5.09%) and states the Discover portfolio reduced the 2025 charge-off rate by 35bps \u2014 an explicit mix/denominator effect, not pure healing. Not tainted (10-K figures verified).",
+        "b": "Agent reads 30+ day delinquencies (3.67% Mar 2026 vs 4.27% prior year) as a leading indicator that charge-offs lag, and reconciles whether falling delinquencies reflect real normalization vs. Discover seasoning \u2014 explicitly noting the acquisition affects comparability. Core delinquency figures (10-Q) are not among flagged claims, so not tainted.",
+        "c": "Agent tracks a multi-year path (2.70% 2023 \u2192 3.39% 2024 \u2192 3.30% 2025, plus Q1 2026) and explicitly addresses first-quarter seasonal peaks and the lag structure. The multi-year and Q1 2026 YoY comparisons rest on non-flagged 10-K/10-Q data; the sequential quarterly path figures (4.61%/4.91%, 3.84%) are flagged but are supplementary to the core multi-year trend, which stands on verified data \u2014 not tainted."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "CECL Purchase-Accounting Distortion and the Allowance \"Double Count\"",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent explains 2025 provision rose $8.9 billion to $20.7 billion primarily due to the $8.8 billion initial non-PCD allowance and frames it as a one-time, non-economic timing shock to normalize out. Verified figures.",
+        "b": "Agent shows the allowance build lifting coverage \u2014 $23.630 billion / 5.28% (and 7.41% card) at March 2026 \u2014 and interprets higher coverage as partly card-mix and day-one build rather than purely bearish loss expectation. Q1 2026 figures used rather than exact 2025 $23.4B/5.16%, but the analytical move is present with grounded data.",
+        "c": "Agent traces the earnings distortion to reported results (2025 net income of $2.5 billion understating $10.243 billion pro forma) and argues for normalizing out the initial allowance to judge run-rate profitability. Uses pro forma rather than the specific Domestic Card $858M figure, but the normalization argument is clearly made with grounded data."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Discover Integration Execution: Costs, Goodwill, and Synergy Realization",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies cumulative integration expense of ~$1.8 billion by March 2026, itemizes quarterly amounts, and separates these transitory costs from the core base when assessing efficiency. Cumulative $1.8B verified; the efficiency ratio (39.88%/43.92%) is flagged but the integration-cost quantification itself rests on verified figures, so [a]'s core is not tainted.",
+        "b": "Agent assesses $13.424 billion Discover goodwill (and $45.087 billion goodwill/intangibles net carrying value, plus amortization) as impairment and reported-EPS risk if synergy/network monetization slips. Verified.",
+        "c": "Agent weighs integration risk factors (rising spend, unquantified synergies, Regulation II regulatory threat to network revenue) against the strategic upside of owning the payment network, taking an explicit view that integration is 'on track' but synergy realization remains partial. Grounded in 10-K/10-Q."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Capital, Funding, and Franchise Value: Reconciling the Bull and Bear Case",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent assesses funding/margin transformation \u2014 deposits contributed by Discover ($91.7B at close), deposits at 90% of funding, falling deposit rate (2.84%) \u2014 and judges the deposit base as relatively stable/low-cost while noting competition. NIM 7.84% not cited explicitly but the durability judgment on deposits is made. Grounded.",
+        "b": "Agent situates Capital One as the largest U.S. card issuer with a proprietary network and tests moat vs. scale, referencing the competitive environment and whether the enlarged franchise creates defensibility. Peer names less explicit but the moat-vs-scale test is present via company_profile framing.",
+        "c": "Agent weighs capital adequacy \u2014 CET1 14.4% vs. 9.0% effective minimum including stress capital buffer \u2014 as the cushion absorbing the CECL build and integration, and notes Brex narrows margin for simultaneous buybacks. Grounded in 10-Q.",
+        "d": "Agent delivers an explicit synthesis reconciling bear (high dollar charge-offs, $20.7B provision, rising integration cost, goodwill/impairment risk, auto weakness) against bull (improving card metrics, network monetization, deposits, capital) into a single stated position that Discover more likely than not increases franchise value while specifying the decisive remaining proof. Genuine reconciliation, not parallel listing."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Domestic Card's annualized net charge-off rate declined from 5.17% in February 2026 to 4.94% in April and 4.82% in May",
+      "cited_file": "data/press_releases/cof_2026-05-15_8-k.txt; data/press_releases/cof_2026-06-15_8-k.txt; data/press_releases/cof_2026-03-16_8-k.txt",
+      "issue": "Only the May 2026 figure (4.82%) is present in the provided passage. The 5.17% February and 4.94% April figures do not appear in any passage.",
+      "evidence_check": "Searched passages for 5.17% and 4.94% Domestic Card charge-off rates; only found 4.82% for May 2026 in the cof_2026-06-15 passage. February/April values not present."
+    },
+    {
+      "claim": "its 30+ day performing delinquency rate declined from 3.96% to 3.44% and then 3.33%",
+      "cited_file": "data/press_releases/cof_2026-03-16_8-k.txt; data/press_releases/cof_2026-05-15_8-k.txt; data/press_releases/cof_2026-06-15_8-k.txt",
+      "issue": "Only 3.33% (May 2026) appears in the passage. The 3.96% and 3.44% values are not present.",
+      "evidence_check": "Searched for 3.96% and 3.44% delinquency figures; only 3.33% for May 2026 found in cof_2026-06-15 passage."
+    },
+    {
+      "claim": "Auto's net charge-off rate moved from 1.20% in April 2026 to 1.45% in May",
+      "cited_file": "data/press_releases/cof_2026-05-15_8-k.txt; data/press_releases/cof_2026-06-15_8-k.txt",
+      "issue": "Only the May 2026 auto rate of 1.45% appears in the passage. The 1.20% April figure is not present.",
+      "evidence_check": "Searched for 1.20% auto charge-off rate; only 1.45% (May 2026) found in cof_2026-06-15 passage."
+    },
+    {
+      "claim": "30+ day performing delinquencies rose from 4.02% to 4.24%",
+      "cited_file": "data/press_releases/cof_2026-05-15_8-k.txt; data/press_releases/cof_2026-06-15_8-k.txt",
+      "issue": "Only 4.24% (May 2026 auto) appears in the passage. The 4.02% value is not present.",
+      "evidence_check": "Searched for 4.02% auto delinquency; only 4.24% (May 2026) found in cof_2026-06-15 passage."
+    },
+    {
+      "claim": "nonperforming loans rose from 0.55% to 0.62%",
+      "cited_file": "data/press_releases/cof_2026-05-15_8-k.txt; data/press_releases/cof_2026-06-15_8-k.txt",
+      "issue": "Only 0.62% (May 2026 auto nonperforming rate) appears in the passage. The 0.55% value is not present.",
+      "evidence_check": "Searched for 0.55% auto nonperforming rate; only 0.62% (May 2026) found in cof_2026-06-15 passage."
+    },
+    {
+      "claim": "charge-offs rose from 4.61% in 2025 Q3 to 4.91% in Q4 and 5.05% in 2026 Q1",
+      "cited_file": "data/press_releases/cof_2026-04-21_8-k.txt; data/sec_filings/10-q/cof_2026q1_10-q.txt",
+      "issue": "The 4.61% (Q3 2025) and 4.91% (Q4 2025) Credit Card charge-off rates do not appear in any passage; only the 5.05% Q1 2026 figure is present.",
+      "evidence_check": "Searched passages for 4.61% and 4.91% quarterly Credit Card charge-off rates; neither found. Only 5.05% Q1 2026 present."
+    },
+    {
+      "claim": "delinquencies moved from 3.84% to 3.94% and then down to 3.67%",
+      "cited_file": "data/press_releases/cof_2026-04-21_8-k.txt; data/sec_filings/10-q/cof_2026q1_10-q.txt",
+      "issue": "The 3.84% figure does not appear in any passage. The 3.94% (Dec 2025) and 3.67% (Mar 2026) Credit Card delinquency rates are present, but 3.84% is not.",
+      "evidence_check": "Searched for 3.84% delinquency; not found. 3.94% and 3.67% confirmed present in 10-q passage."
+    },
+    {
+      "claim": "absolute net charge-offs rose 41% to $3.847 billion because average loans rose 38%, largely with Discover",
+      "cited_file": "data/sec_filings/10-q/cof_2026q1_10-q.txt",
+      "issue": "The 41% increase and $3.847 billion net charge-offs and 38% average loan growth are all present. Verified.",
+      "evidence_check": "Found net charge-offs $3,847, 41% change, and average loans held for investment 38% growth ($446,235 vs $322,385). All building blocks present \u2014 NOT a hallucination."
+    },
+    {
+      "claim": "Adjusted operating efficiency improved to 39.88% in 2026 Q1 from 43.92% a year earlier",
+      "cited_file": "data/press_releases/cof_2026-04-21_8-k.txt; data/sec_filings/10-k/cof_2025_10-k.txt",
+      "issue": "The specific adjusted operating efficiency ratio values 39.88% and 43.92% do not appear in any provided passage.",
+      "evidence_check": "Searched passages for 39.88% and 43.92% adjusted operating efficiency; neither value present in the retrieved evidence."
+    },
+    {
+      "claim": "adjusted diluted EPS rose to $4.42 from $4.06, after excluding integration, Discover amortization and specified legal items",
+      "cited_file": "data/press_releases/cof_2026-04-21_8-k.txt; data/sec_filings/10-k/cof_2025_10-k.txt",
+      "issue": "Adjusted diluted EPS values $4.42 (Q1 2026) and $4.06 (Q1 2025) are both present in the cof_2026-04-21 non-GAAP reconciliation table. Verified.",
+      "evidence_check": "Found 'Adjusted diluted EPS (non-GAAP) $4.42...$4.06' in claim 25/26 passages. NOT a hallucination."
+    },
+    {
+      "claim": "Goodwill net of deferred taxes and other intangible/deferred-tax deductions reduced common equity from $112.733 billion before AOCI and deductions to $72.459 billion of CET1",
+      "cited_file": "data/sec_filings/10-q/cof_2026q1_10-q.txt",
+      "issue": "Common equity excluding AOCI $112,733 and CET1 capital $72,459 both appear in Table 14. Verified.",
+      "evidence_check": "Found 'Common equity excluding AOCI $112,733' and 'Common equity Tier 1 capital 72,459' in passage. NOT a hallucination."
+    },
+    {
+      "claim": "Capital One built $157 million of auto allowance in the first quarter, versus a $14 million release a year earlier",
+      "cited_file": "data/sec_filings/10-q/cof_2026q1_10-q.txt",
+      "issue": "The $157 million allowance build and $14 million release are explicitly stated in the passage. Verified.",
+      "evidence_check": "Found 'a $157 million allowance build in our auto business compared to a $14 million allowance release in the first quarter of 2025.' NOT a hallucination."
+    }
+  ],
+  "synthesis_found": "The bull case wins because the leading card indicators are improving, the network is already monetizing legacy Capital One debit activity, and capital and deposit funding provide room to finish the work. The bear evidence changes the degree of conviction, not the direction: total charge-offs remain high in dollars, auto weakened in May, integration expense is still rising, and large intangible values make the per-share payoff dependent on future execution.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/cof_2026-03-16_8-k.txt",
+    "press_releases/cof_2026-04-21_8-k.txt",
+    "press_releases/cof_2026-05-15_8-k.txt",
+    "press_releases/cof_2026-06-15_8-k.txt",
+    "sec_filings/10-k/cof_2025_10-k.txt",
+    "sec_filings/10-q/cof_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 65,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

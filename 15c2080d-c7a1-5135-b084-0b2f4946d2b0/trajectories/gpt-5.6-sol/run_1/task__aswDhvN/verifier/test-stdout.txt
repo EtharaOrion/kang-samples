@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Franchise Growth and Fundraising Momentum', 'Fee-Related Earnings Durability and Operating Leverage', 'Insurance Earnings Engine and Spread Economics', 'Earnings-Mix Quality and a Defensible Position on Durability']
+Themes missed: []
+Cited files: 5

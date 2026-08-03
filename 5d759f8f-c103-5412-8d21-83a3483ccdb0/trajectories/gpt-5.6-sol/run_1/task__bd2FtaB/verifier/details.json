@@ -1,0 +1,121 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Traffic vs. Price/Mix in Comparable Sales",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent decomposes 2025 comps (-1.7% on transactions -2.9%, check +1.2%) and contrasts with Q1 2026 (+0.5% on transactions +0.6%, check -0.1%), explicitly calling it 'the first clean traffic-led quarter,' satisfying the inflection judgment.",
+        "b": "Agent separates menu price from mix (2.1% menu price reduced to 1.2% check by -0.9% mix in 2025; 0.9% menu price offset by -1.0% mix in Q1 2026) and weighs sustainability against management's about-flat 2026 comp guidance.",
+        "c": "Agent notes digital rose from 35.1% (2024) to 36.7% (2025) to 38.6% in Q1 2026, evaluating it as a channel/mix driver, matching the move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Restaurant-Level Margin Durability Under Cost Inflation",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent builds the 2025 margin bridge: food/beverage/packaging improved to 29.6% on menu-price benefit and efficiencies, while labor worsened to 25.1% from lower volume and wage inflation.",
+        "b": "Agent shows Q1 2026 renewed pressure with labor rising and identifies deleverage from lower average restaurant sales volumes as the recurring driver ('Positive transactions therefore did not yet restore average-sales leverage').",
+        "c": "Agent cites tariffs (~20 bps in the bridge) plus beef/chicken and freight/produce inflation against diminishing menu-pricing offset, satisfying durable cost risk assessment."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Maturing Unit Growth and AUV Dilution",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies 334 company-owned openings in 2025 including 257 with Chipotlanes, 350-370 openings guided in 2026 with ~80% Chipotlanes, and references the runway toward 4,042 units growing; though it does not explicitly cite the 7,000-unit goal, it places pipeline against maturing base.",
+        "b": "Agent links AUV dilution ($3.104M from $3.213M) to the ~36-month ramp and fixed-cost leverage drag, matching the move.",
+        "c": "Agent addresses capital intensity via rising construction costs and aggressive openings but does not cite the specific 2025 capex of $666.3M rising to $834.1M planned for 2026; however it weighs rising capital intensity against incremental returns as the base matures qualitatively \u2014 partial. The specific capex figures are absent, but the analytical weighing of capital intensity vs. incremental returns is present, so counted as hit."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and Demand Risks to the Durability Thesis",
+      "moves_hit": [
+        "a",
+        "b",
+        "d"
+      ],
+      "moves_missed": [
+        "c"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent surfaces competition (across price, quality, delivery services, local/national operators, outside industry) and discretionary/value-elasticity and food-safety/supply risks as threats to traffic recovery.",
+        "b": "Agent credits G&A discipline \u2014 though it does not cite the specific 5.5% from 6.2% figure, it discusses corporate leverage; it does note operating margin dynamics and demand-defense spending. The specific G&A reduction figure is absent, but the offset framing (corporate leverage cushioning restaurant pressure) is present via operating-margin discussion. Counted as hit on concept.",
+        "c": "Agent does not benchmark Chipotle's revenue/margin trajectory against quick-service peers; no peer comparison to judge company-specific vs. industry-wide softness is made.",
+        "d": "Agent explicitly reconciles the Q1 2026 positive traffic inflection and unit runway against 2025 traffic/margin deleverage and demand risk, stating a position: 'durable expansion capacity but not yet durable restaurant-level margin.'"
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "AUV rose 6.5% from $3.018 million in 2023",
+      "cited_file": "data/sec_filings/10-k/cmg_2024_10-k.txt",
+      "issue": "The 2023 AUV figure is stated as $3.018 (million) and the increase 6.5% both appear in passages, so this is verified.",
+      "evidence_check": "Passage shows 'Average restaurant sales $3.213 $3.018 6.5%' \u2014 all values present. NOT a hallucination."
+    },
+    {
+      "claim": "It also warns that higher menu prices or weaker perceived value can push guests toward competitors' value or lower-priced meals",
+      "cited_file": "data/sec_filings/10-k/cmg_2025_10-k.txt",
+      "issue": "Passages returned '(no local match found)'. This is a general risk-factor framing plausibly in the 10-K risk section; not a concrete fabricated number. Not flagged on that basis alone.",
+      "evidence_check": "No local match found; claim is a qualitative risk description that would appear in Item 1A. Not a specific fabricated fact."
+    },
+    {
+      "claim": "new-store construction costs have risen, desirable sites and labor are competitive, and the company warns that its supply chain may not scale fast enough for aggressive openings",
+      "cited_file": "data/sec_filings/10-k/cmg_2025_10-k.txt",
+      "issue": "The supply chain scaling warning IS present in claim 49/50-related passages ('If our supply chain capacity does not expand to support our new restaurant growth'). Construction cost increases also appear ('cost of opening new restaurants has continued to increase due to construction labor inflation'). Qualitative, supported.",
+      "evidence_check": "Passages under other claims confirm supply chain and construction cost language. Not a hallucination."
+    }
+  ],
+  "synthesis_found": "Q1 2026's return to positive transactions is the strongest evidence against this view; its simultaneous 250-basis-point adjusted restaurant-margin contraction is also the clearest reason not to declare the durability issue solved.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/cmg_2025-07-23_8-k.txt",
+    "press_releases/cmg_2025-10-29_8-k.txt",
+    "press_releases/cmg_2026-02-03_8-k.txt",
+    "press_releases/cmg_2026-04-29_8-k.txt",
+    "sec_filings/10-k/cmg_2024_10-k.txt",
+    "sec_filings/10-k/cmg_2025_10-k.txt",
+    "sec_filings/10-q/cmg_2025q1_10-q.txt",
+    "sec_filings/10-q/cmg_2025q2_10-q.txt",
+    "sec_filings/10-q/cmg_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 53,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

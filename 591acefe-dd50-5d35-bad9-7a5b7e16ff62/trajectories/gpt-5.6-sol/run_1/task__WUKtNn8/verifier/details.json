@@ -1,0 +1,170 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Usage-Based Revenue Durability and Optimization Risk",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes baseline: $1.006 billion revenue with 32% growth in Q1 2026, and net retention moving from high-110%s (March 2025) to low-120%s (March 2026) driven by increased usage growth.",
+        "b": "Agent explains usage-based mechanics \u2014 annual subscriptions, ratable commitments, commitments recognized as used, monthly usage subscriptions, with overages billed incrementally and usage-based revenue fluctuating.",
+        "c": "Agent weighs optimization risk: 2023 retention collapse from mid-140%s to mid-110%s, cloud-native and AI-native cohorts rapidly raising usage then optimizing, renewing on worse terms, or not renewing, producing volatility."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Customer Concentration in the AI-Native Cohort",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "b"
+      ],
+      "move_reasoning": {
+        "a": "Agent anchors large-customer base: $100,000-plus ARR customers rose ~21% from 3,770 to 4,550, representing 90% of ARR versus 88% a year earlier.",
+        "b": "Agent highlights the AI-native cohort concentration, including that it contains Datadog's largest customer and contributed 7 points in Q4; but the supporting per-quarter contribution figures (4/5/6/10/8/7 points) rely on flagged hallucinated claims for the specific point contributions cited to files with no matching passages.",
+        "c": "Agent frames renewal risk: AI-native optimization event could remove several points of growth, cohort may optimize, renew on worse terms, or not renew \u2014 making concentrated growth a durability question."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Platform Breadth Versus Point-Solution Competition",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes platform breadth: common data model, cloud-agnostic, more than 1,000 integrations, expansion into cloud security and adjacent products (OnCall, Product Analytics, Eppo, Metaplane).",
+        "b": "Agent identifies named competitive set including Cisco, New Relic, Dynatrace for APM, plus home-grown and open-source tools, noting competitors have greater resources and broader bundles.",
+        "c": "Agent weighs platform ambition against competitive erosion risk \u2014 lower-priced offerings creating pricing pressure, cloud marketplaces weakening relationships; though it does not cite the specific ~$187 billion 2029 market opportunity figure, it weighs breadth ambition against bundled/lower-cost competition."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Margin Profile and the Growth-Durability Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent contrasts Q1 2026 GAAP operating margin of ~1% (0.7%) with 22% non-GAAP operating margin, and notes free cash flow rose to $289.1 million.",
+        "b": "Agent notes forward trajectory \u2014 full-year 2026 guidance raised to $4.30-$4.34 billion as the growth-durability test; Q2 guidance not explicitly cited but the FY guidance move is present.",
+        "c": "Agent takes an explicit reconciled position: durable platform but non-durable 32% headline rate, reconciling low-120%s net retention and cash generation against AI-native concentration, usage optimization, margin compression, and platform competition \u2014 a genuine synthesis of opposing data points."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "The cohort contributed about 4 percentage points of year-over-year growth in Q3 2024",
+      "cited_file": "data/sec_filings/10-q/ddog_2024q3_10-q.txt",
+      "issue": "No passage contains any statement about a cohort contributing ~4 percentage points of YoY growth in Q3 2024.",
+      "evidence_check": "Searched the Q3 2024 10-Q passages for cohort/percentage-point contribution language; only balance sheet, filing cover, and accounting pronouncements text present. No match."
+    },
+    {
+      "claim": "5 points in Q4 2024",
+      "cited_file": "data/sec_filings/10-k/ddog_2024_10-k.txt",
+      "issue": "No passage from the 2024 10-K states the AI-native cohort contributed 5 points of growth in Q4 2024.",
+      "evidence_check": "Searched 2024 10-K passages for cohort/points-of-growth statements; passages cover business overview, customers, competition, employees \u2014 no 5-point cohort figure found."
+    },
+    {
+      "claim": "6 points in Q1 2025",
+      "cited_file": "data/sec_filings/10-q/ddog_2025q1_10-q.txt",
+      "issue": "No passage contains a statement of the cohort contributing 6 points of growth in Q1 2025.",
+      "evidence_check": "Searched Q1 2025 10-Q passages for cohort/points contribution; only cover page, balance sheet, cash flow, and estimates text present. No match."
+    },
+    {
+      "claim": "10 points in Q2",
+      "cited_file": "data/sec_filings/10-q/ddog_2025q2_10-q.txt",
+      "issue": "No passage states the cohort contributed 10 points of growth in Q2 2025.",
+      "evidence_check": "Searched Q2 2025 10-Q passages for a 10-point cohort contribution; passages contain revenue/expense MD&A and financials but no cohort-points figure. No match."
+    },
+    {
+      "claim": "8 points in Q3",
+      "cited_file": "data/sec_filings/10-q/ddog_2025q3_10-q.txt",
+      "issue": "Cited file returned no local match, and the specific 8-point cohort contribution is a concrete fact not shown in any provided passage.",
+      "evidence_check": "Passages listed as '(no local match found)'; no evidence available to verify the 8-point figure."
+    },
+    {
+      "claim": "7 points in Q4",
+      "cited_file": "data/sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "Cited file returned no local match for this claim; the specific 7-point cohort contribution is a concrete fact not present in any passage.",
+      "evidence_check": "Passages listed as '(no local match found)'; no supporting text for the 7-point figure."
+    },
+    {
+      "claim": "Q2's 10-point contribution represented more than one-third of that quarter's 28% growth",
+      "cited_file": "data/sec_filings/10-q/ddog_2025q2_10-q.txt",
+      "issue": "The underlying 10-point cohort contribution is not present in the passages; only the 28% growth is verified. The 10-point building block is fabricated/unverifiable.",
+      "evidence_check": "Q2 2025 passages confirm 28% revenue growth but contain no 10-point cohort contribution figure."
+    },
+    {
+      "claim": "Subtracting the disclosed cohort contribution from reported growth leaves approximately 18 points from everything else in Q2 2025, 20 in Q3, and 22 in Q4",
+      "cited_file": "data/sec_filings/10-q/ddog_2025q2_10-q.txt",
+      "issue": "Relies on cohort-point contributions (10/8/7) that do not appear in any passages; the residual figures are derived from unverifiable inputs.",
+      "evidence_check": "Q2 2025 passages contain no cohort-point disclosures; the 18/20/22 residuals cannot be traced to any quoted figure."
+    },
+    {
+      "claim": "roughly one-quarter of Q4's 29% growth came from this cohort",
+      "cited_file": "data/sec_filings/10-k/ddog_2025_10-k.txt",
+      "issue": "The 2025 10-K passages do not contain any cohort growth-contribution figure; the '~one-quarter of 29%' derivation lacks a source fact.",
+      "evidence_check": "Searched 2025 10-K passages for cohort contribution to Q4 growth; found only international revenue %, income statement, and goodwill \u2014 no cohort-points statement."
+    },
+    {
+      "claim": "66.6%/negative 23.4% for Snowflake",
+      "cited_file": "data/financials/income_statement/snow_income_statement.json",
+      "issue": "Cited Snowflake income statement returned no local match; the specific margin figures cannot be verified from provided passages.",
+      "evidence_check": "Passages listed as '(no local match found)'; no Snowflake quarter data provided to confirm 66.6% gross / -23.4% operating margin."
+    }
+  ],
+  "synthesis_found": "My reconciliation is that optimization is a rate-of-growth risk, not evidence that demand is transient. Revenue growth accelerated from 25% in Q1 2025 to 28% in Q2 and Q3, 29% in Q4, and 32% in Q1 2026... Optimization has therefore not prevented acceleration, but the 2023 retention collapse proves that it can still compress expansion sharply. The sensible underwriting case is durable growth below the current headline rate, with quarter-to-quarter noise around AI usage.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/income_statement/ddog_income_statement.json",
+    "financials/income_statement/mdb_income_statement.json",
+    "financials/income_statement/net_income_statement.json",
+    "financials/income_statement/snow_income_statement.json",
+    "press_releases/ddog_2025-05-06_8-k.txt",
+    "press_releases/ddog_2025-08-07_8-k.txt",
+    "press_releases/ddog_2025-11-06_8-k.txt",
+    "press_releases/ddog_2026-02-10_8-k.txt",
+    "press_releases/ddog_2026-05-07_8-k.txt",
+    "sec_filings/10-k/ddog_2023_10-k.txt",
+    "sec_filings/10-k/ddog_2024_10-k.txt",
+    "sec_filings/10-k/ddog_2025_10-k.txt",
+    "sec_filings/10-q/ddog_2024q3_10-q.txt",
+    "sec_filings/10-q/ddog_2025q1_10-q.txt",
+    "sec_filings/10-q/ddog_2025q2_10-q.txt",
+    "sec_filings/10-q/ddog_2025q3_10-q.txt",
+    "sec_filings/10-q/ddog_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 52,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

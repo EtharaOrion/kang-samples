@@ -1,0 +1,106 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Commercial Aftermarket as the Primary Growth Engine",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies both bridges: Collins $2.6B organic with $1.4B aftermarket, Pratt $4.8B organic with $2.9B aftermarket.",
+        "b": "Agent shows Q1 2026 Pratt $0.8B increase with $0.7B aftermarket even as commercial OE fell 1%, and cites Pratt aftermarket +19%, Collins +7%.",
+        "c": "Agent cites Q1 2026 backlog of $271B split $162B commercial/$109B defense and connects the installed base to durable recurring demand, though it does not give the full 2024\u21922025\u21922026 progression, it establishes the forward-demand signal from backlog."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "The GTF Powder-Metal Charge: One Accounting Event, a Multi-Year Cash Tail",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states the $2.9B pre-tax operating-profit charge for Pratt's net 51% PW1100 share (and the $5.4B sales reduction/$2.5B COS offset), though it omits the $2.2B net and $1.55 EPS figures.",
+        "b": "Agent traces the $2.8B accrual increase, $1.0B utilized in each of 2024 and 2025, balance falling $1.7B\u2192$0.7B\u2192$0.5B, and the ~$0.7B 2026 cash impact, framing it as a multi-year cash tail.",
+        "c": "Agent notes the unresolved SEC investigation into 2023 disclosures at March 31, 2026; it does not mention the securities class-action dismissal/appeal but the SEC overhang satisfies the tail-risk move."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Does Aftermarket Growth Actually Repair Pratt & Whitney's Segment Economics?",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent lays out the margin trajectory (-8.0% 2023, 7.2% 2024, 7.9% 2025) and explicitly notes the 2023\u21922024 jump is 'an accounting reset rather than evidence of operating leverage' due to the absent charge.",
+        "b": "Agent uses Q1 2026 as a cleaner read: margin to 8.7% from 7.9%, profit +22%, $0.7B of $0.8B increase from aftermarket, attributing to higher aftermarket volume.",
+        "c": "Agent synthesizes the 'unfavorable aftermarket mix' offset (GTF-heavy mix) against aftermarket gains and takes an explicit position that Pratt is 'repairing, not repaired' with still-thin margins, reconciling the opposing points."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Consolidated Cash, Margin, and Competitive Positioning: The Net Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent cites Q1 2026 FCF of $1.309B up 65% vs Q1 2025, confirmed FY2026 FCF guidance of $8.25-$8.75B, and notes the $0.7B powder-metal impact embedded (~8-8.5% of guided FCF).",
+        "b": "Agent cross-checks against GE using income statement/cash flow data: GE $1.823B OCF on $12.392B revenue vs RTX $1.855B on $22.076B, GE net income $1.904B vs RTX $2.059B, concluding GE margins are materially stronger; Honeywell is not analyzed but GE peer comparison satisfies the core move.",
+        "c": "Agent delivers an explicit reconciled verdict weighing backlog, aftermarket, and FCF guidance against the $0.7B annual payments, sub-double-digit Pratt margin, and SEC overhang, concluding constructive on RTX but cautious on Pratt margin quality."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "In Q4 2025 Pratt sales grew 25% and commercial aftermarket grew 21%, but adjusted operating profit rose only 8% and adjusted margin fell from 9.5% to 8.2%",
+      "cited_file": "data/press_releases/rtx_2026-01-27_8-k.txt",
+      "issue": "The 8.2% figure is the Q4 2025 adjusted margin, and 9.5% is the Q4 2024 adjusted margin \u2014 the claim's framing of the decline is supported by passages.",
+      "evidence_check": "Passages confirm Q4 2025 sales +25%, commercial aftermarket +21%, adjusted operating profit +8%, adjusted ROS 8.2% vs prior-year 9.5%. All values present; not a hallucination."
+    }
+  ],
+  "synthesis_found": "The decisive test is no longer whether RTX can fund the powder-metal response; the data say it can. The test is whether Pratt can convert post-remediation GTF volume into sustained margin expansion, and the data through Q1 2026 have not yet proved that.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/cash_flow/ge_cash_flow.json",
+    "financials/cash_flow/rtx_cash_flow.json",
+    "financials/income_statement/ge_income_statement.json",
+    "financials/income_statement/rtx_income_statement.json",
+    "press_releases/rtx_2025-01-28_8-k.txt",
+    "press_releases/rtx_2026-01-27_8-k.txt",
+    "press_releases/rtx_2026-04-21_8-k.txt",
+    "sec_filings/10-k/rtx_2025_10-k.txt",
+    "sec_filings/10-q/rtx_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 55,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

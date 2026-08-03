@@ -1,0 +1,117 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "US Traffic Turnaround: Transactions vs. Ticket, and What It Costs",
+      "moves_hit": [
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "a"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "The agent tracks FY2025 quarterly comps (Q3 -2%, Q4 flat) and mentions Green Apron Service economics, but does not establish the FY2025 full-year North America trough of -2% comps / -4% transactions / +2% ticket from pricing annualization, nor connect that specific full-year figure to the Back to Starbucks staffing response.",
+        "b": "Agent hits the inflection: Q1 FY26 +4% comps/+3% transactions and Q2 +7.1% comps/+4.3% transactions/+2.7% ticket, noting transactions positive for two quarters and Q2's delivery-driven ticket gain.",
+        "c": "Agent quantifies the margin cost: North America operating income fell 9% in Q2 and 20% in H1, margin contracted with ~260bps labor investment, and takes the position that traffic recovery is not yet self-funding."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "China Comparable Sales Deceleration and Competitive Discounting",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies the deceleration: China comps +7% Q1 FY26 (transactions +5%, ticket +2%) slowing to +0.5% Q2 (transactions +2.1%, ticket -1.6%).",
+        "b": "Agent ties ticket decline to promotional/competitive environment: International margin reduced ~170bps FY2025 from increased promotional activity and cites the Risk Factors competitor pricing/discounting language.",
+        "c": "Agent reconciles the two data points, concluding footprint and discounting carry the top line while established-store pricing power is fragile, taking a position that this is not mature-store health."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "The Boyu Capital Joint Venture: Strategic Retreat or Growth Accelerant?",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes deal mechanics: Boyu 60%, Starbucks 40% plus brand/licensing, ~$4B enterprise value announced, $3.1B total consideration, 7,991 stores converted to licensed.",
+        "b": "Agent explicitly flags the ambiguity between the ~$4B enterprise value and $3.1B consideration, noting they are not like-for-like and the files provide no bridge, rather than smoothing it over.",
+        "c": "Agent evaluates the 20,000-store aspiration against the deceleration and takes the position that this is a capital-light retreat with upside, with proceeds earmarked for debt reduction."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Consolidated Margin and EPS Trajectory: Real Recovery or Accounting Optics?",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent documents the FY2025 collapse: GAAP operating margin 7.9% (down 710bps), non-GAAP EPS $2.13 vs $3.31, and references restructuring charges being reduced; captures the depressed-base collapse though frames some figures via non-GAAP.",
+        "b": "Agent documents the Q2 rebound and drivers: consolidated margin +180bps to 8.7%, International +780bps with ~520bps from ceasing China depreciation/amortization vs sales leverage, and cross-checks EPS series (Q1 $0.26 vs Q2 $0.45).",
+        "c": "Agent explicitly synthesizes NA traffic recovery against China deconsolidation optics and competitive drag into a single position: 'authentic revenue turnaround with unproven earnings recovery,' reconciling rather than listing in parallel."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Q1 ticket benefited from customer beverage modifications",
+      "cited_file": "data/sec_filings/10-q/sbux_2025q1_10-q.txt",
+      "issue": "No local match found in cited file; the customer beverage modifications reference appears in the Q2 10-Q describing the first two quarters, not the Q1 FY2025 10-Q as cited.",
+      "evidence_check": "Searched cited passages (no local match found). The phrase 'customer beverage modifications' appears in sbux_2026q2_10-q.txt referring to the two-quarters-ended (first half) FY2026 North America comps, not a Q1-specific FY2025 statement."
+    },
+    {
+      "claim": "that is approximately 6%-15% above FY2025 but still approximately 26%-32% below FY2024's $3.31",
+      "cited_file": "data/press_releases/sbux_2025-10-29_8-k.txt",
+      "issue": "The claim's own percentage ranges are analytical framing; the underlying figures FY2025 non-GAAP EPS $2.13 and FY2024 $3.31 are present. The 6%-15% range appears to reference FY2026 guidance ($2.25-$2.45) which is not in this cited FY2025 press release, but the building-block numbers $2.13 and $3.31 are present.",
+      "evidence_check": "Confirmed $2.13 and $3.31 in passages. The comparison to a $2.25-$2.45 guidance range is not in this file, but the guidance figures appear in the 2026-04-28 8-K; percentages are inference, building blocks present elsewhere. Borderline but not a fabricated fact."
+    }
+  ],
+  "synthesis_found": "Until North America operating margin expands without relying on China depreciation cessation, deconsolidation, or a sale gain, I would classify Starbucks as an authentic revenue turnaround with unproven earnings recovery.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/balance_sheet/sbux_balance_sheet.json",
+    "financials/income_statement/sbux_income_statement.json",
+    "press_releases/sbux_2025-07-29_8-k.txt",
+    "press_releases/sbux_2025-10-29_8-k.txt",
+    "press_releases/sbux_2025-11-03_8-k.txt",
+    "press_releases/sbux_2026-01-28_8-k.txt",
+    "press_releases/sbux_2026-04-02_8-k.txt",
+    "press_releases/sbux_2026-04-28_8-k.txt",
+    "sec_filings/10-k/sbux_2025_10-k.txt",
+    "sec_filings/10-q/sbux_2025q1_10-q.txt",
+    "sec_filings/10-q/sbux_2025q2_10-q.txt",
+    "sec_filings/10-q/sbux_2025q3_10-q.txt",
+    "sec_filings/10-q/sbux_2026q2_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 58,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

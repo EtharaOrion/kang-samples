@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['U.S. Reacceleration vs. International Deceleration in Same-Store Sales', 'Unit-Growth Durability, Fortressing, and the Master-Franchise Engine', 'Aggregator Channel, Loyalty, and the "Hungry for MORE" Sales Model', 'Economic Engine and Competitive Position: Does the Recovery Hold?']
+Themes missed: []
+Cited files: 10

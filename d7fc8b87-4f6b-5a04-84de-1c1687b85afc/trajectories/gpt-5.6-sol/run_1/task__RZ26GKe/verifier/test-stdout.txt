@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Demand Durability and the Quality of Growth', 'Take-Rate Expansion and the Single-Fee Transition', 'Regulatory and Tax Overhang', 'Cash Generation, Margins, and the Investment Verdict']
+Themes missed: []
+Cited files: 7

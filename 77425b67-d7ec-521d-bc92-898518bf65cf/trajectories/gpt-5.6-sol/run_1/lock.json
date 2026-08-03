@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-08-03T10:29:38.170977Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "/Users/user/.local/bin/harbor",
+        "run",
+        "-p",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/task",
+        "-a",
+        "codex",
+        "-m",
+        "gpt-5.6-sol",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/hb_overlay.yaml",
+        "-o",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "VerifierOutputParseError",
+            "AgentTimeoutError",
+            "RewardFileNotFoundError",
+            "RewardFileEmptyError",
+            "VerifierTimeoutError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:e1080fbd3d805dac66d9d91264fa1763e786c7cb0f43c17c33ad99f2ed040a6e",
+                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "codex",
+                "model_name": "gpt-5.6-sol",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/hb_overlay.yaml",
+                    "digest": "sha256:7ad1af95907c88f0b505806b79942086bf326c8b155d441594b447f7f83a732a"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

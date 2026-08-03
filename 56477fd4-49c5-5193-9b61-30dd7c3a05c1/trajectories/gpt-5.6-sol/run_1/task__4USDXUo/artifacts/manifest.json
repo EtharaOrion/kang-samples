@@ -1,0 +1,26 @@
+[
+  {
+    "source": "/logs/artifacts",
+    "destination": "artifacts",
+    "type": "directory",
+    "status": "empty"
+  },
+  {
+    "source": "/app/answer.txt",
+    "destination": "artifacts/answer.txt",
+    "type": "file",
+    "status": "ok"
+  },
+  {
+    "source": "/app/results",
+    "destination": "artifacts/results",
+    "type": "file",
+    "status": "failed"
+  },
+  {
+    "source": "/logs/agent/trajectory.json",
+    "destination": "artifacts/trajectory.json",
+    "type": "file",
+    "status": "ok"
+  }
+]

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['The Shape and Quality of the Comparable-Sales Recovery', 'Pro Penetration and the Total Home Strategy', 'Competitive Benchmarking Against Home Depot', 'Margins, Capital Allocation and a Reconciled Call']
+Themes missed: []
+Cited files: 15

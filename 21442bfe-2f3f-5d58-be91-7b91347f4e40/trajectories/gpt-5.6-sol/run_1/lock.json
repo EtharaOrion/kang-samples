@@ -1,0 +1,86 @@
+{
+    "schema_version": 1,
+    "created_at": "2026-08-03T10:05:37.067792Z",
+    "harbor": {
+        "version": "0.9.0",
+        "is_editable": false
+    },
+    "invocation": [
+        "/Users/user/.local/bin/harbor",
+        "run",
+        "-p",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/task",
+        "-a",
+        "codex",
+        "-m",
+        "gpt-5.6-sol",
+        "-k",
+        "1",
+        "-n",
+        "1",
+        "-y",
+        "--agent-setup-timeout-multiplier",
+        "3",
+        "--extra-docker-compose",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/hb_overlay.yaml",
+        "-o",
+        "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/jobs"
+    ],
+    "n_concurrent_trials": 1,
+    "retry": {
+        "max_retries": 0,
+        "exclude_exceptions": [
+            "VerifierTimeoutError",
+            "RewardFileEmptyError",
+            "RewardFileNotFoundError",
+            "AgentTimeoutError",
+            "VerifierOutputParseError"
+        ],
+        "wait_multiplier": 1.0,
+        "min_wait_sec": 1.0,
+        "max_wait_sec": 60.0
+    },
+    "trials": [
+        {
+            "task": {
+                "name": "task",
+                "type": "local",
+                "digest": "sha256:73739a398e6d9f53f0be95275d951ea153310963a51aa8c7911601163aba4f2e",
+                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/task"
+            },
+            "timeout_multiplier": 1.0,
+            "agent_setup_timeout_multiplier": 3.0,
+            "agent": {
+                "name": "codex",
+                "model_name": "gpt-5.6-sol",
+                "skills": [],
+                "kwargs": {},
+                "env": {},
+                "mcp_servers": []
+            },
+            "skills": [],
+            "environment": {
+                "type": "docker",
+                "force_build": false,
+                "delete": true,
+                "cpu_enforcement_policy": "auto",
+                "memory_enforcement_policy": "auto",
+                "extra_docker_compose": [
+                    "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/hb_overlay.yaml"
+                ],
+                "env": {},
+                "kwargs": {}
+            },
+            "extra_docker_compose": [
+                {
+                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability__2026-08-03__15-35-33/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability/hb_overlay.yaml",
+                    "digest": "sha256:c5c5184837254cb094f7d9cb66a318dcfe7443bb379a8b269d589eaa8f45aa8b"
+                }
+            ],
+            "verifier": {
+                "env": {},
+                "disable": false
+            }
+        }
+    ]
+}

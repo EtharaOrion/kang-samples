@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Premium and Diversified Revenue Mix Shift', 'Loyalty and the American Express Co-Brand Engine', 'Balance-Sheet Deleveraging Toward Investment Grade', 'Capacity Discipline, Margins and the Durable-Earnings Verdict']
+Themes missed: []
+Cited files: 11

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Post-Outage Revenue and ARR Growth Trajectory', 'Retention Durability and the Cost of Customer Commitment Packages', 'GAAP Losses Versus Non-GAAP and Cash-Flow Profitability', 'Competitive and Legal Overhang — Verdict on Durability']
+Themes missed: []
+Cited files: 16

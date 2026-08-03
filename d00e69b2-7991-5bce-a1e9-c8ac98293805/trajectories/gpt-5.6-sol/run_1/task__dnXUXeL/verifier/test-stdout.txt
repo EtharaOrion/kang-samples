@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['US Traffic Turnaround: Transactions vs. Ticket, and What It Costs', 'China Comparable Sales Deceleration and Competitive Discounting', 'The Boyu Capital Joint Venture: Strategic Retreat or Growth Accelerant?', 'Consolidated Margin and EPS Trajectory: Real Recovery or Accounting Optics?']
+Themes missed: []
+Cited files: 13

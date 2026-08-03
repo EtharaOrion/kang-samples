@@ -1,0 +1,108 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "End of Cash Sorting and the Sweep Deposit Turn",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes the arc: 2023 cash-sorting drag ($126.1B sweep decline, $383.8B into MMFs/fixed income, NII fell 12%) versus the 2025 reversal where sweep deposits and brokerage payables rose $36.6B (12%) for the year.",
+        "b": "Agent notes the BDA transfer of $6.7 billion of balances onto Schwab's balance sheet in the supplemental-funding section, tying it to converting off-balance-sheet cash into on-balance-sheet funding.",
+        "c": "Agent tests durability using the March 2026 transactional sweep of $461.5B, up $7.8B versus December, and explicitly contrasts it with the $28.1B prior quarter and the seasonal/organic components, questioning autopilot recovery."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Net Interest Margin Recovery: Mechanics, Not Magic",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [
+        "d"
+      ],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent decomposes the drivers: NII up 28% to $11.75B (from $9.144B) on interest expense falling 41%, NIM 2.12% to 2.74%; 1Q26 NII up 16% to $3.144B, NIM 2.88% vs 2.53%, driven by lower funding rates/wholesale funding more than offsetting lower floating-asset yields.",
+        "b": "Agent flags deceleration: NII growth slowed from 28% (FY) to 16% (1Q26), NIM slipped from 2.90% to 2.88%, and earning-asset yield fell \u2014 implying easiest gains exhausted.",
+        "c": "Agent weighs counter-evidence: earning-asset yield ex-ancillary fell to 3.39% from 3.44% as lower rates flowed through floating assets, and cites management that reduced wholesale funding more than offset lower floating-asset yields \u2014 capturing the rate-cut headwind to asset yields.",
+        "d": "Agent does not benchmark against IBKR or Morgan Stanley peers; no cross-company comparison of NII growth rates is present."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    },
+    {
+      "label": "Paydown of High-Cost Supplemental Funding as the Reversal Engine \u2014 and Its Limits",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies the trajectory: supplemental funding ended 2024 at $49.9B (down 37%, 49% below May 2023 peak), fell $44.8B (90%) in 2025 to $5.1B, FHLB borrowings zero and $2.4B brokered CDs at 3.77% by March 2026.",
+        "b": "Agent identifies internal funding sources: principal/interest from AFS/HTM securities ($37.6B net inflows), $6.7B BDA transfers, and client cash flows \u2014 not external capital raises.",
+        "c": "Agent synthesizes the limits: states the $5.1B is already within the diversified funding range, the paydown benefit 'cannot resemble the $44.8B reduction,' and that the balance sheet has moved from defensive replacement to growth funding, so further gains must come from lending/rate cuts."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Organic Growth and Capital Return as the Offset \u2014 and the Balance-Sheet Trade-off",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent establishes organic growth: $519.4B core NNA in 2025 (5.1% organic rate), total client assets $11.90T, and 1Q26 growth with total client assets referenced, complementing NII recovery.",
+        "b": "Agent notes margin lending as a second engine: margin loans up 34% to $112.3B in 2025 and 13% to $126.7B in 1Q26, funded partly by wholesale borrowing, warning growth could recreate funding expense.",
+        "c": "Agent synthesizes the capital-return tension: $7.3B buybacks + $2.5B Series G redemption + 8% dividend hike in 2025, $2.4B buybacks + 19% dividend hike in 1Q26, GAAP Tier 1 leverage falling 9.9% to 9.3% to 8.9% while adjusted rose to 7.1% then fell to 6.8%, and takes a position on sustainability as demands converge."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Schwab issued $1.5 billion of Series L preferred stock in April 2026, followed by $2.25 billion of senior notes in May and $1.0 billion of senior notes in June.",
+      "cited_file": "data/press_releases/schw_2026-05-21_8-k.txt",
+      "issue": "The May senior notes totaled $2.25 billion ($1.0B 2030 Notes + $1.25B 2037 Notes), which matches. The June $1.0 billion senior notes appear in the June 29 file. But the $1.5 billion Series L preferred stock claim is not present in the cited May 21 file; it is only found in the 10-Q. Still, the specific dollar amounts stated are corroborated across the provided passages.",
+      "evidence_check": "May file confirms $1,000,000,000 2030 Notes + $1,250,000,000 2037 Notes = $2.25B; June file confirms $1,000,000,000 Notes due 2029. Series L $1.5B confirmed in 10-Q passage. All figures verified."
+    }
+  ],
+  "synthesis_found": "The proper reconciliation is that cash sorting has ended as a destabilizing marginal outflow, while absolute sweep dollars can still rise through account and asset growth, seasonality, off-balance-sheet BDA balances, and short-credit growth. It is not evidence that clients are holding more cash relative to their wealth.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "press_releases/schw_2026-01-21_8-k.txt",
+    "press_releases/schw_2026-04-16_8-k.txt",
+    "press_releases/schw_2026-05-21_8-k.txt",
+    "press_releases/schw_2026-06-29_8-k.txt",
+    "sec_filings/10-k/schw_2023_10-k.txt",
+    "sec_filings/10-k/schw_2024_10-k.txt",
+    "sec_filings/10-k/schw_2025_10-k.txt",
+    "sec_filings/10-q/schw_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 49,
+  "grounding_claims_no_match": 2,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

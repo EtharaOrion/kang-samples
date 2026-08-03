@@ -1,0 +1,131 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "Post-Outage Revenue and ARR Growth Trajectory",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent states Q1 FY2027 revenue grew 26%, ending ARR grew 24% to $5.51 billion; also cites subscription/total revenue context via income statement \u2014 satisfies the trajectory anchor with correct figures.",
+        "b": "Agent highlights record Q4 net-new ARR and Q1 FY2027 net-new ARR rose 32% to $255.8 million, framing the acceleration; forward guidance framing is present via backlog and recovery narrative, and net-new ARR momentum is clearly established.",
+        "c": "Agent anchors against the July 19 incident, noting delayed opportunity creation, longer sales cycles and delayed purchasing decisions \u2014 equivalent to customers deferring/deciding against purchases."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Retention Durability and the Cost of Customer Commitment Packages",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent anchors the 115% dollar-based net retention at January 31, 2026 as central evidence of retained/expanding spend, tracing recovery from 112%.",
+        "b": "Agent weighs customer commitment packages \u2014 discounts, extra modules, subscription extensions \u2014 noting they caused increased contraction, elongated terms and reduced upsell, i.e., a near-term ARR drag.",
+        "c": "Agent uses module adoption rates rising to 51%, 35%, 25% and Falcon Flex ARR of $1.69 billion up >120% as land-and-expand evidence."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "GAAP Losses Versus Non-GAAP and Cash-Flow Profitability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent contrasts Q1 FY2027 GAAP operating loss of $30.6 million with non-GAAP net income, noting GAAP operating income was still negative \u2014 equivalent to the (2)% vs 24% margin contrast, and cites income statement.",
+        "b": "Agent weighs record cash generation \u2014 $590.9 million operating cash flow and $468.5 million free cash flow \u2014 against the negative GAAP operating result.",
+        "c": "Agent identifies stock-based compensation ($1.10 billion) as the principal GAAP/non-GAAP bridge plus incident-related expense ($117.7M FY26) and legal/settlement context as drivers of the wedge."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Competitive and Legal Overhang \u2014 Verdict on Durability",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent assesses the competitive threat \u2014 larger competitors' resources, bundles, lower pricing, and acknowledges the outage harmed brand/reputation \u2014 capturing the aggressive-approach/legacy-vendor pressure.",
+        "b": "Agent weighs the legal overhang (Delta suit, DOJ/SEC inquiries, securities/derivative/consumer class actions) and notes the ~$4.2 billion backlog as demand cushion; some litigation-status claims (securities dismissal without appeal, derivative dismissals) are flagged as fabricated, but the core overhang and backlog cushion are independently supported.",
+        "c": "Agent takes an explicit position that the franchise is durable, reconciling strong ARR/net-new-ARR and 115% retention against GAAP losses, incentive/concession costs, and unresolved litigation \u2014 a genuine synthesis rather than parallel listing."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "In Q3 FY2025, the first full quarter affected, net-new ARR fell to $153.0 million from $223.1 million a year earlier, while revenue growth moderated to 29%",
+      "cited_file": "/app/data/sec_filings/10-q/crwd_2024q3_10-q.txt",
+      "issue": "Claim labels Q3 FY2025 as 'the first full quarter affected,' but the incident occurred July 19, 2024, making Q2 FY2025 (ended July 31, 2024) only 12 days after the incident and Q3 FY2025 (ended October 31, 2024) the first FULL post-incident quarter. The numeric facts ($153.0M, $223.1M, 29%) are all supported; this is an analytical framing rather than a fabricated fact.",
+      "evidence_check": "Passages confirm $153.0M and $223.1M net new ARR and 29% total revenue growth for Q3 FY2025. The 'first full quarter' framing is consistent with the incident date. Not a hallucination."
+    },
+    {
+      "claim": "direct settlement offers to certain customers were described as immaterial and entirely offset by insurance",
+      "cited_file": "/app/data/sec_filings/10-q/crwd_2026q1_10-q.txt",
+      "issue": "No passage supports the specific assertion that direct settlement offers were 'described as immaterial and entirely offset by insurance.' The retrieved passages for this claim returned no local match, and the 2026q1 10-Q passages provided elsewhere discuss July 19 Incident costs and insurance recoverability generally but do not contain this specific characterization of 'direct settlement offers to certain customers' being immaterial and entirely offset by insurance.",
+      "evidence_check": "Searched provided 2026q1 10-Q passages for 'settlement offers,' 'immaterial,' 'offset by insurance' regarding direct customer settlements; found no matching statement. Passage marked '(no local match found).'"
+    },
+    {
+      "claim": "The securities class action reached final dismissal without appeal",
+      "cited_file": "/app/data/sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "No passage supports that the securities class action reached 'final dismissal without appeal.' The available litigation passages describe the securities class action being used as a basis to stay derivative suits, and describe the airline-passenger class action dismissal being appealed to the Fifth Circuit \u2014 but do not state the securities class action was finally dismissed without appeal.",
+      "evidence_check": "Searched 10-K passages for securities class action final dismissal/appeal status; passage marked '(no local match found)' and no other provided passage confirms a final dismissal without appeal of the securities class action."
+    },
+    {
+      "claim": "multiple derivative cases were dismissed",
+      "cited_file": "/app/data/sec_filings/10-k/crwd_2026_10-k.txt",
+      "issue": "The provided 10-K passages state that derivative lawsuits were consolidated and STAYED pending resolution of the securities class action, not dismissed. No passage indicates that multiple derivative cases were dismissed.",
+      "evidence_check": "Searched 10-K litigation passages for derivative case dismissals; found only 'consolidated and stayed' language, not dismissal. Passage for this claim marked '(no local match found).'"
+    }
+  ],
+  "synthesis_found": "That does not overturn the retention conclusion. The company says the concessions are already depressing contraction and upsell metrics, so the return to 115% net retention and the FY2026 net-new ARR acceleration occurred despite a disclosed economic drag.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "financials/income_statement/crwd_income_statement.json",
+    "financials/income_statement/ftnt_income_statement.json",
+    "financials/income_statement/panw_income_statement.json",
+    "financials/income_statement/zs_income_statement.json",
+    "press_releases/crwd_2025-06-03_8-k.txt",
+    "press_releases/crwd_2025-08-27_8-k.txt",
+    "press_releases/crwd_2025-12-02_8-k.txt",
+    "press_releases/crwd_2026-03-03_8-k.txt",
+    "press_releases/crwd_2026-06-03_8-k.txt",
+    "sec_filings/10-k/crwd_2025_10-k.txt",
+    "sec_filings/10-k/crwd_2026_10-k.txt",
+    "sec_filings/10-q/crwd_2024q2_10-q.txt",
+    "sec_filings/10-q/crwd_2024q3_10-q.txt",
+    "sec_filings/10-q/crwd_2025q1_10-q.txt",
+    "sec_filings/10-q/crwd_2025q2_10-q.txt",
+    "sec_filings/10-q/crwd_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 55,
+  "grounding_claims_no_match": 5,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

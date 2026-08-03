@@ -1,0 +1,127 @@
+{
+  "score": 4,
+  "status": "scored",
+  "valid_trial": true,
+  "themes_covered": 4,
+  "themes_hit": [
+    {
+      "label": "737 and 787 Production Ramp and Certification Execution",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent tracks 737 ramp: below 38 early 2025, FAA concurred to 42 in October 2025, reached 42 in Q4, plan to move to 47 in 2026 subject to FAA concurrence.",
+        "b": "Agent tracks 787 from five to seven per month in 2025, moving toward eight in Q4, and notes stabilization and inventory/rework issues.",
+        "c": "Agent addresses 737-7/-10 certification expected 2026 with first delivery 2027, 777X delivery slipped to 2027, and explicitly notes production increases require FAA concurrence and remain execution risk."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Cash Burn, Liquidity, and Debt Load",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent quantifies operating cash swing from ($12.080)B in 2024 to $1.065B source in 2025, Q1 2026 operating cash use of $179M and free cash flow of ($1.454)B, showing burn persists.",
+        "b": "Agent frames sequential decline in cash+securities from $29.4B to $20.9B, debt reduced from $54.1B to $47.2B, and $10.0B undrawn revolvers.",
+        "c": "Agent weighs total debt of $54.1B, notes debt exceeds cash+ST investments by ~$26.3B, interest expense, and investment-grade rating risk; though airplane financing commitments and specific $15.5B principal-due figure are less explicit, the debt overhang and rating framing are covered."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Program Losses, Backlog, and Recovery Credibility",
+      "moves_hit": [
+        "a",
+        "b",
+        "c"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [
+        "a"
+      ],
+      "move_reasoning": {
+        "a": "Agent confronts 777X reach-forward losses of $4.899B in 2025 and $3.499B in 2024, plus other program exposure; however both the $4.899B and $3.499B figures are flagged as hallucinations, tainting this move.",
+        "b": "Agent sets record backlog of $694.709B (up $8.293B in quarter) against execution, noting demand is not the bottleneck and conversion timing uncertainty.",
+        "c": "Agent tests near-term recovery quality: Q1 2026 revenue up, 143 deliveries, BCA margin improving only from -6.6% to -6.1%, BCA loss of $563M; though GAAP/core EPS figures are less explicit, the margin and loss framing is present."
+      },
+      "n_moves": 3,
+      "threshold": 2
+    },
+    {
+      "label": "Portfolio Reshaping and the Investment Verdict",
+      "moves_hit": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "moves_missed": [],
+      "moves_tainted": [],
+      "move_reasoning": {
+        "a": "Agent assesses Spirit acquisition (~$4.704B Boeing stock, reintegrating fuselage/structures work) against the $10.550B Digital Aviation divestiture.",
+        "b": "Agent notes external tail risks including supply-chain shortages, labor/supplier instability, and reliance on FAA cooperation; China tariff pause is less explicit but supply-chain and regulatory dependence framing present.",
+        "c": "Agent corroborates revenue recovery and repeatedly cross-references income statement and cash-flow data rather than narrative alone, including full-year figures.",
+        "d": "Agent explicitly reconciles bull case (record backlog, 737/787 rates climbing, positive 2025 operating cash flow, Spirit reintegration) against bear case (negative FCF, $54.1B debt, 777X charges, FAA-gated ramps) into a single explicit 'avoid/underweight pending cash and margin proof' verdict."
+      },
+      "n_moves": 4,
+      "threshold": 3
+    }
+  ],
+  "themes_missed": [],
+  "hallucinations_detected": true,
+  "unverifiable_claims": [
+    {
+      "claim": "Boeing reported $4.281 billion of operating earnings and $2.235 billion of net earnings in 2025",
+      "cited_file": "/app/data/press_releases/ba_2026-01-27_8-k.txt",
+      "issue": "Net earnings/(loss) for full-year 2025 is $2,238M; $2,235M is net earnings attributable to Boeing shareholders. The claim conflates the two, but $2,235M does appear as 'Net earnings/(loss) attributable to Boeing shareholders2,235'. Both figures present.",
+      "evidence_check": "Found 4,281 operating earnings and 2,235 attributable to Boeing shareholders in passages; not a hallucination."
+    },
+    {
+      "claim": "Boeing recorded another $4.899 billion reach-forward loss in 2025 after moving first delivery to 2027",
+      "cited_file": "/app/data/sec_filings/10-q/ba_2026q1_10-q.txt",
+      "issue": "The $4.899 billion 777X reach-forward loss figure does not appear in the provided passages, which reference a 777X reach-forward loss in 2025 but not the specific amount.",
+      "evidence_check": "Searched passages for '4,899' / '4.899'; not found. Passages mention '777X program during 2025' reach-forward loss but give no dollar amount."
+    },
+    {
+      "claim": "this followed a $3.499 billion loss in 2024",
+      "cited_file": "/app/data/sec_filings/10-q/ba_2026q1_10-q.txt",
+      "issue": "The $3.499 billion 2024 777X reach-forward loss figure does not appear in the provided passages.",
+      "evidence_check": "Searched for '3,499'/'3.499'; not found in any passage."
+    },
+    {
+      "claim": "first-quarter 2026 BGS revenue was $305 million lower and earnings $79 million lower because of the disposal",
+      "cited_file": "/app/data/sec_filings/10-q/ba_2026q1_10-q.txt",
+      "issue": "Passages confirm absence of $305M revenue and $79M earnings from Digital Aviation Solutions Divestiture.",
+      "evidence_check": "Found '$305 million of revenue' and '$79 million of earnings' in passages; verified, not a hallucination."
+    }
+  ],
+  "synthesis_found": "This reconciles the apparent conflict between record backlog and persistent losses: Boeing has plenty to build, but too much of what it must build carries delayed certification, embedded rework, low legacy pricing or fixed-price development risk. Volume can improve cash absorption before it restores acceptable margin, which is exactly what the 2025 and first-quarter 2026 results show.",
+  "sparse_reward": 1,
+  "cited_files": [
+    "company_profiles.json",
+    "press_releases/ba_2025-07-29_8-k.txt",
+    "press_releases/ba_2025-12-08_8-k.txt",
+    "press_releases/ba_2026-01-27_8-k.txt",
+    "press_releases/ba_2026-04-22_8-k.txt",
+    "sec_filings/10-k/ba_2025_10-k.txt",
+    "sec_filings/10-q/ba_2025q1_10-q.txt",
+    "sec_filings/10-q/ba_2026q1_10-q.txt"
+  ],
+  "grounding_truncated_files": 0,
+  "grounding_method": "retrieval",
+  "grounding_claims_extracted": 64,
+  "grounding_claims_no_match": 3,
+  "grounding_batches": 1,
+  "judge_provider": "anthropic",
+  "judge_model": "claude-opus-4-8"
+}

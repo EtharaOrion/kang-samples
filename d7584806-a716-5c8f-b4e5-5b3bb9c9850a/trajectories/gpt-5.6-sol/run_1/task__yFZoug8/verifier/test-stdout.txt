@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['End of Cash Sorting and the Sweep Deposit Turn', 'Net Interest Margin Recovery: Mechanics, Not Magic', 'Paydown of High-Cost Supplemental Funding as the Reversal Engine — and Its Limits', 'Organic Growth and Capital Return as the Offset — and the Balance-Sheet Trade-off']
+Themes missed: []
+Cited files: 8

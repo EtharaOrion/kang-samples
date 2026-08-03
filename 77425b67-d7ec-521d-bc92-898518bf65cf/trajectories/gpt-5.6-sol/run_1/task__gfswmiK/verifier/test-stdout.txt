@@ -1,0 +1,5 @@
+Score: 2/4  (sparse=0)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['Operating-Leverage Inflection: GAAP Losses vs Non-GAAP and Free-Cash-Flow Profitability', 'Enterprise Mix and RPO Backlog Quality', 'AI Developer Platform Monetization and Competitive Moat']
+Themes missed: ['Top-Line Growth Durability and Net Retention']
+Cited files: 13

@@ -1,0 +1,5 @@
+Score: 4/4  (sparse=1)  judge=anthropic:claude-opus-4-8
+Hallucinations: True
+Themes hit: ['737 and 787 Production Ramp and Certification Execution', 'Cash Burn, Liquidity, and Debt Load', 'Program Losses, Backlog, and Recovery Credibility', 'Portfolio Reshaping and the Investment Verdict']
+Themes missed: []
+Cited files: 8
