@@ -105,8 +105,7 @@ matters for a company with **no** US listing. All 30 tasks in this release are S
 Sources evaluated and rejected — Canada (SEDAR+, CAPTCHA-walled), Australia (ASX, no point-in-time
 fetch), Taiwan (MOPS, Chinese labels + latest-period-only), EU (ESEF, 27 fragmented national
 systems), India NSE (Akamai anti-bot, redundant with BSE), Singapore, UK FCA NSM, and company IR
-pages — are documented with the live-probe evidence in **`DATA_SOURCES.md`** in the operator
-toolchain.
+pages.
 
 ### What SEC gives, and what it doesn't
 
@@ -160,7 +159,7 @@ file earn no credit.
 ## Reward
 
 Kang grades long-form prose with no single correct wording, so scoring runs an LLM judge
-(default `gemini-3.1-pro-preview`, temperature 0, JSON-constrained) against the rubric. The judge
+(default `gpt-5.6-sol`, temperature 0, JSON-constrained) against the rubric. The judge
 runs as **three passes**, so factual grounding and analytical coverage are scored separately and
 then combined:
 
