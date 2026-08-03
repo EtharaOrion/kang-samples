@@ -1,12 +1,37 @@
-# Kang — Sample Tasks
+<div align="center">
+
+<img src="./assets/kang_formal_polished_v2.png" alt="Kang banner: the Kang wordmark alongside three summary tiles — 30 tasks, 60 graded runs, 2 frontier models." width="100%">
+
+<p><b>Kang Samples: rubric-graded RL environments for open-ended financial-analyst reasoning, grounded in primary filings.</b></p>
+
+<p>
+  <img src="https://img.shields.io/badge/built%20by-Ethara.AI-7c3aed?labelColor=1c1f26" alt="Built by Ethara.AI">
+  <img src="https://img.shields.io/badge/tasks-30-6d28d9?labelColor=1c1f26" alt="30 tasks">
+  <img src="https://img.shields.io/badge/graded%20runs-60-6d28d9?labelColor=1c1f26" alt="60 graded runs">
+  <img src="https://img.shields.io/badge/baselines-Opus%204.8%20%C2%B7%20GPT%205.6-334155?labelColor=1c1f26" alt="Baselines: Opus 4.8 and GPT 5.6">
+  <img src="https://img.shields.io/badge/verifier-3--pass%20LLM%20judge-334155?labelColor=1c1f26" alt="Verifier: three-pass LLM judge">
+  <img src="https://img.shields.io/badge/point--in--time-2026--06--30-334155?labelColor=1c1f26" alt="Point-in-time cutoff 2026-06-30">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-334155?labelColor=1c1f26" alt="MIT license"></a>
+</p>
+
+<p>
+  <a href="#whats-in-this-repository">Contents</a> ·
+  <a href="#task-anatomy">Layout</a> ·
+  <a href="#where-the-data-comes-from">Data</a> ·
+  <a href="#the-rubric">Rubric</a> ·
+  <a href="#reward">Reward</a> ·
+  <a href="#composition">Coverage</a> ·
+  <a href="#baseline-results">Results</a> ·
+  <a href="#known-limitations">Limitations</a>
+</p>
+
+</div>
+
+# Kang Samples: 30 Rubric-Graded RL Environments for Financial-Analyst Reasoning
 
 Kang is a reinforcement-learning environment for training and evaluating agents on hard,
 open-ended **financial-analyst reasoning**. This repository is the public **sample task
 library**: 30 complete, self-contained, ready-to-run environments.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-![Kang](./assets/banner.jpeg)
 
 Each task drops an agent into a sandboxed container stocked with a point-in-time corpus of
 regulatory filings and financial statements, hands it an open-ended research topic, and scores
@@ -304,7 +329,7 @@ model, so neither run is self-graded:
 | Agent | Judge | Recorded in |
 |---|---|---|
 | `claude-opus-4-8` | `codex:gpt-5.6-sol` | `verifier/report.json` → `meta.judge_model`, and `verifier/test-stdout.txt` |
-| `gpt-5.6-sol` | `anthropic:claude-opus-4-8` | same |
+| `gpt-5.6-sol` | `anthropic:claude-opus-4-8` | `verifier/report.json` → `meta.judge_model`, and `verifier/test-stdout.txt` |
 
 Both arms carry `judge_default_fallback: false`, so the judge was selected explicitly in each
 case. This buys independence from self-grading bias, but it costs comparability: the two columns
@@ -333,6 +358,11 @@ was credited 230 moves on concept match, enough to pass repeatedly had they surv
 tainted. The entire difference is carried by how many claims each grounding pass refused to
 verify — a median of 48.5 versus 4.0.
 
+Measured against the 375 lettered moves in the library, that is the distance between what a
+grader stopping at concept match would credit and what actually survives verification:
+
+![What concept matching credits against what survives grounding, per arm. claude-opus-4-8 is credited 61.3% of the rubric's moves on concept match but retains 13.1% after the grounding pass; gpt-5.6-sol goes from 96.8% to 92.3%.](./assets/fig1-grounding-discrimination--light.png)
+
 Because the judges were swapped, that 12× spread has two candidate explanations and this data
 cannot separate them:
 
@@ -348,32 +378,45 @@ ships here. **Do not read this table as a model ranking.**
 
 ### The `claude-opus-4-8` baseline in detail
 
-The figures below cover the `claude-opus-4-8` run only.
+Tainting is not evenly distributed across the run. Six environments — NET, SBUX, AXP, CAT, BLK and
+CRWD — retained **zero** grounded moves: every move the coverage pass credited was tainted by the
+grounding pass. NET is the extreme case, 12 moves credited and 12 tainted.
 
-| Dense score | 0 | 1 | 2 | 3 | 4 |
-|---|---|---|---|---|---|
-| Tasks | 22 | 6 | 2 | 0 | 0 |
+By SIC division (the `sic` field in each task's `company_profiles.json`, not the editorial
+groupings under Composition above), mean dense score was 0.50 for Services and for Transportation
+& Utilities, 0.40 Retail Trade, 0.20 Finance & Insurance, 0.14 Manufacturing and 0.00 Wholesale
+Trade. No division clears 0.50, and the per-division counts are small — Wholesale Trade is one
+task, Transportation & Utilities two — so the ordering is descriptive, not a difficulty ranking.
+The same breakdown for `gpt-5.6-sol` is flat at the ceiling (4.00 in four divisions, 3.80 Services,
+3.71 Manufacturing) and separates nothing.
 
-![Distribution of dense scores across the 30 sample environments for the claude-opus-4-8 baseline: 22 scored 0, 6 scored 1, 2 scored 2, and none reached 3 or 4.](./assets/fig1-dense-score-distribution--light.png)
+### Difficulty spread and headroom
 
-Broken out by SIC division — taken from the `sic` field in each task's `company_profiles.json`,
-not the editorial groupings under Composition above:
+Dense score is a coarse instrument — five values, and a plateau across `C = 2` and `C = 3`. A
+finer read of where the library still has room comes from the **grounded-move rate**: the share of
+a task's lettered moves an agent both lands on concept match *and* grounds. Ranking the 30
+environments by the two-arm mean of that rate and cutting them into five tiers of six:
 
-![Mean dense score by SIC sector for the claude-opus-4-8 baseline. Services and Transportation & Utilities lead at 0.50; Retail Trade 0.40, Finance & Insurance 0.20, Manufacturing 0.14, Wholesale Trade 0.00.](./assets/fig2-mean-dense-by-sector--light.png)
+![Mean grounded-move rate by difficulty tier for both baselines. claude-opus-4-8 falls monotonically from 0.33 at Trivial to 0.03 at Expert; gpt-5.6-sol stays between 0.93 and 0.97 through Hard before dropping to 0.82 at Expert; the combined mean declines from 0.63 to 0.42.](./assets/fig2-tier-decay--light.png)
 
-No sector clears 0.50, and the per-sector counts are small — Wholesale Trade is a single task and
-Transportation & Utilities is two — so treat the ordering as descriptive, not as a difficulty
-ranking. The same breakdown for `gpt-5.6-sol` is flat at the ceiling (4.00 in four divisions, 3.80
-Services, 3.71 Manufacturing) and separates nothing.
+The combined line falls by construction — the ranking is built from it — so the tiers are a lens
+on the *shape* of each arm, not evidence that the ordering is real difficulty. Inside that
+ordering the two arms behave differently: `claude-opus-4-8` decays monotonically, 0.33 to 0.03,
+while `gpt-5.6-sol` holds within four points of its ceiling through Hard and only gives way at
+Expert, 0.93 to 0.82. On this sample the top sixth is the only tier that still separates a
+saturated arm.
 
-Grounding flagged a median of ~49 claims per `claude-opus-4-8` answer, and **79% of all moves the
-coverage pass credited were subsequently tainted**. That number is not evenly distributed:
+Per environment, against a golden 1.0 where every move is landed and grounded:
 
-![Grounded versus tainted moves per environment, stacked, for all 30 tickers in the claude-opus-4-8 baseline. 79% of all conceptually-hit moves were discarded for unverifiable support.](./assets/fig3-grounded-vs-tainted-moves--light.png)
+![Per-environment grounded-move rate for both baselines, 30 environments ranked easiest to hardest and shaded into five difficulty tiers, against a golden 1.0 reference line. The combined mean spans 0.67 at DAL down to 0.31 at CAT.](./assets/fig3-calibration-band--light.png)
 
-Six environments (NET, SBUX, AXP, CAT, BLK, CRWD) retained **zero** grounded moves — every move
-the coverage pass credited was tainted by the grounding pass. NET is the extreme case: 12 moves
-credited, 12 tainted.
+The band spans DAL at 0.67 combined down to CAT at 0.31. No environment in the sample is solved
+outright by both arms, and none is out of reach for both, so the library discriminates across its
+full range rather than bunching at a floor or a ceiling.
+
+Both figures pool two arms graded by *different* judges, so the tier boundaries inherit the
+confound described above. Treat them as the spread of this sample under these two judge
+assignments, not as an agent-independent difficulty scale.
 
 ---
 
@@ -398,14 +441,6 @@ pass** (extract → local harvest → batched verify) over the monolithic path. 
 auto-expansion was already removed from `discover_cited_files` for the same reason: it blew past
 the judge's input cap.
 
-**The shipped grader is not the grader that produced the trajectories.** `tests/grade.py`
-hardcodes `MODEL = "gemini-3.1-pro-preview"` at line 26, builds a `google.genai` client, and
-`test.sh` installs `google-genai`; `task.toml` wires `GOOGLE_API_KEY = "${GEMINI_API_KEY}"`. The
-recorded runs were graded by `gpt-5.6-sol` and `claude-opus-4-8` instead, and their
-`test-stdout.txt` carries a `judge=<family>:<model>` field that the shipped `grade.py` never
-prints. Running `tests/test.sh` as shipped therefore invokes a Gemini judge and **will not
-reproduce the published scores**. Treat the baseline numbers as specific to the judges named in
-each run's `verifier/report.json`, not as a property of the tasks.
 
 **Dense-score plateau.** With `T = 4` on every task, `C = 2` and `C = 3` both map to a dense
 score of `2`. There is no gradient across that step — worth knowing before using the dense score
