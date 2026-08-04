@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/task",
+        "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml",
+        "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/jobs"
+        "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:8ff85ba10ecc65374a25ddc70e14bf2a5b3d1f42eafc9356011edb68c5446f30",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/task"
+                "path": "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml"
+                    "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge__2026-08-03__16-14-14/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge/hb_overlay.yaml",
                     "digest": "sha256:19fc27701134868f5edbdd6c226335865596bee1a51cc8821779a27f209f3ae9"
                 }
             ],

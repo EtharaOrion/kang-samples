@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/task",
+        "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml",
+        "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/jobs"
+        "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:5b9f3ef5346556bddb968010093b6e7be0c67f4c0151a6df7cb7dd74f267b24e",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/task"
+                "path": "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml"
+                    "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability__2026-08-03__15-44-15/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability/hb_overlay.yaml",
                     "digest": "sha256:85f81f006ca36eba68d8432ec5348883e9de1ac3b35d784b1e240a771205da12"
                 }
             ],

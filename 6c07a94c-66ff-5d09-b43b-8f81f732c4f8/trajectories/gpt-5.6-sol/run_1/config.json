@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__15-19-22",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/jobs",
+    "jobs_dir": "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml"
+            "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task",
+            "path": "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

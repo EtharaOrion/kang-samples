@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__15-59-37",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/jobs",
+    "jobs_dir": "kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/hb_overlay.yaml"
+            "kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/task",
+            "path": "kang/harness/.runs/net-2026-06-30-growth-durability-and-operating-leverage-inflection__2026-08-03__15-59-34/net-2026-06-30-growth-durability-and-operating-leverage-inflection/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

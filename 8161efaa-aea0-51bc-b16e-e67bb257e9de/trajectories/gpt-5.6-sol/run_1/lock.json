@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/task",
+        "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml",
+        "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/jobs"
+        "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:8a2c79cb7a2a8879f8ae0e507b476d2ea3875c754a80274f8b978105ccf66e9e",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/task"
+                "path": "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml"
+                    "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability__2026-08-03__16-03-58/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability/hb_overlay.yaml",
                     "digest": "sha256:b269c7c5dcef11720b63be9a8847c1ccf4710e341d74f293982cc79dcf136798"
                 }
             ],

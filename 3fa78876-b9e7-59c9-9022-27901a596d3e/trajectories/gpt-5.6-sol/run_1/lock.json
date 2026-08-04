@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/task",
+        "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml",
+        "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/jobs"
+        "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:537d65c5319b3c2a1fa0b8f2bee8f1d68165327c497e702ed256caf8a93170a2",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/task"
+                "path": "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml"
+                    "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset__2026-08-03__16-12-46/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset/hb_overlay.yaml",
                     "digest": "sha256:caab0a479d8a920c19b9e7ff8f9684d12d46982d3d853abfad6c19f2f4f0b761"
                 }
             ],

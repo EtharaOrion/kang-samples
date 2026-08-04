@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__14-42-45",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/jobs",
+    "jobs_dir": "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/hb_overlay.yaml"
+            "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/task",
+            "path": "kang/harness/.runs/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat__2026-08-03__14-42-42/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

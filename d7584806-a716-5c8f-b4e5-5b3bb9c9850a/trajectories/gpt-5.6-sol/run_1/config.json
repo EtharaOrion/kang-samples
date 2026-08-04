@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__16-21-15",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/jobs",
+    "jobs_dir": "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml"
+            "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task",
+            "path": "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

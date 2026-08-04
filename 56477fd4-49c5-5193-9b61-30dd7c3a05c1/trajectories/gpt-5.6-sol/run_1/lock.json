@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task",
+        "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml",
+        "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/jobs"
+        "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:359835f68c5e0ef98488d78d32dc0a03c86185ef4b2f803f6056102df32fa5c0",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task"
+                "path": "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml"
+                    "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml",
                     "digest": "sha256:f1ff5156ba039ad521f63910f7b401955e99993f54f2c4df87a305d787a3269c"
                 }
             ],

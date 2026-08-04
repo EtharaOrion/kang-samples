@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__15-22-05",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/jobs",
+    "jobs_dir": "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml"
+            "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task",
+            "path": "kang/harness/.runs/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage__2026-08-03__15-22-01/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

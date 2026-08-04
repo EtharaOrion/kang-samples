@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task",
+        "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml",
+        "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/jobs"
+        "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:a1a4e8a03eae1b9f5f2877bf6862a6cc8e2ea774d94b3a65b680f8c9ecbc71ca",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task"
+                "path": "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml"
+                    "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml",
                     "digest": "sha256:fe0e1519c33764e433ba9f52219682d240b1c7baa25f4ca1e6cdfc3b1a9409a5"
                 }
             ],

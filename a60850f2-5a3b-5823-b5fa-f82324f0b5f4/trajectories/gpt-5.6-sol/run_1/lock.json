@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/task",
+        "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml",
+        "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/jobs"
+        "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:6cdea66f53243c5257ffcdb4ac6e511f1593be785d456d9b23485c149de51d4f",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/task"
+                "path": "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml"
+                    "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration__2026-08-03__15-42-49/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration/hb_overlay.yaml",
                     "digest": "sha256:cf18213ef8d93314a9cea533fdd7a4723c0fddce3a80acb07051e15bb584b826"
                 }
             ],

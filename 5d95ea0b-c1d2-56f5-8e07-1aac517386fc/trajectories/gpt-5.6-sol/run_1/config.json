@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__16-07-29",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/jobs",
+    "jobs_dir": "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml"
+            "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task",
+            "path": "kang/harness/.runs/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization__2026-08-03__16-07-26/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

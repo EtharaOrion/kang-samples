@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task",
+        "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml",
+        "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/jobs"
+        "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:761fd6b2f82ca88fbf93dfb10df2d14886c96252f53f64f4574f069bf2c6c770",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task"
+                "path": "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml"
+                    "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion__2026-08-03__15-19-19/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion/hb_overlay.yaml",
                     "digest": "sha256:a78b7315fb0df2ecaecd90afdd321ce73d09f594c61eff3a5ceb73e44392fc41"
                 }
             ],

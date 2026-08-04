@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__15-14-02",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/jobs",
+    "jobs_dir": "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml"
+            "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task",
+            "path": "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

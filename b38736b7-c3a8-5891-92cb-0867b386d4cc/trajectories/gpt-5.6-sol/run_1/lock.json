@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task",
+        "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml",
+        "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/jobs"
+        "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:a9f4bb192ac0f332a055329ea25f29078255b1a591ea6e0513592e6e21e949ee",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task"
+                "path": "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml"
+                    "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics__2026-08-03__15-13-59/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics/hb_overlay.yaml",
                     "digest": "sha256:4b4b2da4eeb7541053fa8602c57a3b318daa753f28ac357e65ca92f0ae6e8fd8"
                 }
             ],

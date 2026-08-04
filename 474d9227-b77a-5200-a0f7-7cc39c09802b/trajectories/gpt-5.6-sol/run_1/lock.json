@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task",
+        "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
+        "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/jobs"
+        "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:8de1b7c8728da1b1815e9e5801cea58081bd300a5f11848a16232fc128db06fe",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task"
+                "path": "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml"
+                    "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration__2026-08-03__15-09-24/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration/hb_overlay.yaml",
                     "digest": "sha256:0ea136b17e8ce5521b7e794fcd7214872cecd87b1cc5a43ff54b94d000232d4b"
                 }
             ],

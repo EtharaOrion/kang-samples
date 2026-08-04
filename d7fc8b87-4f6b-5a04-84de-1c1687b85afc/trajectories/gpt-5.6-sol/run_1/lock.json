@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/task",
+        "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml",
+        "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/jobs"
+        "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:241611d032bde7959d06286b324b6fe3bfc97ac9ee3c350c40e5a95587a1f189",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/task"
+                "path": "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml"
+                    "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk__2026-08-03__14-42-42/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk/hb_overlay.yaml",
                     "digest": "sha256:926d08f59e9c0faa2edc6e08e27ae2eab8b38cec4f93cc528cdcd9c475ae2cb9"
                 }
             ],

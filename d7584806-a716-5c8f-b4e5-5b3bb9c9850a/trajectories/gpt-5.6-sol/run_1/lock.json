@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task",
+        "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml",
+        "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/jobs"
+        "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:4407e4e906e8a108e8b13359e556e8e36b7ae97353593e631c142982c226833e",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task"
+                "path": "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml"
+                    "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting__2026-08-03__16-21-12/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting/hb_overlay.yaml",
                     "digest": "sha256:2c4b54c7cb0afc076cd9217304e58eb5f89aa640507fd60ee62e196eb280f8b3"
                 }
             ],

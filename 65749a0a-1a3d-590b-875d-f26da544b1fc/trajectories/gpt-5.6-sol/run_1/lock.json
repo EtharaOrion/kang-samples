@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/task",
+        "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml",
+        "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/jobs"
+        "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:6bd4105376cd285eb3053a7a1a50332eed898f0cd5b692ca3b763e62caa3e107",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/task"
+                "path": "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml"
+                    "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability__2026-08-03__15-29-09/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability/hb_overlay.yaml",
                     "digest": "sha256:08b8134168fe8cedb2296ff0cf6a1f5753c983aec22fdfaf55a6d40eb56ab8ec"
                 }
             ],

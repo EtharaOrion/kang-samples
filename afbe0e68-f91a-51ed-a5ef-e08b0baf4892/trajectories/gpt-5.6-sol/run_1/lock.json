@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/task",
+        "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml",
+        "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/jobs"
+        "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:a54ef6fdc392b8f4125a5c1b7cf212dada79b7c03058d711aed2a155c79c5ed2",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/task"
+                "path": "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml"
+                    "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization__2026-08-03__14-50-48/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization/hb_overlay.yaml",
                     "digest": "sha256:8bf427cdbd1685bc575397df4deee33cad7b96e4d4cfd166848365b81c90b5f6"
                 }
             ],

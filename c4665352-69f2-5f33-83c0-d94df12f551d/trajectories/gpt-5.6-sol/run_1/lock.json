@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/task",
+        "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml",
+        "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/jobs"
+        "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:2bf1e5c6311ffd253983d1df01f1d0b9b4af7c133809bd65267375732ebe29d3",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/task"
+                "path": "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml"
+                    "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging__2026-08-03__15-27-15/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging/hb_overlay.yaml",
                     "digest": "sha256:c3854c4ce285025455c90f745aa9fa8a03e7bfe38e26ff2beb12e7db397e4c0e"
                 }
             ],

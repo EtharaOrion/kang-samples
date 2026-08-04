@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task",
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/jobs"
+        "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:ab0e37bb160d40882dd0fe34da83d363cb6b956fb169a8790443d7731133f405",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task"
+                "path": "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml"
+                    "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot__2026-08-03__15-52-02/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot/hb_overlay.yaml",
                     "digest": "sha256:332fb3d8b0ff7f58eacc6ad5e44d4aa7927bdddb6e1e27fcfeb81b81dbce3014"
                 }
             ],

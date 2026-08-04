@@ -1,6 +1,6 @@
 {
     "job_name": "2026-08-03__16-35-47",
-    "jobs_dir": "/Users/user/Desktop/KANG/kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/jobs",
+    "jobs_dir": "kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/jobs",
     "n_attempts": 1,
     "timeout_multiplier": 1.0,
     "agent_timeout_multiplier": null,
@@ -38,7 +38,7 @@
         "override_tpu": null,
         "mounts": null,
         "extra_docker_compose": [
-            "/Users/user/Desktop/KANG/kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/hb_overlay.yaml"
+            "kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/hb_overlay.yaml"
         ],
         "env": {},
         "kwargs": {}
@@ -67,7 +67,7 @@
     "datasets": [],
     "tasks": [
         {
-            "path": "/Users/user/Desktop/KANG/kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/task",
+            "path": "kang/harness/.runs/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth__2026-08-03__16-35-44/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth/task",
             "git_url": null,
             "git_commit_id": null,
             "name": null,

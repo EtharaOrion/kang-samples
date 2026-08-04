@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task",
+        "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
+        "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/jobs"
+        "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:c473faf1786504f38badb5301dd86c5bec43ee4aee9402ebbf24bcbfff29dc60",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task"
+                "path": "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml"
+                    "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix__2026-08-03__15-50-07/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix/hb_overlay.yaml",
                     "digest": "sha256:23d33dc2e96a616c9570be504c1aa88e90aa880ac16ceb41b824ee32b1d4c7ee"
                 }
             ],

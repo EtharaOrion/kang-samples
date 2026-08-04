@@ -6,10 +6,10 @@
         "is_editable": false
     },
     "invocation": [
-        "/Users/user/.local/bin/harbor",
+        "harbor",
         "run",
         "-p",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/task",
+        "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/task",
         "-a",
         "codex",
         "-m",
@@ -22,9 +22,9 @@
         "--agent-setup-timeout-multiplier",
         "3",
         "--extra-docker-compose",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml",
+        "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml",
         "-o",
-        "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/jobs"
+        "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/jobs"
     ],
     "n_concurrent_trials": 1,
     "retry": {
@@ -46,7 +46,7 @@
                 "name": "task",
                 "type": "local",
                 "digest": "sha256:bbc82d7b22d116b119345c2abd8230c9c7e3574f02813cf99f4ea8d425258402",
-                "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/task"
+                "path": "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/task"
             },
             "timeout_multiplier": 1.0,
             "agent_setup_timeout_multiplier": 3.0,
@@ -66,14 +66,14 @@
                 "cpu_enforcement_policy": "auto",
                 "memory_enforcement_policy": "auto",
                 "extra_docker_compose": [
-                    "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml"
+                    "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml"
                 ],
                 "env": {},
                 "kwargs": {}
             },
             "extra_docker_compose": [
                 {
-                    "path": "/Users/user/Desktop/KANG/kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml",
+                    "path": "kang/harness/.runs/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth__2026-08-03__15-08-02/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth/hb_overlay.yaml",
                     "digest": "sha256:21efacf757ef02b2003f3211b6db580098fbf615f64c7147c5fc7facadb55438"
                 }
             ],

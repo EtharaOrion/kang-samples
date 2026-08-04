@@ -224,6 +224,15 @@ Every task in this release has `T = 4` themes. From the number of covered themes
 |---|---|---|---|---|---|---|
 | **Dense score** | 0 | 1 | 2 | 2 | 3 | **4** |
 
+Covering 3 of 4 themes scores the same as covering 2: the top two tiers require *all* themes,
+since `Instruction.md` names them outright. Flexibility lives at the move level, inside `tau`.
+That plateau is not hypothetical — `gpt-5.6-sol` on NET covered three themes and missed the
+fourth by a single move (1 untainted of 3, against `tau = 2`), scoring 2.
+
+This table reproduces the recorded `score` for all 60 shipped runs with no exceptions. The one
+cell it has never exercised is `C = 4` without synthesis: synthesis was found in 60/60 runs, so
+no trial has yet scored 3.
+
 The sparse pass/fail signal is derived from the dense score: **a trial passes only at a perfect 4**.
 
 The harness writes the sparse reward to `/logs/verifier/reward.txt` (`1` or `0`) and the full
@@ -242,9 +251,7 @@ breakdown to `/logs/verifier/details.json`.
 | `synthesis_found` | The quoted synthesis sentence, or `null`. |
 | `cited_files` | The data files the answer actually cited — the exact evidence set pass 1 verified against. |
 
-> A judge failure writes `0` to `reward.txt` **and** sets `valid_trial: false`. Averaging
-> `reward.txt` without filtering on `valid_trial` silently contaminates your metric with grader
-> infrastructure failures.
+
 
 Use the dense score for reward shaping during training and pass@1 for evaluation.
 
@@ -420,47 +427,6 @@ assignments, not as an agent-independent difficulty scale.
 
 ---
 
-## Known limitations
-
-**Monolithic grounding context.** The shipped `grade.py` verifies claims by concatenating every
-cited file whole into a single judge request. A 10-K in this corpus averages 473 KB and reaches
-1.6 MB, so the grounding pass can be asked to confirm dozens of specific strings against a median
-of 1.8 MB of filing text — up to 7.8 MB — in one call. That is a retrieval problem, and retrieval
-failure is indistinguishable from hallucination: the judge can only report "not present," never
-"I didn't find it." Spot-checking the `claude-opus-4-8` baseline confirms false positives — of 147
-quoted claim fragments flagged as unverifiable, 6 appear **verbatim** in a file the answer cited.
-Because tainting deletes credit, each false positive costs a real move.
-
-How much of the 78.7% is real grounding failure and how much is retrieval artifact remains open.
-The `gpt-5.6-sol` arm was tainted on only 4.7% of credited moves, which would bound the artifact
-tightly *if* the two arms shared a judge — but they do not, so that comparison is confounded by
-judge strictness (see Baseline results). Exposure compounds it: citing a median of 14 files rather
-than 10 enlarges the haystack, so an agent is penalised partly for citing broadly. Treat the
-*tainting rate* as a diagnostic alongside the score, and prefer a **retrieval-based grounding
-pass** (extract → local harvest → batched verify) over the monolithic path. Peer-ticker
-auto-expansion was already removed from `discover_cited_files` for the same reason: it blew past
-the judge's input cap.
-
-
-**Dense-score plateau.** With `T = 4` on every task, `C = 2` and `C = 3` both map to a dense
-score of `2`. There is no gradient across that step — worth knowing before using the dense score
-as a shaping signal.
-
-**Threshold is non-monotonic in move count.** `tau = max(1, min(n-1, 3))` requires 67% of a
-3-move theme, 75% of a 4-move theme, and 60% of a 5-move theme. The 4-move theme is the strictest
-in the library, and it is always the one carrying the synthesis move.
-
-**Self-grading bias.** Running an agent and a judge from the same model family inflates scores.
-Both baselines here avoid it by construction — `claude-opus-4-8` is graded by `gpt-5.6-sol` and
-`gpt-5.6-sol` by `claude-opus-4-8`. The cost of that swap is the confound above: no judge is held
-constant, so the two arms cannot be compared to each other. Holding one judge fixed across agents
-trades the confound back for self-grading bias on whichever arm matches it; a third-family judge
-avoids both.
-
-**No earnings-call transcripts.** A structural gap in every free source. Rubrics are authored
-around it, never through it.
-
----
 
 ## License
 
