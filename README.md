@@ -1,433 +1,183 @@
-<div align="center">
+<p align="center"><img src="images/hero.svg" alt="Kang" width="720"></p>
 
-<img src="./assets/kang_formal_polished_v2.png" alt="Kang banner: the Kang wordmark alongside three summary tiles — 30 tasks, 60 graded runs, 2 frontier models." width="100%">
+# Kang: samples
 
-<p><b>Kang Samples: rubric-graded RL environments for open-ended financial-analyst reasoning, grounded in primary filings.</b></p>
+<p align="center"><b>The samples lane: 30 of 30 Harbor task bundles.</b></p>
 
-<p>
-  <img src="https://img.shields.io/badge/built%20by-Ethara.AI-7c3aed?labelColor=1c1f26" alt="Built by Ethara.AI">
-  <img src="https://img.shields.io/badge/tasks-30-6d28d9?labelColor=1c1f26" alt="30 tasks">
-  <img src="https://img.shields.io/badge/graded%20runs-60-6d28d9?labelColor=1c1f26" alt="60 graded runs">
-  <img src="https://img.shields.io/badge/baselines-Opus%204.8%20%C2%B7%20GPT%205.6-334155?labelColor=1c1f26" alt="Baselines: Opus 4.8 and GPT 5.6">
-  <img src="https://img.shields.io/badge/verifier-3--pass%20LLM%20judge-334155?labelColor=1c1f26" alt="Verifier: three-pass LLM judge">
-  <img src="https://img.shields.io/badge/point--in--time-2026--06--30-334155?labelColor=1c1f26" alt="Point-in-time cutoff 2026-06-30">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-334155?labelColor=1c1f26" alt="MIT license"></a>
-</p>
+<p align="center"><a href="#summary"><img src="https://img.shields.io/badge/bundles-30_of_30-845EF7" alt="bundles: 30 of 30"></a> <a href="#evidence-status"><img src="https://img.shields.io/badge/sealed-0-845EF7" alt="sealed: 0"></a> <a href="#difficulty-tiers"><img src="https://img.shields.io/badge/difficulty-measured-845EF7" alt="difficulty: measured"></a></p>
 
-<p>
-  <a href="#whats-in-this-repository">Contents</a> ·
-  <a href="#task-anatomy">Layout</a> ·
-  <a href="#where-the-data-comes-from">Data</a> ·
-  <a href="#the-rubric">Rubric</a> ·
-  <a href="#reward">Reward</a> ·
-  <a href="#composition">Coverage</a> ·
-  <a href="#baseline-results">Results</a> ·
-  <a href="#known-limitations">Limitations</a>
-</p>
+<p align="center"><sub><a href="#abstract">Abstract</a> | <a href="#summary">Summary</a> | <a href="#difficulty-tiers">Difficulty tiers</a> | <a href="#evidence-status">Evidence status</a> | <a href="#coverage">Coverage</a> | <a href="#dataset-structure">Dataset structure</a> | <a href="#verification-and-quality-assurance">Verification and quality assurance</a> | <a href="#reproduction">Reproduction</a> | <a href="#cite">Cite</a> | <a href="#license">License</a> | <a href="#contact">Contact</a></sub></p>
 
-</div>
+## Abstract
 
-# Kang Samples: 30 Rubric-Graded RL Environments for Financial-Analyst Reasoning
+The curated lane of this corpus: at most 30 Harbor task bundles, every anchor seated first and every other bundle in seal order. Bundles past that ceiling live in `delivery/`.
 
-Kang is a reinforcement-learning environment for training and evaluating agents on hard,
-open-ended **financial-analyst reasoning**. This repository is the public **sample task
-library**: 30 complete, self-contained, ready-to-run environments.
+Each bundle is one Harbor task in a directory named by its content-derived uuid5, so the name doubles as an integrity check. This page is rendered from the resident bundles on every reconcile; a value a bundle does not carry reads `absent`, and the page never fills one in.
 
-Each task drops an agent into a sandboxed container stocked with a point-in-time corpus of
-regulatory filings and financial statements, hands it an open-ended research topic, and scores
-the written analysis against an explicit rubric of the analytical *moves* a competent analyst
-would make. That rubric-anchored score is the reward.
+## Summary
 
-Where most finance benchmarks terminate in a keyed answer, Kang rewards **the argument itself**:
-decomposing a theme into the right sub-questions, grounding every claim in the source documents,
-engaging the strongest counter-evidence, and reconciling conflicting data points into a single
-defensible view.
+| Property | Value |
+| --- | --- |
+| Bundles | 30 of 30 |
+| Sealed | 0 of 30 |
+| Registrations | unregistered (30) |
+| Audit verdicts | none (30) |
+| Harbor schema | 1.1 (30) |
 
-Nothing here is scraped from analyst notes, forums, or any public answer key. The corpus is
-fetched directly from primary regulatory sources; the rubrics are authored against those filings
-and fact-checked line by line before a task ships.
+## Difficulty tiers
 
----
+Difficulty is measured by the signed pilot alone and never declared in a bundle, so this page states no tier a bundle claims.
 
-## What's in this repository
+## Evidence status
 
-| | |
-|---|---|
-| **Tasks** | 30 |
-| **Companies** | 30 distinct US-listed issuers |
-| **Point-in-time cutoff** | `2026-06-30` (uniform) |
-| **Corpus** | 808 files, ~109 MB total (~27 files / ~3.5 MB per task) |
-| **Rubric shape** | 4 themes per task, 12–14 lettered moves |
-| **Per task** | prompt, corpus, Dockerfile, rubric, 3-pass grader, reference reasoning trace, two recorded baseline trajectories |
-| **Baselines** | `claude-opus-4-8` and `gpt-5.6-sol`, one run each on all 30 tasks |
+The verdict is the audit outcome recorded at the sealed digest, and `none` means no verdict has landed for that digest yet. Only an authoring run removes a bundle from this lane, so removal waits for the next one.
 
-Every task directory is named by a stable UUID, so task identity survives renaming a ticker,
-a topic, or a cutoff.
+| uuid | Verdict | Sealed digest | Stream |
+| --- | --- | --- | --- |
+| 09364735-0529-5109-a5c5-805270e95aa7 | none | absent | none |
+| 1292e359-5965-57db-a91e-8c085332bb58 | none | absent | none |
+| 15c2080d-c7a1-5135-b084-0b2f4946d2b0 | none | absent | none |
+| 21442bfe-2f3f-5d58-be91-7b91347f4e40 | none | absent | none |
+| 25b84749-a4ad-5f29-9e10-bc7281b8b45c | none | absent | none |
+| 39e492b6-1f74-5c6e-a848-d8e07d12ae4d | none | absent | none |
+| 3fa78876-b9e7-59c9-9022-27901a596d3e | none | absent | none |
+| 474d9227-b77a-5200-a0f7-7cc39c09802b | none | absent | none |
+| 56477fd4-49c5-5193-9b61-30dd7c3a05c1 | none | absent | none |
+| 591acefe-dd50-5d35-bad9-7a5b7e16ff62 | none | absent | none |
+| 5d759f8f-c103-5412-8d21-83a3483ccdb0 | none | absent | none |
+| 5d95ea0b-c1d2-56f5-8e07-1aac517386fc | none | absent | none |
+| 62f17a1d-b169-50b3-8567-bd0323776358 | none | absent | none |
+| 65749a0a-1a3d-590b-875d-f26da544b1fc | none | absent | none |
+| 6c07a94c-66ff-5d09-b43b-8f81f732c4f8 | none | absent | none |
+| 77425b67-d7ec-521d-bc92-898518bf65cf | none | absent | none |
+| 8161efaa-aea0-51bc-b16e-e67bb257e9de | none | absent | none |
+| 8c4afeb7-b802-528e-81c7-3b9ce20dfd20 | none | absent | none |
+| a52d18eb-f544-51f1-9740-617c1a62ad0d | none | absent | none |
+| a60850f2-5a3b-5823-b5fa-f82324f0b5f4 | none | absent | none |
+| afbe0e68-f91a-51ed-a5ef-e08b0baf4892 | none | absent | none |
+| b38736b7-c3a8-5891-92cb-0867b386d4cc | none | absent | none |
+| be1765a6-291f-5a82-b13d-d1c29c899253 | none | absent | none |
+| c3d3b5fa-3b4d-5d6b-a9ad-eeb5acb81fd8 | none | absent | none |
+| c4665352-69f2-5f33-83c0-d94df12f551d | none | absent | none |
+| d00e69b2-7991-5bce-a1e9-c8ac98293805 | none | absent | none |
+| d7584806-a716-5c8f-b4e5-5b3bb9c9850a | none | absent | none |
+| d7fc8b87-4f6b-5a04-84de-1c1687b85afc | none | absent | none |
+| d8e779e1-7139-549d-892f-b27af1811157 | none | absent | none |
+| eeaef0fa-3c86-5737-9b9a-e8ae3f81d795 | none | absent | none |
 
----
+## Coverage
 
-## Task anatomy
+| Keyword | Bundles |
+| --- | --- |
+| analysis | 30 |
+| finance | 30 |
+| ABNB | 1 |
+| ADBE | 1 |
+| AXP | 1 |
+| BA | 1 |
+| BLK | 1 |
+| CAT | 1 |
+| CMG | 1 |
+| COF | 1 |
+| COST | 1 |
+| CRM | 1 |
+| CRWD | 1 |
+| DAL | 1 |
+| DASH | 1 |
+| DDOG | 1 |
+| DE | 1 |
+| DECK | 1 |
+| DPZ | 1 |
+| KKR | 1 |
+| LOW | 1 |
+| MA | 1 |
+| NET | 1 |
+| PANW | 1 |
+| PYPL | 1 |
+| REGN | 1 |
+| RTX | 1 |
+| SBUX | 1 |
+| SCHW | 1 |
+| SNOW | 1 |
+| TGT | 1 |
+| UAL | 1 |
 
-```text
-<uuid>/
-  Instruction.md                  # The open-ended prompt the agent sees
-  Truth.md                        # Reference reasoning trace (phase-by-phase analyst process)
-  task.toml                       # Harbor config: artifacts, timeouts, resources, difficulty note
-  environment/
-    Dockerfile                    # ubuntu:24.04 + python3 + uv; copies data/ to /app/data
-    data/                         # Point-in-time corpus (mounted read-only at /app/data)
-      company_profiles.json       #   primary + peer profiles
-      financials/
-        income_statement/         #   up to 16 quarters, primary + peers
-        balance_sheet/            #   up to 16 quarters, primary only
-        cash_flow/                #   up to 16 quarters, primary + peers
-      sec_filings/
-        10-k/                     #   ~3 annual reports (full text)
-        10-q/                     #   ~6 quarterly reports (full text)
-        s-1/                      #   IPO prospectus (13 of 30 tasks)
-      press_releases/             #   ~8 earnings press releases (8-K EX-99 exhibits)
-  tests/
-    test.sh                       # Verifier entry point
-    grade.py                      # Three-pass LLM-as-judge grader
-    grading_prompt_task1..3.md    # Grounding, coverage, synthesis prompts
-    ground_truth.txt              # The rubric: themes, lettered moves, source files
-    rubrics.json                  # Process-level criteria for trajectory verification
-    test_outputs.py               # Deterministic invariants (answer present, cited files real, …)
-  trajectories/
-    claude-opus-4-8/              # Baseline run: answer, trajectory, score breakdown
-    gpt-5.6-sol/                  # Second baseline run, same layout
+## Dataset structure
+
+| Bundle | Task | Keywords | Registration | Sealed at | Tier |
+| --- | --- | --- | --- | --- | --- |
+| [`09364735-0529-5109-a5c5-805270e95aa7`](09364735-0529-5109-a5c5-805270e95aa7/) | `trata/blk-2026-06-30-net-flows-fee-rate-mix-and-the-private-markets-buildout` | BLK, analysis, finance | unregistered | unsealed | - |
+| [`1292e359-5965-57db-a91e-8c085332bb58`](1292e359-5965-57db-a91e-8c085332bb58/) | `trata/adbe-2026-06-30-generative-ai-disruption-risk-vs-the-creative-cloud-moat` | ADBE, analysis, finance | unregistered | unsealed | - |
+| [`15c2080d-c7a1-5135-b084-0b2f4946d2b0`](15c2080d-c7a1-5135-b084-0b2f4946d2b0/) | `trata/kkr-2026-06-30-franchise-growth-and-insurance-driven-earnings-mix` | KKR, analysis, finance | unregistered | unsealed | - |
+| [`21442bfe-2f3f-5d58-be91-7b91347f4e40`](21442bfe-2f3f-5d58-be91-7b91347f4e40/) | `trata/de-2026-06-30-ag-cycle-downturn-severity-and-precision-agriculture-durability` | DE, analysis, finance | unregistered | unsealed | - |
+| [`25b84749-a4ad-5f29-9e10-bc7281b8b45c`](25b84749-a4ad-5f29-9e10-bc7281b8b45c/) | `trata/rtx-2026-06-30-commercial-aftermarket-recovery-vs-the-gtf-powder-metal-charge` | RTX, analysis, finance | unregistered | unsealed | - |
+| [`39e492b6-1f74-5c6e-a848-d8e07d12ae4d`](39e492b6-1f74-5c6e-a848-d8e07d12ae4d/) | `trata/ual-2026-06-30-unit-revenue-and-margin-durability-against-capacity-growth` | UAL, analysis, finance | unregistered | unsealed | - |
+| [`3fa78876-b9e7-59c9-9022-27901a596d3e`](3fa78876-b9e7-59c9-9022-27901a596d3e/) | `trata/regn-2026-06-30-eylea-competitive-erosion-and-pipeline-offset` | REGN, analysis, finance | unregistered | unsealed | - |
+| [`474d9227-b77a-5200-a0f7-7cc39c09802b`](474d9227-b77a-5200-a0f7-7cc39c09802b/) | `trata/cof-2026-06-30-credit-normalization-and-the-discover-acquisition-integration` | COF, analysis, finance | unregistered | unsealed | - |
+| [`56477fd4-49c5-5193-9b61-30dd7c3a05c1`](56477fd4-49c5-5193-9b61-30dd7c3a05c1/) | `trata/crwd-2026-06-30-durability-of-security-growth-and-retention-after-the-2024-outage` | CRWD, analysis, finance | unregistered | unsealed | - |
+| [`591acefe-dd50-5d35-bad9-7a5b7e16ff62`](591acefe-dd50-5d35-bad9-7a5b7e16ff62/) | `trata/ddog-2026-06-30-usage-based-growth-durability-and-platform-competition` | DDOG, analysis, finance | unregistered | unsealed | - |
+| [`5d759f8f-c103-5412-8d21-83a3483ccdb0`](5d759f8f-c103-5412-8d21-83a3483ccdb0/) | `trata/cmg-2026-06-30-traffic-and-margin-durability-against-maturing-unit-growth` | CMG, analysis, finance | unregistered | unsealed | - |
+| [`5d95ea0b-c1d2-56f5-8e07-1aac517386fc`](5d95ea0b-c1d2-56f5-8e07-1aac517386fc/) | `trata/pypl-2026-06-30-branded-checkout-turnaround-and-transaction-margin-stabilization` | PYPL, analysis, finance | unregistered | unsealed | - |
+| [`62f17a1d-b169-50b3-8567-bd0323776358`](62f17a1d-b169-50b3-8567-bd0323776358/) | `trata/low-2026-06-30-comparable-sales-recovery-and-pro-penetration-vs-home-depot` | LOW, analysis, finance | unregistered | unsealed | - |
+| [`65749a0a-1a3d-590b-875d-f26da544b1fc`](65749a0a-1a3d-590b-875d-f26da544b1fc/) | `trata/dash-2026-06-30-margin-inflection-and-new-vertical-expansion-durability` | DASH, analysis, finance | unregistered | unsealed | - |
+| [`6c07a94c-66ff-5d09-b43b-8f81f732c4f8`](6c07a94c-66ff-5d09-b43b-8f81f732c4f8/) | `trata/crm-2026-06-30-growth-deceleration-vs-operating-margin-expansion` | CRM, analysis, finance | unregistered | unsealed | - |
+| [`77425b67-d7ec-521d-bc92-898518bf65cf`](77425b67-d7ec-521d-bc92-898518bf65cf/) | `trata/net-2026-06-30-growth-durability-and-operating-leverage-inflection` | NET, analysis, finance | unregistered | unsealed | - |
+| [`8161efaa-aea0-51bc-b16e-e67bb257e9de`](8161efaa-aea0-51bc-b16e-e67bb257e9de/) | `trata/panw-2026-06-30-platformization-strategy-and-billings-rpo-durability` | PANW, analysis, finance | unregistered | unsealed | - |
+| [`8c4afeb7-b802-528e-81c7-3b9ce20dfd20`](8c4afeb7-b802-528e-81c7-3b9ce20dfd20/) | `trata/ba-2026-06-30-recovery-credibility-cash-burn-and-737-787-execution` | BA, analysis, finance | unregistered | unsealed | - |
+| [`a52d18eb-f544-51f1-9740-617c1a62ad0d`](a52d18eb-f544-51f1-9740-617c1a62ad0d/) | `trata/dpz-2026-06-30-same-store-sales-recovery-and-unit-growth-durability` | DPZ, analysis, finance | unregistered | unsealed | - |
+| [`a60850f2-5a3b-5823-b5fa-f82324f0b5f4`](a60850f2-5a3b-5823-b5fa-f82324f0b5f4/) | `trata/deck-2026-06-30-hoka-and-ugg-growth-durability-and-brand-concentration` | DECK, analysis, finance | unregistered | unsealed | - |
+| [`afbe0e68-f91a-51ed-a5ef-e08b0baf4892`](afbe0e68-f91a-51ed-a5ef-e08b0baf4892/) | `trata/axp-2026-06-30-premium-spend-durability-and-credit-cost-normalization` | AXP, analysis, finance | unregistered | unsealed | - |
+| [`b38736b7-c3a8-5891-92cb-0867b386d4cc`](b38736b7-c3a8-5891-92cb-0867b386d4cc/) | `trata/cost-2026-06-30-membership-growth-durability-and-margin-fee-dynamics` | COST, analysis, finance | unregistered | unsealed | - |
+| [`be1765a6-291f-5a82-b13d-d1c29c899253`](be1765a6-291f-5a82-b13d-d1c29c899253/) | `trata/snow-2026-06-30-consumption-revenue-growth-durability-and-margin-path` | SNOW, analysis, finance | unregistered | unsealed | - |
+| [`c3d3b5fa-3b4d-5d6b-a9ad-eeb5acb81fd8`](c3d3b5fa-3b4d-5d6b-a9ad-eeb5acb81fd8/) | `trata/ma-2026-06-30-cross-border-volume-durability-and-value-added-services-growth` | MA, analysis, finance | unregistered | unsealed | - |
+| [`c4665352-69f2-5f33-83c0-d94df12f551d`](c4665352-69f2-5f33-83c0-d94df12f551d/) | `trata/dal-2026-06-30-premium-revenue-mix-and-balance-sheet-deleveraging` | DAL, analysis, finance | unregistered | unsealed | - |
+| [`d00e69b2-7991-5bce-a1e9-c8ac98293805`](d00e69b2-7991-5bce-a1e9-c8ac98293805/) | `trata/sbux-2026-06-30-us-traffic-turnaround-and-china-competitive-pressure` | SBUX, analysis, finance | unregistered | unsealed | - |
+| [`d7584806-a716-5c8f-b4e5-5b3bb9c9850a`](d7584806-a716-5c8f-b4e5-5b3bb9c9850a/) | `trata/schw-2026-06-30-deposit-and-net-interest-income-recovery-post-cash-sorting` | SCHW, analysis, finance | unregistered | unsealed | - |
+| [`d7fc8b87-4f6b-5a04-84de-1c1687b85afc`](d7fc8b87-4f6b-5a04-84de-1c1687b85afc/) | `trata/abnb-2026-06-30-growth-durability-and-take-rate-expansion-vs-regulatory-risk` | ABNB, analysis, finance | unregistered | unsealed | - |
+| [`d8e779e1-7139-549d-892f-b27af1811157`](d8e779e1-7139-549d-892f-b27af1811157/) | `trata/tgt-2026-06-30-traffic-recovery-and-operating-margin-normalization` | TGT, analysis, finance | unregistered | unsealed | - |
+| [`eeaef0fa-3c86-5737-9b9a-e8ae3f81d795`](eeaef0fa-3c86-5737-9b9a-e8ae3f81d795/) | `trata/cat-2026-06-30-construction-cycle-and-backlog-durability` | CAT, analysis, finance | unregistered | unsealed | - |
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#131a33","primaryTextColor":"#e8ecff","primaryBorderColor":"#845EF7","lineColor":"#22d3ee","fontFamily":"monospace"}}}%%
+flowchart LR
+    bundle["&lt;uuid&gt;/"]
+    bundle --> n0["task.toml<br/>runner manifest"]
+    bundle --> n1["environment/<br/>agent sandbox image"]
+    bundle --> n2["tests/<br/>verifier, hidden from the agent"]
+    bundle --> n3["Instruction.md"]
+    bundle --> n4["Truth.md"]
+    bundle --> n5["trajectories/"]
 ```
 
-The agent writes its full analysis to **`/app/answer.txt`**, which is the only artifact graded.
-
----
-
-## Where the data comes from
-
-Every corpus is machine-fetched from **primary regulatory sources**. No vendor feeds, no scraped
-analyst content, no LLM-generated documents.
-
-### The four gates
-
-A source is only wired into the pipeline if it passes **all four**:
-
-1. **Free** — no paid subscription (a free-registration key is tolerated, not preferred).
-2. **English** — the filing *text* must be English, because the grader verifies quotes **verbatim**.
-3. **Clean API** — a machine-readable JSON/XBRL endpoint, not a fragile page scrape or a pile of PDFs.
-4. **Point-in-time** — real filing dates, so nothing dated after the cutoff can leak into the corpus.
-
-### Sources in the pipeline
-
-| Region | Source | Tier | Role |
-|---|---|---|---|
-| 🇺🇸 US + global ADRs | **SEC EDGAR + XBRL Company Facts** | structured | The backbone. Every task in this repo. |
-| 🇮🇳 India | **BSE** | text | Keyless route for India-only names; financials best-effort. |
-| 🇭🇰 Hong Kong | **HKEXnews** | text | The English doorway to HK/mainland-Chinese names with no US listing. |
-
-**The insight that shapes the whole pipeline:** a foreign company with a **US listing** files its
-annual report as a **20-F / 40-F / 6-K / F-1 — in English, free, on SEC**. So most large European
-and Asian names are best fetched through SEC, *not* their home regulator. A local source only
-matters for a company with **no** US listing. All 30 tasks in this release are SEC-sourced.
-
-Sources evaluated and rejected — Canada (SEDAR+, CAPTCHA-walled), Australia (ASX, no point-in-time
-fetch), Taiwan (MOPS, Chinese labels + latest-period-only), EU (ESEF, 27 fragmented national
-systems), India NSE (Akamai anti-bot, redundant with BSE), Singapore, UK FCA NSM, and company IR
-pages.
-
-### What SEC gives, and what it doesn't
-
-**Gives:** up to 16 quarters of authoritative XBRL financials (US-GAAP *and* IFRS-tagged foreign
-filers), full 10-K / 10-Q / S-1 text, 8-K EX-99 earnings press releases, and company profiles —
-all with real filing dates.
-
-**Doesn't give, and we don't fake:**
-
-- **No earnings-call transcripts.** SEC has none. This is structural across every free source.
-  Rubric themes are authored so they never require what management said on a call.
-- **No market prices.** Optional yfinance enrichment exists in the fetcher but is not used in
-  this release.
-- **Q4 gaps** — many issuers report Q4 only inside the 10-K, so the quarterly series has holes.
-- **Tables flatten** in HTML→text conversion. Prose reads cleanly; filing tables lose structure.
-  Numbers are therefore taken from the XBRL JSON, not from filing tables.
-
----
-
-## The rubric
-
-`tests/ground_truth.txt` is a preface (concept-match rule, synthesis requirement, grounding rule)
-followed by numbered themes. Each theme carries a one-paragraph thesis, its lettered moves, and
-its `Source:` line:
-
-```text
-2. Billings / RPO / Deferred-Revenue Durability as a Forward-Demand Signal
-Remaining performance obligations grew from $15.8 billion to $18.4 billion, but management
-cautions that RPO and deferred revenue should be viewed independently of GAAP revenue, so
-their durability as a demand signal must be tested rather than assumed.
-[a] Track RPO growth ($15.8B at July 31, 2025 to $18.4B at April 30, 2026) and the near-term
-    recognizable portion (~$7.0B rising to $8.3B over the next 12 months) …
-[b] Cross-check RPO against current and long-term deferred-revenue balances, and separate
-    organically driven backlog from growth pulled forward by financing terms and by M&A.
-[c] Engage the strongest counter-evidence: management's own caveats that these metrics do not
-    represent revenue under U.S. GAAP or a revenue forecast.
-Source: sec_filings/10-k/panw_2025_10-k.txt, sec_filings/10-q/panw_2026q3_10-q.txt, …
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#131a33","primaryTextColor":"#e8ecff","primaryBorderColor":"#845EF7","lineColor":"#22d3ee","fontFamily":"monospace"}}}%%
+flowchart LR
+    staging["staging/"]
+    staging --> samples["samples/<br/>30 of 30"]
+    samples --> delivery["delivery/<br/>0 of 10000"]
+    delivery --> stock["stock/<br/>0 of 10000"]
 ```
 
-Credit is awarded on **concept match, not vocabulary match** — the example phrasing illustrates
-the move; any equivalent framing satisfies it.
+## Verification and quality assurance
 
-Beyond covering the themes, `Instruction.md` requires the agent to take a clear position rather
-than survey both sides, engage the strongest counter-evidence in the data, reconcile conflicting
-data points into a unified conclusion, note ambiguity instead of smoothing it over, and
-**inline-cite the source file behind every claim**. Claims that cannot be grounded in a provided
-file earn no credit.
+Each bundle's signed provenance carrier holds its screening roots, screening instant, and absolute expiry. Placement moves that carrier into the private derivation set, which this page never reads, so reconcile lists no root it cannot verify here.
 
----
+## Reproduction
 
-## Reward
+Each bundle directory is a complete Harbor task: `task.toml` is the runner manifest, `instruction.md` the objective, `environment/` the sandbox image, and `tests/` the verifier. Point a Harbor runner at one bundle directory to reproduce it; `solution/` stays private.
 
-Kang grades long-form prose with no single correct wording, so scoring runs an LLM judge at
-temperature 0, JSON-constrained, against the rubric. Each run records the judge that scored it in
-`verifier/report.json`; the two shipped baselines were graded cross-family, see
-[Baseline results](#baseline-results). The judge runs as **three passes**, so factual grounding
-and analytical coverage are scored separately and then combined:
+## Cite
 
-**1. Grounding.** The grader reconstructs the evidence the agent relied on by loading exactly the
-files it cited, extracts every specific factual claim (figures, quotes, named entities, dates,
-comparisons), and flags any the cited sources don't support. Framings and inferences are fine as
-long as their building blocks are present. The bar is: *did the agent invent a fact.*
-
-**2. Coverage.** For each theme, the judge reports which lettered moves the answer hits by concept
-match. A move whose supporting evidence was flagged in pass 1 is marked **tainted** and does not
-count — so a fabricated figure forfeits only the move it taints, not the whole answer.
-
-**3. Synthesis.** The judge checks for at least one explicit synthesis that reconciles opposing
-data points into a unified conclusion, as opposed to listing considerations in parallel. This
-gates the top score.
-
-### Theme coverage
-
-A theme with `n` moves counts as covered once the agent lands enough **untainted** moves to clear:
-
+```bibtex
+@misc{kangsamples,
+  title = {Kang: samples}
+}
 ```
-tau = max(1, min(n - 1, 3))
-```
-
-The `n - 1` term allows one miss per theme; the cap at `3` keeps move-rich themes from demanding a
-near-perfect hit rate. In this library that means a 3-move theme needs 2, and a 4-move theme
-needs 3.
-
-### Score
-
-Every task in this release has `T = 4` themes. From the number of covered themes `C`:
-
-| `C` covered | 0 | 1 | 2 | 3 | 4 | 4 + synthesis |
-|---|---|---|---|---|---|---|
-| **Dense score** | 0 | 1 | 2 | 2 | 3 | **4** |
-
-Covering 3 of 4 themes scores the same as covering 2: the top two tiers require *all* themes,
-since `Instruction.md` names them outright. Flexibility lives at the move level, inside `tau`.
-That plateau is not hypothetical — `gpt-5.6-sol` on NET covered three themes and missed the
-fourth by a single move (1 untainted of 3, against `tau = 2`), scoring 2.
-
-This table reproduces the recorded `score` for all 60 shipped runs with no exceptions. The one
-cell it has never exercised is `C = 4` without synthesis: synthesis was found in 60/60 runs, so
-no trial has yet scored 3.
-
-The sparse pass/fail signal is derived from the dense score: **a trial passes only at a perfect 4**.
-
-The harness writes the sparse reward to `/logs/verifier/reward.txt` (`1` or `0`) and the full
-breakdown to `/logs/verifier/details.json`.
-
-### Reading `details.json`
-
-| Field | Meaning |
-|---|---|
-| `score` | Dense 0–4. |
-| `sparse_reward` | `1` iff `score == 4`. This is pass@1. |
-| `valid_trial` | `false` when a judge pass returned unparsable output. **Exclude these from any metric** — they are grader failures, not agent failures. |
-| `themes_hit` / `themes_missed` | Per theme: `moves_hit`, `moves_tainted`, `move_reasoning`, `threshold`/`n_moves`. |
-| `unverifiable_claims` | Every claim the grounding pass could not verify, with the file searched and why it was flagged. |
-| `hallucinations_detected` | Whether pass 1 flagged anything. |
-| `synthesis_found` | The quoted synthesis sentence, or `null`. |
-| `cited_files` | The data files the answer actually cited — the exact evidence set pass 1 verified against. |
-
-
-
-Use the dense score for reward shaping during training and pass@1 for evaluation.
-
-## Composition
-
-30 tasks across the recurring topics that define analyst work — valuation, growth durability,
-M&A integration, competitive positioning, operational execution, and risk. All are point-in-time
-as of **2026-06-30**, each with 2–3 named peers whose income statements and cash flows ship in
-the corpus.
-
-**Software, Security & Infrastructure (7)**
-
-| Ticker | Topic |
-|---|---|
-| ADBE | Generative-AI disruption risk vs. the Creative Cloud moat |
-| CRM | Growth deceleration vs. operating-margin expansion |
-| CRWD | Durability of security growth and retention after the 2024 outage |
-| DDOG | Usage-based growth durability and platform competition |
-| NET | Growth durability and operating-leverage inflection |
-| PANW | Platformization strategy and billings/RPO durability |
-| SNOW | Consumption-revenue growth durability and margin path |
-
-**Financials (7)**
-
-| Ticker | Topic |
-|---|---|
-| AXP | Premium-spend durability and credit-cost normalization |
-| BLK | Net flows, fee-rate mix, and the private-markets buildout |
-| COF | Credit normalization and the Discover acquisition integration |
-| KKR | Franchise growth and insurance-driven earnings mix |
-| MA | Cross-border volume durability and value-added-services growth |
-| PYPL | Branded-checkout turnaround and transaction-margin stabilization |
-| SCHW | Deposit and net-interest-income recovery post cash-sorting |
-
-**Consumer & Retail (7)**
-
-| Ticker | Topic |
-|---|---|
-| CMG | Traffic and margin durability against maturing unit growth |
-| COST | Membership-growth durability and margin/fee dynamics |
-| DECK | HOKA and UGG growth durability and brand concentration |
-| DPZ | Same-store-sales recovery and unit-growth durability |
-| LOW | Comparable-sales recovery and Pro penetration vs. Home Depot |
-| SBUX | US traffic turnaround and China competitive pressure |
-| TGT | Traffic recovery and operating-margin normalization |
-
-**Industrials, Aerospace & Transport (6)**
-
-| Ticker | Topic |
-|---|---|
-| BA | Recovery credibility, cash burn, and 737/787 execution |
-| CAT | Construction cycle and backlog durability |
-| DAL | Premium-revenue mix and balance-sheet deleveraging |
-| DE | Ag-cycle downturn severity and precision-agriculture durability |
-| RTX | Commercial-aftermarket recovery vs. the GTF powder-metal charge |
-| UAL | Unit-revenue and margin durability against capacity growth |
-
-**Internet & Marketplaces (2)**
-
-| Ticker | Topic |
-|---|---|
-| ABNB | Growth durability and take-rate expansion vs. regulatory risk |
-| DASH | Margin inflection and new-vertical expansion durability |
-
-**Healthcare (1)**
-
-| Ticker | Topic |
-|---|---|
-| REGN | Eylea competitive erosion and pipeline offset |
-
----
-
-## Baseline results
-
-Two recorded trials per task ship, one under `<uuid>/trajectories/claude-opus-4-8/run_1/` and one
-under `<uuid>/trajectories/gpt-5.6-sol/run_1/`, each including the agent's `answer.txt`, its full
-tool trajectory, the judge's raw output, and the grader's `details.json`.
-
-**The two arms were graded by different judges, swapped.** Each agent was scored by the other
-model, so neither run is self-graded:
-
-| Agent | Judge | Recorded in |
-|---|---|---|
-| `claude-opus-4-8` | `codex:gpt-5.6-sol` | `verifier/report.json` → `meta.judge_model`, and `verifier/test-stdout.txt` |
-| `gpt-5.6-sol` | `anthropic:claude-opus-4-8` | `verifier/report.json` → `meta.judge_model`, and `verifier/test-stdout.txt` |
-
-Both arms carry `judge_default_fallback: false`, so the judge was selected explicitly in each
-case. This buys independence from self-grading bias, but it costs comparability: the two columns
-below differ in *both* the agent and the grader, so no single number isolates either one.
-
-Across all 30 tasks, `k=1`:
-
-| | `claude-opus-4-8` | `gpt-5.6-sol` |
-|---|---|---|
-| Dense 0 / 1 / 2 / 3 / 4 | 22 / 6 / 2 / 0 / 0 | 0 / 0 / 2 / 0 / 28 |
-| Mean dense score | 0.33 | **3.87** |
-| **pass@1** | **0 / 30** | **28 / 30** |
-| Synthesis gate cleared | 30 / 30 | 30 / 30 |
-| `valid_trial` | 30 / 30 | 30 / 30 |
-| Median claims flagged | 48.5 (range 12–84) | **4.0** (range 1–12) |
-| Moves credited | 230 | 363 |
-| Moves tainted | 181 (**78.7%**) | 17 (**4.7%**) |
-| Environments with zero grounded moves | 6 | 0 |
-
-`gpt-5.6-sol` under a Claude judge clears the environment on 28 of 30 tasks, missing only NET and
-CAT at a dense score of 2. `claude-opus-4-8` under a GPT judge clears none.
-
-**The gap runs through the grounding pass — but its cause is not identified.** Both arms cleared
-the synthesis gate 30/30, so synthesis is not the binding constraint in either. `claude-opus-4-8`
-was credited 230 moves on concept match, enough to pass repeatedly had they survived; 181 were
-tainted. The entire difference is carried by how many claims each grounding pass refused to
-verify — a median of 48.5 versus 4.0.
-
-Measured against the 375 lettered moves in the library, that is the distance between what a
-grader stopping at concept match would credit and what actually survives verification:
-
-![What concept matching credits against what survives grounding, per arm. claude-opus-4-8 is credited 61.3% of the rubric's moves on concept match but retains 13.1% after the grounding pass; gpt-5.6-sol goes from 96.8% to 92.3%.](./assets/fig1-grounding-discrimination--light.png)
-
-Because the judges were swapped, that 12× spread has two candidate explanations and this data
-cannot separate them:
-
-1. `gpt-5.6-sol` grounds its claims better. It cites a median of 10 files per answer against 14
-   and writes slightly shorter answers (15.2 KB vs 18.2 KB median), so it asserts fewer
-   unsupported specifics and gives the judge a smaller haystack.
-2. `claude-opus-4-8` is the more lenient judge. Its grounding pass flagged a median of 4 claims;
-   the `gpt-5.6-sol` judge flagged 48.5.
-
-Both are consistent with every number in the table. Isolating either one requires holding the
-judge fixed across both agents, or running a third-family judge over both arms — neither of which
-ships here. **Do not read this table as a model ranking.**
-
-### The `claude-opus-4-8` baseline in detail
-
-Tainting is not evenly distributed across the run. Six environments — NET, SBUX, AXP, CAT, BLK and
-CRWD — retained **zero** grounded moves: every move the coverage pass credited was tainted by the
-grounding pass. NET is the extreme case, 12 moves credited and 12 tainted.
-
-By SIC division (the `sic` field in each task's `company_profiles.json`, not the editorial
-groupings under Composition above), mean dense score was 0.50 for Services and for Transportation
-& Utilities, 0.40 Retail Trade, 0.20 Finance & Insurance, 0.14 Manufacturing and 0.00 Wholesale
-Trade. No division clears 0.50, and the per-division counts are small — Wholesale Trade is one
-task, Transportation & Utilities two — so the ordering is descriptive, not a difficulty ranking.
-The same breakdown for `gpt-5.6-sol` is flat at the ceiling (4.00 in four divisions, 3.80 Services,
-3.71 Manufacturing) and separates nothing.
-
-### Difficulty spread and headroom
-
-Dense score is a coarse instrument — five values, and a plateau across `C = 2` and `C = 3`. A
-finer read of where the library still has room comes from the **grounded-move rate**: the share of
-a task's lettered moves an agent both lands on concept match *and* grounds. Ranking the 30
-environments by the two-arm mean of that rate and cutting them into five tiers of six:
-
-![Mean grounded-move rate by difficulty tier for both baselines. claude-opus-4-8 falls monotonically from 0.33 at Trivial to 0.03 at Expert; gpt-5.6-sol stays between 0.93 and 0.97 through Hard before dropping to 0.82 at Expert; the combined mean declines from 0.63 to 0.42.](./assets/fig2-tier-decay--light.png)
-
-The combined line falls by construction — the ranking is built from it — so the tiers are a lens
-on the *shape* of each arm, not evidence that the ordering is real difficulty. Inside that
-ordering the two arms behave differently: `claude-opus-4-8` decays monotonically, 0.33 to 0.03,
-while `gpt-5.6-sol` holds within four points of its ceiling through Hard and only gives way at
-Expert, 0.93 to 0.82. On this sample the top sixth is the only tier that still separates a
-saturated arm.
-
-Per environment, against a golden 1.0 where every move is landed and grounded:
-
-![Per-environment grounded-move rate for both baselines, 30 environments ranked easiest to hardest and shaded into five difficulty tiers, against a golden 1.0 reference line. The combined mean spans 0.67 at DAL down to 0.31 at CAT.](./assets/fig3-calibration-band--light.png)
-
-The band spans DAL at 0.67 combined down to CAT at 0.31. No environment in the sample is solved
-outright by both arms, and none is out of reach for both, so the library discriminates across its
-full range rather than bunching at a floor or a ceiling.
-
-Both figures pool two arms graded by *different* judges, so the tier boundaries inherit the
-confound described above. Treat them as the spread of this sample under these two judge
-assignments, not as an agent-independent difficulty scale.
-
----
-
 
 ## License
 
 Released under the MIT License. Copyright (c) 2026 Ethara.AI. See [LICENSE](LICENSE).
+
+## Contact
+
+[Ethara AI on GitHub](https://github.com/Ethara-Ai), [SECURITY.md](SECURITY.md) for a private report, and [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution route.
